@@ -1,6 +1,7 @@
 import json
 import os
 import shutil
+import stat
 import sys
 from datetime import datetime
 from pathlib import Path
@@ -13,6 +14,14 @@ DIST_DIR = Path("Dashboard/public/data/dist")
 DIST_NEW_DIR = Path("Dashboard/public/data/dist.new")
 TZ_BSAS = ZoneInfo("America/Argentina/Buenos_Aires")
 FORBIDDEN_COLS = {"dni", "documento", "document"}
+
+
+def _rmtree_force(path: Path) -> None:
+    # Windows: files/dirs may have read-only attribute; chmod before each delete
+    def _on_error(func, fpath, exc_info):
+        os.chmod(fpath, stat.S_IWRITE)
+        func(fpath)
+    shutil.rmtree(str(path), onerror=_on_error)
 
 
 def run_linter(df: pl.DataFrame) -> None:
@@ -31,14 +40,14 @@ def prepare_records(df: pl.DataFrame) -> list[dict]:
 def write_atomic(records: list[dict], timestamp_str: str) -> None:
     DIST_NEW_DIR.parent.mkdir(parents=True, exist_ok=True)
     if DIST_NEW_DIR.exists():
-        shutil.rmtree(DIST_NEW_DIR)
+        _rmtree_force(DIST_NEW_DIR)
     DIST_NEW_DIR.mkdir()
     with open(DIST_NEW_DIR / "entregas.json", "w", encoding="utf-8") as f:
         f.write(json.dumps(records, ensure_ascii=False, indent=2))
     with open(DIST_NEW_DIR / "meta.json", "w", encoding="utf-8") as f:
         f.write(json.dumps({"timestamp": timestamp_str, "total": len(records)}, ensure_ascii=False, indent=2))
     if DIST_DIR.exists():
-        shutil.rmtree(DIST_DIR)
+        _rmtree_force(DIST_DIR)
     DIST_NEW_DIR.rename(DIST_DIR)
 
 
