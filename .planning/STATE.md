@@ -73,6 +73,6 @@ See: .planning/PROJECT.md
 
 ## Session Continuity
 
-**Last session:** 2026-06-02 — Phase 3 complete (Vite 8 + React 19 + react-leaflet v5 SPA built and visually verified)
-**Resume file:** .planning/phases/03-react-spa/03-VERIFICATION.md
-**Next action:** `/gsd-discuss-phase 4` or `/gsd-plan-phase 4` — deploy to Vercel
+**Last session:** 2026-06-02 — Phase 4 context gathered (deploy.sh full pipeline, vercel link once, vercel.json catch-all)
+**Resume file:** .planning/phases/04-deploy/04-CONTEXT.md
+**Next action:** `/gsd-plan-phase 4` — plan Vercel deploy
