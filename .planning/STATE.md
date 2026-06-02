@@ -5,7 +5,7 @@ See: .planning/PROJECT.md
 
 **Core value:** Que cualquier operador pueda ver en un mapa dónde se entregaron kits y cuántas entregas hubo por comuna, en base a datos reales del formulario Kobo.
 **Current phase:** Phase 4 — Deploy
-**Status:** Ready to plan
+**Status:** Ready to execute
 
 ---
 
@@ -18,7 +18,7 @@ See: .planning/PROJECT.md
 | 3 | React SPA | Complete (2026-06-02) |
 | 4 | Deploy | Not started |
 
-**Progress:** [######----] 75% (3/4 phases complete)
+**Progress:** [#######---] 78% (3/4 phases complete, Phase 4 in progress — 1/2 plans done)
 
 ---
 
@@ -39,6 +39,8 @@ See: .planning/PROJECT.md
 - React + TS para mapa: misma stack que Kobo Intervenciones, reutilizar patrones
 - SHA-256 + salt por registro (os.urandom(16)): dato sensible, no salt global (brute-forceable con ~40M DNIs argentinos)
 - Comunas como GeoJSON: formato nativo para Leaflet, más simple que SHP en frontend
+- No framework hint in vercel.json -- Vercel auto-detects Vite from package.json; avoids conflict with vercel link
+- Subshell (cd Dashboard && ...) for npm/vercel steps -- caller working directory unchanged after deploy.sh returns
 
 ### Critical Pitfalls (from research)
 - KoBoToolbox pagination default is 100 records since March 2026 — must use `while url:` loop following `data["next"]`
@@ -73,6 +75,6 @@ See: .planning/PROJECT.md
 
 ## Session Continuity
 
-**Last session:** 2026-06-02 — Phase 4 context gathered (deploy.sh full pipeline, vercel link once, vercel.json catch-all)
-**Resume file:** .planning/phases/04-deploy/04-CONTEXT.md
-**Next action:** `/gsd-plan-phase 4` — plan Vercel deploy
+**Last session:** 2026-06-02 — Phase 4 Plan 01 executed (vercel.json + deploy.sh full pipeline)
+**Resume file:** .planning/phases/04-deploy/04-02-PLAN.md
+**Next action:** Execute Phase 4 Plan 02 — first-time vercel link setup + end-to-end deploy smoke test (human checkpoint)

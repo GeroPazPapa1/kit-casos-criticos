@@ -92,7 +92,14 @@ Cross-cutting constraints:
 **Success criteria**:
 1. Running `bash deploy.sh` from the project root completes without manual intervention and outputs a live Vercel URL
 2. Navigating directly to any route under the Vercel URL (e.g. `/map`) returns the SPA index — not a 404
-**Plans**: TBD
+**Plans**: 2 plans
+
+Plans:
+- [x] 04-01-PLAN.md — Create Dashboard/vercel.json (catch-all rewrite) + extend deploy.sh to full pipeline
+- [ ] 04-02-PLAN.md — First-time vercel link setup + end-to-end deploy smoke test
+
+**Wave 1** — 04-01: code changes (autonomous)
+**Wave 2** *(blocked on Wave 1)* — 04-02: vercel link + live deploy verification (human)
 
 ---
 
@@ -102,5 +109,5 @@ Cross-cutting constraints:
 |-------|----------------|--------|-----------|
 | 1. Python Pipeline | 2/2 | Complete | 2026-06-01 |
 | 2. JSON Exporter | 2/2 | Complete | 2026-06-01 |
-| 3. React SPA | 0/4 | Not started | - |
-| 4. Deploy | 0/? | Not started | - |
+| 3. React SPA | 4/4 | Complete | 2026-06-02 |
+| 4. Deploy | 1/2 | In progress | - |
