@@ -8,8 +8,10 @@ interface HeaderProps {
   timestamp: string  // ISO 8601 string with -03:00 offset
 }
 
-const formatTimestamp = (iso: string): string =>
-  new Date(iso).toLocaleString('es-AR', {
+const formatTimestamp = (iso: string): string => {
+  const d = new Date(iso)
+  if (isNaN(d.getTime())) return '—'
+  return d.toLocaleString('es-AR', {
     day: '2-digit',
     month: '2-digit',
     year: 'numeric',
@@ -17,6 +19,7 @@ const formatTimestamp = (iso: string): string =>
     minute: '2-digit',
     timeZone: 'America/Argentina/Buenos_Aires',
   })
+}
 
 export const Header = ({ total, timestamp }: HeaderProps) => (
   <header className="bg-slate-800 border-b border-slate-700 px-4 py-2 flex flex-wrap items-center gap-x-4 gap-y-1 flex-shrink-0">
