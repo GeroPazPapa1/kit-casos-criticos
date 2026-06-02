@@ -67,9 +67,9 @@ export const MapView = ({ entregas }: MapViewProps) => {
           {entregas.map(e => (
             <Marker key={e.id} position={[e.lat, e.lon]}>
               <Popup>
-                {/* Popup content uses React text nodes only — no dangerouslySetInnerHTML.
-                    React auto-escapes all string values, preventing XSS from data fields.
-                    SECURITY: do not add e.dni_hash or e.submission_time here. */}
+                {/* Popup content uses React text nodes only (no raw HTML injection).
+                 * React auto-escapes all string values, preventing XSS from data fields.
+                 * SECURITY: do not add the hash field or submission_time here. */}
                 <div className="p-2 text-slate-900 text-xs space-y-0.5">
                   <div>
                     <span className="text-slate-500">Nombre </span>
