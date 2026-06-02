@@ -20,6 +20,7 @@ export const useEntregas = (): State => {
       fetchJson<Meta>(`${BASE}/meta.json`),
     ])
       .then(([entregas, meta]) => {
+        if (!Array.isArray(entregas)) throw new Error('entregas.json is not an array')
         if (!cancelled) setState({ status: 'ok', entregas, meta })
       })
       .catch((err: unknown) => {
