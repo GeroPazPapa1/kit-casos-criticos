@@ -29,10 +29,20 @@ function App() {
   // state.status === 'ok' — TypeScript narrows: state.entregas and state.meta are defined
   const { entregas, meta } = state
 
+  // Filter out records with invalid coordinates before passing to Leaflet.
+  // Leaflet requires lat in [-90, 90] and lon in [-180, 180]; NaN or out-of-range
+  // values from KoBoToolbox GPS fields cause broken or misplaced markers.
+  const validEntregas = entregas.filter(
+    e =>
+      isFinite(e.lat) && isFinite(e.lon) &&
+      e.lat >= -90 && e.lat <= 90 &&
+      e.lon >= -180 && e.lon <= 180,
+  )
+
   return (
     <div className="flex flex-col h-screen bg-slate-900 overflow-hidden">
       <Header total={meta.total} timestamp={meta.timestamp} />
-      <MapView entregas={entregas} />
+      <MapView entregas={validEntregas} />
     </div>
   )
 }
