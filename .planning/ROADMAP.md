@@ -10,7 +10,7 @@
 
 - [x] **Phase 1: Python Pipeline** - Extract KoBoToolbox records, parse coordinates, hash DNI, write Parquet — Complete 2026-06-01
 - [x] **Phase 2: JSON Exporter** - Read Parquet, run DNI linter, atomically write entregas.json + meta.json — Complete 2026-06-01
-- [ ] **Phase 3: React SPA** - Leaflet map with commune boundaries, delivery markers, popups, mobile layout
+- [x] **Phase 3: React SPA** - Leaflet map with commune boundaries, delivery markers, popups, mobile layout — Complete 2026-06-02
 - [ ] **Phase 4: Deploy** - deploy.sh one-command deploy to Vercel with SPA routing rewrite
 
 ---
@@ -70,15 +70,20 @@ Plans:
 **UI hint**: yes
 
 Plans:
-- [ ] 03-01-PLAN.md — Vite scaffold + deps install + Tailwind v3 config + vite.config.ts + Comunas.json copy
-- [ ] 03-02-PLAN.md — TypeScript types (domain.ts, meta.ts) + api.ts + useEntregas hook
-- [ ] 03-03-PLAN.md — main.tsx (CSS imports, icon fix) + App.tsx + Header.tsx + MapView.tsx
-- [ ] 03-04-PLAN.md — Automated gates (7 checks) + human visual verification checkpoint
+- [x] 03-01-PLAN.md — Vite scaffold + deps install + Tailwind v3 config + vite.config.ts + Comunas.json copy
+- [x] 03-02-PLAN.md — TypeScript types (domain.ts, meta.ts) + api.ts + useEntregas hook
+- [x] 03-03-PLAN.md — main.tsx (CSS imports, icon fix) + App.tsx + Header.tsx + MapView.tsx
+- [x] 03-04-PLAN.md — Automated gates (7 checks) + human visual verification checkpoint
 
 **Wave 1** — 03-01: scaffold and toolchain
 **Wave 2** *(blocked on Wave 1)* — 03-02: types and data layer
 **Wave 3** *(blocked on Wave 2)* — 03-03: UI components
 **Wave 4** *(blocked on Wave 3)* — 03-04: verification and human sign-off
+
+Cross-cutting constraints:
+- `dni_hash` must NOT appear in any popup JSX (privacy gate, ASVS L1)
+- Three CSS imports required in main.tsx: leaflet, MarkerCluster, MarkerCluster.Default (in that order)
+- Tailwind must be pinned to @3: `npm install -D tailwindcss@3 postcss autoprefixer`
 
 ### Phase 4: Deploy
 **Goal**: Any team member can push the dashboard to production with a single command and reach it via a stable Vercel URL without 404 errors on direct navigation.

@@ -4,7 +4,7 @@
 See: .planning/PROJECT.md
 
 **Core value:** Que cualquier operador pueda ver en un mapa dónde se entregaron kits y cuántas entregas hubo por comuna, en base a datos reales del formulario Kobo.
-**Current phase:** Phase 3 — React SPA
+**Current phase:** Phase 4 — Deploy
 **Status:** Ready to plan
 
 ---
@@ -15,10 +15,10 @@ See: .planning/PROJECT.md
 |-------|------|--------|
 | 1 | Python Pipeline | Complete (2026-06-01) |
 | 2 | JSON Exporter | Complete (2026-06-01) |
-| 3 | React SPA | Not started |
+| 3 | React SPA | Complete (2026-06-02) |
 | 4 | Deploy | Not started |
 
-**Progress:** [####------] 50% (2/4 phases complete)
+**Progress:** [######----] 75% (3/4 phases complete)
 
 ---
 
@@ -26,9 +26,9 @@ See: .planning/PROJECT.md
 
 | Metric | Value |
 |--------|-------|
-| Phases complete | 2/4 |
+| Phases complete | 3/4 |
 | Requirements mapped | 17/17 |
-| Plans complete | 4/4 (Phases 1–2 complete) |
+| Plans complete | 4/4 (Phases 1–2) + 4 planned (Phase 3) |
 
 ---
 
@@ -73,6 +73,6 @@ See: .planning/PROJECT.md
 
 ## Session Continuity
 
-**Last session:** 2026-06-01 — Phase 3 context gathered (react-leaflet-cluster, static commune polygons, CARTO dark, single-page no router)
-**Resume file:** .planning/phases/03-react-spa/03-CONTEXT.md
-**Next action:** `/gsd-plan-phase 3` — plan React SPA implementation
+**Last session:** 2026-06-02 — Phase 3 complete (Vite 8 + React 19 + react-leaflet v5 SPA built and visually verified)
+**Resume file:** .planning/phases/03-react-spa/03-VERIFICATION.md
+**Next action:** `/gsd-discuss-phase 4` or `/gsd-plan-phase 4` — deploy to Vercel
