@@ -11,7 +11,7 @@
 - [x] **Phase 1: Python Pipeline** - Extract KoBoToolbox records, parse coordinates, hash DNI, write Parquet — Complete 2026-06-01
 - [x] **Phase 2: JSON Exporter** - Read Parquet, run DNI linter, atomically write entregas.json + meta.json — Complete 2026-06-01
 - [x] **Phase 3: React SPA** - Leaflet map with commune boundaries, delivery markers, popups, mobile layout — Complete 2026-06-02
-- [ ] **Phase 4: Deploy** - deploy.sh one-command deploy to Vercel with SPA routing rewrite
+- [x] **Phase 4: Deploy** - deploy.sh one-command deploy to Vercel with SPA routing rewrite — Complete 2026-06-02
 
 ---
 
@@ -96,7 +96,7 @@ Cross-cutting constraints:
 
 Plans:
 - [x] 04-01-PLAN.md — Create Dashboard/vercel.json (catch-all rewrite) + extend deploy.sh to full pipeline
-- [ ] 04-02-PLAN.md — First-time vercel link setup + end-to-end deploy smoke test
+- [x] 04-02-PLAN.md — First-time vercel link setup + end-to-end deploy smoke test
 
 **Wave 1** — 04-01: code changes (autonomous)
 **Wave 2** *(blocked on Wave 1)* — 04-02: vercel link + live deploy verification (human)
@@ -110,4 +110,4 @@ Plans:
 | 1. Python Pipeline | 2/2 | Complete | 2026-06-01 |
 | 2. JSON Exporter | 2/2 | Complete | 2026-06-01 |
 | 3. React SPA | 4/4 | Complete | 2026-06-02 |
-| 4. Deploy | 1/2 | In progress | - |
+| 4. Deploy | 2/2 | Complete | 2026-06-02 |

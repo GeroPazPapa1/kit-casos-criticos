@@ -5,7 +5,7 @@ See: .planning/PROJECT.md
 
 **Core value:** Que cualquier operador pueda ver en un mapa dónde se entregaron kits y cuántas entregas hubo por comuna, en base a datos reales del formulario Kobo.
 **Current phase:** Phase 4 — Deploy
-**Status:** Ready to execute
+**Status:** Complete
 
 ---
 
@@ -16,9 +16,9 @@ See: .planning/PROJECT.md
 | 1 | Python Pipeline | Complete (2026-06-01) |
 | 2 | JSON Exporter | Complete (2026-06-01) |
 | 3 | React SPA | Complete (2026-06-02) |
-| 4 | Deploy | Not started |
+| 4 | Deploy | Complete (2026-06-02) |
 
-**Progress:** [#######---] 78% (3/4 phases complete, Phase 4 in progress — 1/2 plans done)
+**Progress:** [##########] 100% (4/4 phases complete)
 
 ---
 
@@ -26,7 +26,7 @@ See: .planning/PROJECT.md
 
 | Metric | Value |
 |--------|-------|
-| Phases complete | 3/4 |
+| Phases complete | 4/4 |
 | Requirements mapped | 17/17 |
 | Plans complete | 4/4 (Phases 1–2) + 4 planned (Phase 3) |
 
@@ -75,6 +75,6 @@ See: .planning/PROJECT.md
 
 ## Session Continuity
 
-**Last session:** 2026-06-02 — Phase 4 Plan 01 executed (vercel.json + deploy.sh full pipeline)
-**Resume file:** .planning/phases/04-deploy/04-02-PLAN.md
-**Next action:** Execute Phase 4 Plan 02 — first-time vercel link setup + end-to-end deploy smoke test (human checkpoint)
+**Last session:** 2026-06-02 — Phase 4 complete. vercel link done, bash deploy.sh end-to-end confirmed, https://op-frio.vercel.app live.
+**Resume file:** (none — milestone v1.0 complete)
+**Next action:** Milestone v1.0 shipped. Run /gsd-complete-milestone or begin v1.1 planning.
