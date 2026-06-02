@@ -31,20 +31,32 @@ interface MapViewProps {
 
 export const MapView = ({ entregas }: MapViewProps) => {
   const [comunas, setComunas] = useState<GeoJsonObject | null>(null)
+  const [comunasError, setComunasError] = useState<boolean>(false)
 
   useEffect(() => {
     // Runtime fetch — ~200KB GeoJSON is too large to bundle; served from public/comunas/
     fetch('/comunas/Comunas.json')
-      .then(r => r.json())
+      .then(r => {
+        if (!r.ok) throw new Error(`${r.status} fetching Comunas.json`)
+        return r.json()
+      })
       .then((data: GeoJsonObject) => setComunas(data))
-      .catch(console.error)
+      .catch(err => {
+        console.error(err)
+        setComunasError(true)
+      })
   }, [])
 
   return (
     // flex-1: fills remaining viewport height after Header.
     // min-h-0: overrides flex default min-height:auto — without this the map div
     // may collapse to 0 height on some browsers.
-    <div className="flex-1 min-h-0">
+    <div className="flex-1 min-h-0 relative">
+      {comunasError && (
+        <div className="absolute top-2 left-1/2 -translate-x-1/2 z-[1000] bg-red-800 text-white text-xs px-3 py-1 rounded shadow pointer-events-none">
+          No se pudieron cargar los límites de comunas
+        </div>
+      )}
       <MapContainer
         center={[-34.61, -58.44]}
         zoom={12}
