@@ -3,7 +3,7 @@ import { fetchJson } from '@/lib/api'
 import type { Entrega } from '@/types/domain'
 import type { Meta } from '@/types/meta'
 
-const BASE = '/data/dist'
+const BASE = './data/dist'
 
 type State =
   | { status: 'loading' }
