@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react'
 
-const BASE = './data/dist'
+const BASE = '/data/dist'
 
 type CasoCritico = Record<string, unknown>
 
