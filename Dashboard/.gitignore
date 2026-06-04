@@ -1,5 +1,8 @@
 node_modules/
 dist/
+# Allow static data for Vercel deploy
+!public/data/
+!public/data/**
 .env
 .env.local
 

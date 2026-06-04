@@ -74,7 +74,12 @@ def write_atomic(records: list[dict], timestamp_str: str) -> None:
     if DIST_DIR.exists():
         DIST_DIR.rename(dist_old)
     DIST_NEW_DIR.rename(DIST_DIR)
+    # Preserve files owned by other pipelines (e.g. casos_criticos.json)
+    _OWNED = {"entregas.json", "meta.json"}
     if dist_old.exists():
+        for extra in dist_old.iterdir():
+            if extra.name not in _OWNED:
+                shutil.copy2(extra, DIST_DIR / extra.name)
         _rmtree_force(dist_old)
 
 
