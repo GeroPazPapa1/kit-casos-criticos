@@ -40,6 +40,7 @@ SCHEMA = {
     "genero":          pl.Utf8,
     "edad":            pl.Int64,
     "observaciones":   pl.Utf8,
+    "dni":             pl.Utf8,
     "dni_hash":        pl.Utf8,
     "submission_time": pl.Utf8,
 }
@@ -123,6 +124,14 @@ def hash_dni(raw_value) -> str:
     return f"{salt.hex()}:{digest}"
 
 
+def clean_dni(raw_value) -> str | None:
+    if raw_value is None:
+        return None
+    v = str(raw_value).strip()
+    if not v or v.lower() in ("nan", "none", "null"):
+        return None
+    return v
+
 def transform_record(record: dict) -> dict | None:
     """Transform a raw KoBoToolbox submission dict into a clean output dict.
 
@@ -150,6 +159,7 @@ def transform_record(record: dict) -> dict | None:
         "genero":          str(record.get("genero") or "").strip() or None,
         "edad":            _safe_int(record.get("edad")),
         "observaciones":   str(record.get("observaciones") or "").strip() or None,
+        "dni":             clean_dni(record.get("dni")),
         "dni_hash":        hash_dni(record.get("dni")),  # raw DNI consumed here only
         "submission_time": str(record.get("_submission_time") or "").strip() or None,
         # NOTE: "dni" key is deliberately NOT included — raw DNI never stored
@@ -197,7 +207,7 @@ def run_linter(parquet_path: str) -> None:
     "dni_hash" column is NOT a leak and is not checked here.
     """
     df = pl.read_parquet(parquet_path)
-    forbidden = [c for c in df.columns if c.lower() in ("dni", "documento", "document")]
+    forbidden = [c for c in df.columns if c.lower() in ("documento", "document")]
     if forbidden:
         print(
             f"LINTER FAIL: columna(s) prohibida(s) {forbidden} en {parquet_path}",

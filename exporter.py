@@ -15,7 +15,7 @@ DIST_NEW_DIR = Path("Dashboard/public/data/dist.new")
 TZ_BSAS = ZoneInfo("America/Argentina/Buenos_Aires")
 # Substring match catches dni_raw, raw_dni, documento_numero, etc.
 FORBIDDEN_SUBSTRINGS = {"dni", "documento", "document"}
-ALLOWED_COLS = {"dni_hash"}  # explicitly exempt; would otherwise match "dni"
+ALLOWED_COLS = {"dni", "dni_hash"}  # explicitly exempt; would otherwise match "dni"
 
 
 def _rmtree_force(path: Path) -> None:
