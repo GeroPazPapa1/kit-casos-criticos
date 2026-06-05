@@ -27,9 +27,10 @@ const COMMUNE_STYLE = {
 
 interface MapViewProps {
   entregas: Entrega[]
+  className?: string
 }
 
-export const MapView = ({ entregas }: MapViewProps) => {
+export const MapView = ({ entregas, className = 'flex-1 min-h-0' }: MapViewProps) => {
   const [comunas, setComunas] = useState<GeoJsonObject | null>(null)
   const [comunasError, setComunasError] = useState<boolean>(false)
 
@@ -51,7 +52,7 @@ export const MapView = ({ entregas }: MapViewProps) => {
     // flex-1: fills remaining viewport height after Header.
     // min-h-0: overrides flex default min-height:auto — without this the map div
     // may collapse to 0 height on some browsers.
-    <div className="flex-1 min-h-0 relative">
+    <div className={`${className} relative`}>
       {comunasError && (
         <div className="absolute top-2 left-1/2 -translate-x-1/2 z-[1000] bg-red-800 text-white text-xs px-3 py-1 rounded shadow pointer-events-none">
           No se pudieron cargar los límites de comunas

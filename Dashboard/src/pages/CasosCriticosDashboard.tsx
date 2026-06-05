@@ -1,4 +1,5 @@
 import { useCasosCriticos } from '@/hooks/useCasosCriticos'
+import { MapView } from '@/components/MapView'
 
 export function CasosCriticosDashboard() {
   const state = useCasosCriticos()
@@ -22,7 +23,7 @@ export function CasosCriticosDashboard() {
   const { casos, meta } = state
 
   return (
-    <div className="flex flex-col h-full bg-slate-900 text-white overflow-hidden">
+    <div className="flex flex-col min-h-screen bg-slate-900 text-white">
       <header className="bg-slate-800 border-b border-slate-700 px-4 py-3 flex-shrink-0">
         <h1 className="text-sm font-semibold">Casos Críticos Sanitarios</h1>
         <p className="text-xs text-slate-400">
@@ -60,7 +61,7 @@ export function CasosCriticosDashboard() {
         </p>
       </section>
 
-      <section className="p-4 bg-slate-900 flex-1 min-h-0 overflow-auto">
+      <section className="p-4 bg-slate-900 flex-shrink-0">
         <div className="bg-slate-800 rounded-lg border border-slate-700 overflow-hidden">
           <div className="px-4 py-3 border-b border-slate-700">
             <h2 className="text-white text-sm font-semibold">Detalle de casos críticos</h2>
@@ -75,6 +76,17 @@ export function CasosCriticosDashboard() {
               : 'Hay registros cargados. Próximo paso: mapear columnas y construir la tabla.'}
           </div>
         </div>
+      </section>
+
+      <section className="p-4 bg-slate-900">
+        <div className="mb-2">
+          <h2 className="text-white text-sm font-semibold">Mapa de casos críticos</h2>
+          <p className="text-slate-400 text-xs">
+            Los puntos aparecerán cuando el ETL transforme las coordenadas del formulario a latitud y longitud.
+          </p>
+        </div>
+
+        <MapView entregas={[]} className="h-[600px] flex-shrink-0 rounded-lg overflow-hidden" />
       </section>
     </div>
   )

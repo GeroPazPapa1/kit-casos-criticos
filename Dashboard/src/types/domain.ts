@@ -12,6 +12,7 @@ export interface Entrega {
   genero: string | null
   edad: number | null
   observaciones: string | null
+  dni: string | null
   dni_hash: string        // Phase 2 D-03 — always hashed, NEVER render in UI
   submission_time: string | null  // Phase 2 D-04 — omitted from popup in v1
 }

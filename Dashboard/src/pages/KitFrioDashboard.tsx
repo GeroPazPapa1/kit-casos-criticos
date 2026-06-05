@@ -3,9 +3,12 @@ import { useEntregas } from '@/hooks/useEntregas'
 import { Header } from '@/components/Header'
 import { MapView } from '@/components/MapView'
 
+const normalizarDni = (valor: string) => valor.replace(/\D/g, '')
+
 export function KitFrioDashboard() {
   const state = useEntregas()
   const [fechaFiltro, setFechaFiltro] = useState('')
+  const [dniFiltro, setDniFiltro] = useState('')
 
   if (state.status === 'loading') {
     return (
@@ -24,16 +27,27 @@ export function KitFrioDashboard() {
   }
 
   const { entregas, meta } = state
-const entregasFiltradas = entregas.filter(e => {
-  if (!fechaFiltro) return true
-  if (!e.submission_time) return false
 
-  const fechaEntrega = new Date(e.submission_time)
-    .toISOString()
-    .slice(0, 10)
+  const entregasFiltradas = entregas.filter(e => {
+    const cumpleFecha = (() => {
+      if (!fechaFiltro) return true
+      if (!e.submission_time) return false
 
-  return fechaEntrega === fechaFiltro
-})
+      const fechaEntrega = new Date(e.submission_time)
+        .toISOString()
+        .slice(0, 10)
+
+      return fechaEntrega === fechaFiltro
+    })()
+
+    const dniBuscado = normalizarDni(dniFiltro)
+    const dniRegistro = normalizarDni(e.dni ?? '')
+
+    const cumpleDni = !dniBuscado || dniRegistro.includes(dniBuscado)
+
+    return cumpleFecha && cumpleDni
+  })
+
   const validEntregas = entregasFiltradas.filter(
     e =>
       isFinite(e.lat) &&
@@ -45,7 +59,7 @@ const entregasFiltradas = entregas.filter(e => {
   )
 
   return (
-    <div className="flex flex-col h-screen bg-slate-900 overflow-hidden">
+    <div className="flex flex-col min-h-screen bg-slate-900">
       <Header total={meta.total} timestamp={meta.timestamp} />
 
       {/* KPIs */}
@@ -67,29 +81,47 @@ const entregasFiltradas = entregas.filter(e => {
           </div>
         </div>
       </section>
-{/* Filtros */}
-<section className="bg-slate-800 border-b border-slate-700 p-4 flex-shrink-0">
-  <div className="flex flex-wrap items-end gap-4">
-    <div>
-      <label className="block text-slate-400 text-xs uppercase mb-1">
-        Fecha
-      </label>
-      <input
-        type="date"
-        value={fechaFiltro}
-        onChange={e => setFechaFiltro(e.target.value)}
-        className="bg-slate-700 text-white px-3 py-2 rounded border border-slate-600"
-      />
-    </div>
 
-    <button
-      onClick={() => setFechaFiltro('')}
-      className="bg-slate-700 hover:bg-slate-600 text-white px-3 py-2 rounded border border-slate-600"
-    >
-      Limpiar filtros
-    </button>
-  </div>
-</section>
+      {/* Filtros */}
+      <section className="bg-slate-800 border-b border-slate-700 p-4 flex-shrink-0">
+        <div className="flex flex-wrap items-end gap-4">
+          <div>
+            <label className="block text-slate-400 text-xs uppercase mb-1">
+              Fecha
+            </label>
+            <input
+              type="date"
+              value={fechaFiltro}
+              onChange={e => setFechaFiltro(e.target.value)}
+              className="bg-slate-700 text-white px-3 py-2 rounded border border-slate-600"
+            />
+          </div>
+
+          <div>
+            <label className="block text-slate-400 text-xs uppercase mb-1">
+              DNI
+            </label>
+            <input
+              type="text"
+              value={dniFiltro}
+              onChange={e => setDniFiltro(e.target.value)}
+              placeholder="Buscar DNI"
+              className="bg-slate-700 text-white px-3 py-2 rounded border border-slate-600"
+            />
+          </div>
+
+          <button
+            onClick={() => {
+              setFechaFiltro('')
+              setDniFiltro('')
+            }}
+            className="bg-slate-700 hover:bg-slate-600 text-white px-3 py-2 rounded border border-slate-600"
+          >
+            Limpiar filtros
+          </button>
+        </div>
+      </section>
+
       {/* Detalle compacto */}
       <section className="bg-slate-900 border-b border-slate-700 p-4 flex-shrink-0">
         <div className="bg-slate-800 rounded-lg border border-slate-700 overflow-hidden">
@@ -105,6 +137,7 @@ const entregasFiltradas = entregas.filter(e => {
               <thead className="bg-slate-700 text-slate-300 sticky top-0">
                 <tr>
                   <th className="px-4 py-2 text-left">ID kit</th>
+                  <th className="px-4 py-2 text-left">DNI</th>
                   <th className="px-4 py-2 text-left">Nombre</th>
                   <th className="px-4 py-2 text-left">Apellido</th>
                   <th className="px-4 py-2 text-left">Género</th>
@@ -117,7 +150,7 @@ const entregasFiltradas = entregas.filter(e => {
                 {entregasFiltradas.length === 0 ? (
                   <tr>
                     <td
-                      colSpan={6}
+                      colSpan={7}
                       className="px-4 py-6 text-center text-slate-400"
                     >
                       Todavía no hay entregas cargadas en el formulario.
@@ -132,6 +165,7 @@ const entregasFiltradas = entregas.filter(e => {
                       <td className="px-4 py-2 font-mono text-xs text-slate-300">
                         {e.id}
                       </td>
+                      <td className="px-4 py-2 text-white">{e.dni ?? '—'}</td>
                       <td className="px-4 py-2 text-white">{e.nombre ?? '—'}</td>
                       <td className="px-4 py-2 text-white">{e.apellido ?? '—'}</td>
                       <td className="px-4 py-2 text-white">{e.genero ?? '—'}</td>
@@ -146,8 +180,7 @@ const entregasFiltradas = entregas.filter(e => {
         </div>
       </section>
 
-      {/* Mapa: queda directo como hijo flex para no romper Leaflet */}
-      <MapView entregas={validEntregas} />
+      <MapView entregas={validEntregas} className="h-[600px] flex-shrink-0" />
     </div>
   )
 }
