@@ -42,7 +42,6 @@ export function KitFrioDashboard() {
 
     const dniBuscado = normalizarDni(dniFiltro)
     const dniRegistro = normalizarDni(e.dni ?? '')
-
     const cumpleDni = !dniBuscado || dniRegistro.includes(dniBuscado)
 
     return cumpleFecha && cumpleDni
@@ -58,14 +57,31 @@ export function KitFrioDashboard() {
       e.lon <= 180,
   )
 
-  const edadesValidas = entregasFiltradas
-    .map(e => e.edad)
-    .filter((edad): edad is number => typeof edad === 'number' && edad > 0 && edad < 120)
+  const personasUnicas = new Set(
+    entregasFiltradas
+      .map(e => normalizarDni(e.dni ?? ''))
+      .filter(Boolean),
+  ).size
 
-  const edadPromedio =
-    edadesValidas.length > 0
-      ? Math.round(edadesValidas.reduce((acc, edad) => acc + edad, 0) / edadesValidas.length)
+  const diasConEntregas = new Set(
+    entregasFiltradas
+      .map(e => {
+        if (!e.submission_time) return null
+        return new Date(e.submission_time).toISOString().slice(0, 10)
+      })
+      .filter(Boolean),
+  ).size
+
+  const promedioDiario =
+    diasConEntregas > 0
+      ? (entregasFiltradas.length / diasConEntregas).toFixed(1)
       : '-'
+
+  const puntosEntrega = new Set(
+    validEntregas.map(e => `${e.lat.toFixed(5)},${e.lon.toFixed(5)}`),
+  ).size
+
+  const georreferenciadas = validEntregas.length
 
   const kitsPorFecha = Object.entries(
     entregasFiltradas.reduce<Record<string, number>>((acc, e) => {
@@ -78,6 +94,12 @@ export function KitFrioDashboard() {
     }, {}),
   ).sort(([a], [b]) => a.localeCompare(b))
 
+  let acumulado = 0
+  const entregasAcumuladas = kitsPorFecha.map(([fecha, total]) => {
+    acumulado += total
+    return [fecha, acumulado] as const
+  })
+
   const kitsPorGenero = Object.entries(
     entregasFiltradas.reduce<Record<string, number>>((acc, e) => {
       const genero = e.genero || 'Sin dato'
@@ -88,33 +110,49 @@ export function KitFrioDashboard() {
   ).sort((a, b) => b[1] - a[1])
 
   const maxFecha = Math.max(...kitsPorFecha.map(([, total]) => total), 1)
+  const maxAcumulado = Math.max(...entregasAcumuladas.map(([, total]) => total), 1)
   const maxGenero = Math.max(...kitsPorGenero.map(([, total]) => total), 1)
 
   return (
     <div className="flex flex-col min-h-screen bg-slate-900">
       <Header total={meta.total} timestamp={meta.timestamp} />
 
-      {/* KPIs */}
+      {/* KPIs principales */}
       <section className="bg-slate-900 border-b border-slate-700 p-4 flex-shrink-0">
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
+        <div className="grid grid-cols-1 md:grid-cols-3 xl:grid-cols-6 gap-4">
           <div className="bg-slate-800 rounded-lg p-4">
             <div className="text-slate-400 text-xs uppercase">Kits entregados</div>
             <div className="text-white text-2xl font-bold">{entregasFiltradas.length}</div>
           </div>
 
           <div className="bg-slate-800 rounded-lg p-4">
-            <div className="text-slate-400 text-xs uppercase">Personas registradas</div>
+            <div className="text-slate-400 text-xs uppercase">Personas asistidas</div>
             <div className="text-white text-2xl font-bold">{entregasFiltradas.length}</div>
           </div>
 
           <div className="bg-slate-800 rounded-lg p-4">
-            <div className="text-slate-400 text-xs uppercase">Edad promedio</div>
-            <div className="text-white text-2xl font-bold">{edadPromedio}</div>
+            <div className="text-slate-400 text-xs uppercase">Personas únicas</div>
+            <div className="text-white text-2xl font-bold">{personasUnicas || '-'}</div>
+          </div>
+
+          <div className="bg-slate-800 rounded-lg p-4">
+            <div className="text-slate-400 text-xs uppercase">Promedio diario</div>
+            <div className="text-white text-2xl font-bold">{promedioDiario}</div>
+          </div>
+
+          <div className="bg-slate-800 rounded-lg p-4">
+            <div className="text-slate-400 text-xs uppercase">Puntos entrega</div>
+            <div className="text-white text-2xl font-bold">{puntosEntrega || '-'}</div>
+          </div>
+
+          <div className="bg-slate-800 rounded-lg p-4">
+            <div className="text-slate-400 text-xs uppercase">Georreferenciadas</div>
+            <div className="text-white text-2xl font-bold">{georreferenciadas}</div>
           </div>
         </div>
       </section>
 
-      {/* Filtros */}
+      {/* Segmentadores y buscador */}
       <section className="bg-slate-800 border-b border-slate-700 p-4 flex-shrink-0">
         <div className="flex flex-wrap items-end gap-4">
           <div>
@@ -154,15 +192,15 @@ export function KitFrioDashboard() {
         </div>
       </section>
 
-      {/* Gráficos */}
+      {/* Gráficos sugeridos */}
       <section className="bg-slate-900 border-b border-slate-700 p-4 flex-shrink-0">
-        <div className="grid grid-cols-1 lg:grid-cols-2 gap-4">
+        <div className="grid grid-cols-1 xl:grid-cols-3 gap-4">
           <div className="bg-slate-800 rounded-lg border border-slate-700 p-4">
             <h2 className="text-white text-sm font-semibold mb-1">
-              Kits entregados por fecha
+              Entregas por día
             </h2>
             <p className="text-slate-400 text-xs mb-4">
-              Cantidad de entregas registradas según fecha de carga.
+              Cantidad de kits entregados por fecha.
             </p>
 
             {kitsPorFecha.length === 0 ? (
@@ -189,10 +227,40 @@ export function KitFrioDashboard() {
 
           <div className="bg-slate-800 rounded-lg border border-slate-700 p-4">
             <h2 className="text-white text-sm font-semibold mb-1">
-              Kits por género
+              Acumulado de entregas
             </h2>
             <p className="text-slate-400 text-xs mb-4">
-              Distribución de entregas según género declarado.
+              Evolución acumulada de kits entregados.
+            </p>
+
+            {entregasAcumuladas.length === 0 ? (
+              <div className="text-slate-400 text-sm text-center py-8">
+                Sin datos para graficar.
+              </div>
+            ) : (
+              <div className="flex items-end gap-3 h-44 overflow-x-auto pb-6">
+                {entregasAcumuladas.map(([fecha, total]) => (
+                  <div key={fecha} className="flex flex-col items-center min-w-14">
+                    <div className="text-slate-300 text-xs mb-1">{total}</div>
+                    <div
+                      className="w-9 bg-emerald-500 rounded-t"
+                      style={{ height: `${(total / maxAcumulado) * 130}px` }}
+                    />
+                    <div className="text-slate-400 text-[10px] mt-2 whitespace-nowrap">
+                      {fecha.slice(5)}
+                    </div>
+                  </div>
+                ))}
+              </div>
+            )}
+          </div>
+
+          <div className="bg-slate-800 rounded-lg border border-slate-700 p-4">
+            <h2 className="text-white text-sm font-semibold mb-1">
+              Entregas por género
+            </h2>
+            <p className="text-slate-400 text-xs mb-4">
+              Distribución de personas asistidas según género declarado.
             </p>
 
             {kitsPorGenero.length === 0 ? (
@@ -279,7 +347,20 @@ export function KitFrioDashboard() {
         </div>
       </section>
 
-      <MapView entregas={validEntregas} className="h-[600px] flex-shrink-0" />
+      {/* Mapa */}
+      <section className="bg-slate-900 p-4">
+        <div className="mb-2">
+          <h2 className="text-white text-sm font-semibold">Mapa de puntos de entrega</h2>
+          <p className="text-slate-400 text-xs">
+            Distribución territorial y concentración de asistencia georreferenciada.
+          </p>
+        </div>
+
+        <MapView
+          entregas={validEntregas}
+          className="h-[700px] flex-shrink-0 rounded-lg overflow-hidden border border-slate-700"
+        />
+      </section>
     </div>
   )
 }
