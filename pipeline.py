@@ -35,6 +35,9 @@ SCHEMA = {
     "kobo_id":         pl.Int64,
     "lat":             pl.Float64,
     "lon":             pl.Float64,
+    "operator_id":     pl.Utf8,
+    "id_kit":          pl.Utf8,
+    "nombre_apellido": pl.Utf8,
     "nombre":          pl.Utf8,
     "apellido":        pl.Utf8,
     "genero":          pl.Utf8,
@@ -150,19 +153,23 @@ def transform_record(record: dict) -> dict | None:
         )
         return None
 
+    nombre_apellido = str(record.get("nombre_apellido") or "").strip() or None
+
     return {
         "kobo_id":         int(record["_id"]),
-        "lat":             float(geo[0]),   # D-01: geo[0] = lat
-        "lon":             float(geo[1]),   # D-01: geo[1] = lon
-        "nombre":          str(record.get("nombre") or "").strip() or None,
+        "lat":             float(geo[0]),
+        "lon":             float(geo[1]),
+        "operator_id":     str(record.get("operator_id") or "").strip() or None,
+        "id_kit":          str(record.get("id_kit") or "").strip() or None,
+        "nombre_apellido": nombre_apellido,
+        "nombre":          str(record.get("nombre") or "").strip() or nombre_apellido,
         "apellido":        str(record.get("apellido") or "").strip() or None,
         "genero":          str(record.get("genero") or "").strip() or None,
         "edad":            _safe_int(record.get("edad")),
         "observaciones":   str(record.get("observaciones") or "").strip() or None,
         "dni":             clean_dni(record.get("dni")),
-        "dni_hash":        hash_dni(record.get("dni")),  # raw DNI consumed here only
+        "dni_hash":        hash_dni(record.get("dni")),
         "submission_time": str(record.get("_submission_time") or "").strip() or None,
-        # NOTE: "dni" key is deliberately NOT included — raw DNI never stored
     }
 
 

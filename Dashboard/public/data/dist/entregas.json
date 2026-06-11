@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": 778022102,
+    "lat": -34.6238032,
+    "lon": -58.391646,
+    "operator_id": "34164892",
+    "id_kit": "9473b7f1-0dbc-44dd-928e-b804e403a45e",
+    "nombre_apellido": "32444555",
+    "nombre": "32444555",
+    "apellido": null,
+    "genero": "masculino",
+    "edad": 33,
+    "observaciones": "Uu",
+    "dni": "34164892",
+    "dni_hash": "98c9962db300b9d95544f98bb5ba2350:707da93ef12c26a1fbb9aa6c55948ed35975d10e5e8d0703d04424c5a2da5dd2",
+    "submission_time": "2026-06-11T17:41:09"
+  }
+]

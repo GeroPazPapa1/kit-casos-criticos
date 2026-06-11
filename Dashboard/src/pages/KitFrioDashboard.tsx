@@ -304,9 +304,9 @@ export function KitFrioDashboard() {
               <thead className="bg-slate-700 text-slate-300 sticky top-0">
                 <tr>
                   <th className="px-4 py-2 text-left">ID kit</th>
-                  <th className="px-4 py-2 text-left">DNI</th>
-                  <th className="px-4 py-2 text-left">Nombre</th>
-                  <th className="px-4 py-2 text-left">Apellido</th>
+                  <th className="px-4 py-2 text-left">DNI operador</th>
+                  <th className="px-4 py-2 text-left">DNI beneficiario</th>
+                  <th className="px-4 py-2 text-left">Nombre y apellido</th>
                   <th className="px-4 py-2 text-left">Género</th>
                   <th className="px-4 py-2 text-left">Edad</th>
                   <th className="px-4 py-2 text-left">Observaciones</th>
@@ -326,19 +326,19 @@ export function KitFrioDashboard() {
                 ) : (
                   entregasFiltradas.map(e => (
                     <tr
-                      key={e.id}
-                      className="border-t border-slate-700 hover:bg-slate-700/50"
-                    >
-                      <td className="px-4 py-2 font-mono text-xs text-slate-300">
-                        {e.id}
-                      </td>
-                      <td className="px-4 py-2 text-white">{e.dni ?? '—'}</td>
-                      <td className="px-4 py-2 text-white">{e.nombre ?? '—'}</td>
-                      <td className="px-4 py-2 text-white">{e.apellido ?? '—'}</td>
-                      <td className="px-4 py-2 text-white">{e.genero ?? '—'}</td>
-                      <td className="px-4 py-2 text-white">{e.edad ?? '—'}</td>
-                      <td className="px-4 py-2 text-white">{e.observaciones ?? '—'}</td>
-                    </tr>
+  key={e.id}
+  className="border-t border-slate-700 hover:bg-slate-700/50"
+>
+  <td className="px-4 py-2 font-mono text-xs text-slate-300">
+    {e.id_kit ?? e.id}
+  </td>
+  <td className="px-4 py-2 text-white">{e.operator_id ?? '—'}</td>
+  <td className="px-4 py-2 text-white">{e.dni ?? '—'}</td>
+  <td className="px-4 py-2 text-white">{e.nombre_apellido ?? e.nombre ?? '—'}</td>
+  <td className="px-4 py-2 text-white">{e.genero ?? '—'}</td>
+  <td className="px-4 py-2 text-white">{e.edad ?? '—'}</td>
+  <td className="px-4 py-2 text-white">{e.observaciones ?? '—'}</td>
+</tr>
                   ))
                 )}
               </tbody>

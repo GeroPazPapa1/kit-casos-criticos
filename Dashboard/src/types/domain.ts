@@ -4,15 +4,18 @@
 // submission_time is available but omitted from popup in v1 (Phase 3 D-12).
 
 export interface Entrega {
-  id: string              // kobo_id renamed per Phase 2 D-02
+  id: string
   lat: number
   lon: number
+  operator_id: string | null
+  id_kit: string | null
+  nombre_apellido: string | null
   nombre: string | null
   apellido: string | null
   genero: string | null
   edad: number | null
   observaciones: string | null
   dni: string | null
-  dni_hash: string        // Phase 2 D-03 — always hashed, NEVER render in UI
-  submission_time: string | null  // Phase 2 D-04 — omitted from popup in v1
+  dni_hash: string
+  submission_time: string | null
 }
