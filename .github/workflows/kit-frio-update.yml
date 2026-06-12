@@ -1,0 +1,46 @@
+name: Actualizar Kit Frio
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-kit-frio:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar dependencias
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Ejecutar pipeline y exporter
+        env:
+          KEY_OP_FRIO: ${{ secrets.KEY_OP_FRIO }}
+          URL_OP_FRIO: ${{ secrets.URL_OP_FRIO }}
+          URL_CASOS_CRITICOS: ${{ secrets.URL_CASOS_CRITICOS }}
+        run: |
+          python pipeline.py
+          python exporter.py
+
+      - name: Commit y push si hubo cambios
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+          git add data/entregas.parquet Dashboard/public/data/dist/entregas.json Dashboard/public/data/dist/meta.json
+
+          git diff --cached --quiet || git commit -m "chore: auto update kit frio data"
+          git push
