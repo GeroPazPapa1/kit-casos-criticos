@@ -11,7 +11,6 @@ permissions:
 jobs:
   update-kit-frio:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
@@ -40,17 +39,29 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-
-          git add Dashboard/public/data/dist/entregas.json Dashboard/public/data/dist/meta.json
-
+          git add data/entregas.parquet Dashboard/public/data/dist/entregas.json Dashboard/public/data/dist/meta.json
           if git diff --cached --quiet; then
             echo "changed=false" >> "$GITHUB_OUTPUT"
-            echo "Sin cambios en los datos, no se deploya."
+            echo "Sin cambios en los datos."
           else
             git commit -m "chore: auto update kit frio data"
             git push
             echo "changed=true" >> "$GITHUB_OUTPUT"
           fi
+
+      - name: Debug Vercel (sacar cuando ande)
+        env:
+          VERCEL_ORG_ID: ${{ secrets.VERCEL_ORG_ID }}
+          VERCEL_PROJECT_ID: ${{ secrets.VERCEL_PROJECT_ID }}
+          VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+        run: |
+          ls -la Dashboard/.vercel 2>/dev/null && echo ".vercel SIGUE en el checkout (mal)" || echo ".vercel no existe (bien)"
+          echo "ORG_ID length: ${#VERCEL_ORG_ID} | prefix: ${VERCEL_ORG_ID:0:5}"
+          echo "PROJECT_ID length: ${#VERCEL_PROJECT_ID} | prefix: ${VERCEL_PROJECT_ID:0:4}"
+          echo "TOKEN length: ${#VERCEL_TOKEN}"
+          npm install -g vercel
+          echo "--- whoami ---"
+          vercel whoami --token "$VERCEL_TOKEN"
 
       - name: Deploy a Vercel
         if: steps.commit.outputs.changed == 'true'
