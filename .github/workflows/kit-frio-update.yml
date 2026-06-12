@@ -2,7 +2,7 @@ name: Actualizar Kit Frio
 
 on:
   schedule:
-    - cron: "*/15 * * * *"
+    - cron: "*/2 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -36,11 +36,29 @@ jobs:
           python exporter.py
 
       - name: Commit y push si hubo cambios
+        id: commit
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
 
-          git add data/entregas.parquet Dashboard/public/data/dist/entregas.json Dashboard/public/data/dist/meta.json
+          git add Dashboard/public/data/dist/entregas.json Dashboard/public/data/dist/meta.json
 
-          git diff --cached --quiet || git commit -m "chore: auto update kit frio data"
-          git push
+          if git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "Sin cambios en los datos, no se deploya."
+          else
+            git commit -m "chore: auto update kit frio data"
+            git push
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Deploy a Vercel
+        if: steps.commit.outputs.changed == 'true'
+        env:
+          VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+          VERCEL_ORG_ID: ${{ secrets.VERCEL_ORG_ID }}
+          VERCEL_PROJECT_ID: ${{ secrets.VERCEL_PROJECT_ID }}
+        working-directory: Dashboard
+        run: |
+          npm install -g vercel
+          vercel --prod --token "$VERCEL_TOKEN" --yes
