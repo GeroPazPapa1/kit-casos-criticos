@@ -4,6 +4,9 @@ __pycache__/
 *.pyc
 .venv/
 Dashboard/.vercel
-# Generated data — built at deploy time
-Dashboard/public/data/dist/
+node_modules/
+# Datos crudos (se regeneran en cada corrida del Action, no se commitean)
 data/
+# Artefactos de build del exporter
+Dashboard/public/data/dist.new/
+Dashboard/public/data/dist.old/

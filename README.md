@@ -106,7 +106,7 @@ bash build.sh
 
 1. Instala dependencias Python (`pip install -r requirements.txt`)
 2. Ejecuta `python pipeline.py` → descarga datos de Kobo → `data/entregas.parquet`
-3. Ejecuta `python export_to_json.py` → convierte Parquet → JSON en `Dashboard/public/data/dist/`
+3. Ejecuta `python exporter.py` → convierte Parquet → JSON en `Dashboard/public/data/dist/`
 4. Compila React con Vite → `Dashboard/dist/`
 
 Output final: Dashboard compilado en `Dashboard/dist/` listo para Vercel.
@@ -143,7 +143,7 @@ El workflow `kit-frio-update.yml` corre cada 2 minutos:
 ```
 1. pipeline.py          | Extrae formulario Kobo → SHA-256 hashea DNI → entregas.parquet
                         |
-2. export_to_json.py    | Lee Parquet → JSON con metadata → Dashboard/public/data/dist/
+2. exporter.py               | Lee Parquet → JSON con metadata → Dashboard/public/data/dist/
                         |
 3. npm run build        | Compila React/TS → Dashboard/dist/ (HTML/CSS/JS)
                         |

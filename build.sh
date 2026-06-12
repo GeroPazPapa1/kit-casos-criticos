@@ -1,38 +1,23 @@
 #!/bin/bash
-# build.sh — Full build pipeline for Vercel
-# 1. Runs Python ETL (extract → transform → parquet → lint)
-# 2. Exports Parquet to JSON
-# 3. Builds React dashboard
+# build.sh — Build local completo (Kobo -> datos -> dashboard)
+# Para deploy en Vercel NO se usa este script: Vercel solo corre el frontend
+# (Dashboard/vercel.json) usando los JSON ya commiteados por el GitHub Action.
+set -e
 
-set -e  # Exit on any error
-
-echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
-echo "Step 1: Installing Python dependencies"
-echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+echo "== 1/4: Dependencias Python =="
 pip install --quiet -r requirements.txt
 
-echo ""
-echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
-echo "Step 2: Running ETL pipeline (KoBoToolbox → Parquet)"
-echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+echo "== 2/4: Pipeline Kit Frío (Kobo -> parquet) =="
 python pipeline.py
 
-echo ""
-echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
-echo "Step 3: Exporting Parquet to JSON for Dashboard"
-echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
-python export_to_json.py
+echo "== 3/4: Export a JSON (parquet -> Dashboard/public/data/dist) =="
+python exporter.py
+python pipelines/pipeline_casos_criticos.py || echo "(casos críticos omitido)"
 
-echo ""
-echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
-echo "Step 4: Building React dashboard (Vite)"
-echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+echo "== 4/4: Build React (Vite) =="
 cd Dashboard
-npm ci --omit=dev
+npm ci
 npm run build
 cd ..
 
-echo ""
-echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
-echo "✓ Build complete. Output: Dashboard/dist/"
-echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+echo "✓ Listo. Output: Dashboard/dist/"

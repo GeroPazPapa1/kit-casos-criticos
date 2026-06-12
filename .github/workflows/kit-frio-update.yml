@@ -1,15 +1,20 @@
-name: Actualizar Kit Frio
+name: Actualizar datos Operativo Frío
 
 on:
   schedule:
-    - cron: "*/2 * * * *"
+    - cron: "*/5 * * * *"
   workflow_dispatch:
 
 permissions:
   contents: write
 
+# Evita que dos corridas se pisen si una tarda más de 5 min.
+concurrency:
+  group: actualizar-datos
+  cancel-in-progress: false
+
 jobs:
-  update-kit-frio:
+  update-data:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
@@ -25,38 +30,30 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Ejecutar pipeline
+      - name: Pipeline Kit Frío (Kobo -> parquet -> JSON)
         env:
           KEY_OP_FRIO: ${{ secrets.KEY_OP_FRIO }}
           URL_OP_FRIO: ${{ secrets.URL_OP_FRIO }}
-          URL_CASOS_CRITICOS: ${{ secrets.URL_CASOS_CRITICOS }}
         run: |
           python pipeline.py
+          python exporter.py
+
+      - name: Pipeline Casos Críticos (Kobo -> JSON)
+        env:
+          KEY_OP_FRIO: ${{ secrets.KEY_OP_FRIO }}
+          URL_CASOS_CRITICOS: ${{ secrets.URL_CASOS_CRITICOS }}
+        run: |
+          python pipelines/pipeline_casos_criticos.py
 
       - name: Commit y push si hubo cambios
-        id: commit
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add data/entregas.parquet
+          git add Dashboard/public/data/dist
           if git diff --cached --quiet; then
-            echo "changed=false" >> "$GITHUB_OUTPUT"
             echo "Sin cambios en los datos."
           else
-            git commit -m "chore: auto update kit frio data
-
-Co-authored-by: Copilot <223556219+Copilot@users.noreply.github.com>"
+            git commit -m "chore: auto update datos operativo frío"
             git push
-            echo "changed=true" >> "$GITHUB_OUTPUT"
+            echo "Datos actualizados y push hecho. Vercel redeploya automáticamente."
           fi
-
-      - name: Trigger Vercel redeploy
-        if: steps.commit.outputs.changed == 'true'
-        env:
-          VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
-          VERCEL_ORG_ID: ${{ secrets.VERCEL_ORG_ID }}
-          VERCEL_PROJECT_ID: ${{ secrets.VERCEL_PROJECT_ID }}
-        run: |
-          npm install -g vercel
-          cd Dashboard
-          vercel --prod --token "$VERCEL_TOKEN" --yes
