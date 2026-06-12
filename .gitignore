@@ -1,6 +1,5 @@
 .planning/
 .env
-data/
 # Allow dashboard public data (committed for Vercel static deploy)
 !Dashboard/public/data/
 !Dashboard/public/data/**
