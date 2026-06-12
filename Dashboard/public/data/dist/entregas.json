@@ -12,7 +12,7 @@
     "edad": 33,
     "observaciones": "Uu",
     "dni": "34164892",
-    "dni_hash": "68717ba3cc58f4018398dc50fda20e46:5f79f0c2c2e76197617dc685865e55a9367f93db78a3f065760a7218f3e26c43",
+    "dni_hash": "6d633c567e5f0a99d6238b0ffab25bac:6f7a4936d66ed458bece25a64fe965c8adf1fa8e20e51c053a6a714ca9cffa5c",
     "submission_time": "2026-06-11T17:41:09"
   },
   {
@@ -28,7 +28,23 @@
     "edad": 55,
     "observaciones": "Hhh",
     "dni": "40911133",
-    "dni_hash": "0654f6d7d3c93776ae494bfd2e0da155:170505479eaa0e610f57900d4ada1baa5338104163e1d1fe260069cd3abe6e91",
+    "dni_hash": "111e799c557ed997d5bb21a786a708aa:be1797e8c57bea5960caa62f946490c4c87fa6ebdbec1a3aa8d2f3f44bdf0117",
     "submission_time": "2026-06-12T16:20:48"
+  },
+  {
+    "id": 779179403,
+    "lat": -34.6237347,
+    "lon": -58.3916775,
+    "operator_id": "12345166",
+    "id_kit": "d7f9c979-2888-428f-986e-c76e41daf1e9",
+    "nombre_apellido": "Sergio Roldán",
+    "nombre": "Sergio Roldán",
+    "apellido": null,
+    "genero": "masculino",
+    "edad": 50,
+    "observaciones": "Yyy",
+    "dni": "21052945",
+    "dni_hash": "513572160f663bf3197bb14181fb30e6:a03f4e93e1882f172a3bf83d016ecffa328eb875bdbf033ec9a03a02c09c298f",
+    "submission_time": "2026-06-12T21:20:45"
   }
 ]
