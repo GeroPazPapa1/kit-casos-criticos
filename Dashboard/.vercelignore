@@ -1,3 +1,2 @@
-node_modules
-dist
-.vercel
+# vacío a propósito: para deploys por Git no se necesita.
+# OJO: un patrón "dist" sin anclar excluye public/data/dist/.

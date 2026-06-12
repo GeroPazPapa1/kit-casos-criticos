@@ -6,7 +6,7 @@ __pycache__/
 Dashboard/.vercel
 node_modules/
 # Datos crudos (se regeneran en cada corrida del Action, no se commitean)
-data/
+/data/
 # Artefactos de build del exporter
 Dashboard/public/data/dist.new/
 Dashboard/public/data/dist.old/

@@ -1,5 +1,5 @@
 node_modules/
-dist/
+/dist/
 # Allow static data for Vercel deploy
 !public/data/
 !public/data/**
