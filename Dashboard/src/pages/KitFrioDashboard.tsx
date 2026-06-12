@@ -8,7 +8,8 @@ const normalizarDni = (valor: string) => valor.replace(/\D/g, '')
 export function KitFrioDashboard() {
   const state = useEntregas()
   const [fechaFiltro, setFechaFiltro] = useState('')
-  const [dniFiltro, setDniFiltro] = useState('')
+  const [dniBeneficiarioFiltro, setDniBeneficiarioFiltro] = useState('')
+  const [dniOperadorFiltro, setDniOperadorFiltro] = useState('')
 
   if (state.status === 'loading') {
     return (
@@ -40,11 +41,19 @@ export function KitFrioDashboard() {
       return fechaEntrega === fechaFiltro
     })()
 
-    const dniBuscado = normalizarDni(dniFiltro)
-    const dniRegistro = normalizarDni(e.dni ?? '')
-    const cumpleDni = !dniBuscado || dniRegistro.includes(dniBuscado)
+    const dniBeneficiarioBuscado = normalizarDni(dniBeneficiarioFiltro)
+    const dniBeneficiarioRegistro = normalizarDni(e.dni ?? '')
+    const cumpleDniBeneficiario =
+      !dniBeneficiarioBuscado ||
+      dniBeneficiarioRegistro.includes(dniBeneficiarioBuscado)
 
-    return cumpleFecha && cumpleDni
+    const dniOperadorBuscado = normalizarDni(dniOperadorFiltro)
+    const dniOperadorRegistro = normalizarDni(e.operator_id ?? '')
+    const cumpleDniOperador =
+      !dniOperadorBuscado ||
+      dniOperadorRegistro.includes(dniOperadorBuscado)
+
+    return cumpleFecha && cumpleDniBeneficiario && cumpleDniOperador
   })
 
   const validEntregas = entregasFiltradas.filter(
@@ -152,7 +161,7 @@ export function KitFrioDashboard() {
         </div>
       </section>
 
-      {/* Segmentadores y buscador */}
+      {/* Segmentadores y buscadores */}
       <section className="bg-slate-800 border-b border-slate-700 p-4 flex-shrink-0">
         <div className="flex flex-wrap items-end gap-4">
           <div>
@@ -169,13 +178,26 @@ export function KitFrioDashboard() {
 
           <div>
             <label className="block text-slate-400 text-xs uppercase mb-1">
-              DNI
+              DNI beneficiario
             </label>
             <input
               type="text"
-              value={dniFiltro}
-              onChange={e => setDniFiltro(e.target.value)}
-              placeholder="Buscar DNI"
+              value={dniBeneficiarioFiltro}
+              onChange={e => setDniBeneficiarioFiltro(e.target.value)}
+              placeholder="Buscar DNI beneficiario"
+              className="bg-slate-700 text-white px-3 py-2 rounded border border-slate-600"
+            />
+          </div>
+
+          <div>
+            <label className="block text-slate-400 text-xs uppercase mb-1">
+              DNI operador
+            </label>
+            <input
+              type="text"
+              value={dniOperadorFiltro}
+              onChange={e => setDniOperadorFiltro(e.target.value)}
+              placeholder="Buscar DNI operador"
               className="bg-slate-700 text-white px-3 py-2 rounded border border-slate-600"
             />
           </div>
@@ -183,7 +205,8 @@ export function KitFrioDashboard() {
           <button
             onClick={() => {
               setFechaFiltro('')
-              setDniFiltro('')
+              setDniBeneficiarioFiltro('')
+              setDniOperadorFiltro('')
             }}
             className="bg-slate-700 hover:bg-slate-600 text-white px-3 py-2 rounded border border-slate-600"
           >
@@ -326,19 +349,19 @@ export function KitFrioDashboard() {
                 ) : (
                   entregasFiltradas.map(e => (
                     <tr
-  key={e.id}
-  className="border-t border-slate-700 hover:bg-slate-700/50"
->
-  <td className="px-4 py-2 font-mono text-xs text-slate-300">
-    {e.id_kit ?? e.id}
-  </td>
-  <td className="px-4 py-2 text-white">{e.operator_id ?? '—'}</td>
-  <td className="px-4 py-2 text-white">{e.dni ?? '—'}</td>
-  <td className="px-4 py-2 text-white">{e.nombre_apellido ?? e.nombre ?? '—'}</td>
-  <td className="px-4 py-2 text-white">{e.genero ?? '—'}</td>
-  <td className="px-4 py-2 text-white">{e.edad ?? '—'}</td>
-  <td className="px-4 py-2 text-white">{e.observaciones ?? '—'}</td>
-</tr>
+                      key={e.id}
+                      className="border-t border-slate-700 hover:bg-slate-700/50"
+                    >
+                      <td className="px-4 py-2 font-mono text-xs text-slate-300">
+                        {e.id_kit ?? e.id}
+                      </td>
+                      <td className="px-4 py-2 text-white">{e.operator_id ?? '—'}</td>
+                      <td className="px-4 py-2 text-white">{e.dni ?? '—'}</td>
+                      <td className="px-4 py-2 text-white">{e.nombre_apellido ?? e.nombre ?? '—'}</td>
+                      <td className="px-4 py-2 text-white">{e.genero ?? '—'}</td>
+                      <td className="px-4 py-2 text-white">{e.edad ?? '—'}</td>
+                      <td className="px-4 py-2 text-white">{e.observaciones ?? '—'}</td>
+                    </tr>
                   ))
                 )}
               </tbody>
