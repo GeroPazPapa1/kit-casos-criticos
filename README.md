@@ -74,6 +74,7 @@ cd Dashboard && vercel link && cd ..
 ```
 
 Responder:
+
 - ¿Link al proyecto existente? → **No**
 - Nombre → `op-frio` (minúsculas)
 - Directorio → `./`
@@ -87,19 +88,72 @@ git commit -m "chore: link vercel project"
 
 ---
 
-## Uso diario
+## Uso diario — Corre el circuito completo
+
+### Opción 1: Desarrollo local (recomendado para testing)
 
 ```bash
-bash deploy.sh
+# Activar entorno virtual
+source .venv/Scripts/activate  # Windows Git Bash
+# o
+source .venv/bin/activate      # Linux/macOS
+
+# Correr el circuito completo (4 pasos):
+bash build.sh
 ```
 
-Ejecuta en secuencia:
-1. `python pipeline.py` — descarga datos de Kobo, escribe `data/entregas.parquet`
-2. `python exporter.py` — convierte Parquet a JSON estático en `Dashboard/public/data/dist/`
-3. `npm run build` — compila el dashboard React/TS
-4. `vercel --prod` — publica en https://op-frio.vercel.app
+**Qué hace `build.sh`:**
 
-Al final imprime la URL de producción.
+1. Instala dependencias Python (`pip install -r requirements.txt`)
+2. Ejecuta `python pipeline.py` → descarga datos de Kobo → `data/entregas.parquet`
+3. Ejecuta `python export_to_json.py` → convierte Parquet → JSON en `Dashboard/public/data/dist/`
+4. Compila React con Vite → `Dashboard/dist/`
+
+Output final: Dashboard compilado en `Dashboard/dist/` listo para Vercel.
+
+### Opción 2: Deploy a Vercel (después de local)
+
+```bash
+cd Dashboard
+vercel --prod --token $VERCEL_TOKEN
+cd ..
+```
+
+O usa el `deploy.sh` si existe (equivalente a los pasos 1-2).
+
+### Opción 3: Automático (GitHub Actions)
+
+El workflow `kit-frio-update.yml` corre cada 2 minutos:
+
+1. Ejecuta `pipeline.py` → actualiza `data/entregas.parquet`
+2. Si hay cambios: hace push y auto-deploya a Vercel
+
+**Requisitos en GitHub Secrets:**
+
+- `KEY_OP_FRIO` — token KoBoToolbox
+- `URL_OP_FRIO` — URL del formulario Kobo
+- `VERCEL_TOKEN` — token Vercel
+- `VERCEL_ORG_ID` — ID de tu org en Vercel
+- `VERCEL_PROJECT_ID` — ID del proyecto
+
+---
+
+## Flujo completo: KoBoToolbox → Parquet → JSON → Mapa
+
+```
+1. pipeline.py          | Extrae formulario Kobo → SHA-256 hashea DNI → entregas.parquet
+                        |
+2. export_to_json.py    | Lee Parquet → JSON con metadata → Dashboard/public/data/dist/
+                        |
+3. npm run build        | Compila React/TS → Dashboard/dist/ (HTML/CSS/JS)
+                        |
+4. Vercel deploy        | Publica Dashboard/dist/ → https://op-frio.vercel.app
+```
+
+**En Vercel build time** (automatizado):
+
+- `bash build.sh` hace los pasos 1-3
+- Vercel solo sube el código compilado (5-10 MB, no 100+)
 
 ---
 
@@ -141,9 +195,9 @@ El DNI nunca se almacena ni transmite en claro:
 
 ## Variables de entorno
 
-| Variable | Descripción |
-|----------|-------------|
-| `KEY_OP_FRIO` | Token de API de KoBoToolbox |
+| Variable      | Descripción                                          |
+| ------------- | ---------------------------------------------------- |
+| `KEY_OP_FRIO` | Token de API de KoBoToolbox                          |
 | `URL_OP_FRIO` | URL completa del endpoint de datos v2 del formulario |
 
 ---

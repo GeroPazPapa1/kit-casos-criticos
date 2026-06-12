@@ -25,51 +25,38 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Ejecutar pipeline y exporter
+      - name: Ejecutar pipeline
         env:
           KEY_OP_FRIO: ${{ secrets.KEY_OP_FRIO }}
           URL_OP_FRIO: ${{ secrets.URL_OP_FRIO }}
           URL_CASOS_CRITICOS: ${{ secrets.URL_CASOS_CRITICOS }}
         run: |
           python pipeline.py
-          python exporter.py
 
       - name: Commit y push si hubo cambios
         id: commit
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add data/entregas.parquet Dashboard/public/data/dist/entregas.json Dashboard/public/data/dist/meta.json
+          git add data/entregas.parquet
           if git diff --cached --quiet; then
             echo "changed=false" >> "$GITHUB_OUTPUT"
             echo "Sin cambios en los datos."
           else
-            git commit -m "chore: auto update kit frio data"
+            git commit -m "chore: auto update kit frio data
+
+Co-authored-by: Copilot <223556219+Copilot@users.noreply.github.com>"
             git push
             echo "changed=true" >> "$GITHUB_OUTPUT"
           fi
 
-      - name: Debug Vercel (sacar cuando ande)
-        env:
-          VERCEL_ORG_ID: ${{ secrets.VERCEL_ORG_ID }}
-          VERCEL_PROJECT_ID: ${{ secrets.VERCEL_PROJECT_ID }}
-          VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
-        run: |
-          ls -la Dashboard/.vercel 2>/dev/null && echo ".vercel SIGUE en el checkout (mal)" || echo ".vercel no existe (bien)"
-          echo "ORG_ID length: ${#VERCEL_ORG_ID} | prefix: ${VERCEL_ORG_ID:0:5}"
-          echo "PROJECT_ID length: ${#VERCEL_PROJECT_ID} | prefix: ${VERCEL_PROJECT_ID:0:4}"
-          echo "TOKEN length: ${#VERCEL_TOKEN}"
-          npm install -g vercel
-          echo "--- whoami ---"
-          vercel whoami --token "$VERCEL_TOKEN"
-
-      - name: Deploy a Vercel
+      - name: Trigger Vercel redeploy
         if: steps.commit.outputs.changed == 'true'
         env:
           VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
           VERCEL_ORG_ID: ${{ secrets.VERCEL_ORG_ID }}
           VERCEL_PROJECT_ID: ${{ secrets.VERCEL_PROJECT_ID }}
-        working-directory: Dashboard
         run: |
           npm install -g vercel
+          cd Dashboard
           vercel --prod --token "$VERCEL_TOKEN" --yes
