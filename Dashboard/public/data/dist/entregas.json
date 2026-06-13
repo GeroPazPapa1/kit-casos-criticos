@@ -12,7 +12,7 @@
     "edad": 33,
     "observaciones": "Uu",
     "dni": "34164892",
-    "dni_hash": "9ba59290c8aeec4dc2539a0ec81126e0:b692746c7a3b195185daecdf8d56321ad5b4511c85275c1e9f3fa2b09a2fa33a",
+    "dni_hash": "8e5f4c13f116c1294026b5a36ae9f705:cb3ac15be03b6f24150ff37dcc0fe36495e72501a436a355521b89e6f45520e9",
     "submission_time": "2026-06-11T17:41:09"
   },
   {
@@ -28,7 +28,7 @@
     "edad": 55,
     "observaciones": "Hhh",
     "dni": "40911133",
-    "dni_hash": "e8b5d6b2c176e046e54531f019b5b26f:9dc1c883121527ec828776071f310b6b4a8e3f078c9ca1795245200b605fa0fa",
+    "dni_hash": "3ff56f329bb08966f6753ca3c4d0483b:77cd9179a161fdb17cf3985652be44bf7291c8a677e332f14197c51b5e72ae9b",
     "submission_time": "2026-06-12T16:20:48"
   },
   {
@@ -44,7 +44,23 @@
     "edad": 50,
     "observaciones": "Yyy",
     "dni": "21052945",
-    "dni_hash": "b8f024ed6a03d9999f1b86d86ed1e395:e3d0e692e987960c22573692fcfadc258833c09efa8b1db98cb0deefac01754e",
+    "dni_hash": "4c5a798d14809fdf86ad0b13da81380e:54f750f6a649b6882d76184eb8e0366d08890e3c7ee5d68c98b03e0afb91f600",
     "submission_time": "2026-06-12T21:20:45"
+  },
+  {
+    "id": 779755909,
+    "lat": -34.5859217,
+    "lon": -58.4792534,
+    "operator_id": "34164892",
+    "id_kit": "0abee0cd-a354-4f65-85da-6076545f7c8a",
+    "nombre_apellido": "Raúl Benavidez",
+    "nombre": "Raúl Benavidez",
+    "apellido": null,
+    "genero": "masculino",
+    "edad": 55,
+    "observaciones": "Uu",
+    "dni": "12345666",
+    "dni_hash": "7d5414cbfedcf4f8fea122546f03cae3:48a0d2d3d968f661c7970dc98d6dee5e791afb2f4dd795db35b38077300cfc1f",
+    "submission_time": "2026-06-13T16:57:57"
   }
 ]
