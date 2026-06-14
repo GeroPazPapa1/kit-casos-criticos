@@ -12,7 +12,23 @@
     "edad": 45,
     "observaciones": "Se entrega kit de frío rechaza parador",
     "dni": "28294133",
-    "dni_hash": "cb2b7f8d1f8f75d5768a86c537b77099:555c85b46ee2536e3edb71ed5e3c57c25bfff01f35a22d4aa48a10a568cb9e61",
+    "dni_hash": "c16bf4a98f02ce18b9371893f765e47c:90269daf6ac61381f23bf598a70cc1e1ce29c8328a4ba3d1c8d7b916287258f2",
     "submission_time": "2026-06-14T04:50:44"
+  },
+  {
+    "id": 780038243,
+    "lat": -34.6034717,
+    "lon": -58.381025,
+    "operator_id": "25474690",
+    "id_kit": "555ec00b-6dae-4971-ab7e-5e1cff75315e",
+    "nombre_apellido": "Jorge Flores",
+    "nombre": "Jorge Flores",
+    "apellido": null,
+    "genero": "masculino",
+    "edad": 64,
+    "observaciones": "El hombre rechaza parador , refiere que tiene problemas neurologicos, no presenta DNI por sus condiciones se consulta con supervisión y se entrega un kit frio",
+    "dni": "94734204",
+    "dni_hash": "1c3f391451f416a8d1df7034c87060d7:a8694e2681db8a63d5a585c85003b90d529c0c4679d17dd13ac97bc72a54a895",
+    "submission_time": "2026-06-14T08:04:44"
   }
 ]
