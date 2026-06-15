@@ -12,7 +12,7 @@
     "edad": 45,
     "observaciones": "Se entrega kit de frío rechaza parador",
     "dni": "28294133",
-    "dni_hash": "7a67bca404851cea4b1401e01c888237:505dc52c0ece441c37c3e0f95057ebcb7d8efcc42bda1a9a1c0cece1f8b77497",
+    "dni_hash": "626dffd5bc27539a1afedad1e279fc7b:44b3214465b84bca76396cb81052afb4923ba86bee71bc0b374ad7c500c29af0",
     "submission_time": "2026-06-14T04:50:44"
   },
   {
@@ -28,7 +28,55 @@
     "edad": 64,
     "observaciones": "El hombre rechaza parador , refiere que tiene problemas neurologicos, no presenta DNI por sus condiciones se consulta con supervisión y se entrega un kit frio",
     "dni": "94734204",
-    "dni_hash": "e8e7f87547c508db0a187666e873a648:2210196934bb9896fac1764be1dc9cfb45419979f5c9e82501e091996920bde5",
+    "dni_hash": "2384a91dcb6afc9c3a4f127da7099ca0:567927b5a67252222d78b3d1509c589e21a3a9e03cfd8864ab850f8a5b13e567",
     "submission_time": "2026-06-14T08:04:44"
+  },
+  {
+    "id": 780509234,
+    "lat": -34.5950513,
+    "lon": -58.3872963,
+    "operator_id": "19138777",
+    "id_kit": "c3dd638d-a8ce-46b7-93fb-6eaf5775b13c",
+    "nombre_apellido": "Santiago vedeira",
+    "nombre": "Santiago vedeira",
+    "apellido": null,
+    "genero": "masculino",
+    "edad": 37,
+    "observaciones": "Equipo Santiago vedeira\nChófer Varela Cristian \nMóvil JP \nCarta 1730302\nHora 03:00\nDirección Uruguay 1237\nDevolución el equipo de rda junto con Ordenamiento urbano se hace presente en el lugar asignado y se contacta con un hombre en situación de calle se le ofrece los recursos brindados por el equipo y refiere que no quiere nada se lo invita a dejar el espacio y se retira siendo las 03:13 el equipo se retira y continúa con el recorrido",
+    "dni": "19138777",
+    "dni_hash": "b0938bb6f960deee5e59dce6359eb004:daf1fbc7400ff47a4f2f00dabed1e3400dd5886f625beb25b8c1a05d70a94ac1",
+    "submission_time": "2026-06-15T02:59:37"
+  },
+  {
+    "id": 780509242,
+    "lat": -34.5987444,
+    "lon": -58.3868872,
+    "operator_id": "19138777",
+    "id_kit": "026991ba-6d40-486a-a1b5-026b5f7edce9",
+    "nombre_apellido": "Santiago vedeira",
+    "nombre": "Santiago vedeira",
+    "apellido": null,
+    "genero": "masculino",
+    "edad": 36,
+    "observaciones": "Equipo Santiago vedeira \nChófer Varela Cristian \nMóvil JP\nCarta \nHora \nDirección Uruguay 858\nDevolución el equipo de rda junto con Ordenamiento urbano se hace presente en el lugar y nos encontramos con una persona en situación de calle la cual es asistida se le ofrece los recursos brindados por el equipo y rechaza todo tipo de ayuda siendo las 03:30 el equipo se retira y continúa con el recorrido",
+    "dni": "19138777",
+    "dni_hash": "c1bf37a7e038957cfeadf353d4fc8268:05f1362e7d67bea3dad8c86077e45ee927d43306f1d9f5c829b0082b08c770d9",
+    "submission_time": "2026-06-15T02:59:40"
+  },
+  {
+    "id": 780509245,
+    "lat": -34.6008569,
+    "lon": -58.3864696,
+    "operator_id": "19138777",
+    "id_kit": "c6e942b6-14c5-4651-819f-9d629284b474",
+    "nombre_apellido": "Santiago vedeira",
+    "nombre": "Santiago vedeira",
+    "apellido": null,
+    "genero": "masculino",
+    "edad": 36,
+    "observaciones": "Equipo Santiago vedeira \nChófer Varela Cristian \nMóvil JP\nCarta 1730323\nHora 03:46\nDirección Uruguay 656\nDevolución el equipo de rda se hace presente junto con Ordenamiento urbano y nos encontramos con una persona en situación de calle se los asiste y rechaza todo tipo de ayuda se muestran enojados y nos insultan se los invita a dejar el espacio siendo las 03:53 el equipo se retira y continúa con el recorrido",
+    "dni": "19138777",
+    "dni_hash": "444eaca51c14918579da6bfa5c59b5c6:d8a5692d8dcad1216d0ec40543cee244612b5b4bf66ca159bda39acb51f1f42c",
+    "submission_time": "2026-06-15T02:59:40"
   }
 ]
