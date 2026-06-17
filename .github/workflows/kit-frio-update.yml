@@ -32,6 +32,54 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
+      - name: Debug secretos y URLs (sin exponer datos)
+        env:
+          KEY_OP_FRIO: ${{ secrets.KEY_OP_FRIO }}
+          URL_OP_FRIO: ${{ secrets.URL_OP_FRIO }}
+          URL_CASOS_CRITICOS: ${{ secrets.URL_CASOS_CRITICOS }}
+        run: |
+          python - << 'PY'
+          import os
+          import requests
+
+          key = os.getenv("KEY_OP_FRIO", "")
+          print("KEY_OP_FRIO existe:", bool(key))
+          print("KEY_OP_FRIO longitud:", len(key))
+
+          for nombre in ["URL_OP_FRIO", "URL_CASOS_CRITICOS"]:
+              url = os.getenv(nombre, "")
+
+              print("\n==============================")
+              print(nombre)
+              print("==============================")
+
+              print("Existe:", bool(url))
+              print("Longitud:", len(url))
+
+              if len(url) > 25:
+                  print("Inicio:", url[:25] + "...")
+                  print("Final:", "..." + url[-20:])
+              else:
+                  print("Valor:", url)
+
+              try:
+                  r = requests.get(
+                      url,
+                      headers={"Authorization": f"Token {key}"},
+                      timeout=30
+                  )
+
+                  print("Status:", r.status_code)
+                  print("Content-Type:", r.headers.get("content-type"))
+
+                  preview = r.text[:100].replace("\n", " ")
+                  print("Preview:", preview)
+
+              except Exception as e:
+                  print("ERROR:", str(e))
+
+          PY
+
       - name: Pipeline Kit Frío (Kobo -> parquet -> JSON)
         env:
           KEY_OP_FRIO: ${{ secrets.KEY_OP_FRIO }}
