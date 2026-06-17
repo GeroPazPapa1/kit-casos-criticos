@@ -8,7 +8,6 @@ on:
 permissions:
   contents: write
 
-# Evita que dos corridas se pisen si una tarda más de 5 min.
 concurrency:
   group: actualizar-datos
   cancel-in-progress: false
@@ -16,9 +15,12 @@ concurrency:
 jobs:
   update-data:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Configurar Python
         uses: actions/setup-python@v5
@@ -49,11 +51,17 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
+
           git add Dashboard/public/data/dist
+
           if git diff --cached --quiet; then
             echo "Sin cambios en los datos."
           else
-            git commit -m "chore: auto update datos operativo frío"
-            git push
+            git commit -m "chore: auto update datos operativo frio"
+
+            git pull --rebase origin main
+
+            git push origin HEAD:main
+
             echo "Datos actualizados y push hecho. Vercel redeploya automáticamente."
           fi
