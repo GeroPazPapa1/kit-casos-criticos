@@ -50,21 +50,6 @@ const getDniOperador = (caso: Record<string, unknown>) =>
     'DNI Operador',
   ])
 
-const getNombre = (caso: Record<string, unknown>) =>
-  getCampoTexto(caso, ['nombre', 'Nombre', 'nombre_persona', 'Nombre persona'])
-
-const getApellido = (caso: Record<string, unknown>) =>
-  getCampoTexto(caso, ['apellido', 'Apellido', 'apellido_persona', 'Apellido persona'])
-
-const getComuna = (caso: Record<string, unknown>) =>
-  getCampoTexto(caso, ['comuna', 'Comuna', 'comuna_calculada'])
-
-const getFecha = (caso: Record<string, unknown>) =>
-  getCampoTexto(caso, ['_submission_time', 'submission_time', 'fecha', 'Fecha'])
-
-const getDerivacion = (caso: Record<string, unknown>) =>
-  getCampoTexto(caso, ['tipo_derivacion', 'derivacion', 'Tipo de derivación'])
-
 const getSame = (caso: Record<string, unknown>) =>
   getCampoTexto(caso, ['same', 'SAME', 'derivacion_same', 'Derivación SAME'])
 
@@ -73,12 +58,6 @@ const getHospital = (caso: Record<string, unknown>) =>
 
 const getSeguimiento = (caso: Record<string, unknown>) =>
   getCampoTexto(caso, ['seguimiento', 'requiere_seguimiento', 'Requiere seguimiento'])
-
-const getConsumo = (caso: Record<string, unknown>) =>
-  getCampoTexto(caso, ['consumo_activo', 'consumo_problematico', 'Consumo activo'])
-
-const getCis = (caso: Record<string, unknown>) =>
-  getCampoTexto(caso, ['desea_ingresar_cis', 'cis', 'Desea ingresar a CIS'])
 
 const esSi = (valor: string) => {
   const v = normalizar(valor)
@@ -139,37 +118,6 @@ export function CasosCriticosDashboard() {
   const casosSame = casosFiltrados.filter(caso => esSi(getSame(caso))).length
   const trasladosHospital = casosFiltrados.filter(caso => esSi(getHospital(caso))).length
   const casosSeguimiento = casosFiltrados.filter(caso => esSi(getSeguimiento(caso))).length
-
-  const casosPorRiesgo = opcionesRiesgo.map(riesgo => ({
-    riesgo,
-    total: casosFiltrados.filter(caso => getRiesgoSanitario(caso) === riesgo).length,
-  }))
-
-  const maxRiesgo = Math.max(...casosPorRiesgo.map(r => r.total), 1)
-
-  const casosPorDia = Object.entries(
-    casosFiltrados.reduce<Record<string, number>>((acc, caso) => {
-      const fechaRaw = getFecha(caso)
-      if (!fechaRaw) return acc
-
-      const fecha = new Date(fechaRaw).toISOString().slice(0, 10)
-      acc[fecha] = (acc[fecha] || 0) + 1
-
-      return acc
-    }, {}),
-  ).sort(([a], [b]) => a.localeCompare(b))
-
-  const maxDia = Math.max(...casosPorDia.map(([, total]) => total), 1)
-
-  const derivaciones = Object.entries(
-    casosFiltrados.reduce<Record<string, number>>((acc, caso) => {
-      const tipo = getDerivacion(caso) || 'Sin dato'
-      acc[tipo] = (acc[tipo] || 0) + 1
-      return acc
-    }, {}),
-  ).sort((a, b) => b[1] - a[1])
-
-  const maxDerivacion = Math.max(...derivaciones.map(([, total]) => total), 1)
 
   return (
     <div className="flex flex-col min-h-screen bg-slate-900 text-white">
@@ -274,7 +222,6 @@ export function CasosCriticosDashboard() {
         </div>
       </section>
 
-      {/* El resto de gráficos, tabla y mapa queda igual */}
       <section className="p-4 bg-slate-900">
         <div className="mb-2">
           <h2 className="text-white text-sm font-semibold">Mapa de casos críticos</h2>
