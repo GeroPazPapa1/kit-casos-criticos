@@ -3356,5 +3356,40 @@
     "_submission_time": "2026-06-17T08:27:09",
     "_validation_status": {},
     "_submitted_by": "seguimiento_casos_criticos2026"
+  },
+  {
+    "_id": 783957415,
+    "formhub/uuid": "58407a357bcd41138f5a8fa282eb48ac",
+    "Tipo_de_derivaci_n": "derivado_por_red",
+    "fecha": "2026-06-17T00:00:00.000-03:00",
+    "apellido": "Romano",
+    "nombre": "Ruben",
+    "dni": "4464463",
+    "comuna": "12",
+    "ubicacion": "-34.5623277 -58.4769941 36.0 4.707",
+    "seguimiento_caso": "no",
+    "nombre_brigadista": "Da silva",
+    "lugar_intervencion": "calle",
+    "intervencion_red": "si",
+    "operador_red": "Luciano sanfelippo",
+    "consumo_activo": "no",
+    "riesgo_sanitario": "verde_con_pph",
+    "necesario_seguimiento": "no",
+    "derivo_same": "no",
+    "descripcion": "Se toman signos vitales ",
+    "__version__": "v8LbbfVhJSTVhXkSfxUzcC",
+    "meta/instanceID": "uuid:2ca3516f-25ef-48a5-9b0e-01b638a0058d",
+    "_xform_id_string": "aD4NLofRmqgQnSzc5MdqSB",
+    "_uuid": "2ca3516f-25ef-48a5-9b0e-01b638a0058d",
+    "meta/rootUuid": "uuid:2ca3516f-25ef-48a5-9b0e-01b638a0058d",
+    "_attachments": [],
+    "_status": "submitted_via_web",
+    "_geolocation": [
+      -34.5623277,
+      -58.4769941
+    ],
+    "_submission_time": "2026-06-17T23:15:02",
+    "_validation_status": {},
+    "_submitted_by": "seguimiento_casos_criticos2026"
   }
 ]
