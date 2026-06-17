@@ -107,7 +107,7 @@ jobs:
           else
             git commit -m "chore: auto update datos operativo frio"
 
-            git pull --rebase origin main
+            
 
             git push origin HEAD:main
 
