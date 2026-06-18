@@ -4009,5 +4009,40 @@
     "_submission_time": "2026-06-18T08:01:07",
     "_validation_status": {},
     "_submitted_by": "seguimiento_casos_criticos2026"
+  },
+  {
+    "_id": 784876124,
+    "formhub/uuid": "58407a357bcd41138f5a8fa282eb48ac",
+    "Tipo_de_derivaci_n": "derivado_por_red",
+    "fecha": "2026-06-18T00:00:00.000-03:00",
+    "apellido": "Gracarnik",
+    "nombre": "Nestor",
+    "dni": "8643914",
+    "comuna": "13",
+    "ubicacion": "-34.5582816 -58.4597409 28.5 16.727",
+    "seguimiento_caso": "si",
+    "nombre_brigadista": "Mirta",
+    "lugar_intervencion": "calle",
+    "intervencion_red": "si",
+    "operador_red": ".",
+    "consumo_activo": "no",
+    "riesgo_sanitario": "verde_con_pph",
+    "necesario_seguimiento": "manana",
+    "derivo_same": "no",
+    "descripcion": "Curación de miembros inferiores, por vascularización en ambas piernas y control de signos vitales ok ",
+    "__version__": "v8LbbfVhJSTVhXkSfxUzcC",
+    "meta/instanceID": "uuid:cedbe5f2-c0d4-4b85-9b3c-303e8395bb28",
+    "_xform_id_string": "aD4NLofRmqgQnSzc5MdqSB",
+    "_uuid": "cedbe5f2-c0d4-4b85-9b3c-303e8395bb28",
+    "meta/rootUuid": "uuid:cedbe5f2-c0d4-4b85-9b3c-303e8395bb28",
+    "_attachments": [],
+    "_status": "submitted_via_web",
+    "_geolocation": [
+      -34.5582816,
+      -58.4597409
+    ],
+    "_submission_time": "2026-06-18T16:22:27",
+    "_validation_status": {},
+    "_submitted_by": "seguimiento_casos_criticos2026"
   }
 ]
