@@ -5164,5 +5164,40 @@
     "_submission_time": "2026-06-19T07:24:07",
     "_validation_status": {},
     "_submitted_by": "seguimiento_casos_criticos2026"
+  },
+  {
+    "_id": 785385611,
+    "formhub/uuid": "58407a357bcd41138f5a8fa282eb48ac",
+    "Tipo_de_derivaci_n": "derivado_por_red",
+    "fecha": "2026-06-19T00:00:00.000-03:00",
+    "apellido": "Pallota",
+    "nombre": "Juan carlos",
+    "dni": "24014356",
+    "comuna": "3",
+    "ubicacion": "-34.6055606 -58.3936965 42.0 4.847",
+    "seguimiento_caso": "si",
+    "nombre_brigadista": "B. Martinez",
+    "lugar_intervencion": "calle",
+    "intervencion_red": "si",
+    "operador_red": "Merlina ",
+    "consumo_activo": "no",
+    "riesgo_sanitario": "verde_sin_pph",
+    "necesario_seguimiento": "manana",
+    "derivo_same": "no",
+    "descripcion": "Masculino para revición de piernas edematizados se realiza revición y se recomienda control mañana. ",
+    "__version__": "v8LbbfVhJSTVhXkSfxUzcC",
+    "meta/instanceID": "uuid:e2201c92-0307-4453-b33f-922e51ae3c64",
+    "_xform_id_string": "aD4NLofRmqgQnSzc5MdqSB",
+    "_uuid": "e2201c92-0307-4453-b33f-922e51ae3c64",
+    "meta/rootUuid": "uuid:e2201c92-0307-4453-b33f-922e51ae3c64",
+    "_attachments": [],
+    "_status": "submitted_via_web",
+    "_geolocation": [
+      -34.6055606,
+      -58.3936965
+    ],
+    "_submission_time": "2026-06-19T08:15:02",
+    "_validation_status": {},
+    "_submitted_by": "seguimiento_casos_criticos2026"
   }
 ]
