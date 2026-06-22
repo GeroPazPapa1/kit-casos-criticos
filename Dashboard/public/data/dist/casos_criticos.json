@@ -8967,5 +8967,39 @@
     "_submission_time": "2026-06-21T21:31:07",
     "_validation_status": {},
     "_submitted_by": "seguimiento_casos_criticos2026"
+  },
+  {
+    "_id": 787567477,
+    "formhub/uuid": "58407a357bcd41138f5a8fa282eb48ac",
+    "Tipo_de_derivaci_n": "espontanea",
+    "fecha": "2026-06-21T00:00:00.000-03:00",
+    "apellido": "Caraballo",
+    "nombre": "Emilse",
+    "dni": "36251383",
+    "Direcci_n_de_la_inte_ci_n_Calle_y_altura": "Combate de los pozos 1280",
+    "comuna": "3",
+    "ubicacion": "-34.623927 -58.3924898 42.89999771118164 6.662",
+    "seguimiento_caso": "si",
+    "nombre_brigadista": "Quintana Maisa",
+    "lugar_intervencion": "dipa",
+    "consumo_activo": "no",
+    "riesgo_sanitario": "verde_con_pph",
+    "necesario_seguimiento": "no",
+    "derivo_same": "no",
+    "descripcion": "Se toman signos vitales. Femenina refiere estar resfriada y con mucha tos",
+    "__version__": "vJpKQ6qcHg6RGzqHJTTmVS",
+    "meta/instanceID": "uuid:21a1508d-370a-4086-81d6-f135d43c62b0",
+    "_xform_id_string": "aD4NLofRmqgQnSzc5MdqSB",
+    "_uuid": "21a1508d-370a-4086-81d6-f135d43c62b0",
+    "meta/rootUuid": "uuid:21a1508d-370a-4086-81d6-f135d43c62b0",
+    "_attachments": [],
+    "_status": "submitted_via_web",
+    "_geolocation": [
+      -34.623927,
+      -58.3924898
+    ],
+    "_submission_time": "2026-06-21T23:53:37",
+    "_validation_status": {},
+    "_submitted_by": "seguimiento_casos_criticos2026"
   }
 ]
