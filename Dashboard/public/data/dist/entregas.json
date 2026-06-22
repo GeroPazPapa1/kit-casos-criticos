@@ -12,7 +12,7 @@
     "edad": 45,
     "observaciones": "Se entrega kit de frío rechaza parador",
     "dni": "28294133",
-    "dni_hash": "46aeb06cfba412b80b70b817c9342859:3f0dd91b68cde8ec51492fe2cdbfd8742248f3abe8160c683e6eede67543ba35",
+    "dni_hash": "0ec1b267c783ffac28a38198de62e5aa:64007d421a9dd44b4f7d18eeb7d23d7b5cd97e07c2c2a0d925d1c2e9c71922db",
     "submission_time": "2026-06-14T04:50:44"
   },
   {
@@ -28,56 +28,8 @@
     "edad": 64,
     "observaciones": "El hombre rechaza parador , refiere que tiene problemas neurologicos, no presenta DNI por sus condiciones se consulta con supervisión y se entrega un kit frio",
     "dni": "94734204",
-    "dni_hash": "d1b9935562568a254b4b3c891bc2bf2f:c9715c9c5b1ec40b10cec1973a79af2b29775c7e1058bd7b6d112faec129f4bb",
+    "dni_hash": "a661fce6c9710750be51ca29da20735b:0a3fcffe3c918277e56c337d758ba839fbdcff254b615f00931dcb4669641b44",
     "submission_time": "2026-06-14T08:04:44"
-  },
-  {
-    "id": 780509234,
-    "lat": -34.5950513,
-    "lon": -58.3872963,
-    "operator_id": "19138777",
-    "id_kit": "88a07def-9b38-485d-b1de-5163fbdf4e14",
-    "nombre_apellido": "Santiago vedeira",
-    "nombre": "Santiago vedeira",
-    "apellido": null,
-    "genero": "masculino",
-    "edad": 37,
-    "observaciones": "Equipo Santiago vedeira\nChófer Varela Cristian \nMóvil JP \nCarta 1730302\nHora 03:00\nDirección Uruguay 1237\nDevolución el equipo de rda junto con Ordenamiento urbano se hace presente en el lugar asignado y se contacta con un hombre en situación de calle se le ofrece los recursos brindados por el equipo y refiere que no quiere nada se lo invita a dejar el espacio y se retira siendo las 03:13 el equipo se retira y continúa con el recorrido",
-    "dni": "19138777",
-    "dni_hash": "1a61ed5036872ee38a2839bb4ab98557:37bfafbc1c63646a1fdae9c940f136784ebab76dc08dce398ae0efb33e3a0db5",
-    "submission_time": "2026-06-15T02:59:37"
-  },
-  {
-    "id": 780509242,
-    "lat": -34.5987444,
-    "lon": -58.3868872,
-    "operator_id": "19138777",
-    "id_kit": "8677d019-2619-4325-948f-11eada6c1898",
-    "nombre_apellido": "Santiago vedeira",
-    "nombre": "Santiago vedeira",
-    "apellido": null,
-    "genero": "masculino",
-    "edad": 36,
-    "observaciones": "Equipo Santiago vedeira \nChófer Varela Cristian \nMóvil JP\nCarta \nHora \nDirección Uruguay 858\nDevolución el equipo de rda junto con Ordenamiento urbano se hace presente en el lugar y nos encontramos con una persona en situación de calle la cual es asistida se le ofrece los recursos brindados por el equipo y rechaza todo tipo de ayuda siendo las 03:30 el equipo se retira y continúa con el recorrido",
-    "dni": "19138777",
-    "dni_hash": "912cc971f8a4f755b2bb5cd863253370:e73025c0448310fa365b847dd62b6b9b1b1cd215ed28bc431b396f92e8f517e8",
-    "submission_time": "2026-06-15T02:59:40"
-  },
-  {
-    "id": 780509245,
-    "lat": -34.6008569,
-    "lon": -58.3864696,
-    "operator_id": "19138777",
-    "id_kit": "2818ce32-ea5a-432f-b357-c2caf240c8a0",
-    "nombre_apellido": "Santiago vedeira",
-    "nombre": "Santiago vedeira",
-    "apellido": null,
-    "genero": "masculino",
-    "edad": 36,
-    "observaciones": "Equipo Santiago vedeira \nChófer Varela Cristian \nMóvil JP\nCarta 1730323\nHora 03:46\nDirección Uruguay 656\nDevolución el equipo de rda se hace presente junto con Ordenamiento urbano y nos encontramos con una persona en situación de calle se los asiste y rechaza todo tipo de ayuda se muestran enojados y nos insultan se los invita a dejar el espacio siendo las 03:53 el equipo se retira y continúa con el recorrido",
-    "dni": "19138777",
-    "dni_hash": "a0f7a860397547f2ccfb4bcc86162ab6:9a66a720e2a1047a9b52b67ab249a93d34e98de466d7768e90d2f826373f687f",
-    "submission_time": "2026-06-15T02:59:40"
   },
   {
     "id": 780777088,
@@ -92,7 +44,7 @@
     "edad": 44,
     "observaciones": "Se contacta a Benítez el cual refiere que Mariela operadora de la Red del turno mañana le realiza seguimiento. \nRechaza ingresar a un CIS.",
     "dni": "29072688",
-    "dni_hash": "51eefd467170169a5d2efbe5eb729acb:aa8086b61a9efb4dc607da3a7d105d4b93db96e5f8e5e908e2893ae37f2eed3f",
+    "dni_hash": "15ff4b06213dcd26f66a6c266ac9ca5b:7801cf6260161bcb234596a66dafb61ab02780bdba38d83fbfcd5b4f9cd024b7",
     "submission_time": "2026-06-15T08:35:28"
   },
   {
@@ -108,7 +60,7 @@
     "edad": 36,
     "observaciones": null,
     "dni": "35097638",
-    "dni_hash": "81d4878ce1651bbb08cdfd3c95be3bbc:3fc16e1208b99bce6ffd40bfe19bf562ecdce69226e06e11ff39d1f393db8291",
+    "dni_hash": "7fea55fe4ddec3e8f6bfd77b3e217342:fe1ab8b5ca4918b4983d751425ff424acfeb0c673b0fdd176a623a19ed87f659",
     "submission_time": "2026-06-15T08:35:28"
   },
   {
@@ -124,7 +76,7 @@
     "edad": 42,
     "observaciones": null,
     "dni": "31741777",
-    "dni_hash": "1ea67646a8fead36e12bdec744236958:3bbb411168fa3cf2a76c2844c83530cba7cd880db874935ddadd736f9c08ec9c",
+    "dni_hash": "1791240b0bf4e264b008b33435cbcbdd:13f3849471a262b658630af7c2f52d18bcf0e25344caf2f6457066d7a0ddbbde",
     "submission_time": "2026-06-15T08:35:29"
   },
   {
@@ -140,7 +92,7 @@
     "edad": 68,
     "observaciones": null,
     "dni": "92359996",
-    "dni_hash": "fdfb307db567664b2829ba40c46c9992:b81212e832680bfd57da183564f84ccb319f9538ff681a51e9269c4a3b94ec6d",
+    "dni_hash": "fb9cb851b2d054ffab3f4934bd4d610b:e89cbbb8ad070951b5970f9fe9c5ed404af37aea51a8c6c65b96c80f94a8c2ff",
     "submission_time": "2026-06-15T08:35:29"
   },
   {
@@ -156,7 +108,7 @@
     "edad": 31,
     "observaciones": "El señor acepta el kit y continúa durmiendo",
     "dni": "37730986",
-    "dni_hash": "f2a9b4e237f36677705c0070cf3cfaec:83ef89247d9c5a892cfb04c16677e54be016778e441bdd2453d4ce5ac72d4b44",
+    "dni_hash": "d84675e7a2b13047facc1fb672403fa1:a2a08b4b6404dc62e8c7831de1094880c3bf99fffed5eca55c5b13304d267aa4",
     "submission_time": "2026-06-15T08:59:22"
   },
   {
@@ -172,7 +124,7 @@
     "edad": 55,
     "observaciones": "El señor se encuentra en una parada de colectivo, refiere estás bien,  rechazó Micro, pero aceptó el KIT frío, el cual le hicimos la entrega.",
     "dni": "21982383",
-    "dni_hash": "94084a76762e6c674eaed74843016242:b3292a389563e1be68a131c425ad11c155c1526c32e84e3fbfa1a20f5090fd24",
+    "dni_hash": "a4f68195a87f0dea2f91d4db8d25bf90:bca04defd00245f0d223d077056434fe8e21d5a3ad371ea9257c668ab6c4d972",
     "submission_time": "2026-06-15T08:59:22"
   },
   {
@@ -188,7 +140,7 @@
     "edad": 65,
     "observaciones": "Siendo las 02:50 llegamos a Av. Brasil 1100 con la intención de encontrarnos con Luis Martinez a quien deberíamos brindarle asistencia. \nEn el lugar encontramos a la persona que la carta refiere. \nÉl se encuentra vestido con un suéter azul muy finito el cual no le está cubriendo el abdomen y parece que le queda corto. Su pantalón no llega a cubrile los talones y tiene el pie izquierdo descalzo. Está temblando del frío sus dientes crujen por el mismo.\nSe le ofrece la opción de ir a un dispositivo CIS, pero él lo rechaza porque afirma tener un lugar donde quedarse pero que por problemas de convivencia habría quedado en la calle hace rato. \nNegado a querer acompañarnos, se le deja un kit de invierno para que esté abrigado.\n\nLuis Alberto Martinez Fleitas.\nDNI: 94241132.\n18/12/1956.",
     "dni": "94241132",
-    "dni_hash": "a4b41ffc32ae0f1d39815c7e3b92f5ee:4587b753aea09fec19f972ab7fb9bf80ea7f62f37f1c53c8b5414308305fa6fb",
+    "dni_hash": "2b66fba5e79a083163f9137970a25241:3d3a9ed996747d44fea5127aedbe3ed858bc9d450bf979480987faf010a327f1",
     "submission_time": "2026-06-15T08:59:54"
   },
   {
@@ -204,7 +156,7 @@
     "edad": 53,
     "observaciones": "La persona se encontraba durmiendo dentro de un cajero automático del banco provincia donde se le ofreció un parador o micro y lo rechazó se le ofreció el kit de frío y fue aceptado",
     "dni": "23193527",
-    "dni_hash": "bddc1feab239c2c4d201a5b9c1840bfa:692501ef0958dd8c33e8c49c0272c800da62ef5891512c3c984c8f9f64074e6f",
+    "dni_hash": "1984d9f7d792f7ef2a1c6f0aa84a0efd:0cb424cd03a09858afdb77ec93d49813fcded701e250d4fcdae3bf393b0fe045",
     "submission_time": "2026-06-15T09:00:05"
   },
   {
@@ -220,7 +172,7 @@
     "edad": 40,
     "observaciones": "- Dirección del punto: Francisco beiro 327\n- ⁠Hora: 05:00\n- ⁠N carta: 1732445\n*.Acepta entrevista?:si \n*.Se observan pertenencias?: no\n.*Ranchada?: no\n.*Nombre, apellido, identidad de la/s persona/s: Ricardo Andrés ocampo\n.DNI :32341826\n.Fecha de nacimiento: 22/05/1986\n.Nacionalidad: Argentino\n.Trabaja: changas \n.Enfermedad: no\n. devolución: nos dirigimos a la calle beiró al 327 donde nos encontramos con con Ricardo Andrés Ocampo de 40 años donde refiere que no quiere ir a ningún parador ni micro sí se le hace entrega del kit de frío con él estaba Agustín maximiliano herarol de 24 años DNI 43404790 fecha de nacimiento 10/02/2002 argentino donde él quiere ir a un parador pero no hay más vacantes donde se le ofrece el kit de frío y fue aceptado y se retiraron del lugar",
     "dni": "32341826",
-    "dni_hash": "5b0bd6ed7faad9ef59626a7da8b6193e:2bc32c6000e74668356ddec27d7a653f889d67a1a63fc8ea56e5a8ab90ec415f",
+    "dni_hash": "ccbb988c4b88765741597543c4f6be2e:6eae740a9314a3755d1eebdcc25a629b8a5312cbec7dbbeeff7d0700589e4404",
     "submission_time": "2026-06-15T09:00:05"
   },
   {
@@ -236,7 +188,7 @@
     "edad": 24,
     "observaciones": "- Dirección del punto: Francisco beiro 327\n- ⁠Hora: 05:00\n- ⁠N carta: 1732445\n*.Acepta entrevista?:si \n*.Se observan pertenencias?: no\n.*Ranchada?: no\n.*Nombre, apellido, identidad de la/s persona/s: Ricardo Andrés ocampo\n.DNI :32341826\n.Fecha de nacimiento: 22/05/1986\n.Nacionalidad: Argentino\n.Trabaja: changas \n.Enfermedad: no\n. devolución: nos dirigimos a la calle beiró al 327 donde nos encontramos con con Ricardo Andrés Ocampo de 40 años donde refiere que no quiere ir a ningún parador ni micro sí se le hace entrega del kit de frío con él estaba Agustín maximiliano herarol de 24 años DNI 43404790 fecha de nacimiento 10/02/2002 argentino donde él quiere ir a un parador pero no hay más vacantes donde se le ofrece el kit de frío y fue aceptado y se retiraron del lugar",
     "dni": "43404790",
-    "dni_hash": "ad1d2b7c97a4ab03edf18a3796fcf19f:b52b69cc5cb453c3c5829708e23d3f3870d757521d85ef715a450f574565cc88",
+    "dni_hash": "412ba728861f967ce1a518cd0a21b9de:450d02cb1d5709daf53fbfa7f0ab939dcc1a36040cb3aaf4eafebce5458a98b8",
     "submission_time": "2026-06-15T09:00:05"
   },
   {
@@ -252,7 +204,7 @@
     "edad": 27,
     "observaciones": "Se contacto masculino durmiendo con cartones y mantas rechaza herramientas del programa",
     "dni": "41584613",
-    "dni_hash": "c62406392bf73b5c174018caeccf8673:0110f88c5a032a7e24562cb7cfeb4fe77bf074a04aec1a1be9140213509c08ee",
+    "dni_hash": "4fe81ae35df5ae33a1d93929b808b4d7:b321e011369979beaa35bd7052cf0eac86957e9c6601b3633b1650b51de26e80",
     "submission_time": "2026-06-15T09:15:33"
   },
   {
@@ -268,7 +220,7 @@
     "edad": 52,
     "observaciones": "Se contacto masculino tapado con bolsas de nylon rechaza herramientas del programa",
     "dni": "23524561",
-    "dni_hash": "8de6756e8681e427679ecfe269c3e295:a07fe2e6ac32c707460761c6da7bb0f832ff00d395c1d168c102e8b711776299",
+    "dni_hash": "706a63f142228dc3972d27abc27f0bd5:b9ccdb590f85949920c8fe219ee5a5356701c5c0f8aa19e684e8bb83935ee6ef",
     "submission_time": "2026-06-15T09:15:34"
   },
   {
@@ -284,7 +236,7 @@
     "edad": 41,
     "observaciones": "Durmiendo con poco abrigo",
     "dni": "30884755",
-    "dni_hash": "5532a801d51cb9614ede4fd9fa8ccba4:96e7a2c57acf490f3a4a3e2c07941f30207bc3fc412b298b400093689db259bf",
+    "dni_hash": "fb6a0df0414c15c0b19957f6dfbd5489:6ad0a136ae22cbe447fc48314c6dbef6ff2aead130c5051cedf3b2def756b8f5",
     "submission_time": "2026-06-15T09:15:34"
   },
   {
@@ -300,7 +252,7 @@
     "edad": 53,
     "observaciones": "Durmiendo con poco abrigo",
     "dni": "23433031",
-    "dni_hash": "e71f4ec8a71724ca89da66a0c18b73c8:383e35e26521b009fb84fecdc8ba865f52386774836793fb5a89546e2a3c4ff2",
+    "dni_hash": "0711ff00e0762fe6ccd30b09b528e554:ba6bc89fa51369373cd542e0931d6c1fe7e1895bb98bc8f082640c480d6ebe88",
     "submission_time": "2026-06-15T09:15:34"
   },
   {
@@ -316,7 +268,7 @@
     "edad": 36,
     "observaciones": "Poco abrigo",
     "dni": "34303691",
-    "dni_hash": "0d710a400dece459f6466bad25cf1ea3:2f52bf404029065eb60dbd523503f89af252232627504ea9e2d8231cd47c49fa",
+    "dni_hash": "f7f2838f53a21844c89deef32fbafd79:b36df3debf6121b46d275d9d2858da1dc967f10a4ab069024cbe5806f76d9214",
     "submission_time": "2026-06-15T09:15:35"
   },
   {
@@ -332,7 +284,7 @@
     "edad": 36,
     "observaciones": "Poca ropa",
     "dni": "34983795",
-    "dni_hash": "1424feab8143e02d43c64d46868e8627:a128b352ba0b67ea367127a6e50c89ff01f6fb7261f844a799622f10550f2c04",
+    "dni_hash": "2042f3c7bc3c8600409587c4663cd0ea:3f1193258125e96cefc8fd82a7c680d3844d14add4e05b9a94c46a12cf865053",
     "submission_time": "2026-06-15T09:15:35"
   },
   {
@@ -348,7 +300,7 @@
     "edad": 55,
     "observaciones": "Está temblando de frío solo tiene una frazada no tiene ropa de abrigo \nTiene incontinencia renal hace un día que no come bien y no tomo líquido",
     "dni": "22885149",
-    "dni_hash": "70317d1ddd43fb8d763635f3726d3f74:bb3021038f9ef49343aac326a58d34e8a3495a82efafae6b802840a161c4c8f4",
+    "dni_hash": "01ae20378b7d87b3ff61d76ab8e337cc:ba1367995211649b51c9de889e9533ecec0e5740f009633dadfcf0b80851a378",
     "submission_time": "2026-06-15T09:16:36"
   },
   {
@@ -364,7 +316,7 @@
     "edad": 50,
     "observaciones": "En situación de calle",
     "dni": "24940847",
-    "dni_hash": "46e2477e9e070ea0f6adb71bfb2a5ee3:b481d557082c1903846cddb3202978c1b816e003da9ec7b40a4b92b886a9c371",
+    "dni_hash": "94dad1692170c7b362929b3b50f151ff:1220c084423c9c67f2ae3785aee1bb94f1e7a64fe599ebd12b1d03849b96a00f",
     "submission_time": "2026-06-15T10:35:06"
   },
   {
@@ -380,7 +332,7 @@
     "edad": 38,
     "observaciones": "Si",
     "dni": "26078695",
-    "dni_hash": "d7cd3ece02927d34aa8818cc54964d6e:c099c3cc68c2ea421efb25ab4111b8cc28193d464188f2d9353b9bb603e38a97",
+    "dni_hash": "a3cc0f41e1412f93380dd82e31b5a196:2d372cdb02d1cdacc3cf6c7bae27e2358fbcc7fc447183a7d6cde6c24d7f7233",
     "submission_time": "2026-06-15T10:35:06"
   },
   {
@@ -396,71 +348,7 @@
     "edad": 39,
     "observaciones": "Si",
     "dni": "29995284",
-    "dni_hash": "85c9c19e32ad4c95d1d0fbed08a31b66:cd427a6411e9cd7a3a6da8a65b4650efd392522369b34f28cf86b6c75dc354fe",
+    "dni_hash": "9efeedf2469e43e26cd0c0d565ab2a88:327ee7570fb98504550bdce440ee2fe1c0f9a0b6bbbe3f08297ddf97e863b53b",
     "submission_time": "2026-06-15T10:35:06"
-  },
-  {
-    "id": 781796181,
-    "lat": -34.6011552,
-    "lon": -58.3837922,
-    "operator_id": "19138777",
-    "id_kit": "d19e9c06-7278-4390-a8ee-8f58e3ce53a5",
-    "nombre_apellido": "Santiago vedeira",
-    "nombre": "Santiago vedeira",
-    "apellido": null,
-    "genero": "masculino",
-    "edad": 36,
-    "observaciones": "Equipo Santiago vedeira \nChófer: Varela Cristian \nMóvil:*JP \nCarta:1733912\nHora 23:17\nDirección: libertad y Tucumán \nNombre y apellido \nDNI \nFN \nDevolución El equipo de RDA se hace presente en el lugar mencionado en la carta y no se contacta a nadie en el lugar se hace un recorrido por el sitio y tampoco se observan pertenencias ni a nadie en el lugar siendo las 23:24 el equipo se retira y continúa su recorrido",
-    "dni": "19138777",
-    "dni_hash": "4e4bba6529296a2b249242d787c79af2:59b2e48df474e52f35dff45ad284fae656c2af9b89430042f22677aa1dfa1505",
-    "submission_time": "2026-06-16T08:40:09"
-  },
-  {
-    "id": 781796185,
-    "lat": -34.6037059,
-    "lon": -58.3811373,
-    "operator_id": "19138777",
-    "id_kit": "a36feaac-720a-4943-9b50-4bbb05bfcfd3",
-    "nombre_apellido": "Santiago vedeira",
-    "nombre": "Santiago vedeira",
-    "apellido": null,
-    "genero": "masculino",
-    "edad": 36,
-    "observaciones": "Equipo Santiago vedeira \nChófer Varela Cristian \nMóvil JP \nHora 23:48\nCarta 1733983\nNombre y apellido \nDNI \nFN \nDireccion Carlos Pellegrini y avenida corrientes \nDevolución: el equipo de RDA se hace presente en el lugar asignado en la carta no se contacta a ninguna persona en el lugar se hace un recorrido y tampoco se observan pertenencias ni nadie en el lugar siendo las 23:53 el equipo se retira y continúa su recorrido",
-    "dni": "19138777",
-    "dni_hash": "58e361730084999738a99f9ba6938bff:cd88146662ea8fa8a36a852963a9eec555fe213a0f7c806f70cfb0a106692143",
-    "submission_time": "2026-06-16T08:40:09"
-  },
-  {
-    "id": 781796191,
-    "lat": -34.62804,
-    "lon": -58.3842733,
-    "operator_id": "19138777",
-    "id_kit": "9ee28e0c-614d-4840-8052-4d3c6ece3c13",
-    "nombre_apellido": "Santiago vedeira",
-    "nombre": "Santiago vedeira",
-    "apellido": null,
-    "genero": "masculino",
-    "edad": 36,
-    "observaciones": "Equipo Santiago vedeira \nChófer Varela Cristian \nMóvil JP \nHora 00:20\nCarta 1734004\nNombre y apellido \nDNI \nFN \nDireccion Brasil y Santiago del estero \nDevolución: el equipo de RDA se hace presente en el lugar asignado en la carta no se contacta a ninguna persona en el lugar se hace un recorrido y tampoco se observan pertenencias ni nadie en el lugar y tampoco se encuentra la oficial Godoy siendo las 00:29el equipo se retira y continúa su recorrido",
-    "dni": "19138777",
-    "dni_hash": "9f1ccef145c0ea3f9d2644ff3b5cd7f3:23bdab9617e901ad9dbaf9c79acfa0afc77610f663658b9be775fe5a80350842",
-    "submission_time": "2026-06-16T08:40:10"
-  },
-  {
-    "id": 781796203,
-    "lat": -34.6080005,
-    "lon": -58.3721225,
-    "operator_id": "19138777",
-    "id_kit": "3bbfae9d-72a5-4581-865a-cab28f4667ed",
-    "nombre_apellido": "Santiago vedeira",
-    "nombre": "Santiago vedeira",
-    "apellido": null,
-    "genero": "masculino",
-    "edad": 36,
-    "observaciones": "Equipo Santiago vedeira \nChófer Varela Cristian \nMóvil JP \nHora 01:33\nCarta 1734025\nNombre y apellido Gabriel Mariano Toranzo \nDNI 38973446\nFN 17/7/95\nDireccion Rivadavia y reconquista \nDevolución: el equipo de RDA se hace presente en el lugar asignado en la carta y nos encontramos con Gabriel Toranzo de 30 años de edad quien refiere que ya lleva varios días en calle y necesita un lugar donde poder descansar ya que la está pasando muy mal refiere que tiene la denuncia de extravió solicita ingreso a Cis el equipo de RDA espera vacante y le salió vacante en Cis Garay con ingreso exitoso siendo las 01:40 el equipo se retira y continúa con su Recorrido",
-    "dni": "19138777",
-    "dni_hash": "c364b93c72230ddb31e403c182df56aa:62e844704ca8e50e401446a13398e5ae873eb26aacd90b7fabb4a227753e6562",
-    "submission_time": "2026-06-16T08:40:10"
   }
 ]
