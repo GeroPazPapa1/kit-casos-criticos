@@ -10484,5 +10484,39 @@
     "_submission_time": "2026-06-23T16:31:34",
     "_validation_status": {},
     "_submitted_by": "seguimiento_casos_criticos2026"
+  },
+  {
+    "_id": 789806111,
+    "formhub/uuid": "58407a357bcd41138f5a8fa282eb48ac",
+    "Tipo_de_derivaci_n": "espontanea",
+    "fecha": "2026-06-23T00:00:00.000-03:00",
+    "apellido": "Esquivel ",
+    "nombre": "Alejandra ",
+    "dni": "27023918",
+    "Direcci_n_de_la_inte_ci_n_Calle_y_altura": "Combate de los pozos 1280 ",
+    "comuna": "3",
+    "ubicacion": "-34.6239606 -58.3924857 42.79999923706055 12.997",
+    "seguimiento_caso": "no",
+    "nombre_brigadista": "Ontivero ",
+    "lugar_intervencion": "dipa",
+    "consumo_activo": "no",
+    "riesgo_sanitario": "verde_con_pph",
+    "necesario_seguimiento": "no",
+    "derivo_same": "no",
+    "descripcion": "Femenino se presenta con dolor de cabeza. Refiere no tener enfermedades de base y no tomar medicación.\nAl tomar los SV se encuentra TA elevada 170/100. Se procede a llamar a Hakuna la cual autoriza a dar medicamento amlodipina 5mg y volver a tomar TA dps de 40m.\nAl querer volver a evaluar no se le encuentra a la femenino en el dispositivo.",
+    "__version__": "vJpKQ6qcHg6RGzqHJTTmVS",
+    "meta/instanceID": "uuid:99bfba7a-baa7-4248-bb3e-ca02c012dfc0",
+    "_xform_id_string": "aD4NLofRmqgQnSzc5MdqSB",
+    "_uuid": "99bfba7a-baa7-4248-bb3e-ca02c012dfc0",
+    "meta/rootUuid": "uuid:99bfba7a-baa7-4248-bb3e-ca02c012dfc0",
+    "_attachments": [],
+    "_status": "submitted_via_web",
+    "_geolocation": [
+      -34.6239606,
+      -58.3924857
+    ],
+    "_submission_time": "2026-06-23T16:37:19",
+    "_validation_status": {},
+    "_submitted_by": "seguimiento_casos_criticos2026"
   }
 ]
