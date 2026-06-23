@@ -6,6 +6,36 @@ import { PieChart, Pie, Cell, Tooltip, Legend, ResponsiveContainer } from 'recha
 
 const normalizarDni = (valor: string) => valor.replace(/\D/g, '')
 
+const escaparCsv = (valor: unknown) => {
+  const texto = String(valor ?? '')
+  return `"${texto.replace(/"/g, '""')}"`
+}
+
+const descargarCsv = (
+  nombreArchivo: string,
+  encabezados: string[],
+  filas: Array<Array<unknown>>,
+) => {
+  const contenido = [
+    encabezados.map(escaparCsv).join(','),
+    ...filas.map(fila => fila.map(escaparCsv).join(',')),
+  ].join('\n')
+
+  const blob = new Blob([`\uFEFF${contenido}`], {
+    type: 'text/csv;charset=utf-8;',
+  })
+
+  const url = URL.createObjectURL(blob)
+  const link = document.createElement('a')
+
+  link.href = url
+  link.download = nombreArchivo
+  document.body.appendChild(link)
+  link.click()
+  document.body.removeChild(link)
+  URL.revokeObjectURL(url)
+}
+
 export function KitFrioDashboard() {
   const state = useEntregas()
   const [fechaFiltro, setFechaFiltro] = useState('')
@@ -118,28 +148,57 @@ export function KitFrioDashboard() {
       return acc
     }, {}),
   ).sort((a, b) => b[1] - a[1])
-  const datosGenero = kitsPorGenero.map(([genero, total]) => ({
-  genero,
-  total,
-}))
 
-const coloresGenero = [
-  '#06b6d4',
-  '#10b981',
-  '#f59e0b',
-  '#ef4444',
-  '#8b5cf6',
-]
+  const datosGenero = kitsPorGenero.map(([genero, total]) => ({
+    genero,
+    total,
+  }))
+
+  const coloresGenero = [
+    '#06b6d4',
+    '#10b981',
+    '#f59e0b',
+    '#ef4444',
+    '#8b5cf6',
+  ]
 
   const maxFecha = Math.max(...kitsPorFecha.map(([, total]) => total), 1)
   const maxAcumulado = Math.max(...entregasAcumuladas.map(([, total]) => total), 1)
 
+  const descargarKitFrioCsv = () => {
+    descargarCsv(
+      'kit_frio.csv',
+      [
+        'ID kit',
+        'DNI operador',
+        'DNI beneficiario',
+        'Nombre y apellido',
+        'Género',
+        'Edad',
+        'Observaciones',
+        'Fecha',
+        'Latitud',
+        'Longitud',
+      ],
+      entregasFiltradas.map(e => [
+        e.id_kit ?? e.id,
+        e.operator_id ?? '',
+        e.dni ?? '',
+        e.nombre_apellido ?? e.nombre ?? '',
+        e.genero ?? '',
+        e.edad ?? '',
+        e.observaciones ?? '',
+        e.submission_time ?? '',
+        e.lat,
+        e.lon,
+      ]),
+    )
+  }
 
   return (
     <div className="flex flex-col min-h-screen bg-slate-900">
       <Header total={meta.total} timestamp={meta.timestamp} />
 
-      {/* KPIs principales */}
       <section className="bg-slate-900 border-b border-slate-700 p-4 flex-shrink-0">
         <div className="grid grid-cols-1 md:grid-cols-3 xl:grid-cols-6 gap-4">
           <div className="bg-slate-800 rounded-lg p-4">
@@ -174,7 +233,6 @@ const coloresGenero = [
         </div>
       </section>
 
-      {/* Segmentadores y buscadores */}
       <section className="bg-slate-800 border-b border-slate-700 p-4 flex-shrink-0">
         <div className="flex flex-wrap items-end gap-4">
           <div>
@@ -228,7 +286,6 @@ const coloresGenero = [
         </div>
       </section>
 
-      {/* Gráficos sugeridos */}
       <section className="bg-slate-900 border-b border-slate-700 p-4 flex-shrink-0">
         <div className="grid grid-cols-1 xl:grid-cols-3 gap-4">
           <div className="bg-slate-800 rounded-lg border border-slate-700 p-4">
@@ -305,51 +362,60 @@ const coloresGenero = [
               </div>
             ) : (
               <div className="h-[260px]">
-  <ResponsiveContainer width="100%" height="100%">
-    <PieChart>
-      <Pie
-        data={datosGenero}
-        dataKey="total"
-        nameKey="genero"
-        cx="50%"
-        cy="50%"
-        outerRadius={80}
-        label={({ name, percent }) =>
-  `${name ?? ''} ${(((percent ?? 0) as number) * 100).toFixed(0)}%`
-}
-      >
-        {datosGenero.map((_, index) => (
-          <Cell
-            key={index}
-            fill={coloresGenero[index % coloresGenero.length]}
-          />
-        ))}
-      </Pie>
+                <ResponsiveContainer width="100%" height="100%">
+                  <PieChart>
+                    <Pie
+                      data={datosGenero}
+                      dataKey="total"
+                      nameKey="genero"
+                      cx="50%"
+                      cy="50%"
+                      outerRadius={80}
+                      label={({ name, percent }) =>
+                        `${name ?? ''} ${(((percent ?? 0) as number) * 100).toFixed(0)}%`
+                      }
+                    >
+                      {datosGenero.map((_, index) => (
+                        <Cell
+                          key={index}
+                          fill={coloresGenero[index % coloresGenero.length]}
+                        />
+                      ))}
+                    </Pie>
 
-      <Tooltip />
+                    <Tooltip />
 
-      <Legend
-        wrapperStyle={{
-          color: '#fff',
-          fontSize: '12px',
-        }}
-      />
-    </PieChart>
-  </ResponsiveContainer>
-</div>
+                    <Legend
+                      wrapperStyle={{
+                        color: '#fff',
+                        fontSize: '12px',
+                      }}
+                    />
+                  </PieChart>
+                </ResponsiveContainer>
+              </div>
             )}
           </div>
         </div>
       </section>
 
-      {/* Detalle compacto */}
       <section className="bg-slate-900 border-b border-slate-700 p-4 flex-shrink-0">
         <div className="bg-slate-800 rounded-lg border border-slate-700 overflow-hidden">
-          <div className="px-4 py-3 border-b border-slate-700">
-            <h2 className="text-white text-sm font-semibold">Detalle de entregas</h2>
-            <p className="text-slate-400 text-xs">
-              Registros provenientes del formulario Kit Frío
-            </p>
+          <div className="px-4 py-3 border-b border-slate-700 flex items-center justify-between gap-4">
+            <div>
+              <h2 className="text-white text-sm font-semibold">Detalle de entregas</h2>
+              <p className="text-slate-400 text-xs">
+                Registros provenientes del formulario Kit Frío
+              </p>
+            </div>
+
+            <button
+              onClick={descargarKitFrioCsv}
+              disabled={entregasFiltradas.length === 0}
+              className="bg-cyan-600 hover:bg-cyan-500 disabled:bg-slate-700 disabled:text-slate-400 text-white px-3 py-2 rounded border border-cyan-500 disabled:border-slate-600 text-sm"
+            >
+              Descargar CSV
+            </button>
           </div>
 
           <div className="overflow-x-auto max-h-40">
@@ -400,7 +466,6 @@ const coloresGenero = [
         </div>
       </section>
 
-      {/* Mapa */}
       <section className="bg-slate-900 p-4">
         <div className="mb-2">
           <h2 className="text-white text-sm font-semibold">Mapa de puntos de entrega</h2>

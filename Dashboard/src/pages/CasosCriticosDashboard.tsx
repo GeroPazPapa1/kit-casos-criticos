@@ -3,10 +3,10 @@ import { useCasosCriticos } from '@/hooks/useCasosCriticos'
 import { MapView } from '@/components/MapView'
 
 const opcionesRiesgo = [
-  'verde_sin_pph',
-  'verde_con_pph',
-  'amarillo',
-  'rojo',
+  { value: 'verde_sin_pph', label: 'Código Verde sin PPH' },
+  { value: 'verde_con_pph', label: 'Código Verde con PPH' },
+  { value: 'amarillo', label: 'Código Amarillo' },
+  { value: 'rojo', label: 'Código Rojo' },
 ]
 
 const normalizar = (valor: unknown) =>
@@ -87,6 +87,39 @@ const esSi = (valor: string) => {
 
 const mostrar = (valor: string) => valor || '—'
 
+const formatearRiesgo = (valor: string) =>
+  opcionesRiesgo.find(opcion => opcion.value === valor)?.label || valor || '—'
+
+const escaparCsv = (valor: unknown) => {
+  const texto = String(valor ?? '')
+  return `"${texto.replace(/"/g, '""')}"`
+}
+
+const descargarCsv = (
+  nombreArchivo: string,
+  encabezados: string[],
+  filas: Array<Array<unknown>>,
+) => {
+  const contenido = [
+    encabezados.map(escaparCsv).join(','),
+    ...filas.map(fila => fila.map(escaparCsv).join(',')),
+  ].join('\n')
+
+  const blob = new Blob([`\uFEFF${contenido}`], {
+    type: 'text/csv;charset=utf-8;',
+  })
+
+  const url = URL.createObjectURL(blob)
+  const link = document.createElement('a')
+
+  link.href = url
+  link.download = nombreArchivo
+  document.body.appendChild(link)
+  link.click()
+  document.body.removeChild(link)
+  URL.revokeObjectURL(url)
+}
+
 export function CasosCriticosDashboard() {
   const state = useCasosCriticos()
   const [riesgoFiltro, setRiesgoFiltro] = useState('')
@@ -135,12 +168,48 @@ export function CasosCriticosDashboard() {
 
   const casosCriticos = casosFiltrados.filter(caso => {
     const riesgo = getRiesgoSanitario(caso)
-    return riesgo === 'Código Amarillo' || riesgo === 'Código Rojo'
+    return riesgo === 'amarillo' || riesgo === 'rojo'
   }).length
 
   const casosSame = casosFiltrados.filter(caso => esSi(getSame(caso))).length
   const trasladosHospital = casosFiltrados.filter(caso => esSi(getHospital(caso))).length
   const casosSeguimiento = casosFiltrados.filter(caso => esSi(getSeguimiento(caso))).length
+
+  const descargarCasosCsv = () => {
+    descargarCsv(
+      'casos_criticos.csv',
+      [
+        'Fecha',
+        'DNI operador',
+        'DNI beneficiario',
+        'Nombre',
+        'Apellido',
+        'Riesgo sanitario',
+        'Comuna',
+        'Dirección',
+        'Consumo activo',
+        'Desea ingresar a CIS',
+        'SAME',
+        'Traslado hospitalario',
+        'Seguimiento',
+      ],
+      casosFiltrados.map(caso => [
+        getFecha(caso),
+        getDniOperador(caso),
+        getDni(caso),
+        getNombre(caso),
+        getApellido(caso),
+        formatearRiesgo(getRiesgoSanitario(caso)),
+        getComuna(caso),
+        getDireccion(caso),
+        getConsumo(caso),
+        getCis(caso),
+        getSame(caso),
+        getHospital(caso),
+        getSeguimiento(caso),
+      ]),
+    )
+  }
 
   return (
     <div className="flex flex-col min-h-screen bg-slate-900 text-white">
@@ -199,8 +268,8 @@ export function CasosCriticosDashboard() {
             >
               <option value="">Todos los riesgos</option>
               {opcionesRiesgo.map(riesgo => (
-                <option key={riesgo} value={riesgo}>
-                  {riesgo}
+                <option key={riesgo.value} value={riesgo.value}>
+                  {riesgo.label}
                 </option>
               ))}
             </select>
@@ -247,13 +316,23 @@ export function CasosCriticosDashboard() {
 
       <section className="p-4 bg-slate-900 border-b border-slate-700 flex-shrink-0">
         <div className="bg-slate-800 rounded-lg border border-slate-700 overflow-hidden">
-          <div className="px-4 py-3 border-b border-slate-700">
-            <h2 className="text-white text-sm font-semibold">
-              Detalle de intervenciones
-            </h2>
-            <p className="text-slate-400 text-xs">
-              Registros filtrados del formulario de casos críticos sanitarios.
-            </p>
+          <div className="px-4 py-3 border-b border-slate-700 flex items-center justify-between gap-4">
+            <div>
+              <h2 className="text-white text-sm font-semibold">
+                Detalle de intervenciones
+              </h2>
+              <p className="text-slate-400 text-xs">
+                Registros filtrados del formulario de casos críticos sanitarios.
+              </p>
+            </div>
+
+            <button
+              onClick={descargarCasosCsv}
+              disabled={casosFiltrados.length === 0}
+              className="bg-cyan-600 hover:bg-cyan-500 disabled:bg-slate-700 disabled:text-slate-400 text-white px-3 py-2 rounded border border-cyan-500 disabled:border-slate-600 text-sm"
+            >
+              Descargar CSV
+            </button>
           </div>
 
           <div className="overflow-x-auto max-h-72">
@@ -308,7 +387,7 @@ export function CasosCriticosDashboard() {
                         {mostrar(getApellido(caso))}
                       </td>
                       <td className="px-4 py-2 text-white">
-                        {mostrar(getRiesgoSanitario(caso))}
+                        {formatearRiesgo(getRiesgoSanitario(caso))}
                       </td>
                       <td className="px-4 py-2 text-white">
                         {mostrar(getComuna(caso))}
