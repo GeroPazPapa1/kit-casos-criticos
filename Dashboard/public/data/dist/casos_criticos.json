@@ -10171,5 +10171,40 @@
     "_submission_time": "2026-06-23T07:11:49",
     "_validation_status": {},
     "_submitted_by": "seguimiento_casos_criticos2026"
+  },
+  {
+    "_id": 789043184,
+    "formhub/uuid": "58407a357bcd41138f5a8fa282eb48ac",
+    "Tipo_de_derivaci_n": "espontanea",
+    "fecha": "2026-06-23T00:00:00.000-03:00",
+    "apellido": "Rieu ",
+    "nombre": "Roberto Carlos ",
+    "dni": "29824988",
+    "comuna": "5",
+    "ubicacion": "-34.6200076 -58.4386108 42.599998474121094 4.983",
+    "seguimiento_caso": "no",
+    "nombre_brigadista": "B.Ontivero",
+    "lugar_intervencion": "calle",
+    "intervencion_red": "no",
+    "quiere_cis": "no",
+    "consumo_activo": "no",
+    "riesgo_sanitario": "verde_sin_pph",
+    "necesario_seguimiento": "manana",
+    "derivo_same": "no",
+    "descripcion": "Se entrega 1 sopa, y matecocido c Facturas ",
+    "__version__": "v8LbbfVhJSTVhXkSfxUzcC",
+    "meta/instanceID": "uuid:3a2e85aa-f400-41c5-8954-8966e6808c53",
+    "_xform_id_string": "aD4NLofRmqgQnSzc5MdqSB",
+    "_uuid": "3a2e85aa-f400-41c5-8954-8966e6808c53",
+    "meta/rootUuid": "uuid:3a2e85aa-f400-41c5-8954-8966e6808c53",
+    "_attachments": [],
+    "_status": "submitted_via_web",
+    "_geolocation": [
+      -34.6200076,
+      -58.4386108
+    ],
+    "_submission_time": "2026-06-23T08:06:01",
+    "_validation_status": {},
+    "_submitted_by": "seguimiento_casos_criticos2026"
   }
 ]
