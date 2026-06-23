@@ -133,7 +133,7 @@ const coloresGenero = [
 
   const maxFecha = Math.max(...kitsPorFecha.map(([, total]) => total), 1)
   const maxAcumulado = Math.max(...entregasAcumuladas.map(([, total]) => total), 1)
-  const maxGenero = Math.max(...kitsPorGenero.map(([, total]) => total), 1)
+
 
   return (
     <div className="flex flex-col min-h-screen bg-slate-900">
@@ -314,9 +314,9 @@ const coloresGenero = [
         cx="50%"
         cy="50%"
         outerRadius={80}
-        label={({ genero, percent }) =>
-          `${genero} ${(percent * 100).toFixed(0)}%`
-        }
+        label={({ name, percent }) =>
+  `${name ?? ''} ${(((percent ?? 0) as number) * 100).toFixed(0)}%`
+}
       >
         {datosGenero.map((_, index) => (
           <Cell
