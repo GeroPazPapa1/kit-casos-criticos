@@ -3,10 +3,10 @@ import { useCasosCriticos } from '@/hooks/useCasosCriticos'
 import { MapView } from '@/components/MapView'
 
 const opcionesRiesgo = [
-  'Código Verde sin PPH',
-  'Código Verde con PPH',
-  'Código Amarillo',
-  'Código Rojo',
+  'verde_sin_pph',
+  'verde_con_pph',
+  'amarillo',
+  'rojo',
 ]
 
 const normalizar = (valor: unknown) =>
@@ -50,6 +50,18 @@ const getDniOperador = (caso: Record<string, unknown>) =>
     'DNI Operador',
   ])
 
+const getNombre = (caso: Record<string, unknown>) =>
+  getCampoTexto(caso, ['nombre', 'Nombre', 'nombre_persona', 'Nombre persona'])
+
+const getApellido = (caso: Record<string, unknown>) =>
+  getCampoTexto(caso, ['apellido', 'Apellido', 'apellido_persona', 'Apellido persona'])
+
+const getComuna = (caso: Record<string, unknown>) =>
+  getCampoTexto(caso, ['comuna', 'Comuna', 'comuna_calculada'])
+
+const getFecha = (caso: Record<string, unknown>) =>
+  getCampoTexto(caso, ['_submission_time', 'submission_time', 'fecha', 'Fecha'])
+
 const getSame = (caso: Record<string, unknown>) =>
   getCampoTexto(caso, ['same', 'SAME', 'derivacion_same', 'Derivación SAME'])
 
@@ -59,10 +71,21 @@ const getHospital = (caso: Record<string, unknown>) =>
 const getSeguimiento = (caso: Record<string, unknown>) =>
   getCampoTexto(caso, ['seguimiento', 'requiere_seguimiento', 'Requiere seguimiento'])
 
+const getDireccion = (caso: Record<string, unknown>) =>
+  getCampoTexto(caso, ['direccion', 'dirección', 'Direccion', 'Dirección'])
+
+const getConsumo = (caso: Record<string, unknown>) =>
+  getCampoTexto(caso, ['consumo_activo', 'consumo_problematico', 'Consumo activo'])
+
+const getCis = (caso: Record<string, unknown>) =>
+  getCampoTexto(caso, ['desea_ingresar_cis', 'cis', 'Desea ingresar a CIS'])
+
 const esSi = (valor: string) => {
   const v = normalizar(valor)
   return v === 'si' || v === 'sí' || v === 'true' || v === '1'
 }
+
+const mostrar = (valor: string) => valor || '—'
 
 export function CasosCriticosDashboard() {
   const state = useCasosCriticos()
@@ -219,6 +242,101 @@ export function CasosCriticosDashboard() {
           >
             Limpiar filtros
           </button>
+        </div>
+      </section>
+
+      <section className="p-4 bg-slate-900 border-b border-slate-700 flex-shrink-0">
+        <div className="bg-slate-800 rounded-lg border border-slate-700 overflow-hidden">
+          <div className="px-4 py-3 border-b border-slate-700">
+            <h2 className="text-white text-sm font-semibold">
+              Detalle de intervenciones
+            </h2>
+            <p className="text-slate-400 text-xs">
+              Registros filtrados del formulario de casos críticos sanitarios.
+            </p>
+          </div>
+
+          <div className="overflow-x-auto max-h-72">
+            <table className="w-full text-sm">
+              <thead className="bg-slate-700 text-slate-300 sticky top-0">
+                <tr>
+                  <th className="px-4 py-2 text-left">Fecha</th>
+                  <th className="px-4 py-2 text-left">DNI operador</th>
+                  <th className="px-4 py-2 text-left">DNI beneficiario</th>
+                  <th className="px-4 py-2 text-left">Nombre</th>
+                  <th className="px-4 py-2 text-left">Apellido</th>
+                  <th className="px-4 py-2 text-left">Riesgo</th>
+                  <th className="px-4 py-2 text-left">Comuna</th>
+                  <th className="px-4 py-2 text-left">Dirección</th>
+                  <th className="px-4 py-2 text-left">Consumo activo</th>
+                  <th className="px-4 py-2 text-left">CIS</th>
+                  <th className="px-4 py-2 text-left">SAME</th>
+                  <th className="px-4 py-2 text-left">Hospital</th>
+                  <th className="px-4 py-2 text-left">Seguimiento</th>
+                </tr>
+              </thead>
+
+              <tbody>
+                {casosFiltrados.length === 0 ? (
+                  <tr>
+                    <td
+                      colSpan={13}
+                      className="px-4 py-6 text-center text-slate-400"
+                    >
+                      No hay intervenciones para los filtros seleccionados.
+                    </td>
+                  </tr>
+                ) : (
+                  casosFiltrados.map((caso, index) => (
+                    <tr
+                      key={index}
+                      className="border-t border-slate-700 hover:bg-slate-700/50"
+                    >
+                      <td className="px-4 py-2 text-white whitespace-nowrap">
+                        {mostrar(getFecha(caso))}
+                      </td>
+                      <td className="px-4 py-2 text-white">
+                        {mostrar(getDniOperador(caso))}
+                      </td>
+                      <td className="px-4 py-2 text-white">
+                        {mostrar(getDni(caso))}
+                      </td>
+                      <td className="px-4 py-2 text-white">
+                        {mostrar(getNombre(caso))}
+                      </td>
+                      <td className="px-4 py-2 text-white">
+                        {mostrar(getApellido(caso))}
+                      </td>
+                      <td className="px-4 py-2 text-white">
+                        {mostrar(getRiesgoSanitario(caso))}
+                      </td>
+                      <td className="px-4 py-2 text-white">
+                        {mostrar(getComuna(caso))}
+                      </td>
+                      <td className="px-4 py-2 text-white min-w-48">
+                        {mostrar(getDireccion(caso))}
+                      </td>
+                      <td className="px-4 py-2 text-white">
+                        {mostrar(getConsumo(caso))}
+                      </td>
+                      <td className="px-4 py-2 text-white">
+                        {mostrar(getCis(caso))}
+                      </td>
+                      <td className="px-4 py-2 text-white">
+                        {mostrar(getSame(caso))}
+                      </td>
+                      <td className="px-4 py-2 text-white">
+                        {mostrar(getHospital(caso))}
+                      </td>
+                      <td className="px-4 py-2 text-white">
+                        {mostrar(getSeguimiento(caso))}
+                      </td>
+                    </tr>
+                  ))
+                )}
+              </tbody>
+            </table>
+          </div>
         </div>
       </section>
 
