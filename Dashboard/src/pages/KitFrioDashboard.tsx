@@ -2,6 +2,7 @@ import { useState } from 'react'
 import { useEntregas } from '@/hooks/useEntregas'
 import { Header } from '@/components/Header'
 import { MapView } from '@/components/MapView'
+import { PieChart, Pie, Cell, Tooltip, Legend, ResponsiveContainer } from 'recharts'
 
 const normalizarDni = (valor: string) => valor.replace(/\D/g, '')
 
@@ -117,6 +118,18 @@ export function KitFrioDashboard() {
       return acc
     }, {}),
   ).sort((a, b) => b[1] - a[1])
+  const datosGenero = kitsPorGenero.map(([genero, total]) => ({
+  genero,
+  total,
+}))
+
+const coloresGenero = [
+  '#06b6d4',
+  '#10b981',
+  '#f59e0b',
+  '#ef4444',
+  '#8b5cf6',
+]
 
   const maxFecha = Math.max(...kitsPorFecha.map(([, total]) => total), 1)
   const maxAcumulado = Math.max(...entregasAcumuladas.map(([, total]) => total), 1)
@@ -291,22 +304,39 @@ export function KitFrioDashboard() {
                 Sin datos para graficar.
               </div>
             ) : (
-              <div className="space-y-3">
-                {kitsPorGenero.map(([genero, total]) => (
-                  <div key={genero}>
-                    <div className="flex justify-between text-xs mb-1">
-                      <span className="text-slate-300">{genero}</span>
-                      <span className="text-white font-semibold">{total}</span>
-                    </div>
-                    <div className="h-3 bg-slate-700 rounded-full overflow-hidden">
-                      <div
-                        className="h-full bg-cyan-500"
-                        style={{ width: `${(total / maxGenero) * 100}%` }}
-                      />
-                    </div>
-                  </div>
-                ))}
-              </div>
+              <div className="h-[260px]">
+  <ResponsiveContainer width="100%" height="100%">
+    <PieChart>
+      <Pie
+        data={datosGenero}
+        dataKey="total"
+        nameKey="genero"
+        cx="50%"
+        cy="50%"
+        outerRadius={80}
+        label={({ genero, percent }) =>
+          `${genero} ${(percent * 100).toFixed(0)}%`
+        }
+      >
+        {datosGenero.map((_, index) => (
+          <Cell
+            key={index}
+            fill={coloresGenero[index % coloresGenero.length]}
+          />
+        ))}
+      </Pie>
+
+      <Tooltip />
+
+      <Legend
+        wrapperStyle={{
+          color: '#fff',
+          fontSize: '12px',
+        }}
+      />
+    </PieChart>
+  </ResponsiveContainer>
+</div>
             )}
           </div>
         </div>
