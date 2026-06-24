@@ -9,6 +9,12 @@ const opcionesRiesgo = [
   { value: 'rojo', label: 'Código Rojo' },
 ]
 
+const opcionesTipoDerivacion = [
+  { value: 'espontanea', label: 'Espontánea' },
+  { value: 'derivado_por_red', label: 'Pedido 108 / derivado por red' },
+  { value: 'derivado_por_red espontanea', label: 'Derivado por red + espontánea' },
+]
+
 const normalizar = (valor: unknown) =>
   String(valor ?? '')
     .toLowerCase()
@@ -36,19 +42,18 @@ const getRiesgoSanitario = (caso: Record<string, unknown>) =>
     'Riesgo Sanitario',
   ])
 
+const getTipoDerivacion = (caso: Record<string, unknown>) =>
+  getCampoTexto(caso, [
+    'Tipo_de_derivaci_n',
+    'tipo_derivacion',
+    'Tipo de derivación',
+  ])
+
 const getDni = (caso: Record<string, unknown>) =>
   getCampoTexto(caso, ['dni', 'DNI', 'documento', 'Documento'])
 
-const getDniOperador = (caso: Record<string, unknown>) =>
-  getCampoTexto(caso, [
-    'operator_id',
-    'dni_operador',
-    'dniOperador',
-    'operador_dni',
-    'dni_operador_red',
-    'DNI operador',
-    'DNI Operador',
-  ])
+const getOperadorBrigadista = (caso: Record<string, unknown>) =>
+  getCampoTexto(caso, ['operador_red', 'nombre_brigadista'])
 
 const getNombre = (caso: Record<string, unknown>) =>
   getCampoTexto(caso, ['nombre', 'Nombre', 'nombre_persona', 'Nombre persona'])
@@ -63,13 +68,30 @@ const getFecha = (caso: Record<string, unknown>) =>
   getCampoTexto(caso, ['_submission_time', 'submission_time', 'fecha', 'Fecha'])
 
 const getSame = (caso: Record<string, unknown>) =>
-  getCampoTexto(caso, ['same', 'SAME', 'derivacion_same', 'Derivación SAME'])
+  getCampoTexto(caso, [
+    'derivo_same',
+    'same',
+    'SAME',
+    'derivacion_same',
+    'Derivación SAME',
+  ])
 
 const getHospital = (caso: Record<string, unknown>) =>
-  getCampoTexto(caso, ['hospital', 'traslado_hospitalario', 'Traslado hospitalario'])
+  getCampoTexto(caso, [
+    'traslado_hospital',
+    'hospital',
+    'traslado_hospitalario',
+    'Traslado hospitalario',
+  ])
 
 const getSeguimiento = (caso: Record<string, unknown>) =>
-  getCampoTexto(caso, ['seguimiento', 'requiere_seguimiento', 'Requiere seguimiento'])
+  getCampoTexto(caso, [
+    'necesario_seguimiento',
+    'seguimiento_caso',
+    'seguimiento',
+    'requiere_seguimiento',
+    'Requiere seguimiento',
+  ])
 
 const getDireccion = (caso: Record<string, unknown>) =>
   getCampoTexto(caso, ['direccion', 'dirección', 'Direccion', 'Dirección'])
@@ -78,7 +100,7 @@ const getConsumo = (caso: Record<string, unknown>) =>
   getCampoTexto(caso, ['consumo_activo', 'consumo_problematico', 'Consumo activo'])
 
 const getCis = (caso: Record<string, unknown>) =>
-  getCampoTexto(caso, ['desea_ingresar_cis', 'cis', 'Desea ingresar a CIS'])
+  getCampoTexto(caso, ['quiere_cis', 'desea_ingresar_cis', 'cis', 'Desea ingresar a CIS'])
 
 const esSi = (valor: string) => {
   const v = normalizar(valor)
@@ -123,8 +145,9 @@ const descargarCsv = (
 export function CasosCriticosDashboard() {
   const state = useCasosCriticos()
   const [riesgoFiltro, setRiesgoFiltro] = useState('')
+  const [tipoDerivacionFiltro, setTipoDerivacionFiltro] = useState('')
   const [dniBeneficiarioFiltro, setDniBeneficiarioFiltro] = useState('')
-  const [dniOperadorFiltro, setDniOperadorFiltro] = useState('')
+  const [operadorBrigadistaFiltro, setOperadorBrigadistaFiltro] = useState('')
 
   if (state.status === 'loading') {
     return (
@@ -148,18 +171,27 @@ export function CasosCriticosDashboard() {
     const cumpleRiesgo =
       !riesgoFiltro || getRiesgoSanitario(caso) === riesgoFiltro
 
+    const cumpleTipoDerivacion =
+      !tipoDerivacionFiltro || getTipoDerivacion(caso) === tipoDerivacionFiltro
+
     const dniBeneficiarioBuscado = normalizarDni(dniBeneficiarioFiltro)
-    const dniOperadorBuscado = normalizarDni(dniOperadorFiltro)
 
     const cumpleDniBeneficiario =
       !dniBeneficiarioBuscado ||
       normalizarDni(getDni(caso)).includes(dniBeneficiarioBuscado)
 
-    const cumpleDniOperador =
-      !dniOperadorBuscado ||
-      normalizarDni(getDniOperador(caso)).includes(dniOperadorBuscado)
+    const operadorBrigadistaBuscado = normalizar(operadorBrigadistaFiltro)
 
-    return cumpleRiesgo && cumpleDniBeneficiario && cumpleDniOperador
+    const cumpleOperadorBrigadista =
+      !operadorBrigadistaBuscado ||
+      normalizar(getOperadorBrigadista(caso)).includes(operadorBrigadistaBuscado)
+
+    return (
+      cumpleRiesgo &&
+      cumpleTipoDerivacion &&
+      cumpleDniBeneficiario &&
+      cumpleOperadorBrigadista
+    )
   })
 
   const personasUnicas = new Set(
@@ -168,23 +200,28 @@ export function CasosCriticosDashboard() {
 
   const casosCriticos = casosFiltrados.filter(caso => {
     const riesgo = getRiesgoSanitario(caso)
-    return riesgo === 'amarillo' || riesgo === 'rojo'
+    return riesgo === 'rojo'
   }).length
 
   const casosSame = casosFiltrados.filter(caso => esSi(getSame(caso))).length
   const trasladosHospital = casosFiltrados.filter(caso => esSi(getHospital(caso))).length
-  const casosSeguimiento = casosFiltrados.filter(caso => esSi(getSeguimiento(caso))).length
+
+  const casosSeguimiento = casosFiltrados.filter(caso => {
+    const seguimiento = normalizar(getSeguimiento(caso))
+    return seguimiento !== '' && seguimiento !== 'no' && seguimiento !== 'false' && seguimiento !== '0'
+  }).length
 
   const descargarCasosCsv = () => {
     descargarCsv(
       'casos_criticos.csv',
       [
         'Fecha',
-        'DNI operador',
+        'Operador / Brigadista',
         'DNI beneficiario',
         'Nombre',
         'Apellido',
         'Riesgo sanitario',
+        'Tipo de derivación',
         'Comuna',
         'Dirección',
         'Consumo activo',
@@ -195,11 +232,12 @@ export function CasosCriticosDashboard() {
       ],
       casosFiltrados.map(caso => [
         getFecha(caso),
-        getDniOperador(caso),
+        getOperadorBrigadista(caso),
         getDni(caso),
         getNombre(caso),
         getApellido(caso),
         formatearRiesgo(getRiesgoSanitario(caso)),
+        getTipoDerivacion(caso),
         getComuna(caso),
         getDireccion(caso),
         getConsumo(caso),
@@ -277,6 +315,24 @@ export function CasosCriticosDashboard() {
 
           <div>
             <label className="block text-slate-400 text-xs uppercase mb-1">
+              Tipo de derivación
+            </label>
+            <select
+              value={tipoDerivacionFiltro}
+              onChange={e => setTipoDerivacionFiltro(e.target.value)}
+              className="bg-slate-700 text-white px-3 py-2 rounded border border-slate-600 min-w-64"
+            >
+              <option value="">Todos los tipos</option>
+              {opcionesTipoDerivacion.map(tipo => (
+                <option key={tipo.value} value={tipo.value}>
+                  {tipo.label}
+                </option>
+              ))}
+            </select>
+          </div>
+
+          <div>
+            <label className="block text-slate-400 text-xs uppercase mb-1">
               DNI beneficiario
             </label>
             <input
@@ -290,13 +346,13 @@ export function CasosCriticosDashboard() {
 
           <div>
             <label className="block text-slate-400 text-xs uppercase mb-1">
-              DNI operador
+              Operador / Brigadista
             </label>
             <input
               type="text"
-              value={dniOperadorFiltro}
-              onChange={e => setDniOperadorFiltro(e.target.value)}
-              placeholder="Buscar DNI operador"
+              value={operadorBrigadistaFiltro}
+              onChange={e => setOperadorBrigadistaFiltro(e.target.value)}
+              placeholder="Buscar operador o brigadista"
               className="bg-slate-700 text-white px-3 py-2 rounded border border-slate-600 min-w-64"
             />
           </div>
@@ -304,8 +360,9 @@ export function CasosCriticosDashboard() {
           <button
             onClick={() => {
               setRiesgoFiltro('')
+              setTipoDerivacionFiltro('')
               setDniBeneficiarioFiltro('')
-              setDniOperadorFiltro('')
+              setOperadorBrigadistaFiltro('')
             }}
             className="bg-slate-700 hover:bg-slate-600 text-white px-3 py-2 rounded border border-slate-600"
           >
@@ -340,11 +397,12 @@ export function CasosCriticosDashboard() {
               <thead className="bg-slate-700 text-slate-300 sticky top-0">
                 <tr>
                   <th className="px-4 py-2 text-left">Fecha</th>
-                  <th className="px-4 py-2 text-left">DNI operador</th>
+                  <th className="px-4 py-2 text-left">Operador / Brigadista</th>
                   <th className="px-4 py-2 text-left">DNI beneficiario</th>
                   <th className="px-4 py-2 text-left">Nombre</th>
                   <th className="px-4 py-2 text-left">Apellido</th>
                   <th className="px-4 py-2 text-left">Riesgo</th>
+                  <th className="px-4 py-2 text-left">Tipo derivación</th>
                   <th className="px-4 py-2 text-left">Comuna</th>
                   <th className="px-4 py-2 text-left">Dirección</th>
                   <th className="px-4 py-2 text-left">Consumo activo</th>
@@ -359,7 +417,7 @@ export function CasosCriticosDashboard() {
                 {casosFiltrados.length === 0 ? (
                   <tr>
                     <td
-                      colSpan={13}
+                      colSpan={14}
                       className="px-4 py-6 text-center text-slate-400"
                     >
                       No hay intervenciones para los filtros seleccionados.
@@ -375,7 +433,7 @@ export function CasosCriticosDashboard() {
                         {mostrar(getFecha(caso))}
                       </td>
                       <td className="px-4 py-2 text-white">
-                        {mostrar(getDniOperador(caso))}
+                        {mostrar(getOperadorBrigadista(caso))}
                       </td>
                       <td className="px-4 py-2 text-white">
                         {mostrar(getDni(caso))}
@@ -388,6 +446,9 @@ export function CasosCriticosDashboard() {
                       </td>
                       <td className="px-4 py-2 text-white">
                         {formatearRiesgo(getRiesgoSanitario(caso))}
+                      </td>
+                      <td className="px-4 py-2 text-white">
+                        {mostrar(getTipoDerivacion(caso))}
                       </td>
                       <td className="px-4 py-2 text-white">
                         {mostrar(getComuna(caso))}

@@ -301,13 +301,13 @@ export function KitFrioDashboard() {
                 Sin datos para graficar.
               </div>
             ) : (
-              <div className="flex items-end gap-3 h-44 overflow-x-auto pb-6">
+              <div className="flex items-end gap-3 h-52 overflow-x-auto pb-6 pt-8">
                 {kitsPorFecha.map(([fecha, total]) => (
                   <div key={fecha} className="flex flex-col items-center min-w-14">
                     <div className="text-slate-300 text-xs mb-1">{total}</div>
                     <div
                       className="w-9 bg-cyan-500 rounded-t"
-                      style={{ height: `${(total / maxFecha) * 130}px` }}
+                      style={{ height: `${(total / maxFecha) * 120}px` }}
                     />
                     <div className="text-slate-400 text-[10px] mt-2 whitespace-nowrap">
                       {fecha.slice(5)}
@@ -331,13 +331,13 @@ export function KitFrioDashboard() {
                 Sin datos para graficar.
               </div>
             ) : (
-              <div className="flex items-end gap-3 h-44 overflow-x-auto pb-6">
+              <div className="flex items-end gap-3 h-52 overflow-x-auto pb-6 pt-8">
                 {entregasAcumuladas.map(([fecha, total]) => (
                   <div key={fecha} className="flex flex-col items-center min-w-14">
                     <div className="text-slate-300 text-xs mb-1">{total}</div>
                     <div
                       className="w-9 bg-emerald-500 rounded-t"
-                      style={{ height: `${(total / maxAcumulado) * 130}px` }}
+                      style={{ height: `${(total / maxAcumulado) * 120}px` }}
                     />
                     <div className="text-slate-400 text-[10px] mt-2 whitespace-nowrap">
                       {fecha.slice(5)}
