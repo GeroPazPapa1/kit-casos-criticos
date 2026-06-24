@@ -11989,5 +11989,39 @@
     "_submission_time": "2026-06-24T18:02:04",
     "_validation_status": {},
     "_submitted_by": "seguimiento_casos_criticos2026"
+  },
+  {
+    "_id": 791345203,
+    "formhub/uuid": "58407a357bcd41138f5a8fa282eb48ac",
+    "Tipo_de_derivaci_n": "espontanea",
+    "fecha": "2026-06-24T00:00:00.000-03:00",
+    "apellido": "Fernández Saragueli ",
+    "nombre": "Ricardo ",
+    "dni": "34123360",
+    "Direcci_n_de_la_inte_ci_n_Calle_y_altura": "Combate de los Pozos 1280",
+    "comuna": "3",
+    "ubicacion": "-34.6239305 -58.3924874 42.599998474121094 4.598",
+    "seguimiento_caso": "no",
+    "nombre_brigadista": "Abregú Vanesa ",
+    "lugar_intervencion": "dipa",
+    "consumo_activo": "no",
+    "riesgo_sanitario": "verde_con_pph",
+    "necesario_seguimiento": "manana",
+    "derivo_same": "no",
+    "descripcion": "108 pide curación para masculino que fue golpeado en la cabeza con un hierro, refiere estar mareado y tener náuseas. Se procede a llamar a SAME por posible TEC 16:25. 16:44 arriba SAME, dice que el masculino solo tiene una herida superficial, que se le haga curaciones todos los días, no es criterios de traslado. 16:52 se retira SAME.",
+    "__version__": "vJpKQ6qcHg6RGzqHJTTmVS",
+    "meta/instanceID": "uuid:67c9fd72-8358-4d5b-b7e7-2c0cd756fe1a",
+    "_xform_id_string": "aD4NLofRmqgQnSzc5MdqSB",
+    "_uuid": "67c9fd72-8358-4d5b-b7e7-2c0cd756fe1a",
+    "meta/rootUuid": "uuid:67c9fd72-8358-4d5b-b7e7-2c0cd756fe1a",
+    "_attachments": [],
+    "_status": "submitted_via_web",
+    "_geolocation": [
+      -34.6239305,
+      -58.3924874
+    ],
+    "_submission_time": "2026-06-24T20:03:33",
+    "_validation_status": {},
+    "_submitted_by": "seguimiento_casos_criticos2026"
   }
 ]
