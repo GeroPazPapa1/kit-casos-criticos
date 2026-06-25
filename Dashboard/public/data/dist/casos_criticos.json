@@ -13837,5 +13837,39 @@
     "_submission_time": "2026-06-25T17:16:13",
     "_validation_status": {},
     "_submitted_by": "seguimiento_casos_criticos2026"
+  },
+  {
+    "_id": 792521528,
+    "formhub/uuid": "58407a357bcd41138f5a8fa282eb48ac",
+    "Tipo_de_derivaci_n": "espontanea",
+    "fecha": "2026-06-25T00:00:00.000-03:00",
+    "apellido": "Quiroga ",
+    "nombre": "Agustín ",
+    "dni": "36999765",
+    "Direcci_n_de_la_inte_ci_n_Calle_y_altura": "Combate de los pozos de los 1280",
+    "comuna": "1",
+    "ubicacion": "-34.623955 -58.3924938 42.79999923706055 6.164",
+    "seguimiento_caso": "si",
+    "nombre_brigadista": "B.Abregu ",
+    "lugar_intervencion": "dipa",
+    "consumo_activo": "no",
+    "riesgo_sanitario": "verde_con_pph",
+    "necesario_seguimiento": "proximo_turno",
+    "derivo_same": "no",
+    "descripcion": "Masculino se presenta para curación en la cabeza y labio heridas producidas por una pelea callejera se le toman signos vitales y se realiza la correlación correspondiente. \nNo toma medicaciones ni tiene enfermedades de base.",
+    "__version__": "vJpKQ6qcHg6RGzqHJTTmVS",
+    "meta/instanceID": "uuid:c22a0817-bace-4d19-b440-c3659fe05278",
+    "_xform_id_string": "aD4NLofRmqgQnSzc5MdqSB",
+    "_uuid": "c22a0817-bace-4d19-b440-c3659fe05278",
+    "meta/rootUuid": "uuid:c22a0817-bace-4d19-b440-c3659fe05278",
+    "_attachments": [],
+    "_status": "submitted_via_web",
+    "_geolocation": [
+      -34.623955,
+      -58.3924938
+    ],
+    "_submission_time": "2026-06-25T18:24:00",
+    "_validation_status": {},
+    "_submitted_by": "seguimiento_casos_criticos2026"
   }
 ]
