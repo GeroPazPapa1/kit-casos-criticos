@@ -17087,5 +17087,39 @@
     "_submission_time": "2026-06-27T15:03:48",
     "_validation_status": {},
     "_submitted_by": "seguimiento_casos_criticos2026"
+  },
+  {
+    "_id": 794299411,
+    "formhub/uuid": "58407a357bcd41138f5a8fa282eb48ac",
+    "Tipo_de_derivaci_n": "derivado_por_red espontanea",
+    "fecha": "2026-06-27T00:00:00.000-03:00",
+    "apellido": "Benítez ",
+    "nombre": "Gonzalo ",
+    "dni": "95509677",
+    "Direcci_n_de_la_inte_ci_n_Calle_y_altura": "Combate de los pozos 1280",
+    "comuna": "3",
+    "ubicacion": "-34.6239259 -58.3924886 42.29999923706055 11.931",
+    "seguimiento_caso": "si",
+    "nombre_brigadista": "Romero camila",
+    "lugar_intervencion": "dipa",
+    "consumo_activo": "no",
+    "riesgo_sanitario": "verde_con_pph",
+    "necesario_seguimiento": "proximo_turno",
+    "derivo_same": "no",
+    "descripcion": "Masculino se presenta para curacion en pierna izquierda. Se observa zona más enrojecida e inflamada. Se le recomienda acercarse a guardia ya que la zona está inflamada y enrojecida.\nRechaza toma de signos vitales ",
+    "__version__": "vJpKQ6qcHg6RGzqHJTTmVS",
+    "meta/instanceID": "uuid:eaa4e28a-da88-4b5b-9bbd-157f31ff5339",
+    "_xform_id_string": "aD4NLofRmqgQnSzc5MdqSB",
+    "_uuid": "eaa4e28a-da88-4b5b-9bbd-157f31ff5339",
+    "meta/rootUuid": "uuid:eaa4e28a-da88-4b5b-9bbd-157f31ff5339",
+    "_attachments": [],
+    "_status": "submitted_via_web",
+    "_geolocation": [
+      -34.6239259,
+      -58.3924886
+    ],
+    "_submission_time": "2026-06-27T15:12:38",
+    "_validation_status": {},
+    "_submitted_by": "seguimiento_casos_criticos2026"
   }
 ]
