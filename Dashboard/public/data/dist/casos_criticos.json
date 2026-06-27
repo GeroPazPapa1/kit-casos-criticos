@@ -17257,5 +17257,39 @@
     "_submission_time": "2026-06-27T21:05:54",
     "_validation_status": {},
     "_submitted_by": "seguimiento_casos_criticos2026"
+  },
+  {
+    "_id": 794492693,
+    "formhub/uuid": "58407a357bcd41138f5a8fa282eb48ac",
+    "Tipo_de_derivaci_n": "derivado_por_red espontanea",
+    "fecha": "2026-06-27T00:00:00.000-03:00",
+    "apellido": "Alfaro\n",
+    "nombre": "Faustino ",
+    "dni": "48094876",
+    "Direcci_n_de_la_inte_ci_n_Calle_y_altura": "Combate de los pozos 1280",
+    "comuna": "3",
+    "ubicacion": "-34.6239223 -58.392492 42.70000076293945 13.238",
+    "seguimiento_caso": "si",
+    "nombre_brigadista": "Ortiz Sabrina ",
+    "lugar_intervencion": "dipa",
+    "consumo_activo": "no",
+    "riesgo_sanitario": "verde_con_pph",
+    "necesario_seguimiento": "no",
+    "derivo_same": "no",
+    "descripcion": "Masculino solicita control de signos vitales. Los mismos en parámetros normales ",
+    "__version__": "vJpKQ6qcHg6RGzqHJTTmVS",
+    "meta/instanceID": "uuid:fc29833a-daf8-45eb-881a-5ecd3ef053cf",
+    "_xform_id_string": "aD4NLofRmqgQnSzc5MdqSB",
+    "_uuid": "fc29833a-daf8-45eb-881a-5ecd3ef053cf",
+    "meta/rootUuid": "uuid:fc29833a-daf8-45eb-881a-5ecd3ef053cf",
+    "_attachments": [],
+    "_status": "submitted_via_web",
+    "_geolocation": [
+      -34.6239223,
+      -58.392492
+    ],
+    "_submission_time": "2026-06-27T21:33:38",
+    "_validation_status": {},
+    "_submitted_by": "seguimiento_casos_criticos2026"
   }
 ]
