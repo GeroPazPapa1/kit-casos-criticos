@@ -17996,5 +17996,39 @@
     "_submission_time": "2026-06-28T16:48:27",
     "_validation_status": {},
     "_submitted_by": "seguimiento_casos_criticos2026"
+  },
+  {
+    "_id": 795017213,
+    "formhub/uuid": "58407a357bcd41138f5a8fa282eb48ac",
+    "Tipo_de_derivaci_n": "derivado_por_red espontanea",
+    "fecha": "2026-06-28T00:00:00.000-03:00",
+    "apellido": "Bonavita",
+    "nombre": "Rodrigo ",
+    "dni": "41233795",
+    "Direcci_n_de_la_inte_ci_n_Calle_y_altura": "Combate de los pozos 1280",
+    "comuna": "3",
+    "ubicacion": "-34.6239284 -58.3924852 43.0 12.099",
+    "seguimiento_caso": "no",
+    "nombre_brigadista": "Herrera Karina ",
+    "lugar_intervencion": "dipa",
+    "consumo_activo": "no",
+    "riesgo_sanitario": "verde_con_pph",
+    "necesario_seguimiento": "no",
+    "derivo_same": "no",
+    "descripcion": "Masculino presenta dolor de cabeza y hormigueo en la cara . Le cuesta pararse y abrir los ojos . Se toman signos vitales los mismos en parámetros normales se realizar escala de Cincinnati resultado negativo. Móvil 108 traslada al hospital pena ",
+    "__version__": "vJpKQ6qcHg6RGzqHJTTmVS",
+    "meta/instanceID": "uuid:17488cee-2a4f-4e16-9d2b-2cc09b7dcdcb",
+    "_xform_id_string": "aD4NLofRmqgQnSzc5MdqSB",
+    "_uuid": "17488cee-2a4f-4e16-9d2b-2cc09b7dcdcb",
+    "meta/rootUuid": "uuid:17488cee-2a4f-4e16-9d2b-2cc09b7dcdcb",
+    "_attachments": [],
+    "_status": "submitted_via_web",
+    "_geolocation": [
+      -34.6239284,
+      -58.3924852
+    ],
+    "_submission_time": "2026-06-28T19:14:26",
+    "_validation_status": {},
+    "_submitted_by": "seguimiento_casos_criticos2026"
   }
 ]
