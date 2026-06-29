@@ -18200,5 +18200,42 @@
     "_submission_time": "2026-06-28T22:44:50",
     "_validation_status": {},
     "_submitted_by": "seguimiento_casos_criticos2026"
+  },
+  {
+    "_id": 795107130,
+    "formhub/uuid": "58407a357bcd41138f5a8fa282eb48ac",
+    "Tipo_de_derivaci_n": "espontanea derivado_por_red",
+    "fecha": "2026-06-28T00:00:00.000-03:00",
+    "apellido": "Molina",
+    "nombre": "Victor Hugo ",
+    "dni": "35951605",
+    "comuna": "3",
+    "ubicacion": "-34.6239187 -58.392491 42.79999923706055 4.535",
+    "seguimiento_caso": "no",
+    "nombre_brigadista": "Romero Camila ",
+    "lugar_intervencion": "dipa",
+    "consumo_activo": "no",
+    "riesgo_sanitario": "verde_con_pph",
+    "necesario_seguimiento": "manana",
+    "derivo_same": "si",
+    "movil_same": "AF247PQ",
+    "tiempo_same": "No vino Same fue trasladado por 108",
+    "traslado_hospital": "si",
+    "efector_salud": "Fernández ",
+    "descripcion": "Se procede a toma de signos vitales y curación de agujero en el glúteo . Se traslada a hospital Fernández ",
+    "__version__": "vJpKQ6qcHg6RGzqHJTTmVS",
+    "meta/instanceID": "uuid:36b23e59-9617-4018-a28a-a86b2899e899",
+    "_xform_id_string": "aD4NLofRmqgQnSzc5MdqSB",
+    "_uuid": "36b23e59-9617-4018-a28a-a86b2899e899",
+    "meta/rootUuid": "uuid:36b23e59-9617-4018-a28a-a86b2899e899",
+    "_attachments": [],
+    "_status": "submitted_via_web",
+    "_geolocation": [
+      -34.6239187,
+      -58.392491
+    ],
+    "_submission_time": "2026-06-29T00:29:49",
+    "_validation_status": {},
+    "_submitted_by": "seguimiento_casos_criticos2026"
   }
 ]
