@@ -198,7 +198,17 @@ export function CasosCriticosDashboard() {
     casosFiltrados.map(caso => normalizarDni(getDni(caso))).filter(Boolean),
   ).size
 
-  const casosCriticos = casosFiltrados.filter(caso => {
+  const casosVerdes = casosFiltrados.filter(caso => {
+    const riesgo = getRiesgoSanitario(caso)
+    return riesgo === 'verde_sin_pph' || riesgo === 'verde_con_pph'
+  }).length
+
+  const casosAmarillos = casosFiltrados.filter(caso => {
+    const riesgo = getRiesgoSanitario(caso)
+    return riesgo === 'amarillo'
+  }).length
+
+  const casosRojos = casosFiltrados.filter(caso => {
     const riesgo = getRiesgoSanitario(caso)
     return riesgo === 'rojo'
   }).length
@@ -260,7 +270,7 @@ export function CasosCriticosDashboard() {
       </header>
 
       <section className="bg-slate-900 border-b border-slate-700 p-4 flex-shrink-0">
-        <div className="grid grid-cols-1 md:grid-cols-3 xl:grid-cols-6 gap-4">
+        <div className="grid grid-cols-1 md:grid-cols-3 xl:grid-cols-8 gap-4">
           <div className="bg-slate-800 rounded-lg p-4">
             <div className="text-slate-400 text-xs uppercase">Intervenciones</div>
             <div className="text-white text-2xl font-bold">{casosFiltrados.length}</div>
@@ -272,8 +282,18 @@ export function CasosCriticosDashboard() {
           </div>
 
           <div className="bg-slate-800 rounded-lg p-4">
-            <div className="text-slate-400 text-xs uppercase">Casos críticos</div>
-            <div className="text-white text-2xl font-bold">{casosCriticos}</div>
+            <div className="text-slate-400 text-xs uppercase">Códigos verdes</div>
+            <div className="text-emerald-400 text-2xl font-bold">{casosVerdes}</div>
+          </div>
+
+          <div className="bg-slate-800 rounded-lg p-4">
+            <div className="text-slate-400 text-xs uppercase">Códigos amarillos</div>
+            <div className="text-yellow-400 text-2xl font-bold">{casosAmarillos}</div>
+          </div>
+
+          <div className="bg-slate-800 rounded-lg p-4">
+            <div className="text-slate-400 text-xs uppercase">Códigos rojos</div>
+            <div className="text-red-400 text-2xl font-bold">{casosRojos}</div>
           </div>
 
           <div className="bg-slate-800 rounded-lg p-4">
@@ -484,7 +504,7 @@ export function CasosCriticosDashboard() {
         <div className="mb-2">
           <h2 className="text-white text-sm font-semibold">Mapa de casos críticos</h2>
           <p className="text-slate-400 text-xs">
-            Los puntos aparecerán cuando el ETL transforme las coordenadas del formulario a latitud y longitud.
+            Visualización territorial de casos críticos según comuna asignada.
           </p>
         </div>
 
