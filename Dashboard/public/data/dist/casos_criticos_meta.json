@@ -1,16 +1,6 @@
 {
-<<<<<<< HEAD
-  "total": 634,
-  "timestamp": "2026-07-01T17:33:07.511816",
-=======
-<<<<<<< HEAD
-  "total": 632,
-  "timestamp": "2026-07-01T15:43:39.356176",
->>>>>>> 435b913 (correcion dni)
-  "source": "kobo_casos_criticos"
-=======
-  "total": 533,
-  "timestamp": "2026-06-29T13:51:08.461275",
+  "total": 638,
+  "timestamp": "2026-07-01T15:05:56.636880",
   "source": "kobo_casos_criticos",
   "comunas": [
     "1",
@@ -22,6 +12,7 @@
     "7",
     "9",
     "10",
+    "11",
     "12",
     "13",
     "14",
@@ -37,6 +28,7 @@
     "7": "Comuna 7",
     "9": "Comuna 9",
     "10": "Comuna 10",
+    "11": "Comuna 11",
     "12": "Comuna 12",
     "13": "Comuna 13",
     "14": "Comuna 14",
@@ -119,5 +111,4 @@
       "label": "Comuna 15"
     }
   }
->>>>>>> 34231da (correcion dni)
 }

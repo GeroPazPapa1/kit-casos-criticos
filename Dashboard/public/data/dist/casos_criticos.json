@@ -13693,16 +13693,12 @@
     ],
     "_submission_time": "2026-06-24T18:02:04",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6239302,
     "lon": -58.3924788,
     "comuna_lat": -34.612,
     "comuna_lon": -58.405,
     "comuna_label": "Comuna 3"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 791345203,
@@ -13736,16 +13732,12 @@
     ],
     "_submission_time": "2026-06-24T20:03:33",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6239305,
     "lon": -58.3924874,
     "comuna_lat": -34.612,
     "comuna_lon": -58.405,
     "comuna_label": "Comuna 3"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 791387833,
@@ -13755,11 +13747,7 @@
     "apellido": "Giménez ",
     "nombre": "Alberto ",
     "dni": "20423284",
-<<<<<<< HEAD
-    "comuna": "1",
-=======
     "comuna": "7",
->>>>>>> 34231da (correcion dni)
     "ubicacion": "-34.6300462 -58.4369383 31.900001525878906 11.973",
     "seguimiento_caso": "no",
     "nombre_brigadista": "Renato Da silva ",
@@ -13782,16 +13770,12 @@
     ],
     "_submission_time": "2026-06-24T21:06:45",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6300462,
     "lon": -58.4369383,
     "comuna_lat": -34.639,
     "comuna_lon": -58.448,
     "comuna_label": "Comuna 7"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 791387844,
@@ -13801,11 +13785,7 @@
     "apellido": "Guardia ",
     "nombre": "Daniel",
     "dni": "34342723",
-<<<<<<< HEAD
-    "comuna": "1",
-=======
     "comuna": "7",
->>>>>>> 34231da (correcion dni)
     "ubicacion": "-34.6300311 -58.4369569 31.900001525878906 13.902",
     "seguimiento_caso": "no",
     "nombre_brigadista": "Farias Romina ",
@@ -13828,16 +13808,12 @@
     ],
     "_submission_time": "2026-06-24T21:06:46",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6300311,
     "lon": -58.4369569,
     "comuna_lat": -34.639,
     "comuna_lon": -58.448,
     "comuna_label": "Comuna 7"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 791387849,
@@ -13847,11 +13823,7 @@
     "apellido": "Brouchi",
     "nombre": "Lucas\n",
     "dni": "46579693",
-<<<<<<< HEAD
-    "comuna": "1",
-=======
     "comuna": "7",
->>>>>>> 34231da (correcion dni)
     "ubicacion": "-34.6300515 -58.4369492 31.900001525878906 13.474",
     "seguimiento_caso": "no",
     "nombre_brigadista": "Farías Romina ",
@@ -13874,16 +13846,12 @@
     ],
     "_submission_time": "2026-06-24T21:06:46",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6300515,
     "lon": -58.4369492,
     "comuna_lat": -34.639,
     "comuna_lon": -58.448,
     "comuna_label": "Comuna 7"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 791387855,
@@ -13893,11 +13861,7 @@
     "apellido": "López ",
     "nombre": "María ",
     "dni": "35950291",
-<<<<<<< HEAD
-    "comuna": "1",
-=======
     "comuna": "7",
->>>>>>> 34231da (correcion dni)
     "ubicacion": "-34.6300341 -58.4369479 31.900001525878906 13.065",
     "seguimiento_caso": "no",
     "nombre_brigadista": "Farías Romina ",
@@ -13920,16 +13884,12 @@
     ],
     "_submission_time": "2026-06-24T21:06:46",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6300341,
     "lon": -58.4369479,
     "comuna_lat": -34.639,
     "comuna_lon": -58.448,
     "comuna_label": "Comuna 7"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 791387863,
@@ -13939,11 +13899,7 @@
     "apellido": "Abraham ",
     "nombre": "Jalil",
     "dni": "49060221",
-<<<<<<< HEAD
-    "comuna": "1",
-=======
     "comuna": "7",
->>>>>>> 34231da (correcion dni)
     "ubicacion": "-34.6300414 -58.4369448 31.900001525878906 11.605",
     "seguimiento_caso": "no",
     "nombre_brigadista": "Renato Da silva ",
@@ -13966,16 +13922,12 @@
     ],
     "_submission_time": "2026-06-24T21:06:47",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6300414,
     "lon": -58.4369448,
     "comuna_lat": -34.639,
     "comuna_lon": -58.448,
     "comuna_label": "Comuna 7"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 791387873,
@@ -13985,11 +13937,7 @@
     "apellido": "Avellaneda ",
     "nombre": "Ricardo ",
     "dni": "17836521",
-<<<<<<< HEAD
-    "comuna": "1",
-=======
     "comuna": "7",
->>>>>>> 34231da (correcion dni)
     "ubicacion": "-34.6300419 -58.4369462 31.900001525878906 13.364",
     "seguimiento_caso": "no",
     "nombre_brigadista": "Renato Da silva ",
@@ -14012,16 +13960,12 @@
     ],
     "_submission_time": "2026-06-24T21:06:47",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6300419,
     "lon": -58.4369462,
     "comuna_lat": -34.639,
     "comuna_lon": -58.448,
     "comuna_label": "Comuna 7"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 791389598,
@@ -14055,16 +13999,12 @@
     ],
     "_submission_time": "2026-06-24T21:09:44",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6239557,
     "lon": -58.3924871,
     "comuna_lat": -34.612,
     "comuna_lon": -58.405,
     "comuna_label": "Comuna 3"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 791390633,
@@ -14099,16 +14039,12 @@
     ],
     "_submission_time": "2026-06-24T21:11:09",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6387863,
     "lon": -58.3747232,
     "comuna_lat": -34.642,
     "comuna_lon": -58.391,
     "comuna_label": "Comuna 4"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 791391761,
@@ -14142,16 +14078,12 @@
     ],
     "_submission_time": "2026-06-24T21:13:12",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6239228,
     "lon": -58.3925001,
     "comuna_lat": -34.612,
     "comuna_lon": -58.405,
     "comuna_label": "Comuna 3"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 791407532,
@@ -14186,16 +14118,12 @@
     ],
     "_submission_time": "2026-06-24T21:39:34",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6318131,
     "lon": -58.431582,
     "comuna_lat": -34.639,
     "comuna_lon": -58.448,
     "comuna_label": "Comuna 7"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 791412629,
@@ -14229,16 +14157,12 @@
     ],
     "_submission_time": "2026-06-24T21:49:22",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6239201,
     "lon": -58.3925001,
     "comuna_lat": -34.612,
     "comuna_lon": -58.405,
     "comuna_label": "Comuna 3"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 791415072,
@@ -14273,16 +14197,12 @@
     ],
     "_submission_time": "2026-06-24T21:54:38",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6292617,
     "lon": -58.432035,
     "comuna_lat": -34.639,
     "comuna_lon": -58.448,
     "comuna_label": "Comuna 7"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 791416388,
@@ -14317,16 +14237,12 @@
     ],
     "_submission_time": "2026-06-24T21:57:41",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6292333,
     "lon": -58.432175,
     "comuna_lat": -34.639,
     "comuna_lon": -58.448,
     "comuna_label": "Comuna 7"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 791436787,
@@ -14336,11 +14252,7 @@
     "apellido": "Gamboa ",
     "nombre": "Ian ",
     "dni": "46267991",
-<<<<<<< HEAD
-    "comuna": "15",
-=======
     "comuna": "13",
->>>>>>> 34231da (correcion dni)
     "ubicacion": "-34.5582483 -58.4598529 28.5 4.71",
     "seguimiento_caso": "no",
     "nombre_brigadista": "Farías ",
@@ -14365,16 +14277,12 @@
     ],
     "_submission_time": "2026-06-24T22:53:25",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.5582483,
     "lon": -58.4598529,
     "comuna_lat": -34.557,
     "comuna_lon": -58.455,
     "comuna_label": "Comuna 13"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 791439155,
@@ -14385,11 +14293,7 @@
     "nombre": "Mariela ",
     "dni": "31106122",
     "Direcci_n_de_la_inte_ci_n_Calle_y_altura": "Armenia 1900",
-<<<<<<< HEAD
-    "comuna": "14",
-=======
     "comuna": "7",
->>>>>>> 34231da (correcion dni)
     "ubicacion": "-34.6300345 -58.4369552 31.900001525878906 23.163",
     "seguimiento_caso": "no",
     "nombre_brigadista": "Pisani ",
@@ -14414,16 +14318,12 @@
     ],
     "_submission_time": "2026-06-24T23:00:42",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6300345,
     "lon": -58.4369552,
     "comuna_lat": -34.639,
     "comuna_lon": -58.448,
     "comuna_label": "Comuna 7"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 791439157,
@@ -14434,11 +14334,7 @@
     "nombre": "Ricardo ",
     "dni": "25645884",
     "Direcci_n_de_la_inte_ci_n_Calle_y_altura": "Julián Alvarez y Cabrera ",
-<<<<<<< HEAD
-    "comuna": "14",
-=======
     "comuna": "7",
->>>>>>> 34231da (correcion dni)
     "ubicacion": "-34.6300311 -58.4369574 31.900001525878906 16.042",
     "seguimiento_caso": "no",
     "nombre_brigadista": "Pisani ",
@@ -14463,16 +14359,12 @@
     ],
     "_submission_time": "2026-06-24T23:00:42",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6300311,
     "lon": -58.4369574,
     "comuna_lat": -34.639,
     "comuna_lon": -58.448,
     "comuna_label": "Comuna 7"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 791439168,
@@ -14483,11 +14375,7 @@
     "nombre": "Franco Guillermo ",
     "dni": "21657717",
     "Direcci_n_de_la_inte_ci_n_Calle_y_altura": "Hipólito Yrigoyen 4350",
-<<<<<<< HEAD
-    "comuna": "5",
-=======
     "comuna": "7",
->>>>>>> 34231da (correcion dni)
     "ubicacion": "-34.6300256 -58.4369575 31.900001525878906 11.515",
     "seguimiento_caso": "no",
     "nombre_brigadista": "Pisani ",
@@ -14512,16 +14400,12 @@
     ],
     "_submission_time": "2026-06-24T23:00:45",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6300256,
     "lon": -58.4369575,
     "comuna_lat": -34.639,
     "comuna_lon": -58.448,
     "comuna_label": "Comuna 7"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 791439173,
@@ -14532,11 +14416,7 @@
     "nombre": "Margarita ",
     "dni": "6248296",
     "Direcci_n_de_la_inte_ci_n_Calle_y_altura": "Bartolomé MITRE 3384",
-<<<<<<< HEAD
-    "comuna": "3",
-=======
     "comuna": "7",
->>>>>>> 34231da (correcion dni)
     "ubicacion": "-34.6300409 -58.4369578 31.900001525878906 16.176",
     "seguimiento_caso": "no",
     "nombre_brigadista": "Pisani ",
@@ -14561,16 +14441,12 @@
     ],
     "_submission_time": "2026-06-24T23:00:46",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6300409,
     "lon": -58.4369578,
     "comuna_lat": -34.639,
     "comuna_lon": -58.448,
     "comuna_label": "Comuna 7"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 791442195,
@@ -14580,11 +14456,7 @@
     "apellido": "Grabarnik ",
     "nombre": "Néstor ",
     "dni": "8643914",
-<<<<<<< HEAD
-    "comuna": "15",
-=======
     "comuna": "13",
->>>>>>> 34231da (correcion dni)
     "ubicacion": "-34.5583277 -58.4596844 28.400001525878906 4.754",
     "seguimiento_caso": "si",
     "nombre_brigadista": "Farias ",
@@ -14609,16 +14481,12 @@
     ],
     "_submission_time": "2026-06-24T23:11:42",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.5583277,
     "lon": -58.4596844,
     "comuna_lat": -34.557,
     "comuna_lon": -58.455,
     "comuna_label": "Comuna 13"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 791442271,
@@ -14629,11 +14497,7 @@
     "nombre": "Victor Javier ",
     "dni": "4262371",
     "Direcci_n_de_la_inte_ci_n_Calle_y_altura": "Bomdpland",
-<<<<<<< HEAD
-    "comuna": "14",
-=======
     "comuna": "7",
->>>>>>> 34231da (correcion dni)
     "ubicacion": "-34.6300236 -58.4369506 31.900001525878906 13.585",
     "seguimiento_caso": "no",
     "nombre_brigadista": "Pisani ",
@@ -14658,16 +14522,12 @@
     ],
     "_submission_time": "2026-06-24T23:11:52",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6300236,
     "lon": -58.4369506,
     "comuna_lat": -34.639,
     "comuna_lon": -58.448,
     "comuna_label": "Comuna 7"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 791465933,
@@ -14702,16 +14562,12 @@
     ],
     "_submission_time": "2026-06-25T00:30:44",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.5987365,
     "lon": -58.3776417,
     "comuna_lat": -34.611,
     "comuna_lon": -58.382,
     "comuna_label": "Comuna 1"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 791470761,
@@ -14745,16 +14601,12 @@
     ],
     "_submission_time": "2026-06-25T00:48:18",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6239146,
     "lon": -58.3925048,
     "comuna_lat": -34.612,
     "comuna_lon": -58.405,
     "comuna_label": "Comuna 3"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 791471867,
@@ -14788,16 +14640,12 @@
     ],
     "_submission_time": "2026-06-25T00:51:44",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6239505,
     "lon": -58.3924994,
     "comuna_lat": -34.612,
     "comuna_lon": -58.405,
     "comuna_label": "Comuna 3"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 791476974,
@@ -14832,16 +14680,12 @@
     ],
     "_submission_time": "2026-06-25T01:09:33",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6073878,
     "lon": -58.4377531,
     "comuna_lat": -34.618,
     "comuna_lon": -58.443,
     "comuna_label": "Comuna 6"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 791479198,
@@ -14851,11 +14695,7 @@
     "apellido": "0",
     "nombre": "Pablo",
     "dni": "0",
-<<<<<<< HEAD
-    "comuna": "3",
-=======
     "comuna": "6",
->>>>>>> 34231da (correcion dni)
     "ubicacion": "-34.6271409 -58.4371905 41.79999923706055 4.81",
     "seguimiento_caso": "no",
     "nombre_brigadista": "Farias/Ferrufino ",
@@ -14880,16 +14720,12 @@
     ],
     "_submission_time": "2026-06-25T01:15:26",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6271409,
     "lon": -58.4371905,
     "comuna_lat": -34.618,
     "comuna_lon": -58.443,
     "comuna_label": "Comuna 6"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 791489932,
@@ -14922,16 +14758,12 @@
     ],
     "_submission_time": "2026-06-25T01:47:36",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.5846118,
     "lon": -58.458864,
     "comuna_lat": -34.588,
     "comuna_lon": -58.455,
     "comuna_label": "Comuna 15"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 791491338,
@@ -14964,16 +14796,12 @@
     ],
     "_submission_time": "2026-06-25T01:52:22",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.5846017,
     "lon": -58.45896,
     "comuna_lat": -34.588,
     "comuna_lon": -58.455,
     "comuna_label": "Comuna 15"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 791581616,
@@ -15008,16 +14836,12 @@
     ],
     "_submission_time": "2026-06-25T05:23:39",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.62522,
     "lon": -58.3909983,
     "comuna_lat": -34.611,
     "comuna_lon": -58.382,
     "comuna_label": "Comuna 1"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 791581622,
@@ -15052,16 +14876,12 @@
     ],
     "_submission_time": "2026-06-25T05:23:40",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6252133,
     "lon": -58.3911033,
     "comuna_lat": -34.611,
     "comuna_lon": -58.382,
     "comuna_label": "Comuna 1"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 791582595,
@@ -15096,16 +14916,12 @@
     ],
     "_submission_time": "2026-06-25T05:25:11",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6253017,
     "lon": -58.3910067,
     "comuna_lat": -34.611,
     "comuna_lon": -58.382,
     "comuna_label": "Comuna 1"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 791582766,
@@ -15116,11 +14932,7 @@
     "nombre": "Yamila Gabriela ",
     "dni": "91622045",
     "Direcci_n_de_la_inte_ci_n_Calle_y_altura": "Constitución 1772",
-<<<<<<< HEAD
-    "comuna": "3",
-=======
     "comuna": "1",
->>>>>>> 34231da (correcion dni)
     "ubicacion": "-34.6251999 -58.3909343 40.79999923706055 9.169",
     "seguimiento_caso": "no",
     "nombre_brigadista": " B. Ontivero ",
@@ -15145,16 +14957,12 @@
     ],
     "_submission_time": "2026-06-25T05:25:25",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6251999,
     "lon": -58.3909343,
     "comuna_lat": -34.611,
     "comuna_lon": -58.382,
     "comuna_label": "Comuna 1"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 791613709,
@@ -15190,16 +14998,12 @@
     ],
     "_submission_time": "2026-06-25T06:08:13",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6169261,
     "lon": -58.3917615,
     "comuna_lat": -34.612,
     "comuna_lon": -58.405,
     "comuna_label": "Comuna 3"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 791643417,
@@ -15235,16 +15039,12 @@
     ],
     "_submission_time": "2026-06-25T06:41:21",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.599735,
     "lon": -58.3992433,
     "comuna_lat": -34.612,
     "comuna_lon": -58.405,
     "comuna_label": "Comuna 3"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 791658382,
@@ -15255,11 +15055,7 @@
     "nombre": "Fernando ",
     "dni": "31407832",
     "Direcci_n_de_la_inte_ci_n_Calle_y_altura": "Bulnes 1028",
-<<<<<<< HEAD
-    "comuna": "14",
-=======
     "comuna": "5",
->>>>>>> 34231da (correcion dni)
     "ubicacion": "-34.59957 -58.4176933 39.29999923706055 5.466",
     "seguimiento_caso": "no",
     "nombre_brigadista": "B. Gamez",
@@ -15284,16 +15080,12 @@
     ],
     "_submission_time": "2026-06-25T06:57:30",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.59957,
     "lon": -58.4176933,
     "comuna_lat": -34.616,
     "comuna_lon": -58.421,
     "comuna_label": "Comuna 5"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 791670009,
@@ -15304,11 +15096,7 @@
     "nombre": "Jorge",
     "dni": "14988209",
     "Direcci_n_de_la_inte_ci_n_Calle_y_altura": "Bulnes 400",
-<<<<<<< HEAD
-    "comuna": "14",
-=======
     "comuna": "5",
->>>>>>> 34231da (correcion dni)
     "ubicacion": "-34.6072283 -58.4186717 43.20000076293945 3.1",
     "seguimiento_caso": "no",
     "nombre_brigadista": "B. Gamez",
@@ -15333,16 +15121,12 @@
     ],
     "_submission_time": "2026-06-25T07:09:18",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6072283,
     "lon": -58.4186717,
     "comuna_lat": -34.616,
     "comuna_lon": -58.421,
     "comuna_label": "Comuna 5"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 791689921,
@@ -15377,16 +15161,12 @@
     ],
     "_submission_time": "2026-06-25T07:29:17",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6094483,
     "lon": -58.414525,
     "comuna_lat": -34.612,
     "comuna_lon": -58.405,
     "comuna_label": "Comuna 3"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 791690882,
@@ -15421,16 +15201,12 @@
     ],
     "_submission_time": "2026-06-25T07:30:09",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.60944,
     "lon": -58.4145333,
     "comuna_lat": -34.612,
     "comuna_lon": -58.405,
     "comuna_label": "Comuna 3"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 791692072,
@@ -15441,11 +15217,7 @@
     "nombre": "Roberto",
     "dni": "22450977",
     "Direcci_n_de_la_inte_ci_n_Calle_y_altura": "Bartolomé MITRE y Sánchez de Bustamante ",
-<<<<<<< HEAD
-    "comuna": "3",
-=======
     "comuna": "5",
->>>>>>> 34231da (correcion dni)
     "ubicacion": "-34.6094717 -58.4146283 39.70000076293945 9.28",
     "seguimiento_caso": "no",
     "nombre_brigadista": "B. Martinez ",
@@ -15470,16 +15242,12 @@
     ],
     "_submission_time": "2026-06-25T07:31:21",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6094717,
     "lon": -58.4146283,
     "comuna_lat": -34.616,
     "comuna_lon": -58.421,
     "comuna_label": "Comuna 5"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 791692079,
@@ -15515,16 +15283,12 @@
     ],
     "_submission_time": "2026-06-25T07:31:21",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.609415,
     "lon": -58.41451,
     "comuna_lat": -34.612,
     "comuna_lon": -58.405,
     "comuna_label": "Comuna 3"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 791702623,
@@ -15535,11 +15299,7 @@
     "nombre": "Juan",
     "dni": "18501571",
     "Direcci_n_de_la_inte_ci_n_Calle_y_altura": "Sánchez de loria esquina independencia ",
-<<<<<<< HEAD
-    "comuna": "5",
-=======
     "comuna": "3",
->>>>>>> 34231da (correcion dni)
     "ubicacion": "-34.620725 -58.4125333 42.5 5.0",
     "seguimiento_caso": "no",
     "nombre_brigadista": "B. Espil",
@@ -15564,16 +15324,12 @@
     ],
     "_submission_time": "2026-06-25T07:40:17",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.620725,
     "lon": -58.4125333,
     "comuna_lat": -34.612,
     "comuna_lon": -58.405,
     "comuna_label": "Comuna 3"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 791725698,
@@ -15608,16 +15364,12 @@
     ],
     "_submission_time": "2026-06-25T08:02:30",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.612245,
     "lon": -58.3806033,
     "comuna_lat": -34.611,
     "comuna_lon": -58.382,
     "comuna_label": "Comuna 1"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 791726979,
@@ -15653,16 +15405,12 @@
     ],
     "_submission_time": "2026-06-25T08:03:52",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6124117,
     "lon": -58.38081,
     "comuna_lat": -34.611,
     "comuna_lon": -58.382,
     "comuna_label": "Comuna 1"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 791726991,
@@ -15698,16 +15446,12 @@
     ],
     "_submission_time": "2026-06-25T08:03:53",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.612345,
     "lon": -58.3807733,
     "comuna_lat": -34.611,
     "comuna_lon": -58.382,
     "comuna_label": "Comuna 1"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 791727571,
@@ -15742,16 +15486,12 @@
     ],
     "_submission_time": "2026-06-25T08:04:21",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6123483,
     "lon": -58.380505,
     "comuna_lat": -34.611,
     "comuna_lon": -58.382,
     "comuna_label": "Comuna 1"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 792241673,
@@ -15761,11 +15501,7 @@
     "apellido": "Coezer",
     "nombre": "Antonio",
     "dni": "10103688",
-<<<<<<< HEAD
-    "comuna": "3",
-=======
     "comuna": "5",
->>>>>>> 34231da (correcion dni)
     "ubicacion": "-34.5978567 -58.4210233 37.39999771118164 4.457",
     "seguimiento_caso": "si",
     "nombre_brigadista": "Ubertini ",
@@ -15790,16 +15526,12 @@
     ],
     "_submission_time": "2026-06-25T14:00:49",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.5978567,
     "lon": -58.4210233,
     "comuna_lat": -34.616,
     "comuna_lon": -58.421,
     "comuna_label": "Comuna 5"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 792297345,
@@ -15809,11 +15541,7 @@
     "apellido": "Nilsa",
     "nombre": "Matias Álvarez ",
     "dni": "96515775",
-<<<<<<< HEAD
-    "comuna": "4",
-=======
     "comuna": "1",
->>>>>>> 34231da (correcion dni)
     "ubicacion": "-34.6252201 -58.3906484 40.89999771118164 24.894",
     "seguimiento_caso": "si",
     "nombre_brigadista": "Ubertini",
@@ -15838,16 +15566,12 @@
     ],
     "_submission_time": "2026-06-25T14:41:35",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6252201,
     "lon": -58.3906484,
     "comuna_lat": -34.611,
     "comuna_lon": -58.382,
     "comuna_label": "Comuna 1"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 792322826,
@@ -15857,11 +15581,7 @@
     "apellido": "Vega",
     "nombre": "Jose",
     "dni": "30483850",
-<<<<<<< HEAD
-    "comuna": "1",
-=======
     "comuna": "4",
->>>>>>> 34231da (correcion dni)
     "ubicacion": "-34.6289633 -58.3654483 23.700000762939453 22.683",
     "seguimiento_caso": "si",
     "nombre_brigadista": "Ubertini",
@@ -15886,16 +15606,12 @@
     ],
     "_submission_time": "2026-06-25T15:02:03",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6289633,
     "lon": -58.3654483,
     "comuna_lat": -34.642,
     "comuna_lon": -58.391,
     "comuna_label": "Comuna 4"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 792371836,
@@ -15905,11 +15621,7 @@
     "apellido": "Benavidez ",
     "nombre": "Maiten",
     "dni": "38605789",
-<<<<<<< HEAD
-    "comuna": "3",
-=======
     "comuna": "1",
->>>>>>> 34231da (correcion dni)
     "ubicacion": "-34.6311926 -58.3874563 41.20000076293945 18.018",
     "seguimiento_caso": "si",
     "nombre_brigadista": "Ubertini",
@@ -15934,16 +15646,12 @@
     ],
     "_submission_time": "2026-06-25T15:46:04",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6311926,
     "lon": -58.3874563,
     "comuna_lat": -34.611,
     "comuna_lon": -58.382,
     "comuna_label": "Comuna 1"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 792394463,
@@ -15953,11 +15661,7 @@
     "apellido": "Bernales ",
     "nombre": "Nestor",
     "dni": "25252792",
-<<<<<<< HEAD
-    "comuna": "4",
-=======
     "comuna": "3",
->>>>>>> 34231da (correcion dni)
     "ubicacion": "-34.61197 -58.3933167 42.099998474121094 8.1",
     "seguimiento_caso": "si",
     "nombre_brigadista": "Conde",
@@ -15982,16 +15686,12 @@
     ],
     "_submission_time": "2026-06-25T16:03:54",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.61197,
     "lon": -58.3933167,
     "comuna_lat": -34.612,
     "comuna_lon": -58.405,
     "comuna_label": "Comuna 3"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 792424030,
@@ -16026,16 +15726,12 @@
     ],
     "_submission_time": "2026-06-25T16:29:40",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6348567,
     "lon": -58.4366567,
     "comuna_lat": -34.639,
     "comuna_lon": -58.448,
     "comuna_label": "Comuna 7"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 792469603,
@@ -16045,11 +15741,7 @@
     "apellido": "Cufre",
     "nombre": "Oscar ",
     "dni": "4435885",
-<<<<<<< HEAD
-    "comuna": "7",
-=======
     "comuna": "10",
->>>>>>> 34231da (correcion dni)
     "ubicacion": "-34.6348589 -58.4735102 41.89999771118164 13.015",
     "seguimiento_caso": "si",
     "nombre_brigadista": "Ubertini",
@@ -16074,16 +15766,12 @@
     ],
     "_submission_time": "2026-06-25T17:14:57",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6348589,
     "lon": -58.4735102,
     "comuna_lat": -34.625,
     "comuna_lon": -58.508,
     "comuna_label": "Comuna 10"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 792470475,
@@ -16093,11 +15781,7 @@
     "apellido": "Vargas",
     "nombre": "Maria Dora ",
     "dni": "10126657",
-<<<<<<< HEAD
-    "comuna": "7",
-=======
     "comuna": "10",
->>>>>>> 34231da (correcion dni)
     "ubicacion": "-34.6348746 -58.4735149 41.89999771118164 16.532",
     "seguimiento_caso": "si",
     "nombre_brigadista": "Ubertini ",
@@ -16122,16 +15806,12 @@
     ],
     "_submission_time": "2026-06-25T17:16:13",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6348746,
     "lon": -58.4735149,
     "comuna_lat": -34.625,
     "comuna_lon": -58.508,
     "comuna_label": "Comuna 10"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 792521528,
@@ -16142,11 +15822,7 @@
     "nombre": "Agustín ",
     "dni": "36999765",
     "Direcci_n_de_la_inte_ci_n_Calle_y_altura": "Combate de los pozos de los 1280",
-<<<<<<< HEAD
-    "comuna": "1",
-=======
     "comuna": "3",
->>>>>>> 34231da (correcion dni)
     "ubicacion": "-34.623955 -58.3924938 42.79999923706055 6.164",
     "seguimiento_caso": "si",
     "nombre_brigadista": "B.Abregu ",
@@ -16169,16 +15845,12 @@
     ],
     "_submission_time": "2026-06-25T18:24:00",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.623955,
     "lon": -58.3924938,
     "comuna_lat": -34.612,
     "comuna_lon": -58.405,
     "comuna_label": "Comuna 3"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 792628198,
@@ -16213,16 +15885,12 @@
     ],
     "_submission_time": "2026-06-25T20:46:56",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6368383,
     "lon": -58.42852,
     "comuna_lat": -34.639,
     "comuna_lon": -58.448,
     "comuna_label": "Comuna 7"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 792638798,
@@ -16257,16 +15925,12 @@
     ],
     "_submission_time": "2026-06-25T21:02:50",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6300116,
     "lon": -58.4369237,
     "comuna_lat": -34.639,
     "comuna_lon": -58.448,
     "comuna_label": "Comuna 7"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 792640254,
@@ -16301,16 +15965,12 @@
     ],
     "_submission_time": "2026-06-25T21:05:23",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6300352,
     "lon": -58.4369613,
     "comuna_lat": -34.639,
     "comuna_lon": -58.448,
     "comuna_label": "Comuna 7"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 792640948,
@@ -16345,16 +16005,12 @@
     ],
     "_submission_time": "2026-06-25T21:06:23",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6360417,
     "lon": -58.4309467,
     "comuna_lat": -34.639,
     "comuna_lon": -58.448,
     "comuna_label": "Comuna 7"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 792642248,
@@ -16389,16 +16045,12 @@
     ],
     "_submission_time": "2026-06-25T21:08:40",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6360133,
     "lon": -58.4309433,
     "comuna_lat": -34.639,
     "comuna_lon": -58.448,
     "comuna_label": "Comuna 7"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 792653088,
@@ -16409,11 +16061,7 @@
     "nombre": "Loriccio",
     "dni": "17359674",
     "Direcci_n_de_la_inte_ci_n_Calle_y_altura": "Ayacucho 653",
-<<<<<<< HEAD
-    "comuna": "3",
-=======
     "comuna": "7",
->>>>>>> 34231da (correcion dni)
     "ubicacion": "-34.6298867 -58.43704 31.900001525878906 8.483",
     "seguimiento_caso": "no",
     "nombre_brigadista": "Pisani Ferrufino ",
@@ -16438,16 +16086,12 @@
     ],
     "_submission_time": "2026-06-25T21:31:25",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6298867,
     "lon": -58.43704,
     "comuna_lat": -34.639,
     "comuna_lon": -58.448,
     "comuna_label": "Comuna 7"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 792670426,
@@ -16457,11 +16101,7 @@
     "apellido": "Floita",
     "nombre": "Damián ",
     "dni": "34264487",
-<<<<<<< HEAD
-    "comuna": "3",
-=======
     "comuna": "4",
->>>>>>> 34231da (correcion dni)
     "ubicacion": "-34.6331 -58.3911767 44.20000076293945 4.94",
     "seguimiento_caso": "no",
     "nombre_brigadista": "Da Silva ",
@@ -16486,16 +16126,12 @@
     ],
     "_submission_time": "2026-06-25T22:08:05",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6331,
     "lon": -58.3911767,
     "comuna_lat": -34.642,
     "comuna_lon": -58.391,
     "comuna_label": "Comuna 4"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 792672378,
@@ -16506,11 +16142,7 @@
     "nombre": "Jonathan",
     "dni": "28210267",
     "Direcci_n_de_la_inte_ci_n_Calle_y_altura": "Caseros 2648",
-<<<<<<< HEAD
-    "comuna": "4",
-=======
     "comuna": "7",
->>>>>>> 34231da (correcion dni)
     "ubicacion": "-34.6300346 -58.436953 31.900001525878906 15.913",
     "seguimiento_caso": "no",
     "nombre_brigadista": "Pisani Zúñiga",
@@ -16535,16 +16167,12 @@
     ],
     "_submission_time": "2026-06-25T22:12:46",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6300346,
     "lon": -58.436953,
     "comuna_lat": -34.639,
     "comuna_lon": -58.448,
     "comuna_label": "Comuna 7"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 792677858,
@@ -16579,16 +16207,12 @@
     ],
     "_submission_time": "2026-06-25T22:25:15",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6296276,
     "lon": -58.4452033,
     "comuna_lat": -34.618,
     "comuna_lon": -58.443,
     "comuna_label": "Comuna 6"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 792683861,
@@ -16623,16 +16247,12 @@
     ],
     "_submission_time": "2026-06-25T22:39:48",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6331583,
     "lon": -58.4392683,
     "comuna_lat": -34.639,
     "comuna_lon": -58.448,
     "comuna_label": "Comuna 7"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 792705508,
@@ -16642,11 +16262,7 @@
     "apellido": "Luna",
     "nombre": "Luis Eduardo ",
     "dni": "28812744",
-<<<<<<< HEAD
-    "comuna": "7",
-=======
     "comuna": "6",
->>>>>>> 34231da (correcion dni)
     "ubicacion": "-34.6274283 -58.4392817 35.70000076293945 4.8",
     "seguimiento_caso": "no",
     "nombre_brigadista": "Darío Palacios ",
@@ -16671,16 +16287,12 @@
     ],
     "_submission_time": "2026-06-25T23:33:36",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6274283,
     "lon": -58.4392817,
     "comuna_lat": -34.618,
     "comuna_lon": -58.443,
     "comuna_label": "Comuna 6"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 792705757,
@@ -16714,16 +16326,12 @@
     ],
     "_submission_time": "2026-06-25T23:34:33",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.623932,
     "lon": -58.3924904,
     "comuna_lat": -34.612,
     "comuna_lon": -58.405,
     "comuna_label": "Comuna 3"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 792706032,
@@ -16733,11 +16341,7 @@
     "apellido": "Gerece ",
     "nombre": "Abraham ",
     "dni": "33294816",
-<<<<<<< HEAD
-    "comuna": "7",
-=======
     "comuna": "6",
->>>>>>> 34231da (correcion dni)
     "ubicacion": "-34.6271583 -58.4389517 35.599998474121094 4.916",
     "seguimiento_caso": "no",
     "nombre_brigadista": "Darío Palacios ",
@@ -16762,16 +16366,12 @@
     ],
     "_submission_time": "2026-06-25T23:35:25",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6271583,
     "lon": -58.4389517,
     "comuna_lat": -34.618,
     "comuna_lon": -58.443,
     "comuna_label": "Comuna 6"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 792708870,
@@ -16806,16 +16406,12 @@
     ],
     "_submission_time": "2026-06-25T23:47:38",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6278817,
     "lon": -58.44294,
     "comuna_lat": -34.618,
     "comuna_lon": -58.443,
     "comuna_label": "Comuna 6"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 792710292,
@@ -16854,16 +16450,12 @@
     ],
     "_submission_time": "2026-06-25T23:54:08",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6332867,
     "lon": -58.40284,
     "comuna_lat": -34.642,
     "comuna_lon": -58.391,
     "comuna_label": "Comuna 4"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 792710396,
@@ -16897,16 +16489,12 @@
     ],
     "_submission_time": "2026-06-25T23:54:40",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6239233,
     "lon": -58.3924941,
     "comuna_lat": -34.612,
     "comuna_lon": -58.405,
     "comuna_label": "Comuna 3"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 792714117,
@@ -16941,16 +16529,12 @@
     ],
     "_submission_time": "2026-06-26T00:07:29",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6303753,
     "lon": -58.4536426,
     "comuna_lat": -34.639,
     "comuna_lon": -58.448,
     "comuna_label": "Comuna 7"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 792714834,
@@ -16985,16 +16569,12 @@
     ],
     "_submission_time": "2026-06-26T00:09:52",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6304717,
     "lon": -58.4535933,
     "comuna_lat": -34.639,
     "comuna_lon": -58.448,
     "comuna_label": "Comuna 7"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 792715632,
@@ -17029,16 +16609,12 @@
     ],
     "_submission_time": "2026-06-26T00:12:08",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6304083,
     "lon": -58.4536933,
     "comuna_lat": -34.639,
     "comuna_lon": -58.448,
     "comuna_label": "Comuna 7"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 792716164,
@@ -17074,16 +16650,12 @@
     ],
     "_submission_time": "2026-06-26T00:14:04",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.623931,
     "lon": -58.3924906,
     "comuna_lat": -34.612,
     "comuna_lon": -58.405,
     "comuna_label": "Comuna 3"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 792717559,
@@ -17093,11 +16665,7 @@
     "apellido": "Vertin",
     "nombre": "Jesús ",
     "dni": "38176863",
-<<<<<<< HEAD
-    "comuna": "3",
-=======
     "comuna": "4",
->>>>>>> 34231da (correcion dni)
     "ubicacion": "-34.63364 -58.3943133 46.89999771118164 3.237",
     "seguimiento_caso": "no",
     "nombre_brigadista": "Da Silva/ Ferrufino ",
@@ -17122,16 +16690,12 @@
     ],
     "_submission_time": "2026-06-26T00:20:10",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.63364,
     "lon": -58.3943133,
     "comuna_lat": -34.642,
     "comuna_lon": -58.391,
     "comuna_label": "Comuna 4"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 792717668,
@@ -17165,16 +16729,12 @@
     ],
     "_submission_time": "2026-06-26T00:20:47",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6239248,
     "lon": -58.3924898,
     "comuna_lat": -34.612,
     "comuna_lon": -58.405,
     "comuna_label": "Comuna 3"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 792717678,
@@ -17208,16 +16768,12 @@
     ],
     "_submission_time": "2026-06-26T00:20:49",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6239305,
     "lon": -58.3924832,
     "comuna_lat": -34.612,
     "comuna_lon": -58.405,
     "comuna_label": "Comuna 3"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 792721377,
@@ -17252,16 +16808,12 @@
     ],
     "_submission_time": "2026-06-26T00:37:15",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6402767,
     "lon": -58.4643933,
     "comuna_lat": -34.639,
     "comuna_lon": -58.448,
     "comuna_label": "Comuna 7"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 792721891,
@@ -17296,16 +16848,12 @@
     ],
     "_submission_time": "2026-06-26T00:39:05",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6403167,
     "lon": -58.4643967,
     "comuna_lat": -34.639,
     "comuna_lon": -58.448,
     "comuna_label": "Comuna 7"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 792723688,
@@ -17315,11 +16863,7 @@
     "apellido": "Molina",
     "nombre": "Karen",
     "dni": "95728758",
-<<<<<<< HEAD
-    "comuna": "3",
-=======
     "comuna": "4",
->>>>>>> 34231da (correcion dni)
     "ubicacion": "-34.629425 -58.39178 41.599998474121094 4.866",
     "seguimiento_caso": "si",
     "nombre_brigadista": "Ferrufino/Da Silva",
@@ -17344,16 +16888,12 @@
     ],
     "_submission_time": "2026-06-26T00:48:24",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.629425,
     "lon": -58.39178,
     "comuna_lat": -34.642,
     "comuna_lon": -58.391,
     "comuna_label": "Comuna 4"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 792728140,
@@ -17388,16 +16928,12 @@
     ],
     "_submission_time": "2026-06-26T01:07:17",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6346389,
     "lon": -58.4470096,
     "comuna_lat": -34.639,
     "comuna_lon": -58.448,
     "comuna_label": "Comuna 7"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 792738211,
@@ -17432,16 +16968,12 @@
     ],
     "_submission_time": "2026-06-26T01:41:54",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6300561,
     "lon": -58.4369387,
     "comuna_lat": -34.639,
     "comuna_lon": -58.448,
     "comuna_label": "Comuna 7"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 792738754,
@@ -17476,16 +17008,12 @@
     ],
     "_submission_time": "2026-06-26T01:43:45",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6300382,
     "lon": -58.4368595,
     "comuna_lat": -34.639,
     "comuna_lon": -58.448,
     "comuna_label": "Comuna 7"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 792739420,
@@ -17520,16 +17048,12 @@
     ],
     "_submission_time": "2026-06-26T01:45:57",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6299953,
     "lon": -58.4368616,
     "comuna_lat": -34.639,
     "comuna_lon": -58.448,
     "comuna_label": "Comuna 7"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 792796492,
@@ -17568,16 +17092,12 @@
     ],
     "_submission_time": "2026-06-26T04:24:16",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6292873,
     "lon": -58.4631339,
     "comuna_lat": -34.639,
     "comuna_lon": -58.448,
     "comuna_label": "Comuna 7"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 792802451,
@@ -17612,16 +17132,12 @@
     ],
     "_submission_time": "2026-06-26T04:37:15",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.629165,
     "lon": -58.4633167,
     "comuna_lat": -34.639,
     "comuna_lon": -58.448,
     "comuna_label": "Comuna 7"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 792928422,
@@ -17654,16 +17170,12 @@
     ],
     "_submission_time": "2026-06-26T07:48:48",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6239207,
     "lon": -58.3924785,
     "comuna_lat": -34.612,
     "comuna_lon": -58.405,
     "comuna_label": "Comuna 3"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 792928427,
@@ -17673,11 +17185,7 @@
     "apellido": "Maciel",
     "nombre": "Fabian",
     "dni": "43515540",
-<<<<<<< HEAD
-    "comuna": "7",
-=======
     "comuna": "6",
->>>>>>> 34231da (correcion dni)
     "ubicacion": "-34.618575 -58.4373767 43.599998474121094 8.7",
     "seguimiento_caso": "no",
     "nombre_brigadista": "Martínez Sol",
@@ -17702,16 +17210,12 @@
     ],
     "_submission_time": "2026-06-26T07:48:48",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.618575,
     "lon": -58.4373767,
     "comuna_lat": -34.618,
     "comuna_lon": -58.443,
     "comuna_label": "Comuna 6"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 793284422,
@@ -17747,16 +17251,12 @@
     ],
     "_submission_time": "2026-06-26T12:56:45",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.5974849,
     "lon": -58.3870617,
     "comuna_lat": -34.589,
     "comuna_lon": -58.393,
     "comuna_label": "Comuna 2"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 793296318,
@@ -17792,16 +17292,12 @@
     ],
     "_submission_time": "2026-06-26T13:06:26",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.5975767,
     "lon": -58.3870468,
     "comuna_lat": -34.589,
     "comuna_lon": -58.393,
     "comuna_label": "Comuna 2"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 793366926,
@@ -17837,16 +17333,12 @@
     ],
     "_submission_time": "2026-06-26T14:03:28",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.594712,
     "lon": -58.3920765,
     "comuna_lat": -34.589,
     "comuna_lon": -58.393,
     "comuna_label": "Comuna 2"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 793424264,
@@ -17857,11 +17349,7 @@
     "nombre": "Ana María ",
     "dni": "23523151",
     "Direcci_n_de_la_inte_ci_n_Calle_y_altura": "Combate de los pozos 1280 ",
-<<<<<<< HEAD
-    "comuna": "1",
-=======
     "comuna": "3",
->>>>>>> 34231da (correcion dni)
     "ubicacion": "-34.6239362 -58.3924854 42.599998474121094 4.497",
     "seguimiento_caso": "no",
     "nombre_brigadista": "Retamozo ",
@@ -17884,16 +17372,12 @@
     ],
     "_submission_time": "2026-06-26T14:48:22",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6239362,
     "lon": -58.3924854,
     "comuna_lat": -34.612,
     "comuna_lon": -58.405,
     "comuna_label": "Comuna 3"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 793424270,
@@ -17904,11 +17388,7 @@
     "nombre": "Enrique ",
     "dni": "21131179",
     "Direcci_n_de_la_inte_ci_n_Calle_y_altura": "Combate de los pozos 1280 ",
-<<<<<<< HEAD
-    "comuna": "1",
-=======
     "comuna": "3",
->>>>>>> 34231da (correcion dni)
     "ubicacion": "-34.623922 -58.3925019 42.5 4.151",
     "seguimiento_caso": "si",
     "nombre_brigadista": "Ontivero ",
@@ -17931,16 +17411,12 @@
     ],
     "_submission_time": "2026-06-26T14:48:22",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.623922,
     "lon": -58.3925019,
     "comuna_lat": -34.612,
     "comuna_lon": -58.405,
     "comuna_label": "Comuna 3"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 793489217,
@@ -17950,11 +17426,7 @@
     "apellido": "Puebla",
     "nombre": "Blas",
     "dni": "13505056",
-<<<<<<< HEAD
-    "comuna": "6",
-=======
     "comuna": "13",
->>>>>>> 34231da (correcion dni)
     "ubicacion": "-34.5706784 -58.4473209 39.5 13.885",
     "seguimiento_caso": "si",
     "nombre_brigadista": "Unertini",
@@ -17979,16 +17451,12 @@
     ],
     "_submission_time": "2026-06-26T15:39:46",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.5706784,
     "lon": -58.4473209,
     "comuna_lat": -34.557,
     "comuna_lon": -58.455,
     "comuna_label": "Comuna 13"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 793674036,
@@ -18022,16 +17490,12 @@
     ],
     "_submission_time": "2026-06-26T18:56:36",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6239427,
     "lon": -58.3924885,
     "comuna_lat": -34.612,
     "comuna_lon": -58.405,
     "comuna_label": "Comuna 3"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 793692544,
@@ -18042,11 +17506,7 @@
     "nombre": "Diego",
     "dni": "25202915",
     "Direcci_n_de_la_inte_ci_n_Calle_y_altura": "Combate de los Pozos 1280",
-<<<<<<< HEAD
-    "comuna": "1",
-=======
     "comuna": "3",
->>>>>>> 34231da (correcion dni)
     "ubicacion": "-34.6239362 -58.3924917 43.0 4.092",
     "seguimiento_caso": "no",
     "nombre_brigadista": "B Ontivero ",
@@ -18069,16 +17529,12 @@
     ],
     "_submission_time": "2026-06-26T19:20:53",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6239362,
     "lon": -58.3924917,
     "comuna_lat": -34.612,
     "comuna_lon": -58.405,
     "comuna_label": "Comuna 3"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 793730724,
@@ -18112,16 +17568,12 @@
     ],
     "_submission_time": "2026-06-26T20:26:05",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6239351,
     "lon": -58.3924964,
     "comuna_lat": -34.612,
     "comuna_lon": -58.405,
     "comuna_label": "Comuna 3"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 793750138,
@@ -18156,16 +17608,12 @@
     ],
     "_submission_time": "2026-06-26T21:14:42",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6370871,
     "lon": -58.4259917,
     "comuna_lat": -34.639,
     "comuna_lon": -58.448,
     "comuna_label": "Comuna 7"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 793751017,
@@ -18200,16 +17648,12 @@
     ],
     "_submission_time": "2026-06-26T21:16:22",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6370984,
     "lon": -58.4259175,
     "comuna_lat": -34.639,
     "comuna_lon": -58.448,
     "comuna_label": "Comuna 7"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 793751539,
@@ -18244,16 +17688,12 @@
     ],
     "_submission_time": "2026-06-26T21:18:08",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6371045,
     "lon": -58.4259879,
     "comuna_lat": -34.639,
     "comuna_lon": -58.448,
     "comuna_label": "Comuna 7"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 793757227,
@@ -18288,16 +17728,12 @@
     ],
     "_submission_time": "2026-06-26T21:30:17",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6362168,
     "lon": -58.4279644,
     "comuna_lat": -34.639,
     "comuna_lon": -58.448,
     "comuna_label": "Comuna 7"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 793757695,
@@ -18332,16 +17768,12 @@
     ],
     "_submission_time": "2026-06-26T21:31:49",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6362165,
     "lon": -58.4279562,
     "comuna_lat": -34.639,
     "comuna_lon": -58.448,
     "comuna_label": "Comuna 7"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 793765616,
@@ -18375,16 +17807,12 @@
     ],
     "_submission_time": "2026-06-26T21:50:44",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6239362,
     "lon": -58.3924931,
     "comuna_lat": -34.612,
     "comuna_lon": -58.405,
     "comuna_label": "Comuna 3"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 793773548,
@@ -18419,16 +17847,12 @@
     ],
     "_submission_time": "2026-06-26T22:10:43",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6413487,
     "lon": -58.4359223,
     "comuna_lat": -34.639,
     "comuna_lon": -58.448,
     "comuna_label": "Comuna 7"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 793775439,
@@ -18463,16 +17887,12 @@
     ],
     "_submission_time": "2026-06-26T22:15:44",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6413497,
     "lon": -58.4359137,
     "comuna_lat": -34.639,
     "comuna_lon": -58.448,
     "comuna_label": "Comuna 7"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 793775784,
@@ -18507,16 +17927,12 @@
     ],
     "_submission_time": "2026-06-26T22:16:52",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6413643,
     "lon": -58.4358931,
     "comuna_lat": -34.639,
     "comuna_lon": -58.448,
     "comuna_label": "Comuna 7"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 793776056,
@@ -18550,16 +17966,12 @@
     ],
     "_submission_time": "2026-06-26T22:17:59",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6239295,
     "lon": -58.3924794,
     "comuna_lat": -34.612,
     "comuna_lon": -58.405,
     "comuna_label": "Comuna 3"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 793776078,
@@ -18594,16 +18006,12 @@
     ],
     "_submission_time": "2026-06-26T22:18:03",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6413389,
     "lon": -58.4359194,
     "comuna_lat": -34.639,
     "comuna_lon": -58.448,
     "comuna_label": "Comuna 7"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 793776494,
@@ -18638,16 +18046,12 @@
     ],
     "_submission_time": "2026-06-26T22:19:09",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6412967,
     "lon": -58.4359133,
     "comuna_lat": -34.639,
     "comuna_lon": -58.448,
     "comuna_label": "Comuna 7"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 793777407,
@@ -18683,16 +18087,12 @@
     ],
     "_submission_time": "2026-06-26T22:21:33",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.59918,
     "lon": -58.3868991,
     "comuna_lat": -34.589,
     "comuna_lon": -58.393,
     "comuna_label": "Comuna 2"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 793777410,
@@ -18703,11 +18103,7 @@
     "nombre": "Julio Argentino",
     "dni": "30194885",
     "Direcci_n_de_la_inte_ci_n_Calle_y_altura": "Pueyrredón y Córdoba ",
-<<<<<<< HEAD
-    "comuna": "2",
-=======
     "comuna": "3",
->>>>>>> 34231da (correcion dni)
     "ubicacion": "-34.6016897 -58.4060176 32.900001525878906 12.82",
     "seguimiento_caso": "si",
     "nombre_brigadista": "Sangregorio ",
@@ -18732,16 +18128,12 @@
     ],
     "_submission_time": "2026-06-26T22:21:33",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6016897,
     "lon": -58.4060176,
     "comuna_lat": -34.612,
     "comuna_lon": -58.405,
     "comuna_label": "Comuna 3"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 793777415,
@@ -18752,11 +18144,7 @@
     "nombre": "Sergio Javier",
     "dni": "0",
     "Direcci_n_de_la_inte_ci_n_Calle_y_altura": "Marcelo t Alvear 1573",
-<<<<<<< HEAD
-    "comuna": "2",
-=======
     "comuna": "7",
->>>>>>> 34231da (correcion dni)
     "ubicacion": "-34.6300456 -58.4369615 32.0 16.183",
     "seguimiento_caso": "no",
     "nombre_brigadista": "Sangregorio- Vargas ",
@@ -18781,16 +18169,12 @@
     ],
     "_submission_time": "2026-06-26T22:21:33",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6300456,
     "lon": -58.4369615,
     "comuna_lat": -34.639,
     "comuna_lon": -58.448,
     "comuna_label": "Comuna 7"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 793777418,
@@ -18801,11 +18185,7 @@
     "nombre": "Nadie ",
     "dni": "30637535",
     "Direcci_n_de_la_inte_ci_n_Calle_y_altura": "Varela y asamblea ",
-<<<<<<< HEAD
-    "comuna": "3",
-=======
     "comuna": "7",
->>>>>>> 34231da (correcion dni)
     "ubicacion": "-34.6300453 -58.4369602 32.0 19.62",
     "seguimiento_caso": "no",
     "nombre_brigadista": "Pisani ",
@@ -18830,16 +18210,12 @@
     ],
     "_submission_time": "2026-06-26T22:21:34",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6300453,
     "lon": -58.4369602,
     "comuna_lat": -34.639,
     "comuna_lon": -58.448,
     "comuna_label": "Comuna 7"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 793780037,
@@ -18874,16 +18250,12 @@
     ],
     "_submission_time": "2026-06-26T22:29:30",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.64241,
     "lon": -58.4410633,
     "comuna_lat": -34.639,
     "comuna_lon": -58.448,
     "comuna_label": "Comuna 7"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 793781497,
@@ -18918,16 +18290,12 @@
     ],
     "_submission_time": "2026-06-26T22:33:45",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.5584207,
     "lon": -58.4597922,
     "comuna_lat": -34.557,
     "comuna_lon": -58.455,
     "comuna_label": "Comuna 13"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 793781581,
@@ -18962,16 +18330,12 @@
     ],
     "_submission_time": "2026-06-26T22:34:00",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6425567,
     "lon": -58.4422067,
     "comuna_lat": -34.639,
     "comuna_lon": -58.448,
     "comuna_label": "Comuna 7"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 793781892,
@@ -19006,16 +18370,12 @@
     ],
     "_submission_time": "2026-06-26T22:35:06",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.642575,
     "lon": -58.4423533,
     "comuna_lat": -34.639,
     "comuna_lon": -58.448,
     "comuna_label": "Comuna 7"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 793782182,
@@ -19050,16 +18410,12 @@
     ],
     "_submission_time": "2026-06-26T22:35:42",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.5584813,
     "lon": -58.4597617,
     "comuna_lat": -34.557,
     "comuna_lon": -58.455,
     "comuna_label": "Comuna 13"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 793786947,
@@ -19094,16 +18450,12 @@
     ],
     "_submission_time": "2026-06-26T22:52:51",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6371788,
     "lon": -58.4425179,
     "comuna_lat": -34.639,
     "comuna_lon": -58.448,
     "comuna_label": "Comuna 7"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 793793780,
@@ -19113,11 +18465,7 @@
     "apellido": "Camejo ",
     "nombre": "Joaquín ",
     "dni": "0",
-<<<<<<< HEAD
-    "comuna": "6",
-=======
     "comuna": "5",
->>>>>>> 34231da (correcion dni)
     "ubicacion": "-34.62287 -58.4263767 45.29999923706055 4.56",
     "seguimiento_caso": "no",
     "nombre_brigadista": "Ortiz Sabrina ",
@@ -19142,16 +18490,12 @@
     ],
     "_submission_time": "2026-06-26T23:24:50",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.62287,
     "lon": -58.4263767,
     "comuna_lat": -34.616,
     "comuna_lon": -58.421,
     "comuna_label": "Comuna 5"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 793794294,
@@ -19185,16 +18529,12 @@
     ],
     "_submission_time": "2026-06-26T23:28:22",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6239225,
     "lon": -58.3924911,
     "comuna_lat": -34.612,
     "comuna_lon": -58.405,
     "comuna_label": "Comuna 3"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 793795095,
@@ -19228,16 +18568,12 @@
     ],
     "_submission_time": "2026-06-26T23:32:34",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6239203,
     "lon": -58.3924944,
     "comuna_lat": -34.612,
     "comuna_lon": -58.405,
     "comuna_label": "Comuna 3"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 793801970,
@@ -19272,16 +18608,12 @@
     ],
     "_submission_time": "2026-06-27T00:16:22",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.604834,
     "lon": -58.4574972,
     "comuna_lat": -34.618,
     "comuna_lon": -58.443,
     "comuna_label": "Comuna 6"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 793804897,
@@ -19316,16 +18648,12 @@
     ],
     "_submission_time": "2026-06-27T00:39:27",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6092733,
     "lon": -58.4072117,
     "comuna_lat": -34.612,
     "comuna_lon": -58.405,
     "comuna_label": "Comuna 3"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 793809043,
@@ -19335,11 +18663,7 @@
     "apellido": "Lopez",
     "nombre": "Mariano",
     "dni": "0",
-<<<<<<< HEAD
-    "comuna": "6",
-=======
     "comuna": "7",
->>>>>>> 34231da (correcion dni)
     "ubicacion": "-34.6297617 -58.445465 42.70000076293945 4.014",
     "seguimiento_caso": "no",
     "nombre_brigadista": "Ortiz Oscar ",
@@ -19364,16 +18688,12 @@
     ],
     "_submission_time": "2026-06-27T01:09:12",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6297617,
     "lon": -58.445465,
     "comuna_lat": -34.639,
     "comuna_lon": -58.448,
     "comuna_label": "Comuna 7"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 793809291,
@@ -19382,11 +18702,7 @@
     "apellido": "Nuñez ",
     "nombre": "Emiliano",
     "dni": "0",
-<<<<<<< HEAD
-    "comuna": "6",
-=======
     "comuna": "7",
->>>>>>> 34231da (correcion dni)
     "ubicacion": "-34.6295967 -58.4444383 40.79999923706055 4.95",
     "seguimiento_caso": "no",
     "nombre_brigadista": "Ortiz Sabrina ",
@@ -19411,16 +18727,12 @@
     ],
     "_submission_time": "2026-06-27T01:10:17",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6295967,
     "lon": -58.4444383,
     "comuna_lat": -34.639,
     "comuna_lon": -58.448,
     "comuna_label": "Comuna 7"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 793822533,
@@ -19454,16 +18766,12 @@
     ],
     "_submission_time": "2026-06-27T02:17:40",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6239189,
     "lon": -58.392504,
     "comuna_lat": -34.612,
     "comuna_lon": -58.405,
     "comuna_label": "Comuna 3"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 793849779,
@@ -19498,16 +18806,12 @@
     ],
     "_submission_time": "2026-06-27T03:50:01",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6149667,
     "lon": -58.3930733,
     "comuna_lat": -34.612,
     "comuna_lon": -58.405,
     "comuna_label": "Comuna 3"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 793868518,
@@ -19517,11 +18821,7 @@
     "apellido": "Viccoli",
     "nombre": "Alberto Gustavo ",
     "dni": "0",
-<<<<<<< HEAD
-    "comuna": "3",
-=======
     "comuna": "1",
->>>>>>> 34231da (correcion dni)
     "ubicacion": "-34.6005733 -58.39267 42.70000076293945 1.266",
     "seguimiento_caso": "no",
     "nombre_brigadista": "B.Pisani",
@@ -19546,16 +18846,12 @@
     ],
     "_submission_time": "2026-06-27T04:37:42",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6005733,
     "lon": -58.39267,
     "comuna_lat": -34.611,
     "comuna_lon": -58.382,
     "comuna_label": "Comuna 1"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 793889680,
@@ -19591,16 +18887,12 @@
     ],
     "_submission_time": "2026-06-27T05:32:25",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6009083,
     "lon": -58.393015,
     "comuna_lat": -34.612,
     "comuna_lon": -58.405,
     "comuna_label": "Comuna 3"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 793890250,
@@ -19635,16 +18927,12 @@
     ],
     "_submission_time": "2026-06-27T05:34:14",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.5998517,
     "lon": -58.3993167,
     "comuna_lat": -34.612,
     "comuna_lon": -58.405,
     "comuna_label": "Comuna 3"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 793898544,
@@ -19655,11 +18943,7 @@
     "nombre": "Andrea",
     "dni": "95062842",
     "Direcci_n_de_la_inte_ci_n_Calle_y_altura": "Córdoba 2586",
-<<<<<<< HEAD
-    "comuna": "3",
-=======
     "comuna": "2",
->>>>>>> 34231da (correcion dni)
     "ubicacion": "-34.5986017 -58.4033867 32.29999923706055 4.92",
     "seguimiento_caso": "no",
     "nombre_brigadista": "B. Ontivero",
@@ -19684,16 +18968,12 @@
     ],
     "_submission_time": "2026-06-27T05:55:59",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.5986017,
     "lon": -58.4033867,
     "comuna_lat": -34.589,
     "comuna_lon": -58.393,
     "comuna_label": "Comuna 2"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 793929056,
@@ -19703,11 +18983,7 @@
     "apellido": "Pueblo",
     "nombre": "Blass",
     "dni": "1350556",
-<<<<<<< HEAD
-    "comuna": "3",
-=======
     "comuna": "13",
->>>>>>> 34231da (correcion dni)
     "ubicacion": "-34.570435 -58.447735 39.5 4.94",
     "seguimiento_caso": "no",
     "nombre_brigadista": "B. Gamez",
@@ -19732,16 +19008,12 @@
     ],
     "_submission_time": "2026-06-27T06:56:18",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.570435,
     "lon": -58.447735,
     "comuna_lat": -34.557,
     "comuna_lon": -58.455,
     "comuna_label": "Comuna 13"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 793934956,
@@ -19752,11 +19024,7 @@
     "nombre": "Mario",
     "dni": "30828112",
     "Direcci_n_de_la_inte_ci_n_Calle_y_altura": "Cabildo 930",
-<<<<<<< HEAD
-    "comuna": "3",
-=======
     "comuna": "14",
->>>>>>> 34231da (correcion dni)
     "ubicacion": "-34.56925 -58.4457967 38.29999923706055 4.7",
     "seguimiento_caso": "no",
     "nombre_brigadista": "B. Martinez ",
@@ -19781,16 +19049,12 @@
     ],
     "_submission_time": "2026-06-27T07:05:49",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.56925,
     "lon": -58.4457967,
     "comuna_lat": -34.582,
     "comuna_lon": -58.421,
     "comuna_label": "Comuna 14"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 793943787,
@@ -19825,16 +19089,12 @@
     ],
     "_submission_time": "2026-06-27T07:22:09",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.5734333,
     "lon": -58.4287283,
     "comuna_lat": -34.582,
     "comuna_lon": -58.421,
     "comuna_label": "Comuna 14"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 793950257,
@@ -19844,11 +19104,7 @@
     "apellido": "Portugal ",
     "nombre": "Lucas Matías ",
     "dni": "30632438",
-<<<<<<< HEAD
-    "comuna": "13",
-=======
     "comuna": "14",
->>>>>>> 34231da (correcion dni)
     "ubicacion": "-34.573655 -58.4269033 25.5 7.86",
     "seguimiento_caso": "no",
     "nombre_brigadista": "B. Gamez",
@@ -19873,16 +19129,12 @@
     ],
     "_submission_time": "2026-06-27T07:33:06",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.573655,
     "lon": -58.4269033,
     "comuna_lat": -34.582,
     "comuna_lon": -58.421,
     "comuna_label": "Comuna 14"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 793957916,
@@ -19892,11 +19144,7 @@
     "apellido": "Ragido",
     "nombre": "Julio Antonio ",
     "dni": "28920648",
-<<<<<<< HEAD
-    "comuna": "10",
-=======
     "comuna": "1",
->>>>>>> 34231da (correcion dni)
     "ubicacion": "-34.5964997 -58.3828187 38.599998474121094 4.743",
     "seguimiento_caso": "no",
     "nombre_brigadista": "B. Gamez",
@@ -19921,16 +19169,12 @@
     ],
     "_submission_time": "2026-06-27T07:47:39",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.5964997,
     "lon": -58.3828187,
     "comuna_lat": -34.611,
     "comuna_lon": -58.382,
     "comuna_label": "Comuna 1"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 793965749,
@@ -19940,11 +19184,7 @@
     "apellido": "Iluminati",
     "nombre": "Domenico",
     "dni": "96284036",
-<<<<<<< HEAD
-    "comuna": "11",
-=======
     "comuna": "1",
->>>>>>> 34231da (correcion dni)
     "ubicacion": "-34.604171 -58.3822334 37.70000076293945 4.692",
     "seguimiento_caso": "no",
     "nombre_brigadista": "B. Gamez",
@@ -19969,16 +19209,12 @@
     ],
     "_submission_time": "2026-06-27T08:00:21",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.604171,
     "lon": -58.3822334,
     "comuna_lat": -34.611,
     "comuna_lon": -58.382,
     "comuna_label": "Comuna 1"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 793968055,
@@ -19987,11 +19223,7 @@
     "apellido": "Borale",
     "nombre": "Federico Sebastián ",
     "dni": "33416244",
-<<<<<<< HEAD
-    "comuna": "7",
-=======
     "comuna": "1",
->>>>>>> 34231da (correcion dni)
     "ubicacion": "-34.6041533 -58.3821717 37.099998474121094 4.75",
     "seguimiento_caso": "no",
     "nombre_brigadista": "B. Gamez ",
@@ -20016,16 +19248,12 @@
     ],
     "_submission_time": "2026-06-27T08:04:22",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6041533,
     "lon": -58.3821717,
     "comuna_lat": -34.611,
     "comuna_lon": -58.382,
     "comuna_label": "Comuna 1"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 793979739,
@@ -20060,16 +19288,12 @@
     ],
     "_submission_time": "2026-06-27T08:22:02",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.61739,
     "lon": -58.3818083,
     "comuna_lat": -34.611,
     "comuna_lon": -58.382,
     "comuna_label": "Comuna 1"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 794000222,
@@ -20079,11 +19303,7 @@
     "apellido": "B.Martinez",
     "nombre": "Gabriel farao",
     "dni": "32891494",
-<<<<<<< HEAD
-    "comuna": "1",
-=======
     "comuna": "3",
->>>>>>> 34231da (correcion dni)
     "ubicacion": "-34.6240273 -58.3925177 42.70000076293945 20.258",
     "seguimiento_caso": "si",
     "nombre_brigadista": "B.Martinez ",
@@ -20106,16 +19326,12 @@
     ],
     "_submission_time": "2026-06-27T08:53:07",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6240273,
     "lon": -58.3925177,
     "comuna_lat": -34.612,
     "comuna_lon": -58.405,
     "comuna_label": "Comuna 3"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 794189136,
@@ -20149,16 +19365,12 @@
     ],
     "_submission_time": "2026-06-27T12:50:43",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6239229,
     "lon": -58.3924879,
     "comuna_lat": -34.612,
     "comuna_lon": -58.405,
     "comuna_label": "Comuna 3"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 794200173,
@@ -20192,16 +19404,12 @@
     ],
     "_submission_time": "2026-06-27T13:06:34",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.623929,
     "lon": -58.392479,
     "comuna_lat": -34.612,
     "comuna_lon": -58.405,
     "comuna_label": "Comuna 3"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 794274242,
@@ -20235,16 +19443,12 @@
     ],
     "_submission_time": "2026-06-27T14:40:39",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6239275,
     "lon": -58.3924669,
     "comuna_lat": -34.612,
     "comuna_lon": -58.405,
     "comuna_label": "Comuna 3"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 794277711,
@@ -20278,16 +19482,12 @@
     ],
     "_submission_time": "2026-06-27T14:45:20",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6239356,
     "lon": -58.3924977,
     "comuna_lat": -34.612,
     "comuna_lon": -58.405,
     "comuna_label": "Comuna 3"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 794292453,
@@ -20321,16 +19521,12 @@
     ],
     "_submission_time": "2026-06-27T15:03:48",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6239336,
     "lon": -58.392476,
     "comuna_lat": -34.612,
     "comuna_lon": -58.405,
     "comuna_label": "Comuna 3"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 794299411,
@@ -20364,16 +19560,12 @@
     ],
     "_submission_time": "2026-06-27T15:12:38",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6239259,
     "lon": -58.3924886,
     "comuna_lat": -34.612,
     "comuna_lon": -58.405,
     "comuna_label": "Comuna 3"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 794434875,
@@ -20407,16 +19599,12 @@
     ],
     "_submission_time": "2026-06-27T18:58:08",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.623923,
     "lon": -58.392486,
     "comuna_lat": -34.612,
     "comuna_lon": -58.405,
     "comuna_label": "Comuna 3"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 794477148,
@@ -20450,16 +19638,12 @@
     ],
     "_submission_time": "2026-06-27T20:43:25",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6239218,
     "lon": -58.3924942,
     "comuna_lat": -34.612,
     "comuna_lon": -58.405,
     "comuna_label": "Comuna 3"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 794479329,
@@ -20493,16 +19677,12 @@
     ],
     "_submission_time": "2026-06-27T20:49:37",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6239264,
     "lon": -58.3924987,
     "comuna_lat": -34.612,
     "comuna_lon": -58.405,
     "comuna_label": "Comuna 3"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 794484321,
@@ -20536,16 +19716,12 @@
     ],
     "_submission_time": "2026-06-27T21:05:54",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6239155,
     "lon": -58.392502,
     "comuna_lat": -34.612,
     "comuna_lon": -58.405,
     "comuna_label": "Comuna 3"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 794492693,
@@ -20579,16 +19755,12 @@
     ],
     "_submission_time": "2026-06-27T21:33:38",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6239223,
     "lon": -58.392492,
     "comuna_lat": -34.612,
     "comuna_lon": -58.405,
     "comuna_label": "Comuna 3"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 794514024,
@@ -20622,16 +19794,12 @@
     ],
     "_submission_time": "2026-06-27T23:22:37",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6239222,
     "lon": -58.3924944,
     "comuna_lat": -34.612,
     "comuna_lon": -58.405,
     "comuna_label": "Comuna 3"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 794514561,
@@ -20665,16 +19833,12 @@
     ],
     "_submission_time": "2026-06-27T23:26:23",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6239404,
     "lon": -58.3924874,
     "comuna_lat": -34.612,
     "comuna_lon": -58.405,
     "comuna_label": "Comuna 3"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 794535975,
@@ -20707,16 +19871,12 @@
     ],
     "_submission_time": "2026-06-28T02:33:44",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6239128,
     "lon": -58.3924736,
     "comuna_lat": -34.612,
     "comuna_lon": -58.405,
     "comuna_label": "Comuna 3"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 794557988,
@@ -20752,16 +19912,12 @@
     ],
     "_submission_time": "2026-06-28T04:36:49",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6173933,
     "lon": -58.3815967,
     "comuna_lat": -34.611,
     "comuna_lon": -58.382,
     "comuna_label": "Comuna 1"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 794557992,
@@ -20797,16 +19953,12 @@
     ],
     "_submission_time": "2026-06-28T04:36:50",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6228084,
     "lon": -58.392753,
     "comuna_lat": -34.612,
     "comuna_lon": -58.405,
     "comuna_label": "Comuna 3"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 794560170,
@@ -20817,11 +19969,7 @@
     "nombre": "Diego ",
     "dni": "33606018",
     "Direcci_n_de_la_inte_ci_n_Calle_y_altura": "Solis y Humberto 1",
-<<<<<<< HEAD
-    "comuna": "3",
-=======
     "comuna": "1",
->>>>>>> 34231da (correcion dni)
     "ubicacion": "-34.6213 -58.3898333 41.5 4.75",
     "seguimiento_caso": "no",
     "nombre_brigadista": "Abregú y Da Silva ",
@@ -20846,16 +19994,12 @@
     ],
     "_submission_time": "2026-06-28T04:46:09",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6213,
     "lon": -58.3898333,
     "comuna_lat": -34.611,
     "comuna_lon": -58.382,
     "comuna_label": "Comuna 1"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 794572758,
@@ -20891,16 +20035,12 @@
     ],
     "_submission_time": "2026-06-28T05:26:32",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.612955,
     "lon": -58.39176,
     "comuna_lat": -34.612,
     "comuna_lon": -58.405,
     "comuna_label": "Comuna 3"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 794573518,
@@ -20935,16 +20075,12 @@
     ],
     "_submission_time": "2026-06-28T05:29:36",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.5998283,
     "lon": -58.3939667,
     "comuna_lat": -34.612,
     "comuna_lon": -58.405,
     "comuna_label": "Comuna 3"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 794580795,
@@ -20980,16 +20116,12 @@
     ],
     "_submission_time": "2026-06-28T05:50:47",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6000524,
     "lon": -58.4042953,
     "comuna_lat": -34.612,
     "comuna_lon": -58.405,
     "comuna_label": "Comuna 3"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 794592177,
@@ -21000,11 +20132,7 @@
     "nombre": "Alejandro Daniel",
     "dni": "35532429",
     "Direcci_n_de_la_inte_ci_n_Calle_y_altura": "Av corrientes 3848",
-<<<<<<< HEAD
-    "comuna": "3",
-=======
     "comuna": "5",
->>>>>>> 34231da (correcion dni)
     "ubicacion": "-34.603465 -58.41864 42.099998474121094 8.5",
     "seguimiento_caso": "no",
     "nombre_brigadista": "Abregú y Da Silva",
@@ -21029,16 +20157,12 @@
     ],
     "_submission_time": "2026-06-28T06:17:50",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.603465,
     "lon": -58.41864,
     "comuna_lat": -34.616,
     "comuna_lon": -58.421,
     "comuna_label": "Comuna 5"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 794598566,
@@ -21048,11 +20172,7 @@
     "apellido": "Giménez ",
     "nombre": "Alejandro Daniel ",
     "dni": "35532429",
-<<<<<<< HEAD
-    "comuna": "3",
-=======
     "comuna": "5",
->>>>>>> 34231da (correcion dni)
     "ubicacion": "-34.6034837 -58.4186336 42.099998474121094 13.204",
     "seguimiento_caso": "no",
     "nombre_brigadista": "Renato Da silva ",
@@ -21077,16 +20197,12 @@
     ],
     "_submission_time": "2026-06-28T06:30:28",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6034837,
     "lon": -58.4186336,
     "comuna_lat": -34.616,
     "comuna_lon": -58.421,
     "comuna_label": "Comuna 5"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 794606555,
@@ -21122,16 +20238,12 @@
     ],
     "_submission_time": "2026-06-28T06:48:21",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6041617,
     "lon": -58.4085167,
     "comuna_lat": -34.612,
     "comuna_lon": -58.405,
     "comuna_label": "Comuna 3"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 794613659,
@@ -21167,16 +20279,12 @@
     ],
     "_submission_time": "2026-06-28T07:01:27",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6046533,
     "lon": -58.3975067,
     "comuna_lat": -34.612,
     "comuna_lon": -58.405,
     "comuna_label": "Comuna 3"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 794613664,
@@ -21212,16 +20320,12 @@
     ],
     "_submission_time": "2026-06-28T07:01:27",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.604499,
     "lon": -58.3975815,
     "comuna_lat": -34.612,
     "comuna_lon": -58.405,
     "comuna_label": "Comuna 3"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 794630186,
@@ -21232,11 +20336,7 @@
     "nombre": "Sebastián Gabriel ",
     "dni": "31684973",
     "Direcci_n_de_la_inte_ci_n_Calle_y_altura": "Asamblea 462",
-<<<<<<< HEAD
-    "comuna": "3",
-=======
     "comuna": "7",
->>>>>>> 34231da (correcion dni)
     "ubicacion": "-34.634345 -58.4344767 32.599998474121094 4.983",
     "seguimiento_caso": "no",
     "nombre_brigadista": "Da Silva ",
@@ -21261,16 +20361,12 @@
     ],
     "_submission_time": "2026-06-28T07:34:33",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.634345,
     "lon": -58.4344767,
     "comuna_lat": -34.639,
     "comuna_lon": -58.448,
     "comuna_label": "Comuna 7"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 794944509,
@@ -21308,16 +20404,12 @@
     ],
     "_submission_time": "2026-06-28T16:28:31",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6239316,
     "lon": -58.3924922,
     "comuna_lat": -34.612,
     "comuna_lon": -58.405,
     "comuna_label": "Comuna 3"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 794946224,
@@ -21351,16 +20443,12 @@
     ],
     "_submission_time": "2026-06-28T16:32:08",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6239285,
     "lon": -58.3924953,
     "comuna_lat": -34.612,
     "comuna_lon": -58.405,
     "comuna_label": "Comuna 3"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 794948927,
@@ -21394,16 +20482,12 @@
     ],
     "_submission_time": "2026-06-28T16:38:40",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6239241,
     "lon": -58.3925077,
     "comuna_lat": -34.612,
     "comuna_lon": -58.405,
     "comuna_label": "Comuna 3"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 794950653,
@@ -21437,16 +20521,12 @@
     ],
     "_submission_time": "2026-06-28T16:42:45",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6239258,
     "lon": -58.3924861,
     "comuna_lat": -34.612,
     "comuna_lon": -58.405,
     "comuna_label": "Comuna 3"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 794953248,
@@ -21480,16 +20560,12 @@
     ],
     "_submission_time": "2026-06-28T16:48:27",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6239196,
     "lon": -58.3925019,
     "comuna_lat": -34.612,
     "comuna_lon": -58.405,
     "comuna_label": "Comuna 3"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 795017213,
@@ -21523,16 +20599,12 @@
     ],
     "_submission_time": "2026-06-28T19:14:26",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6239284,
     "lon": -58.3924852,
     "comuna_lat": -34.612,
     "comuna_lon": -58.405,
     "comuna_label": "Comuna 3"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 795084972,
@@ -21566,16 +20638,12 @@
     ],
     "_submission_time": "2026-06-28T22:28:24",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6239262,
     "lon": -58.3924724,
     "comuna_lat": -34.612,
     "comuna_lon": -58.405,
     "comuna_label": "Comuna 3"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 795087038,
@@ -21609,16 +20677,12 @@
     ],
     "_submission_time": "2026-06-28T22:36:19",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6239391,
     "lon": -58.3924807,
     "comuna_lat": -34.612,
     "comuna_lon": -58.405,
     "comuna_label": "Comuna 3"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 795087969,
@@ -21652,16 +20716,12 @@
     ],
     "_submission_time": "2026-06-28T22:40:30",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6239343,
     "lon": -58.3924955,
     "comuna_lat": -34.612,
     "comuna_lon": -58.405,
     "comuna_label": "Comuna 3"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 795088317,
@@ -21695,16 +20755,12 @@
     ],
     "_submission_time": "2026-06-28T22:43:09",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6239185,
     "lon": -58.3924855,
     "comuna_lat": -34.612,
     "comuna_lon": -58.405,
     "comuna_label": "Comuna 3"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 795088591,
@@ -21738,16 +20794,12 @@
     ],
     "_submission_time": "2026-06-28T22:44:50",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6239294,
     "lon": -58.392488,
     "comuna_lat": -34.612,
     "comuna_lon": -58.405,
     "comuna_label": "Comuna 3"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 795107130,
@@ -21784,16 +20836,12 @@
     ],
     "_submission_time": "2026-06-29T00:29:49",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6239187,
     "lon": -58.392491,
     "comuna_lat": -34.612,
     "comuna_lon": -58.405,
     "comuna_label": "Comuna 3"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 795143171,
@@ -21829,16 +20877,12 @@
     ],
     "_submission_time": "2026-06-29T03:01:47",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6117977,
     "lon": -58.3975785,
     "comuna_lat": -34.612,
     "comuna_lon": -58.405,
     "comuna_label": "Comuna 3"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 795146923,
@@ -21874,16 +20918,12 @@
     ],
     "_submission_time": "2026-06-29T03:12:58",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6161055,
     "lon": -58.3960949,
     "comuna_lat": -34.612,
     "comuna_lon": -58.405,
     "comuna_label": "Comuna 3"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 795147857,
@@ -21919,16 +20959,12 @@
     ],
     "_submission_time": "2026-06-29T03:16:19",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6161541,
     "lon": -58.3960849,
     "comuna_lat": -34.612,
     "comuna_lon": -58.405,
     "comuna_label": "Comuna 3"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 795165103,
@@ -21939,11 +20975,7 @@
     "nombre": "Angel jose",
     "dni": "20068270",
     "Direcci_n_de_la_inte_ci_n_Calle_y_altura": "Arenales 2401",
-<<<<<<< HEAD
-    "comuna": "2",
-=======
     "comuna": "14",
->>>>>>> 34231da (correcion dni)
     "ubicacion": "-34.5872273 -58.4107875 35.79999923706055 11.338",
     "seguimiento_caso": "si",
     "nombre_brigadista": "Gámez ",
@@ -21968,16 +21000,12 @@
     ],
     "_submission_time": "2026-06-29T04:10:27",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.5872273,
     "lon": -58.4107875,
     "comuna_lat": -34.582,
     "comuna_lon": -58.421,
     "comuna_label": "Comuna 14"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 795182390,
@@ -22013,16 +21041,12 @@
     ],
     "_submission_time": "2026-06-29T04:51:41",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6035072,
     "lon": -58.3924364,
     "comuna_lat": -34.612,
     "comuna_lon": -58.405,
     "comuna_label": "Comuna 3"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 795186322,
@@ -22058,16 +21082,12 @@
     ],
     "_submission_time": "2026-06-29T04:59:52",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6017758,
     "lon": -58.3927396,
     "comuna_lat": -34.612,
     "comuna_lon": -58.405,
     "comuna_label": "Comuna 3"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 795192149,
@@ -22078,11 +21098,7 @@
     "nombre": "Miguel ",
     "dni": "28512016",
     "Direcci_n_de_la_inte_ci_n_Calle_y_altura": "Callao 635",
-<<<<<<< HEAD
-    "comuna": "3",
-=======
     "comuna": "1",
->>>>>>> 34231da (correcion dni)
     "ubicacion": "-34.60097 -58.3926417 42.599998474121094 171.2",
     "seguimiento_caso": "no",
     "nombre_brigadista": "Da silva",
@@ -22107,16 +21123,12 @@
     ],
     "_submission_time": "2026-06-29T05:10:42",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.60097,
     "lon": -58.3926417,
     "comuna_lat": -34.611,
     "comuna_lon": -58.382,
     "comuna_label": "Comuna 1"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 795193065,
@@ -22152,16 +21164,12 @@
     ],
     "_submission_time": "2026-06-29T05:12:17",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6014351,
     "lon": -58.3927636,
     "comuna_lat": -34.612,
     "comuna_lon": -58.405,
     "comuna_label": "Comuna 3"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 795215680,
@@ -22172,11 +21180,7 @@
     "nombre": "Miguel",
     "dni": "5145104",
     "Direcci_n_de_la_inte_ci_n_Calle_y_altura": "Independencia 2383",
-<<<<<<< HEAD
-    "comuna": "3",
-=======
     "comuna": "14",
->>>>>>> 34231da (correcion dni)
     "ubicacion": "-34.5700897 -58.4433454 39.29999923706055 20.4",
     "seguimiento_caso": "no",
     "nombre_brigadista": "Gamez",
@@ -22201,16 +21205,12 @@
     ],
     "_submission_time": "2026-06-29T05:49:57",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.5700897,
     "lon": -58.4433454,
     "comuna_lat": -34.582,
     "comuna_lon": -58.421,
     "comuna_label": "Comuna 14"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 795237790,
@@ -22221,11 +21221,7 @@
     "nombre": "Patricia",
     "dni": "23634863",
     "Direcci_n_de_la_inte_ci_n_Calle_y_altura": "Sánchez de loria y estados unidos",
-<<<<<<< HEAD
-    "comuna": "3",
-=======
     "comuna": "5",
->>>>>>> 34231da (correcion dni)
     "ubicacion": "-34.6251983 -58.41226 37.39999771118164 8.066",
     "seguimiento_caso": "no",
     "nombre_brigadista": "Da silva",
@@ -22250,16 +21246,12 @@
     ],
     "_submission_time": "2026-06-29T06:19:13",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6251983,
     "lon": -58.41226,
     "comuna_lat": -34.616,
     "comuna_lon": -58.421,
     "comuna_label": "Comuna 5"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 795239021,
@@ -22270,11 +21262,7 @@
     "nombre": "Denis",
     "dni": "0",
     "Direcci_n_de_la_inte_ci_n_Calle_y_altura": "Sánchez de loria y estados unicos",
-<<<<<<< HEAD
-    "comuna": "3",
-=======
     "comuna": "5",
->>>>>>> 34231da (correcion dni)
     "ubicacion": "-34.6249183 -58.4121417 37.39999771118164 10.125",
     "seguimiento_caso": "no",
     "nombre_brigadista": "Gsmez",
@@ -22299,16 +21287,12 @@
     ],
     "_submission_time": "2026-06-29T06:20:53",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
     "lat": -34.6249183,
     "lon": -58.4121417,
     "comuna_lat": -34.616,
     "comuna_lon": -58.421,
     "comuna_label": "Comuna 5"
->>>>>>> 34231da (correcion dni)
   },
   {
     "_id": 795240645,
@@ -22344,8 +21328,12 @@
     ],
     "_submission_time": "2026-06-29T06:22:45",
     "_validation_status": {},
-<<<<<<< HEAD
-    "_submitted_by": "seguimiento_casos_criticos2026"
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.624895,
+    "lon": -58.4120717,
+    "comuna_lat": -34.612,
+    "comuna_lon": -58.405,
+    "comuna_label": "Comuna 3"
   },
   {
     "_id": 796121510,
@@ -22356,7 +21344,7 @@
     "nombre": "Gonzalo ",
     "dni": "95509677",
     "Direcci_n_de_la_inte_ci_n_Calle_y_altura": "Combate de los pozos 1280 ",
-    "comuna": "1",
+    "comuna": "3",
     "ubicacion": "-34.6239404 -58.3924853 42.79999923706055 4.873",
     "seguimiento_caso": "si",
     "nombre_brigadista": "Retamozo ",
@@ -22379,7 +21367,12 @@
     ],
     "_submission_time": "2026-06-29T17:46:01",
     "_validation_status": {},
-    "_submitted_by": "seguimiento_casos_criticos2026"
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.6239404,
+    "lon": -58.3924853,
+    "comuna_lat": -34.612,
+    "comuna_lon": -58.405,
+    "comuna_label": "Comuna 3"
   },
   {
     "_id": 796140328,
@@ -22413,7 +21406,12 @@
     ],
     "_submission_time": "2026-06-29T18:13:06",
     "_validation_status": {},
-    "_submitted_by": "seguimiento_casos_criticos2026"
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.623922,
+    "lon": -58.3924979,
+    "comuna_lat": -34.612,
+    "comuna_lon": -58.405,
+    "comuna_label": "Comuna 3"
   },
   {
     "_id": 796140329,
@@ -22447,7 +21445,12 @@
     ],
     "_submission_time": "2026-06-29T18:13:06",
     "_validation_status": {},
-    "_submitted_by": "seguimiento_casos_criticos2026"
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.6239241,
+    "lon": -58.3924917,
+    "comuna_lat": -34.612,
+    "comuna_lon": -58.405,
+    "comuna_label": "Comuna 3"
   },
   {
     "_id": 796140331,
@@ -22481,7 +21484,12 @@
     ],
     "_submission_time": "2026-06-29T18:13:07",
     "_validation_status": {},
-    "_submitted_by": "seguimiento_casos_criticos2026"
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.6239343,
+    "lon": -58.3924848,
+    "comuna_lat": -34.612,
+    "comuna_lon": -58.405,
+    "comuna_label": "Comuna 3"
   },
   {
     "_id": 796140337,
@@ -22515,7 +21523,12 @@
     ],
     "_submission_time": "2026-06-29T18:13:07",
     "_validation_status": {},
-    "_submitted_by": "seguimiento_casos_criticos2026"
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.6239214,
+    "lon": -58.3924969,
+    "comuna_lat": -34.612,
+    "comuna_lon": -58.405,
+    "comuna_label": "Comuna 3"
   },
   {
     "_id": 796140345,
@@ -22549,7 +21562,12 @@
     ],
     "_submission_time": "2026-06-29T18:13:08",
     "_validation_status": {},
-    "_submitted_by": "seguimiento_casos_criticos2026"
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.6239192,
+    "lon": -58.3924971,
+    "comuna_lat": -34.612,
+    "comuna_lon": -58.405,
+    "comuna_label": "Comuna 3"
   },
   {
     "_id": 796222683,
@@ -22583,7 +21601,12 @@
     ],
     "_submission_time": "2026-06-29T20:20:09",
     "_validation_status": {},
-    "_submitted_by": "seguimiento_casos_criticos2026"
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.6239284,
+    "lon": -58.3924959,
+    "comuna_lat": -34.612,
+    "comuna_lon": -58.405,
+    "comuna_label": "Comuna 3"
   },
   {
     "_id": 796225476,
@@ -22617,7 +21640,12 @@
     ],
     "_submission_time": "2026-06-29T20:25:05",
     "_validation_status": {},
-    "_submitted_by": "seguimiento_casos_criticos2026"
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.6239307,
+    "lon": -58.3924862,
+    "comuna_lat": -34.612,
+    "comuna_lon": -58.405,
+    "comuna_label": "Comuna 3"
   },
   {
     "_id": 796249741,
@@ -22652,7 +21680,12 @@
     ],
     "_submission_time": "2026-06-29T21:08:54",
     "_validation_status": {},
-    "_submitted_by": "seguimiento_casos_criticos2026"
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.62415,
+    "lon": -58.3954,
+    "comuna_lat": -34.612,
+    "comuna_lon": -58.405,
+    "comuna_label": "Comuna 3"
   },
   {
     "_id": 796250260,
@@ -22662,7 +21695,7 @@
     "apellido": "Rodríguez ",
     "nombre": "Alejandro Ezequiel ",
     "dni": "42229771",
-    "comuna": "10",
+    "comuna": "1",
     "ubicacion": "-34.6174867 -58.3814433 37.89999771118164 4.142",
     "seguimiento_caso": "no",
     "nombre_brigadista": "B. Gamez ",
@@ -22687,7 +21720,12 @@
     ],
     "_submission_time": "2026-06-29T21:10:19",
     "_validation_status": {},
-    "_submitted_by": "seguimiento_casos_criticos2026"
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.6174867,
+    "lon": -58.3814433,
+    "comuna_lat": -34.611,
+    "comuna_lon": -58.382,
+    "comuna_label": "Comuna 1"
   },
   {
     "_id": 796250510,
@@ -22722,7 +21760,12 @@
     ],
     "_submission_time": "2026-06-29T21:10:57",
     "_validation_status": {},
-    "_submitted_by": "seguimiento_casos_criticos2026"
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.6241117,
+    "lon": -58.3953417,
+    "comuna_lat": -34.612,
+    "comuna_lon": -58.405,
+    "comuna_label": "Comuna 3"
   },
   {
     "_id": 796251473,
@@ -22757,7 +21800,12 @@
     ],
     "_submission_time": "2026-06-29T21:12:43",
     "_validation_status": {},
-    "_submitted_by": "seguimiento_casos_criticos2026"
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.6241883,
+    "lon": -58.3954567,
+    "comuna_lat": -34.612,
+    "comuna_lon": -58.405,
+    "comuna_label": "Comuna 3"
   },
   {
     "_id": 796251802,
@@ -22792,7 +21840,12 @@
     ],
     "_submission_time": "2026-06-29T21:13:31",
     "_validation_status": {},
-    "_submitted_by": "seguimiento_casos_criticos2026"
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.5581283,
+    "lon": -58.4595834,
+    "comuna_lat": -34.557,
+    "comuna_lon": -58.455,
+    "comuna_label": "Comuna 13"
   },
   {
     "_id": 796263155,
@@ -22827,7 +21880,12 @@
     ],
     "_submission_time": "2026-06-29T21:40:33",
     "_validation_status": {},
-    "_submitted_by": "seguimiento_casos_criticos2026"
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.6018245,
+    "lon": -58.3926442,
+    "comuna_lat": -34.612,
+    "comuna_lon": -58.405,
+    "comuna_label": "Comuna 3"
   },
   {
     "_id": 796272556,
@@ -22862,7 +21920,12 @@
     ],
     "_submission_time": "2026-06-29T22:04:02",
     "_validation_status": {},
-    "_submitted_by": "seguimiento_casos_criticos2026"
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.6104506,
+    "lon": -58.3942842,
+    "comuna_lat": -34.612,
+    "comuna_lon": -58.405,
+    "comuna_label": "Comuna 3"
   },
   {
     "_id": 796274510,
@@ -22896,7 +21959,12 @@
     ],
     "_submission_time": "2026-06-29T22:09:01",
     "_validation_status": {},
-    "_submitted_by": "seguimiento_casos_criticos2026"
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.6239248,
+    "lon": -58.3924941,
+    "comuna_lat": -34.612,
+    "comuna_lon": -58.405,
+    "comuna_label": "Comuna 3"
   },
   {
     "_id": 796275895,
@@ -22930,7 +21998,12 @@
     ],
     "_submission_time": "2026-06-29T22:13:15",
     "_validation_status": {},
-    "_submitted_by": "seguimiento_casos_criticos2026"
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.6239258,
+    "lon": -58.3924942,
+    "comuna_lat": -34.612,
+    "comuna_lon": -58.405,
+    "comuna_label": "Comuna 3"
   },
   {
     "_id": 796279911,
@@ -22964,7 +22037,12 @@
     ],
     "_submission_time": "2026-06-29T22:23:18",
     "_validation_status": {},
-    "_submitted_by": "seguimiento_casos_criticos2026"
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.623936,
+    "lon": -58.3924987,
+    "comuna_lat": -34.612,
+    "comuna_lon": -58.405,
+    "comuna_label": "Comuna 3"
   },
   {
     "_id": 796281109,
@@ -22975,7 +22053,7 @@
     "nombre": "Joaquín ",
     "dni": "48260975",
     "Direcci_n_de_la_inte_ci_n_Calle_y_altura": "Uruguay 969",
-    "comuna": "1",
+    "comuna": "7",
     "ubicacion": "-34.6299617 -58.4368417 32.0 7.25",
     "seguimiento_caso": "si",
     "nombre_brigadista": "Pisani Herrero ",
@@ -23000,7 +22078,12 @@
     ],
     "_submission_time": "2026-06-29T22:26:22",
     "_validation_status": {},
-    "_submitted_by": "seguimiento_casos_criticos2026"
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.6299617,
+    "lon": -58.4368417,
+    "comuna_lat": -34.639,
+    "comuna_lon": -58.448,
+    "comuna_label": "Comuna 7"
   },
   {
     "_id": 796281734,
@@ -23035,7 +22118,12 @@
     ],
     "_submission_time": "2026-06-29T22:28:18",
     "_validation_status": {},
-    "_submitted_by": "seguimiento_casos_criticos2026"
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.6141445,
+    "lon": -58.396563,
+    "comuna_lat": -34.612,
+    "comuna_lon": -58.405,
+    "comuna_label": "Comuna 3"
   },
   {
     "_id": 796282702,
@@ -23070,7 +22158,12 @@
     ],
     "_submission_time": "2026-06-29T22:29:55",
     "_validation_status": {},
-    "_submitted_by": "seguimiento_casos_criticos2026"
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.6140993,
+    "lon": -58.3965803,
+    "comuna_lat": -34.612,
+    "comuna_lon": -58.405,
+    "comuna_label": "Comuna 3"
   },
   {
     "_id": 796284975,
@@ -23081,7 +22174,7 @@
     "nombre": "Julio Argentino ",
     "dni": "30194885",
     "Direcci_n_de_la_inte_ci_n_Calle_y_altura": "Av. Córdoba y Av. Pueyrredón ",
-    "comuna": "3",
+    "comuna": "7",
     "ubicacion": "-34.630051 -58.4369531 32.0 20.0",
     "seguimiento_caso": "si",
     "nombre_brigadista": "Pisani Herrero ",
@@ -23106,7 +22199,12 @@
     ],
     "_submission_time": "2026-06-29T22:36:38",
     "_validation_status": {},
-    "_submitted_by": "seguimiento_casos_criticos2026"
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.630051,
+    "lon": -58.4369531,
+    "comuna_lat": -34.639,
+    "comuna_lon": -58.448,
+    "comuna_label": "Comuna 7"
   },
   {
     "_id": 796290205,
@@ -23117,7 +22215,7 @@
     "nombre": "Fabián",
     "dni": "42960231",
     "Direcci_n_de_la_inte_ci_n_Calle_y_altura": "Marcelo T de Alvear 1611",
-    "comuna": "1",
+    "comuna": "7",
     "ubicacion": "-34.6300298 -58.4369652 32.0 15.478",
     "seguimiento_caso": "si",
     "nombre_brigadista": "Pisani Herrero ",
@@ -23142,7 +22240,12 @@
     ],
     "_submission_time": "2026-06-29T22:52:22",
     "_validation_status": {},
-    "_submitted_by": "seguimiento_casos_criticos2026"
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.6300298,
+    "lon": -58.4369652,
+    "comuna_lat": -34.639,
+    "comuna_lon": -58.448,
+    "comuna_label": "Comuna 7"
   },
   {
     "_id": 796291371,
@@ -23152,7 +22255,7 @@
     "apellido": "Paredes ",
     "nombre": "Marcelo Alejandro ",
     "dni": "34871066",
-    "comuna": "6",
+    "comuna": "7",
     "ubicacion": "-34.6297996 -58.4368331 40.599998474121094 14.163",
     "seguimiento_caso": "no",
     "nombre_brigadista": "Ferrufino ",
@@ -23177,7 +22280,12 @@
     ],
     "_submission_time": "2026-06-29T22:57:46",
     "_validation_status": {},
-    "_submitted_by": "seguimiento_casos_criticos2026"
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.6297996,
+    "lon": -58.4368331,
+    "comuna_lat": -34.639,
+    "comuna_lon": -58.448,
+    "comuna_label": "Comuna 7"
   },
   {
     "_id": 796295065,
@@ -23187,7 +22295,7 @@
     "nombre": "Imanol Alberto ",
     "dni": "46149115",
     "Direcci_n_de_la_inte_ci_n_Calle_y_altura": "Av. Santa Fe y Larrea",
-    "comuna": "3",
+    "comuna": "7",
     "ubicacion": "-34.6300452 -58.4369589 32.0 20.0",
     "seguimiento_caso": "no",
     "nombre_brigadista": "Pisani Herrero ",
@@ -23212,7 +22320,12 @@
     ],
     "_submission_time": "2026-06-29T23:10:52",
     "_validation_status": {},
-    "_submitted_by": "seguimiento_casos_criticos2026"
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.6300452,
+    "lon": -58.4369589,
+    "comuna_lat": -34.639,
+    "comuna_lon": -58.448,
+    "comuna_label": "Comuna 7"
   },
   {
     "_id": 796299193,
@@ -23247,7 +22360,12 @@
     ],
     "_submission_time": "2026-06-29T23:23:23",
     "_validation_status": {},
-    "_submitted_by": "seguimiento_casos_criticos2026"
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.6137475,
+    "lon": -58.4402006,
+    "comuna_lat": -34.618,
+    "comuna_lon": -58.443,
+    "comuna_label": "Comuna 6"
   },
   {
     "_id": 796311980,
@@ -23282,7 +22400,12 @@
     ],
     "_submission_time": "2026-06-30T00:09:50",
     "_validation_status": {},
-    "_submitted_by": "seguimiento_casos_criticos2026"
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.5561353,
+    "lon": -58.4611053,
+    "comuna_lat": -34.557,
+    "comuna_lon": -58.455,
+    "comuna_label": "Comuna 13"
   },
   {
     "_id": 796317039,
@@ -23316,7 +22439,12 @@
     ],
     "_submission_time": "2026-06-30T00:26:48",
     "_validation_status": {},
-    "_submitted_by": "seguimiento_casos_criticos2026"
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.6239345,
+    "lon": -58.3924884,
+    "comuna_lat": -34.612,
+    "comuna_lon": -58.405,
+    "comuna_label": "Comuna 3"
   },
   {
     "_id": 796318138,
@@ -23350,7 +22478,12 @@
     ],
     "_submission_time": "2026-06-30T00:30:16",
     "_validation_status": {},
-    "_submitted_by": "seguimiento_casos_criticos2026"
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.6239304,
+    "lon": -58.3924987,
+    "comuna_lat": -34.612,
+    "comuna_lon": -58.405,
+    "comuna_label": "Comuna 3"
   },
   {
     "_id": 796322903,
@@ -23384,7 +22517,12 @@
     ],
     "_submission_time": "2026-06-30T00:46:15",
     "_validation_status": {},
-    "_submitted_by": "seguimiento_casos_criticos2026"
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.6239418,
+    "lon": -58.3924817,
+    "comuna_lat": -34.612,
+    "comuna_lon": -58.405,
+    "comuna_label": "Comuna 3"
   },
   {
     "_id": 796322904,
@@ -23418,7 +22556,12 @@
     ],
     "_submission_time": "2026-06-30T00:46:16",
     "_validation_status": {},
-    "_submitted_by": "seguimiento_casos_criticos2026"
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.6239408,
+    "lon": -58.392487,
+    "comuna_lat": -34.612,
+    "comuna_lon": -58.405,
+    "comuna_label": "Comuna 3"
   },
   {
     "_id": 796322932,
@@ -23453,7 +22596,12 @@
     ],
     "_submission_time": "2026-06-30T00:46:22",
     "_validation_status": {},
-    "_submitted_by": "seguimiento_casos_criticos2026"
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.545925,
+    "lon": -58.46867,
+    "comuna_lat": -34.557,
+    "comuna_lon": -58.455,
+    "comuna_label": "Comuna 13"
   },
   {
     "_id": 796375532,
@@ -23491,7 +22639,12 @@
     ],
     "_submission_time": "2026-06-30T02:57:15",
     "_validation_status": {},
-    "_submitted_by": "seguimiento_casos_criticos2026"
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.6239315,
+    "lon": -58.3924778,
+    "comuna_lat": -34.612,
+    "comuna_lon": -58.405,
+    "comuna_label": "Comuna 3"
   },
   {
     "_id": 796409789,
@@ -23526,7 +22679,12 @@
     ],
     "_submission_time": "2026-06-30T04:18:51",
     "_validation_status": {},
-    "_submitted_by": "seguimiento_casos_criticos2026"
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.6105217,
+    "lon": -58.380625,
+    "comuna_lat": -34.611,
+    "comuna_lon": -58.382,
+    "comuna_label": "Comuna 1"
   },
   {
     "_id": 796415780,
@@ -23561,7 +22719,12 @@
     ],
     "_submission_time": "2026-06-30T04:31:12",
     "_validation_status": {},
-    "_submitted_by": "seguimiento_casos_criticos2026"
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.607215,
+    "lon": -58.3807583,
+    "comuna_lat": -34.611,
+    "comuna_lon": -58.382,
+    "comuna_label": "Comuna 1"
   },
   {
     "_id": 796416952,
@@ -23596,7 +22759,12 @@
     ],
     "_submission_time": "2026-06-30T04:33:11",
     "_validation_status": {},
-    "_submitted_by": "seguimiento_casos_criticos2026"
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.60725,
+    "lon": -58.3807967,
+    "comuna_lat": -34.611,
+    "comuna_lon": -58.382,
+    "comuna_label": "Comuna 1"
   },
   {
     "_id": 796417897,
@@ -23631,7 +22799,12 @@
     ],
     "_submission_time": "2026-06-30T04:34:53",
     "_validation_status": {},
-    "_submitted_by": "seguimiento_casos_criticos2026"
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.6072417,
+    "lon": -58.3806717,
+    "comuna_lat": -34.611,
+    "comuna_lon": -58.382,
+    "comuna_label": "Comuna 1"
   },
   {
     "_id": 796425854,
@@ -23666,7 +22839,12 @@
     ],
     "_submission_time": "2026-06-30T04:48:43",
     "_validation_status": {},
-    "_submitted_by": "seguimiento_casos_criticos2026"
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.6034033,
+    "lon": -58.3810383,
+    "comuna_lat": -34.611,
+    "comuna_lon": -58.382,
+    "comuna_label": "Comuna 1"
   },
   {
     "_id": 796425860,
@@ -23701,7 +22879,12 @@
     ],
     "_submission_time": "2026-06-30T04:48:43",
     "_validation_status": {},
-    "_submitted_by": "seguimiento_casos_criticos2026"
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.6032067,
+    "lon": -58.3810133,
+    "comuna_lat": -34.611,
+    "comuna_lon": -58.382,
+    "comuna_label": "Comuna 1"
   },
   {
     "_id": 796425862,
@@ -23736,7 +22919,12 @@
     ],
     "_submission_time": "2026-06-30T04:48:43",
     "_validation_status": {},
-    "_submitted_by": "seguimiento_casos_criticos2026"
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.6034267,
+    "lon": -58.3812167,
+    "comuna_lat": -34.611,
+    "comuna_lon": -58.382,
+    "comuna_label": "Comuna 1"
   },
   {
     "_id": 796425867,
@@ -23771,7 +22959,12 @@
     ],
     "_submission_time": "2026-06-30T04:48:44",
     "_validation_status": {},
-    "_submitted_by": "seguimiento_casos_criticos2026"
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.6036133,
+    "lon": -58.3808583,
+    "comuna_lat": -34.611,
+    "comuna_lon": -58.382,
+    "comuna_label": "Comuna 1"
   },
   {
     "_id": 796453863,
@@ -23806,7 +22999,12 @@
     ],
     "_submission_time": "2026-06-30T05:33:15",
     "_validation_status": {},
-    "_submitted_by": "seguimiento_casos_criticos2026"
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.5974446,
+    "lon": -58.4420763,
+    "comuna_lat": -34.588,
+    "comuna_lon": -58.455,
+    "comuna_label": "Comuna 15"
   },
   {
     "_id": 796571713,
@@ -23841,7 +23039,12 @@
     ],
     "_submission_time": "2026-06-30T07:20:15",
     "_validation_status": {},
-    "_submitted_by": "seguimiento_casos_criticos2026"
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.6112583,
+    "lon": -58.4408917,
+    "comuna_lat": -34.618,
+    "comuna_lon": -58.443,
+    "comuna_label": "Comuna 6"
   },
   {
     "_id": 796594155,
@@ -23876,7 +23079,12 @@
     ],
     "_submission_time": "2026-06-30T07:38:43",
     "_validation_status": {},
-    "_submitted_by": "seguimiento_casos_criticos2026"
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.6236567,
+    "lon": -58.4448717,
+    "comuna_lat": -34.618,
+    "comuna_lon": -58.443,
+    "comuna_label": "Comuna 6"
   },
   {
     "_id": 796594166,
@@ -23911,7 +23119,12 @@
     ],
     "_submission_time": "2026-06-30T07:38:43",
     "_validation_status": {},
-    "_submitted_by": "seguimiento_casos_criticos2026"
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.6236567,
+    "lon": -58.4448717,
+    "comuna_lat": -34.618,
+    "comuna_lon": -58.443,
+    "comuna_label": "Comuna 6"
   },
   {
     "_id": 796599066,
@@ -23946,7 +23159,12 @@
     ],
     "_submission_time": "2026-06-30T07:42:47",
     "_validation_status": {},
-    "_submitted_by": "seguimiento_casos_criticos2026"
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.6236567,
+    "lon": -58.4448717,
+    "comuna_lat": -34.618,
+    "comuna_lon": -58.443,
+    "comuna_label": "Comuna 6"
   },
   {
     "_id": 796599074,
@@ -23981,7 +23199,12 @@
     ],
     "_submission_time": "2026-06-30T07:42:48",
     "_validation_status": {},
-    "_submitted_by": "seguimiento_casos_criticos2026"
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.6236968,
+    "lon": -58.4448811,
+    "comuna_lat": -34.618,
+    "comuna_lon": -58.443,
+    "comuna_label": "Comuna 6"
   },
   {
     "_id": 796599088,
@@ -24016,7 +23239,12 @@
     ],
     "_submission_time": "2026-06-30T07:42:49",
     "_validation_status": {},
-    "_submitted_by": "seguimiento_casos_criticos2026"
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.6236567,
+    "lon": -58.4448717,
+    "comuna_lat": -34.618,
+    "comuna_lon": -58.443,
+    "comuna_label": "Comuna 6"
   },
   {
     "_id": 796636255,
@@ -24051,7 +23279,12 @@
     ],
     "_submission_time": "2026-06-30T08:13:19",
     "_validation_status": {},
-    "_submitted_by": "seguimiento_casos_criticos2026"
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.6357803,
+    "lon": -58.4499026,
+    "comuna_lat": -34.639,
+    "comuna_lon": -58.448,
+    "comuna_label": "Comuna 7"
   },
   {
     "_id": 797069757,
@@ -24085,7 +23318,12 @@
     ],
     "_submission_time": "2026-06-30T12:42:18",
     "_validation_status": {},
-    "_submitted_by": "seguimiento_casos_criticos2026"
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.6239195,
+    "lon": -58.3924907,
+    "comuna_lat": -34.612,
+    "comuna_lon": -58.405,
+    "comuna_label": "Comuna 3"
   },
   {
     "_id": 797194065,
@@ -24095,7 +23333,7 @@
     "apellido": "0",
     "nombre": "Angel",
     "dni": "0",
-    "comuna": "7",
+    "comuna": "10",
     "ubicacion": "-34.6372799 -58.4993409 38.70000076293945 20.754",
     "seguimiento_caso": "si",
     "nombre_brigadista": "Ubertini",
@@ -24120,7 +23358,12 @@
     ],
     "_submission_time": "2026-06-30T13:49:28",
     "_validation_status": {},
-    "_submitted_by": "seguimiento_casos_criticos2026"
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.6372799,
+    "lon": -58.4993409,
+    "comuna_lat": -34.625,
+    "comuna_lon": -58.508,
+    "comuna_label": "Comuna 10"
   },
   {
     "_id": 797199841,
@@ -24154,7 +23397,12 @@
     ],
     "_submission_time": "2026-06-30T13:52:50",
     "_validation_status": {},
-    "_submitted_by": "seguimiento_casos_criticos2026"
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.623932,
+    "lon": -58.3924892,
+    "comuna_lat": -34.612,
+    "comuna_lon": -58.405,
+    "comuna_label": "Comuna 3"
   },
   {
     "_id": 797208828,
@@ -24188,7 +23436,12 @@
     ],
     "_submission_time": "2026-06-30T13:58:01",
     "_validation_status": {},
-    "_submitted_by": "seguimiento_casos_criticos2026"
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.623933,
+    "lon": -58.3924775,
+    "comuna_lat": -34.612,
+    "comuna_lon": -58.405,
+    "comuna_label": "Comuna 3"
   },
   {
     "_id": 797211761,
@@ -24222,7 +23475,12 @@
     ],
     "_submission_time": "2026-06-30T13:59:40",
     "_validation_status": {},
-    "_submitted_by": "seguimiento_casos_criticos2026"
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.6239384,
+    "lon": -58.3924702,
+    "comuna_lat": -34.612,
+    "comuna_lon": -58.405,
+    "comuna_label": "Comuna 3"
   },
   {
     "_id": 797369614,
@@ -24256,7 +23514,12 @@
     ],
     "_submission_time": "2026-06-30T15:33:52",
     "_validation_status": {},
-    "_submitted_by": "seguimiento_casos_criticos2026"
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.62394,
+    "lon": -58.3924882,
+    "comuna_lat": -34.612,
+    "comuna_lon": -58.405,
+    "comuna_label": "Comuna 3"
   },
   {
     "_id": 797422181,
@@ -24290,7 +23553,12 @@
     ],
     "_submission_time": "2026-06-30T16:13:26",
     "_validation_status": {},
-    "_submitted_by": "seguimiento_casos_criticos2026"
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.6239386,
+    "lon": -58.3924834,
+    "comuna_lat": -34.612,
+    "comuna_lon": -58.405,
+    "comuna_label": "Comuna 3"
   },
   {
     "_id": 797458319,
@@ -24325,7 +23593,12 @@
     ],
     "_submission_time": "2026-06-30T16:50:40",
     "_validation_status": {},
-    "_submitted_by": "seguimiento_casos_criticos2026"
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.6127595,
+    "lon": -58.4003287,
+    "comuna_lat": -34.612,
+    "comuna_lon": -58.405,
+    "comuna_label": "Comuna 3"
   },
   {
     "_id": 797565724,
@@ -24359,7 +23632,12 @@
     ],
     "_submission_time": "2026-06-30T18:49:10",
     "_validation_status": {},
-    "_submitted_by": "seguimiento_casos_criticos2026"
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.6239412,
+    "lon": -58.3924884,
+    "comuna_lat": -34.612,
+    "comuna_lon": -58.405,
+    "comuna_label": "Comuna 3"
   },
   {
     "_id": 797615002,
@@ -24393,7 +23671,12 @@
     ],
     "_submission_time": "2026-06-30T19:44:31",
     "_validation_status": {},
-    "_submitted_by": "seguimiento_casos_criticos2026"
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.6239323,
+    "lon": -58.3924903,
+    "comuna_lat": -34.612,
+    "comuna_lon": -58.405,
+    "comuna_label": "Comuna 3"
   },
   {
     "_id": 797643267,
@@ -24427,7 +23710,12 @@
     ],
     "_submission_time": "2026-06-30T20:13:49",
     "_validation_status": {},
-    "_submitted_by": "seguimiento_casos_criticos2026"
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.6239497,
+    "lon": -58.3925013,
+    "comuna_lat": -34.612,
+    "comuna_lon": -58.405,
+    "comuna_label": "Comuna 3"
   },
   {
     "_id": 797645178,
@@ -24461,7 +23749,12 @@
     ],
     "_submission_time": "2026-06-30T20:16:13",
     "_validation_status": {},
-    "_submitted_by": "seguimiento_casos_criticos2026"
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.6239235,
+    "lon": -58.3924947,
+    "comuna_lat": -34.612,
+    "comuna_lon": -58.405,
+    "comuna_label": "Comuna 3"
   },
   {
     "_id": 797676411,
@@ -24471,7 +23764,7 @@
     "apellido": "0",
     "nombre": "Alberto ",
     "dni": "0",
-    "comuna": "6",
+    "comuna": "7",
     "ubicacion": "-34.6285166 -58.4293707 40.89999771118164 17.124",
     "seguimiento_caso": "no",
     "nombre_brigadista": "Herrera Karina y farias Romina ",
@@ -24496,7 +23789,12 @@
     ],
     "_submission_time": "2026-06-30T20:58:46",
     "_validation_status": {},
-    "_submitted_by": "seguimiento_casos_criticos2026"
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.6285166,
+    "lon": -58.4293707,
+    "comuna_lat": -34.639,
+    "comuna_lon": -58.448,
+    "comuna_label": "Comuna 7"
   },
   {
     "_id": 797684110,
@@ -24506,7 +23804,7 @@
     "apellido": "Luna ",
     "nombre": "Luis ",
     "dni": "28812344",
-    "comuna": "7",
+    "comuna": "6",
     "ubicacion": "-34.6279908 -58.4339883 42.099998474121094 18.614",
     "seguimiento_caso": "no",
     "nombre_brigadista": "Herrera Karina farias Romina ",
@@ -24531,7 +23829,12 @@
     ],
     "_submission_time": "2026-06-30T21:13:09",
     "_validation_status": {},
-    "_submitted_by": "seguimiento_casos_criticos2026"
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.6279908,
+    "lon": -58.4339883,
+    "comuna_lat": -34.618,
+    "comuna_lon": -58.443,
+    "comuna_label": "Comuna 6"
   },
   {
     "_id": 797700221,
@@ -24565,7 +23868,12 @@
     ],
     "_submission_time": "2026-06-30T21:38:40",
     "_validation_status": {},
-    "_submitted_by": "seguimiento_casos_criticos2026"
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.623933,
+    "lon": -58.3924887,
+    "comuna_lat": -34.612,
+    "comuna_lon": -58.405,
+    "comuna_label": "Comuna 3"
   },
   {
     "_id": 797702560,
@@ -24599,7 +23907,12 @@
     ],
     "_submission_time": "2026-06-30T21:43:05",
     "_validation_status": {},
-    "_submitted_by": "seguimiento_casos_criticos2026"
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.6239184,
+    "lon": -58.3925048,
+    "comuna_lat": -34.612,
+    "comuna_lon": -58.405,
+    "comuna_label": "Comuna 3"
   },
   {
     "_id": 797704312,
@@ -24633,7 +23946,12 @@
     ],
     "_submission_time": "2026-06-30T21:46:12",
     "_validation_status": {},
-    "_submitted_by": "seguimiento_casos_criticos2026"
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.6239179,
+    "lon": -58.3924935,
+    "comuna_lat": -34.612,
+    "comuna_lon": -58.405,
+    "comuna_label": "Comuna 3"
   },
   {
     "_id": 797726104,
@@ -24667,7 +23985,12 @@
     ],
     "_submission_time": "2026-06-30T22:34:18",
     "_validation_status": {},
-    "_submitted_by": "seguimiento_casos_criticos2026"
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.6239273,
+    "lon": -58.3924972,
+    "comuna_lat": -34.612,
+    "comuna_lon": -58.405,
+    "comuna_label": "Comuna 3"
   },
   {
     "_id": 797726540,
@@ -24678,7 +24001,7 @@
     "nombre": "Candela Roxana ",
     "dni": "43611894",
     "Direcci_n_de_la_inte_ci_n_Calle_y_altura": "Sánchez de loria ",
-    "comuna": "5",
+    "comuna": "3",
     "ubicacion": "-34.6186567 -58.412635 41.39999771118164 3.98",
     "seguimiento_caso": "no",
     "nombre_brigadista": "Ortiz Palacios ",
@@ -24703,7 +24026,12 @@
     ],
     "_submission_time": "2026-06-30T22:35:00",
     "_validation_status": {},
-    "_submitted_by": "seguimiento_casos_criticos2026"
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.6186567,
+    "lon": -58.412635,
+    "comuna_lat": -34.612,
+    "comuna_lon": -58.405,
+    "comuna_label": "Comuna 3"
   },
   {
     "_id": 797729173,
@@ -24714,7 +24042,7 @@
     "nombre": "Leonardo",
     "dni": "25549324",
     "Direcci_n_de_la_inte_ci_n_Calle_y_altura": "Sánchez de Loria 746",
-    "comuna": "5",
+    "comuna": "3",
     "ubicacion": "-34.6185217 -58.412635 40.89999771118164 4.085",
     "seguimiento_caso": "no",
     "nombre_brigadista": "Ortiz Palacios ",
@@ -24739,7 +24067,12 @@
     ],
     "_submission_time": "2026-06-30T22:39:27",
     "_validation_status": {},
-    "_submitted_by": "seguimiento_casos_criticos2026"
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.6185217,
+    "lon": -58.412635,
+    "comuna_lat": -34.612,
+    "comuna_lon": -58.405,
+    "comuna_label": "Comuna 3"
   },
   {
     "_id": 797730772,
@@ -24775,7 +24108,12 @@
     ],
     "_submission_time": "2026-06-30T22:42:23",
     "_validation_status": {},
-    "_submitted_by": "seguimiento_casos_criticos2026"
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.6185933,
+    "lon": -58.41273,
+    "comuna_lat": -34.616,
+    "comuna_lon": -58.421,
+    "comuna_label": "Comuna 5"
   },
   {
     "_id": 797734269,
@@ -24786,7 +24124,7 @@
     "nombre": "Ariel",
     "dni": "23526560",
     "Direcci_n_de_la_inte_ci_n_Calle_y_altura": "Sánchez de Loria 721",
-    "comuna": "5",
+    "comuna": "3",
     "ubicacion": "-34.6185557 -58.4126334 41.39999771118164 4.95",
     "seguimiento_caso": "no",
     "nombre_brigadista": "Ortiz Palacios ",
@@ -24811,7 +24149,12 @@
     ],
     "_submission_time": "2026-06-30T22:50:01",
     "_validation_status": {},
-    "_submitted_by": "seguimiento_casos_criticos2026"
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.6185557,
+    "lon": -58.4126334,
+    "comuna_lat": -34.612,
+    "comuna_lon": -58.405,
+    "comuna_label": "Comuna 3"
   },
   {
     "_id": 797735348,
@@ -24822,7 +24165,7 @@
     "nombre": "Emanuel ",
     "dni": "35148300",
     "Direcci_n_de_la_inte_ci_n_Calle_y_altura": "Sánchez de Loria 721",
-    "comuna": "5",
+    "comuna": "3",
     "ubicacion": "-34.6185917 -58.4126684 41.099998474121094 4.733",
     "seguimiento_caso": "no",
     "nombre_brigadista": "Ortiz Palacios ",
@@ -24847,7 +24190,12 @@
     ],
     "_submission_time": "2026-06-30T22:52:31",
     "_validation_status": {},
-    "_submitted_by": "seguimiento_casos_criticos2026"
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.6185917,
+    "lon": -58.4126684,
+    "comuna_lat": -34.612,
+    "comuna_lon": -58.405,
+    "comuna_label": "Comuna 3"
   },
   {
     "_id": 797750024,
@@ -24882,7 +24230,12 @@
     ],
     "_submission_time": "2026-06-30T23:34:18",
     "_validation_status": {},
-    "_submitted_by": "seguimiento_casos_criticos2026"
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.6080117,
+    "lon": -58.3726033,
+    "comuna_lat": -34.611,
+    "comuna_lon": -58.382,
+    "comuna_label": "Comuna 1"
   },
   {
     "_id": 797755707,
@@ -24915,7 +24268,12 @@
     ],
     "_submission_time": "2026-06-30T23:57:15",
     "_validation_status": {},
-    "_submitted_by": "seguimiento_casos_criticos2026"
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.6079322,
+    "lon": -58.3726462,
+    "comuna_lat": -34.611,
+    "comuna_lon": -58.382,
+    "comuna_label": "Comuna 1"
   },
   {
     "_id": 797758621,
@@ -24948,7 +24306,12 @@
     ],
     "_submission_time": "2026-07-01T00:09:44",
     "_validation_status": {},
-    "_submitted_by": "seguimiento_casos_criticos2026"
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.6082187,
+    "lon": -58.3723685,
+    "comuna_lat": -34.611,
+    "comuna_lon": -58.382,
+    "comuna_label": "Comuna 1"
   },
   {
     "_id": 797760845,
@@ -24981,7 +24344,12 @@
     ],
     "_submission_time": "2026-07-01T00:18:29",
     "_validation_status": {},
-    "_submitted_by": "seguimiento_casos_criticos2026"
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.6080889,
+    "lon": -58.3726695,
+    "comuna_lat": -34.611,
+    "comuna_lon": -58.382,
+    "comuna_label": "Comuna 1"
   },
   {
     "_id": 797761420,
@@ -25014,7 +24382,12 @@
     ],
     "_submission_time": "2026-07-01T00:21:48",
     "_validation_status": {},
-    "_submitted_by": "seguimiento_casos_criticos2026"
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.6081,
+    "lon": -58.3727933,
+    "comuna_lat": -34.611,
+    "comuna_lon": -58.382,
+    "comuna_label": "Comuna 1"
   },
   {
     "_id": 797762162,
@@ -25047,7 +24420,12 @@
     ],
     "_submission_time": "2026-07-01T00:24:58",
     "_validation_status": {},
-    "_submitted_by": "seguimiento_casos_criticos2026"
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.60823,
+    "lon": -58.3723487,
+    "comuna_lat": -34.611,
+    "comuna_lon": -58.382,
+    "comuna_label": "Comuna 1"
   },
   {
     "_id": 797771874,
@@ -25058,7 +24436,7 @@
     "nombre": "Juaquin alberto",
     "dni": "48260975",
     "Direcci_n_de_la_inte_ci_n_Calle_y_altura": "Uruguay 696",
-    "comuna": "2",
+    "comuna": "7",
     "ubicacion": "-34.6294917 -58.4396582 34.89999771118164 12.704",
     "seguimiento_caso": "si",
     "nombre_brigadista": "Renato Da silva",
@@ -25083,7 +24461,12 @@
     ],
     "_submission_time": "2026-07-01T01:03:03",
     "_validation_status": {},
-    "_submitted_by": "seguimiento_casos_criticos2026"
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.6294917,
+    "lon": -58.4396582,
+    "comuna_lat": -34.639,
+    "comuna_lon": -58.448,
+    "comuna_label": "Comuna 7"
   },
   {
     "_id": 797772922,
@@ -25116,7 +24499,12 @@
     ],
     "_submission_time": "2026-07-01T01:08:02",
     "_validation_status": {},
-    "_submitted_by": "seguimiento_casos_criticos2026"
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.6082675,
+    "lon": -58.372284,
+    "comuna_lat": -34.611,
+    "comuna_lon": -58.382,
+    "comuna_label": "Comuna 1"
   },
   {
     "_id": 797773097,
@@ -25150,7 +24538,12 @@
     ],
     "_submission_time": "2026-07-01T01:08:58",
     "_validation_status": {},
-    "_submitted_by": "seguimiento_casos_criticos2026"
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.6239397,
+    "lon": -58.3924922,
+    "comuna_lat": -34.612,
+    "comuna_lon": -58.405,
+    "comuna_label": "Comuna 3"
   },
   {
     "_id": 797775614,
@@ -25161,7 +24554,7 @@
     "nombre": "Jonathan ezequiel",
     "dni": "41854823",
     "Direcci_n_de_la_inte_ci_n_Calle_y_altura": "Santa fe y cerrito",
-    "comuna": "2",
+    "comuna": "7",
     "ubicacion": "-34.6295013 -58.4396889 35.29999923706055 21.446",
     "seguimiento_caso": "si",
     "nombre_brigadista": "Renato Da silva",
@@ -25186,7 +24579,12 @@
     ],
     "_submission_time": "2026-07-01T01:18:05",
     "_validation_status": {},
-    "_submitted_by": "seguimiento_casos_criticos2026"
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.6295013,
+    "lon": -58.4396889,
+    "comuna_lat": -34.639,
+    "comuna_lon": -58.448,
+    "comuna_label": "Comuna 7"
   },
   {
     "_id": 797778011,
@@ -25197,7 +24595,7 @@
     "nombre": "Jonatan",
     "dni": "39854139",
     "Direcci_n_de_la_inte_ci_n_Calle_y_altura": "Austria 2500",
-    "comuna": "3",
+    "comuna": "2",
     "ubicacion": "-34.5851205 -58.4000916 25.900001525878906 4.2",
     "seguimiento_caso": "no",
     "nombre_brigadista": "Pisani",
@@ -25226,7 +24624,12 @@
     ],
     "_submission_time": "2026-07-01T01:25:04",
     "_validation_status": {},
-    "_submitted_by": "seguimiento_casos_criticos2026"
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.5851205,
+    "lon": -58.4000916,
+    "comuna_lat": -34.589,
+    "comuna_lon": -58.393,
+    "comuna_label": "Comuna 2"
   },
   {
     "_id": 797786437,
@@ -25237,7 +24640,7 @@
     "nombre": "Enrique agustin",
     "dni": "47116985",
     "Direcci_n_de_la_inte_ci_n_Calle_y_altura": "M T alvear1351",
-    "comuna": "2",
+    "comuna": "7",
     "ubicacion": "-34.6295117 -58.4396717 35.29999923706055 12.785",
     "seguimiento_caso": "si",
     "nombre_brigadista": "Renato da silva",
@@ -25262,7 +24665,12 @@
     ],
     "_submission_time": "2026-07-01T01:54:00",
     "_validation_status": {},
-    "_submitted_by": "seguimiento_casos_criticos2026"
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.6295117,
+    "lon": -58.4396717,
+    "comuna_lat": -34.639,
+    "comuna_lon": -58.448,
+    "comuna_label": "Comuna 7"
   },
   {
     "_id": 797788825,
@@ -25273,7 +24681,7 @@
     "nombre": "Fabian",
     "dni": "42960231",
     "Direcci_n_de_la_inte_ci_n_Calle_y_altura": "Alvear 1800",
-    "comuna": "2",
+    "comuna": "7",
     "ubicacion": "-34.6295034 -58.4396772 34.89999771118164 11.726",
     "seguimiento_caso": "si",
     "nombre_brigadista": "Renato da silva",
@@ -25298,7 +24706,12 @@
     ],
     "_submission_time": "2026-07-01T02:02:29",
     "_validation_status": {},
-    "_submitted_by": "seguimiento_casos_criticos2026"
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.6295034,
+    "lon": -58.4396772,
+    "comuna_lat": -34.639,
+    "comuna_lon": -58.448,
+    "comuna_label": "Comuna 7"
   },
   {
     "_id": 797857926,
@@ -25309,7 +24722,7 @@
     "nombre": "Hector",
     "dni": "16785373",
     "Direcci_n_de_la_inte_ci_n_Calle_y_altura": "Combate de los pozos 1280",
-    "comuna": "6",
+    "comuna": "3",
     "ubicacion": "-34.6239107 -58.3924742 43.099998474121094 12.09",
     "seguimiento_caso": "no",
     "nombre_brigadista": "Brian Pisani",
@@ -25332,7 +24745,12 @@
     ],
     "_submission_time": "2026-07-01T05:18:25",
     "_validation_status": {},
-    "_submitted_by": "seguimiento_casos_criticos2026"
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.6239107,
+    "lon": -58.3924742,
+    "comuna_lat": -34.612,
+    "comuna_lon": -58.405,
+    "comuna_label": "Comuna 3"
   },
   {
     "_id": 797862080,
@@ -25343,7 +24761,7 @@
     "nombre": "Johana ",
     "dni": "37181881",
     "Direcci_n_de_la_inte_ci_n_Calle_y_altura": "Combate de los pozos 1280",
-    "comuna": "6",
+    "comuna": "3",
     "ubicacion": "-34.6239083 -58.3924829 42.20000076293945 11.642",
     "seguimiento_caso": "no",
     "nombre_brigadista": "Ana Campobasso ",
@@ -25366,7 +24784,12 @@
     ],
     "_submission_time": "2026-07-01T05:25:50",
     "_validation_status": {},
-    "_submitted_by": "seguimiento_casos_criticos2026"
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.6239083,
+    "lon": -58.3924829,
+    "comuna_lat": -34.612,
+    "comuna_lon": -58.405,
+    "comuna_label": "Comuna 3"
   },
   {
     "_id": 797882222,
@@ -25402,7 +24825,12 @@
     ],
     "_submission_time": "2026-07-01T05:56:35",
     "_validation_status": {},
-    "_submitted_by": "seguimiento_casos_criticos2026"
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.614723,
+    "lon": -58.3917393,
+    "comuna_lat": -34.612,
+    "comuna_lon": -58.405,
+    "comuna_label": "Comuna 3"
   },
   {
     "_id": 797888377,
@@ -25438,7 +24866,12 @@
     ],
     "_submission_time": "2026-07-01T06:04:44",
     "_validation_status": {},
-    "_submitted_by": "seguimiento_casos_criticos2026"
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.6148524,
+    "lon": -58.391706,
+    "comuna_lat": -34.612,
+    "comuna_lon": -58.405,
+    "comuna_label": "Comuna 3"
   },
   {
     "_id": 797889997,
@@ -25474,7 +24907,12 @@
     ],
     "_submission_time": "2026-07-01T06:07:07",
     "_validation_status": {},
-    "_submitted_by": "seguimiento_casos_criticos2026"
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.6147678,
+    "lon": -58.3917583,
+    "comuna_lat": -34.612,
+    "comuna_lon": -58.405,
+    "comuna_label": "Comuna 3"
   },
   {
     "_id": 797897850,
@@ -25485,7 +24923,7 @@
     "nombre": "David ",
     "dni": "0",
     "Direcci_n_de_la_inte_ci_n_Calle_y_altura": "Av entre Ríos 478",
-    "comuna": "3",
+    "comuna": "1",
     "ubicacion": "-34.6146694 -58.3916687 38.70000076293945 13.92",
     "seguimiento_caso": "no",
     "nombre_brigadista": "Renato Da Silva ",
@@ -25510,7 +24948,12 @@
     ],
     "_submission_time": "2026-07-01T06:17:45",
     "_validation_status": {},
-    "_submitted_by": "seguimiento_casos_criticos2026"
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.6146694,
+    "lon": -58.3916687,
+    "comuna_lat": -34.611,
+    "comuna_lon": -58.382,
+    "comuna_label": "Comuna 1"
   },
   {
     "_id": 797926549,
@@ -25546,7 +24989,12 @@
     ],
     "_submission_time": "2026-07-01T06:51:17",
     "_validation_status": {},
-    "_submitted_by": "seguimiento_casos_criticos2026"
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.5858403,
+    "lon": -58.4302843,
+    "comuna_lat": -34.582,
+    "comuna_lon": -58.421,
+    "comuna_label": "Comuna 14"
   },
   {
     "_id": 797968403,
@@ -25557,7 +25005,7 @@
     "nombre": "Wilson Alexander ",
     "dni": "95013067",
     "Direcci_n_de_la_inte_ci_n_Calle_y_altura": "Gurruchaga 461",
-    "comuna": "6",
+    "comuna": "15",
     "ubicacion": "-34.5976591 -58.4421529 30.80000114440918 15.065",
     "seguimiento_caso": "no",
     "nombre_brigadista": "Mili Parigino/Renato Da Silva ",
@@ -25582,7 +25030,12 @@
     ],
     "_submission_time": "2026-07-01T07:38:07",
     "_validation_status": {},
-    "_submitted_by": "seguimiento_casos_criticos2026"
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.5976591,
+    "lon": -58.4421529,
+    "comuna_lat": -34.588,
+    "comuna_lon": -58.455,
+    "comuna_label": "Comuna 15"
   },
   {
     "_id": 798029946,
@@ -25593,7 +25046,7 @@
     "nombre": "Gerardo cesar ",
     "dni": "14927536",
     "Direcci_n_de_la_inte_ci_n_Calle_y_altura": "Va días Velez 5304",
-    "comuna": "6",
+    "comuna": "7",
     "ubicacion": "-34.6333531 -58.431303 31.900001525878906 18.762",
     "seguimiento_caso": "no",
     "nombre_brigadista": "Renato Da Silva ",
@@ -25618,7 +25071,12 @@
     ],
     "_submission_time": "2026-07-01T08:33:16",
     "_validation_status": {},
-    "_submitted_by": "seguimiento_casos_criticos2026"
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.6333531,
+    "lon": -58.431303,
+    "comuna_lat": -34.639,
+    "comuna_lon": -58.448,
+    "comuna_label": "Comuna 7"
   },
   {
     "_id": 798495990,
@@ -25653,7 +25111,12 @@
     ],
     "_submission_time": "2026-07-01T13:21:49",
     "_validation_status": {},
-    "_submitted_by": "seguimiento_casos_criticos2026"
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.615465,
+    "lon": -58.4651117,
+    "comuna_lat": -34.606,
+    "comuna_lon": -58.495,
+    "comuna_label": "Comuna 11"
   },
   {
     "_id": 798574607,
@@ -25688,7 +25151,12 @@
     ],
     "_submission_time": "2026-07-01T13:56:04",
     "_validation_status": {},
-    "_submitted_by": "seguimiento_casos_criticos2026"
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.5863183,
+    "lon": -58.43031,
+    "comuna_lat": -34.582,
+    "comuna_lon": -58.421,
+    "comuna_label": "Comuna 14"
   },
   {
     "_id": 798726591,
@@ -25723,7 +25191,12 @@
     ],
     "_submission_time": "2026-07-01T15:08:54",
     "_validation_status": {},
-    "_submitted_by": "seguimiento_casos_criticos2026"
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.6120628,
+    "lon": -58.4004097,
+    "comuna_lat": -34.612,
+    "comuna_lon": -58.405,
+    "comuna_label": "Comuna 3"
   },
   {
     "_id": 798753393,
@@ -25758,7 +25231,12 @@
     ],
     "_submission_time": "2026-07-01T15:22:29",
     "_validation_status": {},
-    "_submitted_by": "seguimiento_casos_criticos2026"
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.6097589,
+    "lon": -58.4017605,
+    "comuna_lat": -34.612,
+    "comuna_lon": -58.405,
+    "comuna_label": "Comuna 3"
   },
   {
     "_id": 798775322,
@@ -25793,8 +25271,12 @@
     ],
     "_submission_time": "2026-07-01T15:32:56",
     "_validation_status": {},
-    "_submitted_by": "seguimiento_casos_criticos2026"
-<<<<<<< HEAD
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.6119818,
+    "lon": -58.4043742,
+    "comuna_lat": -34.612,
+    "comuna_lon": -58.405,
+    "comuna_label": "Comuna 3"
   },
   {
     "_id": 798796937,
@@ -25805,7 +25287,7 @@
     "nombre": "Carlos",
     "dni": "92207924",
     "Direcci_n_de_la_inte_ci_n_Calle_y_altura": "Combate de los Pozos 1280",
-    "comuna": "1",
+    "comuna": "3",
     "ubicacion": "-34.6239277 -58.3924889 42.599998474121094 8.44",
     "seguimiento_caso": "no",
     "nombre_brigadista": "B.Ontivero",
@@ -25832,7 +25314,12 @@
     ],
     "_submission_time": "2026-07-01T15:43:42",
     "_validation_status": {},
-    "_submitted_by": "seguimiento_casos_criticos2026"
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.6239277,
+    "lon": -58.3924889,
+    "comuna_lat": -34.612,
+    "comuna_lon": -58.405,
+    "comuna_label": "Comuna 3"
   },
   {
     "_id": 798799505,
@@ -25843,7 +25330,7 @@
     "nombre": "Héctor",
     "dni": "16785373",
     "Direcci_n_de_la_inte_ci_n_Calle_y_altura": "Combate de los Pozos 1280",
-    "comuna": "1",
+    "comuna": "3",
     "ubicacion": "-34.6239219 -58.3925025 42.599998474121094 11.759",
     "seguimiento_caso": "si",
     "nombre_brigadista": "B.Retamozo",
@@ -25866,16 +25353,167 @@
     ],
     "_submission_time": "2026-07-01T15:45:05",
     "_validation_status": {},
-    "_submitted_by": "seguimiento_casos_criticos2026"
-=======
-=======
     "_submitted_by": "seguimiento_casos_criticos2026",
-    "lat": -34.624895,
-    "lon": -58.4120717,
+    "lat": -34.6239219,
+    "lon": -58.3925025,
     "comuna_lat": -34.612,
     "comuna_lon": -58.405,
     "comuna_label": "Comuna 3"
->>>>>>> 34231da (correcion dni)
->>>>>>> 435b913 (correcion dni)
+  },
+  {
+    "_id": 798968208,
+    "formhub/uuid": "58407a357bcd41138f5a8fa282eb48ac",
+    "Tipo_de_derivaci_n": "espontanea",
+    "fecha": "2026-07-01T00:00:00.000-03:00",
+    "apellido": "Peralta",
+    "nombre": "Patricio amarillo",
+    "dni": "94856155",
+    "Direcci_n_de_la_inte_ci_n_Calle_y_altura": "Combate de los Pozos 1 280",
+    "comuna": "3",
+    "ubicacion": "-34.6239234 -58.3924951 42.29999923706055 13.411",
+    "seguimiento_caso": "no",
+    "nombre_brigadista": "B.Ontivero",
+    "lugar_intervencion": "dipa",
+    "consumo_activo": "no",
+    "riesgo_sanitario": "verde_con_pph",
+    "necesario_seguimiento": "proximo_turno",
+    "derivo_same": "no",
+    "descripcion": "Masculino se presenta con herida en la nariz producto de una caída en la cual nos refiere que se rompió el tabique que fue atendido en el hospital y que le hicieron tres puntos el día anterior la herida no pasa de 12 horas refiere que no tiene enfermedades de base y no cuenta con medicación que fue recetada por la guardia del hospital Argerich.\nSe procede a consulta con a teleconsulta con Hakuna la cual autoriza a que le entreguemos medicación cefalexina 1 mg dos tabletas de dos comprimidos y le recomienda que se acerque a la guardia del hospital piñeiro para una cirugía en nariz.",
+    "__version__": "vJpKQ6qcHg6RGzqHJTTmVS",
+    "meta/instanceID": "uuid:1e7ea6fc-acd6-4fa7-a06b-d0651b033888",
+    "_xform_id_string": "aD4NLofRmqgQnSzc5MdqSB",
+    "_uuid": "1e7ea6fc-acd6-4fa7-a06b-d0651b033888",
+    "meta/rootUuid": "uuid:1e7ea6fc-acd6-4fa7-a06b-d0651b033888",
+    "_attachments": [],
+    "_status": "submitted_via_web",
+    "_geolocation": [
+      -34.6239234,
+      -58.3924951
+    ],
+    "_submission_time": "2026-07-01T17:36:39",
+    "_validation_status": {},
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.6239234,
+    "lon": -58.3924951,
+    "comuna_lat": -34.612,
+    "comuna_lon": -58.405,
+    "comuna_label": "Comuna 3"
+  },
+  {
+    "_id": 798968222,
+    "formhub/uuid": "58407a357bcd41138f5a8fa282eb48ac",
+    "Tipo_de_derivaci_n": "espontanea",
+    "fecha": "2026-07-01T00:00:00.000-03:00",
+    "apellido": "Verdun",
+    "nombre": "Matías maximiliano",
+    "dni": "37969548",
+    "Direcci_n_de_la_inte_ci_n_Calle_y_altura": "Combate de los pozos 1280",
+    "comuna": "3",
+    "ubicacion": "-34.6239229 -58.3924901 42.599998474121094 13.2",
+    "seguimiento_caso": "no",
+    "nombre_brigadista": "B.Retamozo",
+    "lugar_intervencion": "dipa",
+    "consumo_activo": "no",
+    "riesgo_sanitario": "verde_con_pph",
+    "necesario_seguimiento": "proximo_turno",
+    "derivo_same": "no",
+    "descripcion": " Masculino se presenta por curación en talón izquierdo refiere ser mordido por un perro hace unas semanas se colocó antitetánica en un hospital no recuerda cuándo se observa que se encuentra la zona enrojecida e inflamada y se le recomienda acercarse al hospital por la inflamación que tienen el pie se hizo la curación correspondiente. Refiere no tener antecedentes médicos ni enfermedades de base y no tomar medicación",
+    "__version__": "vJpKQ6qcHg6RGzqHJTTmVS",
+    "meta/instanceID": "uuid:9256d466-08f1-4d4f-90d3-798f81b8c74c",
+    "_xform_id_string": "aD4NLofRmqgQnSzc5MdqSB",
+    "_uuid": "9256d466-08f1-4d4f-90d3-798f81b8c74c",
+    "meta/rootUuid": "uuid:9256d466-08f1-4d4f-90d3-798f81b8c74c",
+    "_attachments": [],
+    "_status": "submitted_via_web",
+    "_geolocation": [
+      -34.6239229,
+      -58.3924901
+    ],
+    "_submission_time": "2026-07-01T17:36:40",
+    "_validation_status": {},
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.6239229,
+    "lon": -58.3924901,
+    "comuna_lat": -34.612,
+    "comuna_lon": -58.405,
+    "comuna_label": "Comuna 3"
+  },
+  {
+    "_id": 798972813,
+    "formhub/uuid": "58407a357bcd41138f5a8fa282eb48ac",
+    "Tipo_de_derivaci_n": "espontanea",
+    "fecha": "2026-07-01T00:00:00.000-03:00",
+    "apellido": "Medrano",
+    "nombre": "Nazareno Jesús",
+    "dni": "42075590",
+    "Direcci_n_de_la_inte_ci_n_Calle_y_altura": "Combate de los Pozos 1 280",
+    "comuna": "3",
+    "ubicacion": "-34.6239224 -58.3924876 42.599998474121094 11.779",
+    "seguimiento_caso": "si",
+    "nombre_brigadista": " B.Retamozo",
+    "lugar_intervencion": "dipa",
+    "consumo_activo": "no",
+    "riesgo_sanitario": "verde_con_pph",
+    "necesario_seguimiento": "proximo_turno",
+    "derivo_same": "no",
+    "descripcion": "Masculino solicita curación herida por seguimiento en la mano derecha. Se le realiza la curación correspondiente y se le toman signos vitales",
+    "__version__": "vJpKQ6qcHg6RGzqHJTTmVS",
+    "meta/instanceID": "uuid:83201968-eb35-4f12-a589-8e1c324c5328",
+    "_xform_id_string": "aD4NLofRmqgQnSzc5MdqSB",
+    "_uuid": "83201968-eb35-4f12-a589-8e1c324c5328",
+    "meta/rootUuid": "uuid:83201968-eb35-4f12-a589-8e1c324c5328",
+    "_attachments": [],
+    "_status": "submitted_via_web",
+    "_geolocation": [
+      -34.6239224,
+      -58.3924876
+    ],
+    "_submission_time": "2026-07-01T17:39:56",
+    "_validation_status": {},
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.6239224,
+    "lon": -58.3924876,
+    "comuna_lat": -34.612,
+    "comuna_lon": -58.405,
+    "comuna_label": "Comuna 3"
+  },
+  {
+    "_id": 798977611,
+    "formhub/uuid": "58407a357bcd41138f5a8fa282eb48ac",
+    "Tipo_de_derivaci_n": "espontanea",
+    "fecha": "2026-07-01T00:00:00.000-03:00",
+    "apellido": "Amarilla Peralta",
+    "nombre": "Patricio",
+    "dni": "94856153",
+    "Direcci_n_de_la_inte_ci_n_Calle_y_altura": "Combate de los Pozos 1280",
+    "comuna": "3",
+    "ubicacion": "-34.6239242 -58.3924928 42.29999923706055 11.772",
+    "seguimiento_caso": "no",
+    "nombre_brigadista": "B.Ontivero",
+    "lugar_intervencion": "dipa",
+    "consumo_activo": "no",
+    "riesgo_sanitario": "verde_con_pph",
+    "necesario_seguimiento": "proximo_turno",
+    "derivo_same": "no",
+    "descripcion": "Másculino masculino se presenta con herida en la nariz refiere haberse caído y roto el tabique fue ayer al hospital y le refiere que le hicieron tres puntos le recetaron cefalexina de cada 12 horas al no tener esa medicación y no conseguirla se procede a llamar a Hakuna para pedir autorización y entregarle la medicación correspondiente, cefalexina un miligramo cada 12 horas se le recomendó acercarse al hospital piñeiro para hacerse una cirugía en el tabique signos vitales normales.",
+    "__version__": "vJpKQ6qcHg6RGzqHJTTmVS",
+    "meta/instanceID": "uuid:e1bdd16c-e23c-455d-8987-1e6342400022",
+    "_xform_id_string": "aD4NLofRmqgQnSzc5MdqSB",
+    "_uuid": "e1bdd16c-e23c-455d-8987-1e6342400022",
+    "meta/rootUuid": "uuid:e1bdd16c-e23c-455d-8987-1e6342400022",
+    "_attachments": [],
+    "_status": "submitted_via_web",
+    "_geolocation": [
+      -34.6239242,
+      -58.3924928
+    ],
+    "_submission_time": "2026-07-01T17:43:26",
+    "_validation_status": {},
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.6239242,
+    "lon": -58.3924928,
+    "comuna_lat": -34.612,
+    "comuna_lon": -58.405,
+    "comuna_label": "Comuna 3"
   }
 ]
