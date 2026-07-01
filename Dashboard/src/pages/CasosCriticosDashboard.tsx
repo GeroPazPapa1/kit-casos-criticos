@@ -489,7 +489,7 @@ export function CasosCriticosDashboard() {
         </div>
 
         <MapView
-          entregas={[]}
+          entregas={casosFiltrados as any}
           className="h-[600px] flex-shrink-0 rounded-lg overflow-hidden border border-slate-700"
         />
       </section>

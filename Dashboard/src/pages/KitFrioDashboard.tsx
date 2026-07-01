@@ -4,7 +4,15 @@ import { Header } from '@/components/Header'
 import { MapView } from '@/components/MapView'
 import { PieChart, Pie, Cell, Tooltip, Legend, ResponsiveContainer } from 'recharts'
 
-const normalizarDni = (valor: string) => valor.replace(/\D/g, '')
+const normalizarDni = (valor: unknown) => {
+  const texto = String(valor ?? '').trim().toLowerCase()
+
+  if (!texto || texto === 'none' || texto === 'null' || texto === 'undefined') {
+    return ''
+  }
+
+  return texto.replace(/\D/g, '')
+}
 
 const escaparCsv = (valor: unknown) => {
   const texto = String(valor ?? '')
