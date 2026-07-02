@@ -46,7 +46,8 @@ const descargarCsv = (
 
 export function KitFrioDashboard() {
   const state = useEntregas()
-  const [fechaFiltro, setFechaFiltro] = useState('')
+  const [fechaDesdeFiltro, setFechaDesdeFiltro] = useState('')
+  const [fechaHastaFiltro, setFechaHastaFiltro] = useState('')
   const [dniBeneficiarioFiltro, setDniBeneficiarioFiltro] = useState('')
   const [dniOperadorFiltro, setDniOperadorFiltro] = useState('')
 
@@ -70,14 +71,15 @@ export function KitFrioDashboard() {
 
   const entregasFiltradas = entregas.filter(e => {
     const cumpleFecha = (() => {
-      if (!fechaFiltro) return true
+      if (!fechaDesdeFiltro && !fechaHastaFiltro) return true
       if (!e.submission_time) return false
 
-      const fechaEntrega = new Date(e.submission_time)
-        .toISOString()
-        .slice(0, 10)
+      const fechaEntrega = new Date(e.submission_time).toISOString().slice(0, 10)
 
-      return fechaEntrega === fechaFiltro
+      if (fechaDesdeFiltro && fechaEntrega < fechaDesdeFiltro) return false
+      if (fechaHastaFiltro && fechaEntrega > fechaHastaFiltro) return false
+
+      return true
     })()
 
     const dniBeneficiarioBuscado = normalizarDni(dniBeneficiarioFiltro)
@@ -104,12 +106,6 @@ export function KitFrioDashboard() {
       e.lon >= -180 &&
       e.lon <= 180,
   )
-
-  const personasUnicas = new Set(
-    entregasFiltradas
-      .map(e => normalizarDni(e.dni ?? ''))
-      .filter(Boolean),
-  ).size
 
   const diasConEntregas = new Set(
     entregasFiltradas
@@ -208,7 +204,7 @@ export function KitFrioDashboard() {
       <Header total={meta.total} timestamp={meta.timestamp} />
 
       <section className="bg-slate-900 border-b border-slate-700 p-4 flex-shrink-0">
-        <div className="grid grid-cols-1 md:grid-cols-3 xl:grid-cols-6 gap-4">
+        <div className="grid grid-cols-1 md:grid-cols-3 xl:grid-cols-5 gap-4">
           <div className="bg-slate-800 rounded-lg p-4">
             <div className="text-slate-400 text-xs uppercase">Kits entregados</div>
             <div className="text-white text-2xl font-bold">{entregasFiltradas.length}</div>
@@ -217,11 +213,6 @@ export function KitFrioDashboard() {
           <div className="bg-slate-800 rounded-lg p-4">
             <div className="text-slate-400 text-xs uppercase">Personas asistidas</div>
             <div className="text-white text-2xl font-bold">{entregasFiltradas.length}</div>
-          </div>
-
-          <div className="bg-slate-800 rounded-lg p-4">
-            <div className="text-slate-400 text-xs uppercase">Personas únicas</div>
-            <div className="text-white text-2xl font-bold">{personasUnicas || '-'}</div>
           </div>
 
           <div className="bg-slate-800 rounded-lg p-4">
@@ -245,12 +236,24 @@ export function KitFrioDashboard() {
         <div className="flex flex-wrap items-end gap-4">
           <div>
             <label className="block text-slate-400 text-xs uppercase mb-1">
-              Fecha
+              Fecha desde
             </label>
             <input
               type="date"
-              value={fechaFiltro}
-              onChange={e => setFechaFiltro(e.target.value)}
+              value={fechaDesdeFiltro}
+              onChange={e => setFechaDesdeFiltro(e.target.value)}
+              className="bg-slate-700 text-white px-3 py-2 rounded border border-slate-600"
+            />
+          </div>
+
+          <div>
+            <label className="block text-slate-400 text-xs uppercase mb-1">
+              Fecha hasta
+            </label>
+            <input
+              type="date"
+              value={fechaHastaFiltro}
+              onChange={e => setFechaHastaFiltro(e.target.value)}
               className="bg-slate-700 text-white px-3 py-2 rounded border border-slate-600"
             />
           </div>
@@ -283,7 +286,8 @@ export function KitFrioDashboard() {
 
           <button
             onClick={() => {
-              setFechaFiltro('')
+              setFechaDesdeFiltro('')
+              setFechaHastaFiltro('')
               setDniBeneficiarioFiltro('')
               setDniOperadorFiltro('')
             }}

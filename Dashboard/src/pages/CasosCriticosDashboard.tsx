@@ -144,6 +144,8 @@ const descargarCsv = (
 
 export function CasosCriticosDashboard() {
   const state = useCasosCriticos()
+  const [fechaDesdeFiltro, setFechaDesdeFiltro] = useState('')
+  const [fechaHastaFiltro, setFechaHastaFiltro] = useState('')
   const [riesgoFiltro, setRiesgoFiltro] = useState('')
   const [tipoDerivacionFiltro, setTipoDerivacionFiltro] = useState('')
   const [dniBeneficiarioFiltro, setDniBeneficiarioFiltro] = useState('')
@@ -168,6 +170,20 @@ export function CasosCriticosDashboard() {
   const { casos, meta } = state
 
   const casosFiltrados = casos.filter(caso => {
+    const cumpleFecha = (() => {
+      if (!fechaDesdeFiltro && !fechaHastaFiltro) return true
+
+      const fechaRaw = getFecha(caso)
+      if (!fechaRaw) return false
+
+      const fechaCaso = new Date(fechaRaw).toISOString().slice(0, 10)
+
+      if (fechaDesdeFiltro && fechaCaso < fechaDesdeFiltro) return false
+      if (fechaHastaFiltro && fechaCaso > fechaHastaFiltro) return false
+
+      return true
+    })()
+
     const cumpleRiesgo =
       !riesgoFiltro || getRiesgoSanitario(caso) === riesgoFiltro
 
@@ -187,6 +203,7 @@ export function CasosCriticosDashboard() {
       normalizar(getOperadorBrigadista(caso)).includes(operadorBrigadistaBuscado)
 
     return (
+      cumpleFecha &&
       cumpleRiesgo &&
       cumpleTipoDerivacion &&
       cumpleDniBeneficiario &&
@@ -317,6 +334,30 @@ export function CasosCriticosDashboard() {
         <div className="flex flex-wrap items-end gap-4">
           <div>
             <label className="block text-slate-400 text-xs uppercase mb-1">
+              Fecha desde
+            </label>
+            <input
+              type="date"
+              value={fechaDesdeFiltro}
+              onChange={e => setFechaDesdeFiltro(e.target.value)}
+              className="bg-slate-700 text-white px-3 py-2 rounded border border-slate-600 min-w-48"
+            />
+          </div>
+
+          <div>
+            <label className="block text-slate-400 text-xs uppercase mb-1">
+              Fecha hasta
+            </label>
+            <input
+              type="date"
+              value={fechaHastaFiltro}
+              onChange={e => setFechaHastaFiltro(e.target.value)}
+              className="bg-slate-700 text-white px-3 py-2 rounded border border-slate-600 min-w-48"
+            />
+          </div>
+
+          <div>
+            <label className="block text-slate-400 text-xs uppercase mb-1">
               Riesgo sanitario
             </label>
             <select
@@ -379,6 +420,8 @@ export function CasosCriticosDashboard() {
 
           <button
             onClick={() => {
+              setFechaDesdeFiltro('')
+              setFechaHastaFiltro('')
               setRiesgoFiltro('')
               setTipoDerivacionFiltro('')
               setDniBeneficiarioFiltro('')
