@@ -30600,5 +30600,43 @@
     "comuna_lat": -34.612,
     "comuna_lon": -58.405,
     "comuna_label": "Comuna 3"
+  },
+  {
+    "_id": 802277614,
+    "formhub/uuid": "58407a357bcd41138f5a8fa282eb48ac",
+    "fecha": "2026-07-04T00:00:00.000-03:00",
+    "apellido": "Jaime",
+    "nombre": "Angel",
+    "dni": "38159492",
+    "Direcci_n_de_la_inte_ci_n_Calle_y_altura": "Combate de los pozos 1280",
+    "comuna": "3",
+    "ubicacion": "-34.6239289 -58.3924906 42.5 4.94",
+    "seguimiento_caso": "si",
+    "nombre_brigadista": "Castro González Cristina ",
+    "lugar_intervencion": "dipa",
+    "consumo_activo": "no",
+    "riesgo_sanitario": "verde_con_pph",
+    "necesario_seguimiento": "no",
+    "derivo_same": "no",
+    "descripcion": "Se realizó curación y toma de signos vitales ",
+    "__version__": "vJpKQ6qcHg6RGzqHJTTmVS",
+    "meta/instanceID": "uuid:7ac43176-dbce-46f3-ac3b-d3f3e7791e43",
+    "_xform_id_string": "aD4NLofRmqgQnSzc5MdqSB",
+    "_uuid": "7ac43176-dbce-46f3-ac3b-d3f3e7791e43",
+    "meta/rootUuid": "uuid:7ac43176-dbce-46f3-ac3b-d3f3e7791e43",
+    "_attachments": [],
+    "_status": "submitted_via_web",
+    "_geolocation": [
+      -34.6239289,
+      -58.3924906
+    ],
+    "_submission_time": "2026-07-04T19:09:51",
+    "_validation_status": {},
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.6239289,
+    "lon": -58.3924906,
+    "comuna_lat": -34.612,
+    "comuna_lon": -58.405,
+    "comuna_label": "Comuna 3"
   }
 ]
