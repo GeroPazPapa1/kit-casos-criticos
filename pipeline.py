@@ -27,6 +27,7 @@ SCHEMA = {
     "edad": pl.Int64,
     "observaciones": pl.Utf8,
     "dni": pl.Utf8,
+    "dni_unificado": pl.Utf8,
     "dni_hash": pl.Utf8,
     "submission_time": pl.Utf8,
 }
@@ -69,10 +70,33 @@ def _safe_int(val) -> int | None:
         return None
 
 
-def get_dni_beneficiario(record: dict):
-    return (
-        record.get("dni")
-        or record.get("dni_del_beneficiario")
+def clean_dni(raw_value) -> str | None:
+    if raw_value is None:
+        return None
+
+    v = str(raw_value).strip()
+
+    if not v or v.lower() in ("nan", "none", "null"):
+        return None
+
+    return v
+
+
+def get_dni_unificado(record: dict) -> str | None:
+    """
+    Unifica el DNI desde los dos campos posibles del formulario.
+
+    Logica:
+    - Si viene dni_del_beneficiario / dni_beneficiario, usa ese.
+    - Si no viene, usa dni.
+    - En la carga real, cuando uno viene completo el otro suele venir vacio,
+      por eso no deberian pisarse.
+    """
+    return clean_dni(
+        record.get("dni_del_beneficiario")
+        or record.get("dni_beneficiario")
+        or record.get("DNI Beneficiario")
+        or record.get("dni")
         or record.get("DNI")
         or record.get("documento")
         or record.get("Documento")
@@ -94,18 +118,6 @@ def hash_dni(raw_value) -> str:
     return f"{salt.hex()}:{digest}"
 
 
-def clean_dni(raw_value) -> str | None:
-    if raw_value is None:
-        return None
-
-    v = str(raw_value).strip()
-
-    if not v or v.lower() in ("nan", "none", "null"):
-        return None
-
-    return v
-
-
 def transform_record(record: dict) -> dict | None:
     geo = record.get("_geolocation")
 
@@ -117,7 +129,7 @@ def transform_record(record: dict) -> dict | None:
         return None
 
     nombre_apellido = str(record.get("nombre_apellido") or "").strip() or None
-    dni_raw = get_dni_beneficiario(record)
+    dni_unificado = get_dni_unificado(record)
 
     return {
         "kobo_id": int(record["_id"]),
@@ -131,8 +143,9 @@ def transform_record(record: dict) -> dict | None:
         "genero": str(record.get("genero") or "").strip() or None,
         "edad": _safe_int(record.get("edad")),
         "observaciones": str(record.get("observaciones") or "").strip() or None,
-        "dni": clean_dni(dni_raw),
-        "dni_hash": hash_dni(dni_raw),
+        "dni": dni_unificado,
+        "dni_unificado": dni_unificado,
+        "dni_hash": hash_dni(dni_unificado),
         "submission_time": str(record.get("_submission_time") or "").strip() or None,
     }
 
@@ -171,7 +184,7 @@ def run_linter(parquet_path: str) -> None:
         sys.exit(1)
 
     print(
-        f"Linter OK: {len(df)} registros, sin columna DNI cruda. "
+        f"Linter OK: {len(df)} registros. "
         f"Salida: {parquet_path}"
     )
 

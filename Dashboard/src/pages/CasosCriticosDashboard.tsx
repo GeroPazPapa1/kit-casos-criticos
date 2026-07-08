@@ -93,6 +93,16 @@ const getSeguimiento = (caso: Record<string, unknown>) =>
     'Requiere seguimiento',
   ])
 
+  const getComentarios = (caso: Record<string, unknown>) =>
+  getCampoTexto(caso, [
+    'descripcion',
+    'Descripción',
+    'descripcion_intervencion',
+    'comentarios',
+    'comentario',
+    'observaciones',
+  ])
+
 const getDireccion = (caso: Record<string, unknown>) =>
   getCampoTexto(caso, ['direccion', 'dirección', 'Direccion', 'Dirección'])
 
@@ -256,6 +266,7 @@ export function CasosCriticosDashboard() {
         'SAME',
         'Traslado hospitalario',
         'Seguimiento',
+        'Comentarios',
       ],
       casosFiltrados.map(caso => [
         getFecha(caso),
@@ -272,6 +283,7 @@ export function CasosCriticosDashboard() {
         getSame(caso),
         getHospital(caso),
         getSeguimiento(caso),
+        getComentarios(caso),
       ]),
     )
   }
@@ -473,6 +485,7 @@ export function CasosCriticosDashboard() {
                   <th className="px-4 py-2 text-left">SAME</th>
                   <th className="px-4 py-2 text-left">Hospital</th>
                   <th className="px-4 py-2 text-left">Seguimiento</th>
+                  <th className="px-4 py-2 text-left min-w-72">Comentarios</th>
                 </tr>
               </thead>
 
@@ -480,7 +493,7 @@ export function CasosCriticosDashboard() {
                 {casosFiltrados.length === 0 ? (
                   <tr>
                     <td
-                      colSpan={14}
+                      colSpan={15}
                       className="px-4 py-6 text-center text-slate-400"
                     >
                       No hay intervenciones para los filtros seleccionados.
@@ -534,6 +547,9 @@ export function CasosCriticosDashboard() {
                       <td className="px-4 py-2 text-white">
                         {mostrar(getSeguimiento(caso))}
                       </td>
+                      <td className="px-4 py-2 text-white min-w-72">
+  {mostrar(getComentarios(caso))}
+</td>
                     </tr>
                   ))
                 )}

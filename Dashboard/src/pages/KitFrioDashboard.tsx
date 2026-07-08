@@ -14,6 +14,26 @@ const normalizarDni = (valor: unknown) => {
   return texto.replace(/\D/g, '')
 }
 
+const getDniUnificado = (entrega: { dni?: unknown; dni_unificado?: unknown }) => {
+  return entrega.dni_unificado ?? entrega.dni ?? ''
+}
+
+const formatearFecha = (valor: unknown) => {
+  if (!valor) return '—'
+
+  const fecha = new Date(String(valor))
+
+  if (Number.isNaN(fecha.getTime())) return String(valor)
+
+  return fecha.toLocaleString('es-AR', {
+    day: '2-digit',
+    month: '2-digit',
+    year: 'numeric',
+    hour: '2-digit',
+    minute: '2-digit',
+  })
+}
+
 const escaparCsv = (valor: unknown) => {
   const texto = String(valor ?? '')
   return `"${texto.replace(/"/g, '""')}"`
@@ -83,7 +103,7 @@ export function KitFrioDashboard() {
     })()
 
     const dniBeneficiarioBuscado = normalizarDni(dniBeneficiarioFiltro)
-    const dniBeneficiarioRegistro = normalizarDni(e.dni ?? '')
+    const dniBeneficiarioRegistro = normalizarDni(getDniUnificado(e))
     const cumpleDniBeneficiario =
       !dniBeneficiarioBuscado ||
       dniBeneficiarioRegistro.includes(dniBeneficiarioBuscado)
@@ -96,6 +116,12 @@ export function KitFrioDashboard() {
 
     return cumpleFecha && cumpleDniBeneficiario && cumpleDniOperador
   })
+
+  const kitsEntregados = entregasFiltradas.filter(e => e.id_kit).length
+
+  const personasAsistidas = entregasFiltradas.filter(
+    e => normalizarDni(getDniUnificado(e)).length > 0,
+  ).length
 
   const validEntregas = entregasFiltradas.filter(
     e =>
@@ -118,7 +144,7 @@ export function KitFrioDashboard() {
 
   const promedioDiario =
     diasConEntregas > 0
-      ? (entregasFiltradas.length / diasConEntregas).toFixed(1)
+      ? (kitsEntregados / diasConEntregas).toFixed(1)
       : '-'
 
   const puntosEntrega = new Set(
@@ -187,7 +213,7 @@ export function KitFrioDashboard() {
       entregasFiltradas.map(e => [
         e.id_kit ?? e.id,
         e.operator_id ?? '',
-        e.dni ?? '',
+        getDniUnificado(e),
         e.nombre_apellido ?? e.nombre ?? '',
         e.genero ?? '',
         e.edad ?? '',
@@ -207,12 +233,12 @@ export function KitFrioDashboard() {
         <div className="grid grid-cols-1 md:grid-cols-3 xl:grid-cols-5 gap-4">
           <div className="bg-slate-800 rounded-lg p-4">
             <div className="text-slate-400 text-xs uppercase">Kits entregados</div>
-            <div className="text-white text-2xl font-bold">{entregasFiltradas.length}</div>
+            <div className="text-white text-2xl font-bold">{kitsEntregados}</div>
           </div>
 
           <div className="bg-slate-800 rounded-lg p-4">
             <div className="text-slate-400 text-xs uppercase">Personas asistidas</div>
-            <div className="text-white text-2xl font-bold">{entregasFiltradas.length}</div>
+            <div className="text-white text-2xl font-bold">{personasAsistidas}</div>
           </div>
 
           <div className="bg-slate-800 rounded-lg p-4">
@@ -435,6 +461,7 @@ export function KitFrioDashboard() {
               <thead className="bg-slate-700 text-slate-300 sticky top-0">
                 <tr>
                   <th className="px-4 py-2 text-left">ID kit</th>
+                  <th className="px-4 py-2 text-left">Fecha</th>
                   <th className="px-4 py-2 text-left">DNI operador</th>
                   <th className="px-4 py-2 text-left">DNI beneficiario</th>
                   <th className="px-4 py-2 text-left">Nombre y apellido</th>
@@ -448,7 +475,7 @@ export function KitFrioDashboard() {
                 {entregasFiltradas.length === 0 ? (
                   <tr>
                     <td
-                      colSpan={7}
+                      colSpan={8}
                       className="px-4 py-6 text-center text-slate-400"
                     >
                       Todavía no hay entregas cargadas en el formulario.
@@ -461,15 +488,37 @@ export function KitFrioDashboard() {
                       className="border-t border-slate-700 hover:bg-slate-700/50"
                     >
                       <td className="px-4 py-2 font-mono text-xs text-slate-300">
-                        {e.id_kit ?? e.id}
-                      </td>
-                      <td className="px-4 py-2 text-white">{e.operator_id ?? '—'}</td>
-                      <td className="px-4 py-2 text-white">{e.dni ?? '—'}</td>
-                      <td className="px-4 py-2 text-white">{e.nombre_apellido ?? e.nombre ?? '—'}</td>
-                      <td className="px-4 py-2 text-white">{e.genero ?? '—'}</td>
-                      <td className="px-4 py-2 text-white">{e.edad ?? '—'}</td>
-                      <td className="px-4 py-2 text-white">{e.observaciones ?? '—'}</td>
-                    </tr>
+  {e.id_kit ?? e.id}
+</td>
+
+<td className="px-4 py-2 text-white whitespace-nowrap">
+  {formatearFecha(e.submission_time)}
+</td>
+
+<td className="px-4 py-2 text-white">
+  {e.operator_id ?? '—'}
+</td>
+
+<td className="px-4 py-2 text-white">
+  {getDniUnificado(e) || '—'}
+</td>
+
+<td className="px-4 py-2 text-white">
+  {e.nombre_apellido ?? e.nombre ?? '—'}
+</td>
+
+<td className="px-4 py-2 text-white">
+  {e.genero ?? '—'}
+</td>
+
+<td className="px-4 py-2 text-white">
+  {e.edad ?? '—'}
+</td>
+
+<td className="px-4 py-2 text-white">
+  {e.observaciones ?? '—'}
+</td>
+</tr>
                   ))
                 )}
               </tbody>

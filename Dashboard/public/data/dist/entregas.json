@@ -12,7 +12,12 @@
     "edad": 45,
     "observaciones": "Se entrega kit de frío rechaza parador",
     "dni": "28294133",
-    "dni_hash": "feca3d63b38c00f6af57189100658ce7:6a3605de6b0114849f9cb9bfbf72b53183704d2bc7d4a4c73286c085b26f3739",
+<<<<<<< Updated upstream
+    "dni_hash": "941ab0521cbecd87c832b3752628de4c:c2e254194461c53ed705e9175aba56e359fc6f9deba2b0f50c9f21c6bc3438ef",
+=======
+    "dni_unificado": "28294133",
+    "dni_hash": "8314e6d67335f253d52c02fcfc448be2:df32df2d7ea696e35777c07c0eae73b0c6069b38320f09339b336cbe7421f8f8",
+>>>>>>> Stashed changes
     "submission_time": "2026-06-14T04:50:44"
   },
   {
@@ -28,7 +33,12 @@
     "edad": 64,
     "observaciones": "El hombre rechaza parador , refiere que tiene problemas neurologicos, no presenta DNI por sus condiciones se consulta con supervisión y se entrega un kit frio",
     "dni": "94734204",
-    "dni_hash": "dd7fffede05f25aa2a00d0bfe352f3c4:9ccd75ea61be5da7e9e3f85dd5125a152f53197869a1fb02d554276aece3581f",
+<<<<<<< Updated upstream
+    "dni_hash": "74be4c4a3fc0e3e4de998bc1aa2172a7:fcff101bbd0549cc79841d106f23f956a6e94e00bd46674b33b5a3912be25445",
+=======
+    "dni_unificado": "94734204",
+    "dni_hash": "91b7c95306b67b17c523676ee14cfe1a:544d31164c792d9ce21487005812cbe2431a6e052ffdb9ca55bd3a1a32d5060d",
+>>>>>>> Stashed changes
     "submission_time": "2026-06-14T08:04:44"
   },
   {
@@ -44,7 +54,12 @@
     "edad": 44,
     "observaciones": "Se contacta a Benítez el cual refiere que Mariela operadora de la Red del turno mañana le realiza seguimiento. \nRechaza ingresar a un CIS.",
     "dni": "29072688",
-    "dni_hash": "2fc3526d85ff844ce7c0fd1e097af4d2:ca373183f8243d9fe1831c314b7e70a81100c1b6274320fe1ad2f33ffc425cde",
+<<<<<<< Updated upstream
+    "dni_hash": "25c6ecd82e83de7f64f7d6bdc1410a1b:6ab65b879acdc4579229b5b088b3811750bec73c44f89b828d38cf16eeb7a589",
+=======
+    "dni_unificado": "29072688",
+    "dni_hash": "ce6f305b99f3e4b370cb8cc8bc0aff7d:6574e45670cf6451c3b4c5a855bdd56411ed399c8035ec579162a3c45f8e8cc2",
+>>>>>>> Stashed changes
     "submission_time": "2026-06-15T08:35:28"
   },
   {
@@ -60,7 +75,12 @@
     "edad": 36,
     "observaciones": null,
     "dni": "35097638",
-    "dni_hash": "013aa8e859da3c647e9f06e18a1e1dcc:3b708fdeca60b4f445e9cfdf7dd47e5d4b9855901f67b9712ac8d3024cef03f4",
+<<<<<<< Updated upstream
+    "dni_hash": "fcd3548bfab0358fea2a120e15335412:72309c9878ebe6772b17d6ca837f38b7bbd7eaea43a5a46595fa4d1ea2da5312",
+=======
+    "dni_unificado": "35097638",
+    "dni_hash": "d9536c003f5163034592a865e8013da5:138202d2c6080bfe3e33798656a17e33a41470ddbbffa3563dff9fdb2749e690",
+>>>>>>> Stashed changes
     "submission_time": "2026-06-15T08:35:28"
   },
   {
@@ -76,7 +96,12 @@
     "edad": 42,
     "observaciones": null,
     "dni": "31741777",
-    "dni_hash": "8ca910976bc807980605849cceaa9e64:111a8df7a340a8abc1ddd80cf9040dddd8fff5cd522219a2af552d28fbafd44d",
+<<<<<<< Updated upstream
+    "dni_hash": "728a491b3ea6a2e1bebfb5f0960ced91:f0b18524ede541bb1356c378e331940a16df84d3271d4d40be53afc5a81e5981",
+=======
+    "dni_unificado": "31741777",
+    "dni_hash": "f85708a68001422b87615f284b7b4b82:ebecdf9c4f57f8eb186193a44c02f1deffcf8c43cc5a83133ef95581825a1a3a",
+>>>>>>> Stashed changes
     "submission_time": "2026-06-15T08:35:29"
   },
   {
@@ -92,7 +117,12 @@
     "edad": 68,
     "observaciones": null,
     "dni": "92359996",
-    "dni_hash": "69f2ebcb78fa91bb9b3ef0ed8f139866:92ed9fe9ef7079147e78155c2ec9b5d872701f29219d9ea3f286dc4c5965d992",
+<<<<<<< Updated upstream
+    "dni_hash": "b15e0980bd35e176226a8f69672844fe:8610bfea9af0444313363b30195f1684fca9b4259f87fd7a95a281b2ddd2eb0e",
+=======
+    "dni_unificado": "92359996",
+    "dni_hash": "4b8ff65bf62060eb396b997e1999f473:c490b79f179f340bcc2e436bc3a092bb5f39cc313c3960f788ed76d0c4c6a730",
+>>>>>>> Stashed changes
     "submission_time": "2026-06-15T08:35:29"
   },
   {
@@ -108,7 +138,12 @@
     "edad": 31,
     "observaciones": "El señor acepta el kit y continúa durmiendo",
     "dni": "37730986",
-    "dni_hash": "27f51cc703d7781c973799e19d899f4b:b712926e92577064905c975ff47d6d7c0649c6e64eef48a7a6dd6f944141bdd3",
+<<<<<<< Updated upstream
+    "dni_hash": "1b39ede7bd781d1423e0efec87e77216:615f23e8f448bc1a9ef892b2f8f39010de4d4617c157a14dad5f1a69ab971493",
+=======
+    "dni_unificado": "37730986",
+    "dni_hash": "c0838d283b1eed07143f2f0268a1d99a:6b255dc17e82ed53e8ddfcb433d5a3bdb49de5a4c29a5b4c4e31bfde3361deb3",
+>>>>>>> Stashed changes
     "submission_time": "2026-06-15T08:59:22"
   },
   {
@@ -124,7 +159,12 @@
     "edad": 55,
     "observaciones": "El señor se encuentra en una parada de colectivo, refiere estás bien,  rechazó Micro, pero aceptó el KIT frío, el cual le hicimos la entrega.",
     "dni": "21982383",
-    "dni_hash": "5025527ffde9b0dcfb7ce67a5b62c2a0:915717cdf3908f5b3c17e9e5eb851b1f489ff35d13102c06424468d8c2197362",
+<<<<<<< Updated upstream
+    "dni_hash": "234acfc1cf2e3045c91ff9d7a227fcff:96d765d26563d27e7f0874209b10371d81a1e1fe8941a1b811e307b4e7d78aae",
+=======
+    "dni_unificado": "21982383",
+    "dni_hash": "30721c1cdd86ce4dbda5229afa05f178:f3ab79967a7b1a142a725cc43dde29d740484cbbfb61548009f2ed5363868b8c",
+>>>>>>> Stashed changes
     "submission_time": "2026-06-15T08:59:22"
   },
   {
@@ -140,7 +180,12 @@
     "edad": 65,
     "observaciones": "Siendo las 02:50 llegamos a Av. Brasil 1100 con la intención de encontrarnos con Luis Martinez a quien deberíamos brindarle asistencia. \nEn el lugar encontramos a la persona que la carta refiere. \nÉl se encuentra vestido con un suéter azul muy finito el cual no le está cubriendo el abdomen y parece que le queda corto. Su pantalón no llega a cubrile los talones y tiene el pie izquierdo descalzo. Está temblando del frío sus dientes crujen por el mismo.\nSe le ofrece la opción de ir a un dispositivo CIS, pero él lo rechaza porque afirma tener un lugar donde quedarse pero que por problemas de convivencia habría quedado en la calle hace rato. \nNegado a querer acompañarnos, se le deja un kit de invierno para que esté abrigado.\n\nLuis Alberto Martinez Fleitas.\nDNI: 94241132.\n18/12/1956.",
     "dni": "94241132",
-    "dni_hash": "e501d3c4f15b31fa809c8f0595b7dd0b:93f8934af9cc519b17a2e8d98907cb9d455a0ec68b81d837cb99ebcde422fcca",
+<<<<<<< Updated upstream
+    "dni_hash": "89599bf6dc8e0b5b8dd7af4a6a96fb4a:53aed93f2279db95a764e03b00792d11dd6f3c344f80884c4fecdab98d9109c9",
+=======
+    "dni_unificado": "94241132",
+    "dni_hash": "63b216c3a966319d43fc5f4107e5abde:3a33bd2dbfb9b5af2090e605501cf2f0780f779b24a8ea3846d3e3377173a03f",
+>>>>>>> Stashed changes
     "submission_time": "2026-06-15T08:59:54"
   },
   {
@@ -156,7 +201,12 @@
     "edad": 53,
     "observaciones": "La persona se encontraba durmiendo dentro de un cajero automático del banco provincia donde se le ofreció un parador o micro y lo rechazó se le ofreció el kit de frío y fue aceptado",
     "dni": "23193527",
-    "dni_hash": "af91247adc9a7866d0392f6cf3878090:b84a2122a169336e045ec8b2a3ec25062baa9b9d039c46bc1152819d5e03df15",
+<<<<<<< Updated upstream
+    "dni_hash": "ddaa9f7964aea2aeae5a15fa71fa8ff4:a3d18bfb87a9070760cbc409218903cc1037c26d73eead96cc74658b40d6f6b2",
+=======
+    "dni_unificado": "23193527",
+    "dni_hash": "98d003e4ce2a5433726cea75d6b24e41:7932423ae2d467b223cf0072a61eeb6a256428a4fa8e06d3c1328c4bf6081f85",
+>>>>>>> Stashed changes
     "submission_time": "2026-06-15T09:00:05"
   },
   {
@@ -172,7 +222,12 @@
     "edad": 40,
     "observaciones": "- Dirección del punto: Francisco beiro 327\n- ⁠Hora: 05:00\n- ⁠N carta: 1732445\n*.Acepta entrevista?:si \n*.Se observan pertenencias?: no\n.*Ranchada?: no\n.*Nombre, apellido, identidad de la/s persona/s: Ricardo Andrés ocampo\n.DNI :32341826\n.Fecha de nacimiento: 22/05/1986\n.Nacionalidad: Argentino\n.Trabaja: changas \n.Enfermedad: no\n. devolución: nos dirigimos a la calle beiró al 327 donde nos encontramos con con Ricardo Andrés Ocampo de 40 años donde refiere que no quiere ir a ningún parador ni micro sí se le hace entrega del kit de frío con él estaba Agustín maximiliano herarol de 24 años DNI 43404790 fecha de nacimiento 10/02/2002 argentino donde él quiere ir a un parador pero no hay más vacantes donde se le ofrece el kit de frío y fue aceptado y se retiraron del lugar",
     "dni": "32341826",
-    "dni_hash": "9687d4d99572bcce5d862072db713932:5a3ad6f595d45fcc92da7014151b25e4241103d66cf2ab688f86fbce13d9d6ce",
+<<<<<<< Updated upstream
+    "dni_hash": "eaed6ba01b397039879665709abdce37:e28f07e551573542358dbfafdfaef515afda2163efaf770632a0b397a3fffc8f",
+=======
+    "dni_unificado": "32341826",
+    "dni_hash": "0adecb38b0d8d21133a75ff547538cd0:75879852cb794f2b59060faeef74c0a8d633ddeb14a8bf44e99304538003a67a",
+>>>>>>> Stashed changes
     "submission_time": "2026-06-15T09:00:05"
   },
   {
@@ -188,7 +243,12 @@
     "edad": 24,
     "observaciones": "- Dirección del punto: Francisco beiro 327\n- ⁠Hora: 05:00\n- ⁠N carta: 1732445\n*.Acepta entrevista?:si \n*.Se observan pertenencias?: no\n.*Ranchada?: no\n.*Nombre, apellido, identidad de la/s persona/s: Ricardo Andrés ocampo\n.DNI :32341826\n.Fecha de nacimiento: 22/05/1986\n.Nacionalidad: Argentino\n.Trabaja: changas \n.Enfermedad: no\n. devolución: nos dirigimos a la calle beiró al 327 donde nos encontramos con con Ricardo Andrés Ocampo de 40 años donde refiere que no quiere ir a ningún parador ni micro sí se le hace entrega del kit de frío con él estaba Agustín maximiliano herarol de 24 años DNI 43404790 fecha de nacimiento 10/02/2002 argentino donde él quiere ir a un parador pero no hay más vacantes donde se le ofrece el kit de frío y fue aceptado y se retiraron del lugar",
     "dni": "43404790",
-    "dni_hash": "c8125ce7cb0a7997169ebe9fc821adc6:2e1bff434bd639ba75513829a0540dfcaa56361098d5991151fa0f0d6a0144e5",
+<<<<<<< Updated upstream
+    "dni_hash": "04f29b1e61efebb8ddb20a7f3c135dd6:345e5778d927db091867b4698befc08be5a138a12294b8f3c07ec9a79fa8188d",
+=======
+    "dni_unificado": "43404790",
+    "dni_hash": "622f093523904cb2037ef742c6f653fd:9fbfc1b0fa4036f04e948ab353148d3e9fd2b85bbf90534ac6580ca5a1ab8a90",
+>>>>>>> Stashed changes
     "submission_time": "2026-06-15T09:00:05"
   },
   {
@@ -204,7 +264,12 @@
     "edad": 27,
     "observaciones": "Se contacto masculino durmiendo con cartones y mantas rechaza herramientas del programa",
     "dni": "41584613",
-    "dni_hash": "df5efb49fc249a179f179dc4366ead32:b168165db5471d80d3806a2ecd1558cb6d444b4d98c9ac0cc047e7c72f115744",
+<<<<<<< Updated upstream
+    "dni_hash": "b032dab816c1a055d757f2818870ef48:9ebb830bb680ffc62902134c221b64d2dbcd585d02da8eed9600837789102902",
+=======
+    "dni_unificado": "41584613",
+    "dni_hash": "1fcda50ea23d1a73ca08677edccbcc38:2f3d235e22c5b3d1ec4594c8d448c21fdfd71fcf4986d381fcf3ed16179e31ba",
+>>>>>>> Stashed changes
     "submission_time": "2026-06-15T09:15:33"
   },
   {
@@ -220,7 +285,12 @@
     "edad": 52,
     "observaciones": "Se contacto masculino tapado con bolsas de nylon rechaza herramientas del programa",
     "dni": "23524561",
-    "dni_hash": "e6c4913659b49ef3fff71b52450bc5d5:07e3e2d56ca4dadee637ab3e53eec5399bf0dd4dffe347bd65661110ee6f7110",
+<<<<<<< Updated upstream
+    "dni_hash": "e62def47e13afece4756536bbed7febd:546d2f0cb82101504032a967b1d0256ce9b9ecd31cfa47c5d51074bf81ab4962",
+=======
+    "dni_unificado": "23524561",
+    "dni_hash": "b7601666d7ab96180c591dd7bf6aa1b5:8bd4325d06820c3222da33d134a5ad3027dcd078b972db68662d4273d29c0274",
+>>>>>>> Stashed changes
     "submission_time": "2026-06-15T09:15:34"
   },
   {
@@ -236,7 +306,12 @@
     "edad": 41,
     "observaciones": "Durmiendo con poco abrigo",
     "dni": "30884755",
-    "dni_hash": "a0548e12611ef35f7b756c48fc7833ac:32ba23de617116e1cb73cb9c35c7f8a37143d906d3a3819c70a021dbbc7bc095",
+<<<<<<< Updated upstream
+    "dni_hash": "ea9718b5f58d1fedf0a8ce1a25036d01:568eb4d94043d905dd695a75e71785595dcc74768528b1825c961e6334869d8d",
+=======
+    "dni_unificado": "30884755",
+    "dni_hash": "cfdee9143da21aafe9762e914ca2e54c:33ba46ff39bb399154828ce860fdf473458908c9c37a1125575951610ebc4c0d",
+>>>>>>> Stashed changes
     "submission_time": "2026-06-15T09:15:34"
   },
   {
@@ -252,7 +327,12 @@
     "edad": 53,
     "observaciones": "Durmiendo con poco abrigo",
     "dni": "23433031",
-    "dni_hash": "98f3dd1e160dc67ca7ff0e9629ed7b1f:6ef1e89524084d96773901f06b59f8d3d23fae2947dccb70679fe401dac9cf0a",
+<<<<<<< Updated upstream
+    "dni_hash": "0504c64996bdc077935db5cb580b5b2b:0bebaf44afd2659a44f102c78a71c2fe06ffd8e1923afdeb4f9b7a1fd1487883",
+=======
+    "dni_unificado": "23433031",
+    "dni_hash": "845be40192030544b2b82bdf01397de2:bd0ea991906736fb5973b06ef1b57e76f351dfbefc8efeddfe9c5b1d871f339a",
+>>>>>>> Stashed changes
     "submission_time": "2026-06-15T09:15:34"
   },
   {
@@ -268,7 +348,12 @@
     "edad": 36,
     "observaciones": "Poco abrigo",
     "dni": "34303691",
-    "dni_hash": "4f2e6f1ef49ee9666e04bb7f18e9f81e:a3f90fb4af31c157e106dd0c794e504eff502abf393313d52ee4f6fcd0bd8eda",
+<<<<<<< Updated upstream
+    "dni_hash": "a11c88049cb3ecc927bf9a789b8a3442:369b100cda5d851b2c1643dc61661690634043881ddce216986954af0ec61f49",
+=======
+    "dni_unificado": "34303691",
+    "dni_hash": "a3b5383a1b177ce2c672759a8b1954d7:e3c9de5cd65dd3f4db729b38a85a893607cd1ce6c00f3b96f368c845d2270f6e",
+>>>>>>> Stashed changes
     "submission_time": "2026-06-15T09:15:35"
   },
   {
@@ -284,7 +369,12 @@
     "edad": 36,
     "observaciones": "Poca ropa",
     "dni": "34983795",
-    "dni_hash": "b74a7da86c86ed941d8384967691aa7c:e9dbb0b3c678255c60d3c8a85a234b5e35a037a0aeffcff1d5dc6cf37dc360f7",
+<<<<<<< Updated upstream
+    "dni_hash": "c6ff18fa8b6013afd4e5942e621f6665:8e17050dcca7f287efe37fc6f0f7f84f1f4e708eee0cfd0b415014d51a90ad83",
+=======
+    "dni_unificado": "34983795",
+    "dni_hash": "c1c1c2587c187f3744588c7224fa66d4:1453e2191f01ac49e9cde36abb3d0179362a84579c3feea8f1b430aa11815bc2",
+>>>>>>> Stashed changes
     "submission_time": "2026-06-15T09:15:35"
   },
   {
@@ -300,7 +390,12 @@
     "edad": 55,
     "observaciones": "Está temblando de frío solo tiene una frazada no tiene ropa de abrigo \nTiene incontinencia renal hace un día que no come bien y no tomo líquido",
     "dni": "22885149",
-    "dni_hash": "c339b680bbe0473d5d00232af4ee6fb8:281afaf43ae1199b6fba78c26e711ad00db73d3790d56c8a0e28b3b713db51ec",
+<<<<<<< Updated upstream
+    "dni_hash": "f2300b3e1abb13cb76c53879bfaab790:1c1c2c414d8922ec7efe74533f260c836b9ef766c960effafac00167a4b0960e",
+=======
+    "dni_unificado": "22885149",
+    "dni_hash": "d66704f051889886b4f73950b2c5831c:9856c08537e9960e3b378ff14af2d2ff6a950cf47c5fbfcc738d49413ec684b2",
+>>>>>>> Stashed changes
     "submission_time": "2026-06-15T09:16:36"
   },
   {
@@ -316,7 +411,12 @@
     "edad": 50,
     "observaciones": "En situación de calle",
     "dni": "24940847",
-    "dni_hash": "28e4bb432bc98cedf74c61808bb389c6:8ab8889f166e4b97d50dcbf5e21af76fe47b0aa2e3c709c5688d7d7a6413ff1e",
+<<<<<<< Updated upstream
+    "dni_hash": "42b169ba6453ab0372c7cb6a800e5671:7b16c04e482f2ac23ea217890da46aa0d132afcfc46f75085418774cfff97c7f",
+=======
+    "dni_unificado": "24940847",
+    "dni_hash": "c9d4f453234549f528c02c4e5beb771e:f8366f6f8865efc87fc9ba0caf033be7007f1796092a73f1c2381d11b462b135",
+>>>>>>> Stashed changes
     "submission_time": "2026-06-15T10:35:06"
   },
   {
@@ -332,7 +432,12 @@
     "edad": 38,
     "observaciones": "Si",
     "dni": "26078695",
-    "dni_hash": "16dba3c0fb8a3f297541b22c036b6c9d:f43e67af651fdb83f2d5204d9d0f461c5a5f6efab180f74055bd799efe4dc26b",
+<<<<<<< Updated upstream
+    "dni_hash": "3b378b20931dcadd824ed18daa33808e:87c1e979f84bc68def55e9ec8415ba8a065e2de82fe47a7fc4fb8850f446e1a2",
+=======
+    "dni_unificado": "26078695",
+    "dni_hash": "f5c7c6e6ff1500d4443f491f0cfa4f9c:9ffebc1f675c9720d89bdad7827bfb533bd27f58a909bce41faf9b8cec3f72fd",
+>>>>>>> Stashed changes
     "submission_time": "2026-06-15T10:35:06"
   },
   {
@@ -348,7 +453,12 @@
     "edad": 39,
     "observaciones": "Si",
     "dni": "29995284",
-    "dni_hash": "1eb9f5769f5cb062e80b7d04e951c19f:3ab501d66336714af41ac20e94228b7478c247bcd30d8a06e5edd1fee2f30ef9",
+<<<<<<< Updated upstream
+    "dni_hash": "7e48879f89c2c4d0511d825447dfac06:b8ac04f0ecbd7d694786d0839802cb9203b154bdac65b7adfabe2463735d6f4a",
+=======
+    "dni_unificado": "29995284",
+    "dni_hash": "a7c69bbb76c7d5b6d2b64a3faf03ac3e:48f1647908b78dbd4ad33aa2f9b4f01a68035799f022889d88cf6eb73181feb6",
+>>>>>>> Stashed changes
     "submission_time": "2026-06-15T10:35:06"
   },
   {
@@ -364,7 +474,12 @@
     "edad": 48,
     "observaciones": "rechaza asistencia, acepta kit frio",
     "dni": "26707253",
-    "dni_hash": "415ae7e8ce13e9fdcfe264925bae1d1b:bcf2851ed67e05defe0817dc731fbf6823166e42e761f8e49155fb5630a7a890",
+<<<<<<< Updated upstream
+    "dni_hash": "3ac5b28457c0ead85d8d128e44990206:16850800f343c4b92c3cca4eb3a3e875beaf89b2a4373da3bba01f515e351ece",
+=======
+    "dni_unificado": "26707253",
+    "dni_hash": "2ef740cf8e3aafb3d806603dab12051b:26ead9821601103e9e8d0c1965f1a670829acff2313088c2b109f4d09ce38bf3",
+>>>>>>> Stashed changes
     "submission_time": "2026-06-23T08:43:55"
   },
   {
@@ -380,7 +495,12 @@
     "edad": 44,
     "observaciones": "rechaza asistencia, pero acepta kit frio",
     "dni": "29570262",
-    "dni_hash": "192149b90890648b97b185599a94c12e:0965ffa483efab14504739970fe92113ed94a21096ecbcf301db47bdc4db9cb8",
+<<<<<<< Updated upstream
+    "dni_hash": "eeeed3e1f495c3476a6e7079accc0250:b50eb767cfb31b13125d47598f7696660b69540b273c0021c8448cc3387675c3",
+=======
+    "dni_unificado": "29570262",
+    "dni_hash": "8e45f6c5ecaab0c1b04ece6c69d922c8:45b5d212667f1a810080881ca3302b2e3bb844b8cab09b993e165c1bbcf4652f",
+>>>>>>> Stashed changes
     "submission_time": "2026-06-23T08:43:55"
   },
   {
@@ -396,7 +516,12 @@
     "edad": 57,
     "observaciones": "acepta entrevista, también acepta kit frio",
     "dni": "20718712",
-    "dni_hash": "524aa07b2a70c25529bacde2b054f379:e6600ccec3da037146f94fe2da79d3d4e4b53a4e24282d077314d02bc15cf6a5",
+<<<<<<< Updated upstream
+    "dni_hash": "af5f94fdb15b780f058f8df7384b3243:b31b38895b2bdde5cc8506f263b98cae91866c10b99dacd2416aa53b5e924a83",
+=======
+    "dni_unificado": "20718712",
+    "dni_hash": "1c9c46ad4b75eb835d599fb4d306c4a0:64b197b64692ab537660212221a482ab1a1df547203022cb6e8fd4ff4e299001",
+>>>>>>> Stashed changes
     "submission_time": "2026-06-23T08:43:55"
   },
   {
@@ -412,7 +537,12 @@
     "edad": 35,
     "observaciones": "Carta: 1743273\nNombre y apellido: Victor Hugo Alcántara Justiniano \nDNI: 94967595\nFN: 13/10/1991\nEdad: 35\nNacionalidad: Argentino\n\n*Autovalido*:\nPuede cama arriba: si\nPuede subir escaleras: si\nMedicación: no\nTiempo en calle: 2 años\nMotivo: económicos \nCobra beneficio del Gobierno: ciudadanía Porteña \n/último cis: la boca\nTrabaja: si. Lavadero de autos en guardia vieja (Once) de lunes a lunes con franco semanal de 8 a 20hs\nBaston: no",
     "dni": "94967595",
-    "dni_hash": "356153feba4dc9479bf5a6cbff70f86f:0b5fc83bb9381310d6cf274bc59e0b3dc9a814096866898987f4e1b087f9180b",
+<<<<<<< Updated upstream
+    "dni_hash": "d4833f42e9d2eba8fa30050bb2735537:998d2c5e8d44f4158689fc9a37bd1e7ab01a49985021e12c4c541e61ae650446",
+=======
+    "dni_unificado": "94967595",
+    "dni_hash": "e74506e6d996053c1974d1266e93f074:349a5f163714898b74590b8c46b0cfadc45607374a6489ae67a5fa6232e6e48d",
+>>>>>>> Stashed changes
     "submission_time": "2026-06-24T08:23:39"
   },
   {
@@ -428,7 +558,12 @@
     "edad": 18,
     "observaciones": "Carta: 1743273\nNombre y apellido: Darretche Nicolás \nDNI: 48526702\nFN: 05/03/2008\nEdad: 18\nNacionalidad: Argentino\n\n*Autovalido*:\nPuede cama arriba: si\nPuede subir escaleras: si\nMedicación: no\nTiempo en calle:  5 meses\nMotivo: económicos \nCobra beneficio del Gobierno: no\n/último cis: renacer\nTrabaja: si. Sánchez de loria y garay en lavadero de autos de lunes a lunes con franco semanal de 8 a 20hs\nBaston: no\nSe entrega kit de igual modo solicita cis",
     "dni": "48526702",
-    "dni_hash": "d1bebbf91574fdf4a33a0b096e696b74:3a0b1e443d6ef01fb9227a2eba39809da2770bb02a569cb048184a5edd0f84b5",
+<<<<<<< Updated upstream
+    "dni_hash": "7506fc08631b201fdbc6ea1e4e0345d7:bd748a7031b5a18484dc771995cb93a13536154703756472c42760b19e3e6c97",
+=======
+    "dni_unificado": "48526702",
+    "dni_hash": "15ef5aa50e458f85c849f13d73c1eb0b:9822a314959b080393904e27e565ae35efc82e19e905dc074ab8ef442186aa9e",
+>>>>>>> Stashed changes
     "submission_time": "2026-06-24T08:23:40"
   },
   {
@@ -444,7 +579,12 @@
     "edad": 23,
     "observaciones": "Carta: 1743273\nNombre y apellido: Carreras Rodríguez Agustín \nDNI: 5354043-1\nFN: 06/06/2003\nEdad: 23\nNacionalidad: Uruguay \n\n*Autovalido*:\nPuede cama arriba: si\nPuede subir escaleras: si\nMedicación: no\nTiempo en calle:  2 meses\nMotivo: económicos \nCobra beneficio del Gobierno: no\n/último cis: tacuari\nTrabaja: si. Pintor en Av san Juan y tacuari de lunes a viernes de 9 a 15hs (en lo posible CIS cercano al trabajo)\nBaston: no. \nSe entrega kit. A la espera de vacante cis",
     "dni": "53540431",
-    "dni_hash": "b0587ca792e8cbe9f241269e0544c027:cca187966e72f01b77af5ede68d3825ace020c17dfd320f0489f45dc45c6be4b",
+<<<<<<< Updated upstream
+    "dni_hash": "b9193327e8a74460e495633067f58bce:7acc073b8df48ec6f39e8e804cf816b19fbcf213de14d3e2fd5f194f27debaff",
+=======
+    "dni_unificado": "53540431",
+    "dni_hash": "77c0a0aa5e9dfb8594d25ad4a6bf84b0:ec6d6d3153374ea825ed80bd80e70e75eecc562054394ae91d817b527633880c",
+>>>>>>> Stashed changes
     "submission_time": "2026-06-24T08:23:40"
   },
   {
@@ -460,7 +600,12 @@
     "edad": 33,
     "observaciones": "Carta: 1743273\nNombre y apellido: Ramirez, enzo\nDNI: 37118201\nFN: 26/01/1993\nEdad: 33\nNacionalidad: Argentino \n\n*Autovalido*:\nPuede cama arriba: si\nPuede subir escaleras: si\nMedicación: no\nTiempo en calle:  4 años\nMotivo: económicos \nCobra beneficio del Gobierno: pensión por disminución auditiva y ciudadanía porteña\n/último cis: retiro\nTrabaja: no\nBaston: no\n\nSe entrega kit. Continúan a la espera de vacante",
     "dni": "37118201",
-    "dni_hash": "c4e54ce75a1af2b85c20aaadcf5d5aea:4f26979940c51431cebee0410cfea443f22d09caa5d435b0878aa1d57d8f0e18",
+<<<<<<< Updated upstream
+    "dni_hash": "0d5e0a4e5408787c618058618b598b9d:affc4f1297fd22496487085f60f5e308894480fd3032e8ffeaea4b8d6fe5f299",
+=======
+    "dni_unificado": "37118201",
+    "dni_hash": "bca64825352c726ab2c74d680c8f2f26:d7e009a4c31ceaf712b40e5eb896fc3506e1cb6138142436a36ebd1cda6d8939",
+>>>>>>> Stashed changes
     "submission_time": "2026-06-24T08:23:40"
   },
   {
@@ -476,7 +621,12 @@
     "edad": 36,
     "observaciones": "Rechaza asistencia, acepta kit frio",
     "dni": "35033180",
-    "dni_hash": "7853bd950bb8962a80730fd90b728918:e385d5cb9611f68e911435890f7bb2255417919ecb9f681d7b27e98f2b31cf72",
+<<<<<<< Updated upstream
+    "dni_hash": "2d3f4c541a8bc46220837d3211b8dc3a:223fd70f848f21611c864ae64bdb3e98fcd67136a3e61bc1346ff1d831c172c2",
+=======
+    "dni_unificado": "35033180",
+    "dni_hash": "da321d23cee77008af8dc73301e5f8b5:df7eece8e57ff77e27d47092b3b576d76e0d8a27d3272f5f926d44fcce10174c",
+>>>>>>> Stashed changes
     "submission_time": "2026-06-24T08:46:16"
   },
   {
@@ -492,7 +642,12 @@
     "edad": 39,
     "observaciones": "Rechaza asistencia, pero acepta kit frio",
     "dni": "32484636",
-    "dni_hash": "5c4934103df6012f72d596c0edc45d18:a27e4fcb351050bc2c26a51e64a9db3f195e95ee9330f5c88fc8321932b124c0",
+<<<<<<< Updated upstream
+    "dni_hash": "bfb29c3682be4fb8522570a10ab1f4d8:9de815c9a17b05fe711d1a79aa34a6f9b5db44f70fc3173d2b1f2a6d515f6ff7",
+=======
+    "dni_unificado": "32484636",
+    "dni_hash": "7a3e7e490b3ae9b0ce6c8676f344056c:75a001de8290e2caa3bb0e5e46706f44c45e7fda826680027a2d3ce32ca4b773",
+>>>>>>> Stashed changes
     "submission_time": "2026-06-24T08:46:16"
   },
   {
@@ -508,7 +663,12 @@
     "edad": 46,
     "observaciones": null,
     "dni": "25703279",
-    "dni_hash": "cced5f6518a408da23f522ea3f52efe9:339b2f8a411b3cf8be389d5a27bb68c4b97057969c69d5d2e40087a831754ab6",
+<<<<<<< Updated upstream
+    "dni_hash": "1854770551d4297cac7f10c088b248d7:e464ddf175e5c486704668891d338d8fc2801e5834d66c912a43f51fe98d2746",
+=======
+    "dni_unificado": "25703279",
+    "dni_hash": "04d773d65f6bfa1d433281475ffa8dd4:d6abd1e0f90d579378e775f0259c2618c2f36c8a5247618646d43da314442193",
+>>>>>>> Stashed changes
     "submission_time": "2026-06-24T08:54:02"
   },
   {
@@ -524,7 +684,12 @@
     "edad": 58,
     "observaciones": "Dirección del punto:\nVirrey Arredondo y cabildo \nFecha : 24/06/26\nHora de intervención: 04:35 y finalización 04:53\nN de carta :1743269\n\nMujer de 58 años , en situación de calle , tapada con una frazada .\n\n\nResolución \nel equipo de Red de atención arribo al lugar mencionado en la carta y contactamos a una señora de 58 años , la cual nos comenta que va a quedarse allí hasta las 06 porque luego se retira. \nRechaza la asistencia del programa, le quisimos brindar el kit de invierno pero no nos quiere proporcionar datos. \nSe l{ brindamos de igual manera, lo acepto contenta \n\nSugerimos evaluación de salud mental, ya que habla de una presunta  usurpación de un señor llamado  Pablo y nos pide que lo saquemos del lugar .\nPareciera divagar , porque luego habla de su madre  . Rie y luego nos dice que nos vallamos que ella no es un delincuente.",
     "dni": "99999999",
-    "dni_hash": "cdf50b2e5b40c3bee9ab27d0bf4469a9:30012ce9f34ebea8f0b19982250e948cd0e3709afe50bbe63b7ef87e7b64360c",
+<<<<<<< Updated upstream
+    "dni_hash": "4525ddee54384f1d65f225a80ef17fca:a7bc4c94be2057875a3a2951cfe0ff8940469d45cfa06f3465429ac7000858c8",
+=======
+    "dni_unificado": "99999999",
+    "dni_hash": "c09c6421c1fa5cf4f5a805f42865a006:cfca31c161ca2f98ad5806bdd4d2c32a83b945c2867c50e3356f08c6824bd1e8",
+>>>>>>> Stashed changes
     "submission_time": "2026-06-27T01:25:51"
   },
   {
@@ -540,7 +705,12 @@
     "edad": 39,
     "observaciones": "El SEÑOR HACE 4 AÑOS QUE ESTÁ EN SITUACIÓN DE CALLE NO TIENE TRABAJO. DESEA VACANTE ESTÁ CON SU PERRITO. SE INFORMA AL SUPERVISOR A CARGO PERO NO HAY VACANTE A CIS. SE LE ENTREGA EL KIT FRIO Y SIGUE CON RUMBO DESCONOCIDO",
     "dni": "33247176",
-    "dni_hash": "22df0b71fff4b309a6978c3d257c8f46:4fe87eb00725ecc9f6f2cb1405c999344731a3d5b8e86d429d272341f7db942d",
+<<<<<<< Updated upstream
+    "dni_hash": "e7cd195fc036a414e56bf34f59619801:56fd5e0e7cc94a733d70bc36833663a5864327d93ac93cc178e873534adccde1",
+=======
+    "dni_unificado": "33247176",
+    "dni_hash": "2e925a8bbb46abc4fc3ab399a7cd2995:29405649fd9d632b5aa8826981f42a70164f55bb458b679431f5edd59231dff8",
+>>>>>>> Stashed changes
     "submission_time": "2026-07-02T10:29:36"
   },
   {
@@ -556,7 +726,12 @@
     "edad": 43,
     "observaciones": "EL EQUIPO DE RED DE ATENCIÓN ACUDE AL PUNTO ASIGNADO POR CARTA ES UN SEGUIMIENTO PARA EVALUACIÓN. EL SEÑOR RECHAZA TODA AYUDA BRINDADA TUVO MALA EXPERIENCIA EN LOS CIS ADEMÁS SE ENCUENTRA BAJO LOS EFECTOS DEL ALCOHOL,ES MUY AMABLE. ACEPTA KIT FRÍO Y EL SEÑOR QUEDA MUY CONTENTO Y SE EMOCIONA. LLAMARÁ AL 108 POR SUGERENCIA DE LA OPERADORA PARA PODER REENCAUSAR SU VIDA. EL EQUIPO PROSIGUE CON SU LABOR.",
     "dni": "30278920",
-    "dni_hash": "a7c03c2b2f39e27f01bd5493ff22e976:ef319735854ab97b0d5d56f19e8dd937d1e9fbc71d288a3a4bdcdf413335f0a5",
+<<<<<<< Updated upstream
+    "dni_hash": "2dcab4f4fffc676eac0480e6221b21e0:e6590ef5ef446ba4a530f32bff56aae0ebd48b2a5e9ab8de8c7cf65eb243d431",
+=======
+    "dni_unificado": "30278920",
+    "dni_hash": "0090ba12bd074551857bccd0acd12dcd:f0c6437cc8298be386fb2980f5c7235938a4546ddd14299882eba65dce5e3572",
+>>>>>>> Stashed changes
     "submission_time": "2026-07-02T10:29:36"
   },
   {
@@ -572,7 +747,12 @@
     "edad": 31,
     "observaciones": "El joven desea ser ingresado a Cis",
     "dni": "38913303",
-    "dni_hash": "149c38a5f9ef0de2b8ab616dbab4ee08:627cfe37b8322426bb5a388c1b05436cf3cc4c5f87fa223ddfee1893f96b6ddf",
+<<<<<<< Updated upstream
+    "dni_hash": "ed79fc3bc7ed81e31daa089dc8375b4d:3a8c59345be19a2f28153b215f42313fe32e67288d793bfd22d0e16c508748ab",
+=======
+    "dni_unificado": "38913303",
+    "dni_hash": "22155881d5b711ad41a142aa330a980e:f44d10cb3b3f672230aa902457889f6ad8fad80ddbada72b76f1f4761039e1db",
+>>>>>>> Stashed changes
     "submission_time": "2026-07-02T10:29:37"
   },
   {
@@ -588,7 +768,12 @@
     "edad": 30,
     "observaciones": "El joven desea ser ingresado a Cis",
     "dni": "40747413",
-    "dni_hash": "b7e65d6fbe9f19cd44a5c0edfe17d332:dd134f64ed671b1baddc3ef5e47eb905228589dcb39d260d6b32f1d6f0f5b092",
+<<<<<<< Updated upstream
+    "dni_hash": "28f07dc964256356ecd9a87fc46d4427:08cc0ccc9f969be18ef2c369ccc0114af207967d8a321f635dbc940463d572aa",
+=======
+    "dni_unificado": "40747413",
+    "dni_hash": "fb782e41feefd997bf3d559aaec645dd:597133ea54e1244d1124e660fd4221b0e44071b7befff2905f52e8d20785c888",
+>>>>>>> Stashed changes
     "submission_time": "2026-07-02T10:29:37"
   },
   {
@@ -604,7 +789,12 @@
     "edad": 36,
     "observaciones": "El joven desea ser ingresado a Cis",
     "dni": "34691167",
-    "dni_hash": "d0e592450a865dedf6c68ef435795cd3:60cc3ba29c19973418c9e1336fc80f2072fd42b2bf1bef0fbea6059697da455a",
+<<<<<<< Updated upstream
+    "dni_hash": "00993efce75139c58072efb59ce24a79:d180f09842114be8e7832ec560569e6372542ff7b6217f56902fe37ebea63aa3",
+=======
+    "dni_unificado": "34691167",
+    "dni_hash": "589de0f33a3685349e81d91153bbaa6c:688ecb788b354ba1ec826a361be7fd6e98020c9baf94e0bd73cf931861cde7c9",
+>>>>>>> Stashed changes
     "submission_time": "2026-07-02T10:29:38"
   },
   {
@@ -620,7 +810,12 @@
     "edad": 44,
     "observaciones": "Espontáneo se realiza pedido de Cis. Se entrega kit ya que no tenía ropa de abrigo",
     "dni": "29572984",
-    "dni_hash": "abaa136db95af22cc18b7514d7d27e33:a7dbed58e0d4d3a992578c395ec423684db9ab8f9d39a666c12f5a90f3f7b617",
+<<<<<<< Updated upstream
+    "dni_hash": "81af4c964036947f356a54f35c17d260:72474c56dafc38be7a0724cd31376c846c337ceacf95f6f5c7920ed97ad0c1b9",
+=======
+    "dni_unificado": "29572984",
+    "dni_hash": "33d06f1e8cc7f136b6437e4daa8ffe4c:1fc23018edbba9e11864f1020215253bb665585f98e3b008770e0f9fb1b3926a",
+>>>>>>> Stashed changes
     "submission_time": "2026-07-02T16:57:14"
   },
   {
@@ -636,7 +831,12 @@
     "edad": 51,
     "observaciones": "No cuenta con dni ni esquema toma Clonazepam 2 MG se entrega kit",
     "dni": "24435691",
-    "dni_hash": "9f318fbf09d975212643837c6ceab6c4:50df92b3a61f9cc63f7d1bf126ed6b62a3bdda31b05de6c17952ffb481f673ef",
+<<<<<<< Updated upstream
+    "dni_hash": "81f6f77b1bdf6b03c7aec2446a98c022:ed62c7caa2f60b97a3422bc1699da34c82be85fd89bb4af6affcee400f132166",
+=======
+    "dni_unificado": "24435691",
+    "dni_hash": "28255dae9ff311d26856b2c56ae94c4b:121f6f407ffe31e096d1a8b8cb0b588934299191edf84c5c18f1f67c25ba6beb",
+>>>>>>> Stashed changes
     "submission_time": "2026-07-02T16:57:14"
   },
   {
@@ -652,7 +852,12 @@
     "edad": 53,
     "observaciones": "Nombre y apellido:  Alfredo Hernan Sotelo\nDNI: 23148698\nFN: 06/06/1973\nEdad: 53\nNacionalidad: Argentina: Argentina\n\n*Autovalido*: Si \nPuede cama arriba: No, refiere que debido a que padece Epilepsia,cuando se levanta se marea y ya se ha caído \nPuede subir escaleras: si\nMedicación:   Divalproato de Sodio. Improval 500mg  Carbamazepina 200mg Clonazepam :2 mg ,no posee esquema \nTiempo en calle: Desde Abril 2026\nMotivo:  Problemas Familiares \nCobra beneficio del Gobierno: Ciudadanía Porteña \nPrimera vez en cis/último cis:Cis Brasil ,hace 15 días , por mala convivencia  \nTrabaja:  No\nBaston:No\nTras gestionar y no contar con cama baja , se le informa que apenas salga la vacante CIS Cama Baja, se lo buscará en Hospital Argerich .\nEl Sr, Sotelo , afirma que esperara en al guardia de dicho nosocomio .\nSe le hace entrega de Kit de Frío",
     "dni": "23148698",
-    "dni_hash": "17114d052f57007c986b6596ef9e1fbb:07184432ce08ec6c7ad6f47ae17ff4b19e9f5d6df525faf722bc9ec8c12b46b6",
+<<<<<<< Updated upstream
+    "dni_hash": "365b4f3a2164a9882b4f44bbb90da49f:8c1d8a95a3b272c64597b811c494d472d714bf9b45c29624949b343fd26fdfa0",
+=======
+    "dni_unificado": "23148698",
+    "dni_hash": "358a05ef554e639193fa4cd773f50e6e:99b9c620b247e27969373b039338a8736f0ad6b17ebbfbe39a85b55e581f7ea2",
+>>>>>>> Stashed changes
     "submission_time": "2026-07-02T17:01:07"
   },
   {
@@ -668,7 +873,12 @@
     "edad": 30,
     "observaciones": "Masculino en situación de  calle sin abrigo  , con mucho frío oficial le preparo un cafe",
     "dni": "39292208",
-    "dni_hash": "25f05db55eac2bfc885f07bf6706353e:5ca848bd39941c6a3d6bb2b141ce7f8cc09a8636c18aa20cc7108f08a8d83d0d",
+<<<<<<< Updated upstream
+    "dni_hash": "e71ae8b9eca7d06d9ca0d88d4b7ac569:bc7a0ee4b548ff5bbb7a2328eef8459536082a2e668e80a809d46e881c59dd26",
+=======
+    "dni_unificado": "39292208",
+    "dni_hash": "a96983f9268fc65cd9a6f0b67c661617:497d2b6b7aeb10caa56aa04e05edb93cd3e90ec7a4a66e229dbcc93612badb18",
+>>>>>>> Stashed changes
     "submission_time": "2026-07-02T17:02:11"
   },
   {
@@ -684,7 +894,12 @@
     "edad": 53,
     "observaciones": null,
     "dni": "22004982",
-    "dni_hash": "004301af21fccf49e0e08d3918849f49:3c16a58e716cd9390129514c902412d2176e7b2d83c48e3e73051726b0c2d700",
+<<<<<<< Updated upstream
+    "dni_hash": "3ceb5f2a88821b1ac3f32085f3ed8e0c:7eec8fb44225ba432eba79f5fd6e025ac456a678785c84f8562b35b44329beaf",
+=======
+    "dni_unificado": "22004982",
+    "dni_hash": "99c346ef30dea6e652d02e6ccb9daabe:74cb8ff7950dbefbbabb0ae2c2cc375507c31b75082cd3fb319c68519642c7dc",
+>>>>>>> Stashed changes
     "submission_time": "2026-07-02T17:03:51"
   },
   {
@@ -700,7 +915,12 @@
     "edad": 54,
     "observaciones": null,
     "dni": "19090757",
-    "dni_hash": "25f2ba604a7af88bd0b2208929d9d2a8:3fdea6ef05cd2f3582adfa5f69fac695fa33b0c5644b59f263e9451f66edfe65",
+<<<<<<< Updated upstream
+    "dni_hash": "42b9b96aa51ea00f566bee715bb615b8:f0e757e1e5845e248507deb84dda941d97b482a1e6086b98f347d6489c470b9c",
+=======
+    "dni_unificado": "19090757",
+    "dni_hash": "2a0362570ce2a7c5da474c471f1ea04e:e6de4e63764e4837973e02a7161f0ec69985bff7927cbafa815ea552b213e2ae",
+>>>>>>> Stashed changes
     "submission_time": "2026-07-02T17:03:52"
   },
   {
@@ -716,7 +936,12 @@
     "edad": 49,
     "observaciones": null,
     "dni": "25848247",
-    "dni_hash": "f1ce62792995c3659bdeb97233abbf05:d4c65826987730c5d3b340e966af04f94b6fc29c82b204407ad3476de80c75e5",
+<<<<<<< Updated upstream
+    "dni_hash": "2ea0a5a7cdea1871fc494f33562d52a9:d8f3581e63edde257491fa76c420bab336acae8c095ef18c16509eff1ed2d173",
+=======
+    "dni_unificado": "25848247",
+    "dni_hash": "6bd9f7b783ac70bfc4b586f7bee58ab3:c872f4b6038904f96653e7807b833f155b887e7b7446d2c748afebac6b5aa58b",
+>>>>>>> Stashed changes
     "submission_time": "2026-07-02T17:07:46"
   },
   {
@@ -732,7 +957,12 @@
     "edad": 47,
     "observaciones": "Vino de entre ríos para trabajar , hace cuatro meses cuida a una señora y hoy la señora no le quiere abrir la puerta",
     "dni": "27507303",
-    "dni_hash": "709001a66d05ce411d6f1e7c7ada95d4:221ec2ccc077a90306290fc629b2d66880bb48f296dcbec677c91fe0624d2291",
+<<<<<<< Updated upstream
+    "dni_hash": "32b05e7ec8e515deb1e1046716f887b6:f01e7cb2a0b538a1502a22ece6027b56f3af8f4c06023b20a7fd92b8006f9b51",
+=======
+    "dni_unificado": "27507303",
+    "dni_hash": "cacf5974820aa0caf2ac0fa6734224a8:fa1c3125004ecb0fb4ac88af76571c5ab2ce17f8a4fbf4137d9a45651ed0c3f0",
+>>>>>>> Stashed changes
     "submission_time": "2026-07-02T17:14:17"
   },
   {
@@ -748,7 +978,12 @@
     "edad": 9,
     "observaciones": "*Dirección del punto:*\nPaseo colon & Carlos calvo\n Comuna 1 \n*Hora:* 23:36\n*N° de carta:* 1733962\n*OP*/ Amarilla Agustína \n*Chófer* Eiroa Agustín \n*Móvil* GE \n*Nombre, apellido, identidad de la/s persona/s:*\n*Lugar de procedencia de la/s persona/s:*\n*Resolución y observaciones:*\nLlegamos a la dirección referída y no se contacta a ninguna persona, tampoco se observan pertenencias en el lugar \n\nSiendo las 23:42 nos retiramos",
     "dni": "9999999",
-    "dni_hash": "c0fdddabfed5eb08eb04910503714a00:3f0a37aed454817b75949a5dbdc1d1f9fe93d6a48639ca129b3f1b781b3d3e71",
+<<<<<<< Updated upstream
+    "dni_hash": "50a5900c4ef0386aa0df2c20c3d0b8b0:819edd99f7ac708f089bb7c57b9b62ce8812fbe457a8b1ac03778a71589c867b",
+=======
+    "dni_unificado": "9999999",
+    "dni_hash": "128d931b8491efb9830779677401e97a:64194a9c8c9b5367216a051f0d8c853fd177dba723e5d91673ad5a0b22e8609b",
+>>>>>>> Stashed changes
     "submission_time": "2026-07-02T17:17:13"
   },
   {
@@ -764,7 +999,12 @@
     "edad": 39,
     "observaciones": "El referente se observa en situación de emergencia habitacional padeciendo vulnerabilidad social recostado en vía pública junto con pertenencias (colchones y mantas). Al mismo se lo puedo observar bajo consumo de sustancias psicoactivas motivo por el cual el único recurso brindado que se le puede ofrecer en el momento del arribo es la entrega del kit frío que se realiza por las bajas temperaturas de la temporada. Se gestiona solicitud con supervisión quien permiten la entrega.",
     "dni": "32906224",
-    "dni_hash": "ea89da0c73b7e25994e5d68040efcf4f:48940c31cfea493099c6c93e145a792078fe79506ab2bc4e4acad71265c05403",
+<<<<<<< Updated upstream
+    "dni_hash": "bff489f0c85b04cf02f729c6022cc27a:a9349e90c5ff32441fe2e8148faf41a853e7235a1cc5b830f84f989c22d71295",
+=======
+    "dni_unificado": "32906224",
+    "dni_hash": "648452b93442c8d9266be91910246768:c44ba588fb16373a9a5ad5554476f4ee55dc8ace49dd4f4c39b1d3589628b54c",
+>>>>>>> Stashed changes
     "submission_time": "2026-07-02T17:17:13"
   },
   {
@@ -780,7 +1020,12 @@
     "edad": 48,
     "observaciones": "Se logró contactar a la beneficiaria en la dirección",
     "dni": "95411069",
-    "dni_hash": "6ac9e97b846bf7220ee4597513eb62c0:76a06babb9e9f2ef350be7ca9bd217e13c591a322a0f834b6c9c94e80ccc7a69",
+<<<<<<< Updated upstream
+    "dni_hash": "68b7515db8f7293177e41bb06dd89838:643473de741b6f7fb55f7436f98a8d89482e55c28163fab821d2ce137f7de4b2",
+=======
+    "dni_unificado": "95411069",
+    "dni_hash": "5b746bdddce236fc3058495d3a39bfaf:8aca5b5a3c6df5e59084b3cf06159ad4e225a85401747b74408fa5a86ef246e0",
+>>>>>>> Stashed changes
     "submission_time": "2026-07-02T17:18:43"
   },
   {
@@ -796,7 +1041,12 @@
     "edad": 25,
     "observaciones": "Se le entrega 3 kit de frío \nYa que estaba con dos menores de edad de 3 años \nEnzo Benjamin Córdoba \nedad : 3 años \nDNI : no se acuerda \nGénesis Nerea Córdoba \nEdad : 3 años \nDNI : no recuerda",
     "dni": "43506509",
-    "dni_hash": "e6f55215401170b5e8577d0dbbfa83eb:72fa4c62d09c9c5921673c77a830ae56ad5f6e937570de993d0cf7a16c7ba7e3",
+<<<<<<< Updated upstream
+    "dni_hash": "97b7e81bcb23d8e67232f86b6a891a95:6b7951e0ccc1cffbe62e2262e2040dcca53fcafd9b169b7456d12abbe25c4fab",
+=======
+    "dni_unificado": "43506509",
+    "dni_hash": "522c7972993cd6819454a63da67dae79:6f8bc1873758d58688299c3be4f0d9016c569ad14b1a3f058dfe68ed05b30902",
+>>>>>>> Stashed changes
     "submission_time": "2026-07-03T04:57:21"
   },
   {
@@ -812,7 +1062,12 @@
     "edad": 45,
     "observaciones": "El señor aborda al móvil se le ofrece toda herramienta del gobierno cis micro dipa. Pide manta se le ofrece kit",
     "dni": "38575934",
-    "dni_hash": "00371e09c071d59c079e23873eed4308:f942179920ee9b1cb143fc04cd9322f8bdeccc562dfd742526d991d2e2a7edd0",
+<<<<<<< Updated upstream
+    "dni_hash": "1f28febd6adb8061434970221d6e182c:9c0d8a484d3cf0576241bc651c6f244328c60d38e2a2429cfe64bbf37897353c",
+=======
+    "dni_unificado": "38575934",
+    "dni_hash": "8cbe5ee328494a4a6faf480bba0b196a:b6c01c80d69a806bc8db0f6579c0c17641062d3aeeac57a3b4d059d5457e7934",
+>>>>>>> Stashed changes
     "submission_time": "2026-07-03T05:01:05"
   },
   {
@@ -828,7 +1083,12 @@
     "edad": 27,
     "observaciones": "El señor aborda al móvil se le ofrece toda herramienta del gobierno cis micro dipa,rechaza todo.Pide manta se le ofrece kit frío",
     "dni": "41498534",
-    "dni_hash": "5d7a82bf3694e6ae2a83398d81c311e9:22c1311e147f823c42519da9d53807b787edad844e2ad420b9f0a8030d7637a6",
+<<<<<<< Updated upstream
+    "dni_hash": "891ed1e25179a87a919379a6b22e0b5c:43a69e87adcfa4888c1a654e8e95df13963edaca2304f1526150f1290ea54cec",
+=======
+    "dni_unificado": "41498534",
+    "dni_hash": "36dac6fd4e7ac5a06373b3abf06d5cc4:f7f19a822007d56700baa20cb67af5cf01a39f0b28286437af4275eac5644bf8",
+>>>>>>> Stashed changes
     "submission_time": "2026-07-03T05:01:05"
   },
   {
@@ -844,7 +1104,12 @@
     "edad": 34,
     "observaciones": null,
     "dni": "32557584",
-    "dni_hash": "919763eef56ff9797b54fcca8fba159f:176d6a395ce6065cf6bf4f674d86734d637c1236cd872efeb55c87277777227c",
+<<<<<<< Updated upstream
+    "dni_hash": "f591650bb0950559b0d3cdb84b3362c7:31f696cd2e918a75442d5879f1c6cab27f519c6d0ebcbc2e48bc44223e3bbe19",
+=======
+    "dni_unificado": "32557584",
+    "dni_hash": "1face2f28864f0b94e4ca2186979b9c3:14b7f17958139882e8f18017555d52d3556a8c29cdf2033152a599a10e5ffbab",
+>>>>>>> Stashed changes
     "submission_time": "2026-07-03T05:37:50"
   },
   {
@@ -860,7 +1125,12 @@
     "edad": 73,
     "observaciones": "Se hace entrega del kit frío. \nRechaza toda asistencia, DIPA, CIS, Micro.",
     "dni": "9271316",
-    "dni_hash": "ee3b45632c1795afe1dfc125943dfe92:938f93ae4143d8606f33f08dd3b2c2d926b4ec59754f2d89aed3d2d6601d4817",
+<<<<<<< Updated upstream
+    "dni_hash": "738dd5cc811b307409b60ffe228059e2:ad7811215eea6d63564d045d1b6535973faf001bbb8dec07f719d8d304e70963",
+=======
+    "dni_unificado": "9271316",
+    "dni_hash": "0195fefdf8987de057f77abcac943863:45136847446bc28d5857e1fdc02e398c94290d1e4c51a5702cd274f99f5727d7",
+>>>>>>> Stashed changes
     "submission_time": "2026-07-03T06:02:02"
   },
   {
@@ -876,7 +1146,12 @@
     "edad": 27,
     "observaciones": "Rechaza programa, Acepta Kit Frío",
     "dni": "41549822",
-    "dni_hash": "be812e1b885af86dd76307d76279d952:9175153d653b4887fba63219110e5f4808c06671abd3bd212d8ab22b2980da89",
+<<<<<<< Updated upstream
+    "dni_hash": "8a8dc4efc2898b4c2091e84422340fd2:006ab6c110eaf18f4e539d8032d4f54a1930bc939330d9719f86b10ac5e48eaf",
+=======
+    "dni_unificado": "41549822",
+    "dni_hash": "c3bc5df25d6d72f260ff0d47a7317985:b060f4689da5b81c1116fb1d4f650ca866bb7e6ab95a3f4d566c96fe04f5a56a",
+>>>>>>> Stashed changes
     "submission_time": "2026-07-03T06:02:02"
   },
   {
@@ -892,7 +1167,12 @@
     "edad": 39,
     "observaciones": "Rechaza programa, acepta kit frio",
     "dni": "34265558",
-    "dni_hash": "61855fdbc0dc4d07773aa56920150042:62499299b6e769fbe3f16796624155ed2a64240e77a2591826791fa88f2bc068",
+<<<<<<< Updated upstream
+    "dni_hash": "df2ef819a9d4d06eb454210a1a1ae46f:e19ca1ee06605b8b2f66c316608cc0b19497d3381237cd9b101337bbd19493fa",
+=======
+    "dni_unificado": "34265558",
+    "dni_hash": "1d66e3976ddbbfecbf2c3993222770bc:f83736c022ce1b99c2c037a9572e1d5398db3f59fe9c3d97b8592774e3bec6d1",
+>>>>>>> Stashed changes
     "submission_time": "2026-07-03T06:02:03"
   },
   {
@@ -908,7 +1188,12 @@
     "edad": 32,
     "observaciones": "Rechaza programa, acepta kit frio",
     "dni": "42028615",
-    "dni_hash": "28056e3b4482dbf7c09caada69819994:f5b8c57ff12e91565cb044eb8d4fef2de48196a6d7c9b01f7d8cfe112271d920",
+<<<<<<< Updated upstream
+    "dni_hash": "0e96e8367b9bed71bf7d2ae29c2a326f:ed13e2cff39c296c85b532b6d15a66f34ab42d33fd042e3c9028db9aab5b9de7",
+=======
+    "dni_unificado": "42028615",
+    "dni_hash": "ca4062daeeba1bd5cd280150daf635e1:470a007c8e094a49282e658b720ff4137d9d684aff5ad88c7d1b2191a5334d5a",
+>>>>>>> Stashed changes
     "submission_time": "2026-07-03T06:02:03"
   },
   {
@@ -924,7 +1209,12 @@
     "edad": 23,
     "observaciones": "Se hace entrega de kit \nRechaza cualquier tipo de ayuda del programa.",
     "dni": "95241849",
-    "dni_hash": "f9bf84609f7db866b9ea9502c1253d9e:0310bdc80fb84972315e5847457ba52d6a26e1c36c35661eaf3da55d7943c665",
+<<<<<<< Updated upstream
+    "dni_hash": "b41a4b486c850ced35d35cd13eb84f48:76579023317906d666efab834d193ae14f197f7619165150a7994e4478f846ff",
+=======
+    "dni_unificado": "95241849",
+    "dni_hash": "c55dabbf50f7994839830543b3e7f7b6:2f1bb20ffa80695333ec8b0c4fcdb52dd4c97423c516e4a717bf069f88fef715",
+>>>>>>> Stashed changes
     "submission_time": "2026-07-03T08:31:53"
   },
   {
@@ -940,7 +1230,12 @@
     "edad": 47,
     "observaciones": "Ninguna",
     "dni": "29601024",
-    "dni_hash": "8cc0b67a1832178271c4a0fd855c251f:baeaba5b5e4d233ddfd53904693887474cc80eeb174930a39994e3c9eb59487c",
+<<<<<<< Updated upstream
+    "dni_hash": "864d8b2439fcb668a7610a0f7f5c835e:ffcb175b72f58615d2f9c3de248fa4085ac1e34b47d005634be74f87a98fd4ee",
+=======
+    "dni_unificado": "29601024",
+    "dni_hash": "7cf28740c85e614d5b5c7e2130504b0e:3555a7d6557d671d56e15693f0d948d78096c5d56c57b5b5b4935adddbbce343",
+>>>>>>> Stashed changes
     "submission_time": "2026-07-03T08:45:06"
   },
   {
@@ -956,7 +1251,12 @@
     "edad": 34,
     "observaciones": "No",
     "dni": "37424172",
-    "dni_hash": "063076b0bd714b93e8b541853fa6b977:b6afa1284397c37b719ed0398a9f9fcfdd9342faff42a261c568c92ab0e66777",
+<<<<<<< Updated upstream
+    "dni_hash": "008c3fc589e5baa28e3216a9bfd59b25:7fd6a25a8842b634c8f6bb154e19d4adc9f487c6661854f353576c0b65abe74d",
+=======
+    "dni_unificado": "37424172",
+    "dni_hash": "e114392cfe8ee19e4fe4bed43b6325de:b830aa9244d9a02bb25ab0794251ad6ff0ab7ff8a2151e14441be8f91b00d9cc",
+>>>>>>> Stashed changes
     "submission_time": "2026-07-03T08:45:06"
   },
   {
@@ -972,7 +1272,12 @@
     "edad": 43,
     "observaciones": "No",
     "dni": "35409889",
-    "dni_hash": "3ea8fd4c2e80b48660e91b7d9debca86:90d1ec955179d1251604ec6b76d7e3619a570468314bdd7be70f8247ccf2be3d",
+<<<<<<< Updated upstream
+    "dni_hash": "ce16fc8d3fbaa4cbc214e14ad0cc9be2:5aecc53919cebe21bf6f79bbf4b15fa129207ebd8a8756775fe16aa72aa334a8",
+=======
+    "dni_unificado": "35409889",
+    "dni_hash": "8de87a4cab6e562ce28e2afe120f86ee:39386c6a0f7abe0603d3447195d67b4a1c6e375ba81f132ffc1c6cdb5aa73988",
+>>>>>>> Stashed changes
     "submission_time": "2026-07-03T08:45:07"
   },
   {
@@ -988,7 +1293,12 @@
     "edad": 36,
     "observaciones": "Discapacidad: retraso madurativo",
     "dni": "37261427",
-    "dni_hash": "c0a7be856ca5fe08760c01a3b59947b8:75ee9d76ee4fe3b8d6b79b8e769fa91ce4517ce5fde4e335f6603dcbea90587d",
+<<<<<<< Updated upstream
+    "dni_hash": "6e9e43e3badc5e0c1daebbeaf893034c:6e58610d7c081a5ec737009a091f8074e9fb1f4e8021a42b88f0e48570a8ef8f",
+=======
+    "dni_unificado": "37261427",
+    "dni_hash": "9379cbc7322d6bb8426d0fd281c56551:02537d80109fcc934783bf1ab32963080d248fcbf2690af1cb0536463994cef8",
+>>>>>>> Stashed changes
     "submission_time": "2026-07-03T08:45:07"
   },
   {
@@ -1004,7 +1314,12 @@
     "edad": 36,
     "observaciones": "Rechaza programa. Acepta Kit Frío.",
     "dni": "34950152",
-    "dni_hash": "cf089a064787d9b91812dfdb997cc145:2123ca0b76bd01a714f6e0603ef6edb69d45b1e694ffd96933934410e61502c0",
+<<<<<<< Updated upstream
+    "dni_hash": "b5ca2f7b60d5f7c38da4a83e35542506:f9136ea633e5644358f8fad7a571fbd59876ee505e5037f5c5c7b71972d096c4",
+=======
+    "dni_unificado": "34950152",
+    "dni_hash": "9544ae5537941db4c5fe307dd5bbdf57:1a9cb55f127d5981b28c29764f6d1534c6d060a2a72e70b8f931307872cd01dd",
+>>>>>>> Stashed changes
     "submission_time": "2026-07-03T09:10:27"
   },
   {
@@ -1020,7 +1335,12 @@
     "edad": 56,
     "observaciones": "En el recorrido del equipo \nSandoval para espontáneamente al móvil solicitando abrigo o frazadas.\nLe ofrecimos kit frío y lo aceptó.",
     "dni": "21462463",
-    "dni_hash": "554667b91dacd43ea800b7c506a7cd76:db438a5f66252df399d1d240dc780650208d84adec1b2e9a603cdb74eb7653ee",
+<<<<<<< Updated upstream
+    "dni_hash": "2e61c467ad5f5ab08ca6e225ba4a6aa7:b6f71ec61250e7b794325fcbab73f1f3f132e7d7d000e64ec797db194e6c4ad6",
+=======
+    "dni_unificado": "21462463",
+    "dni_hash": "e4be878a018133525dd96c540ca44707:500412115d9dd081ddba1c45a2493ebed686366ab0951002374defdae3bedc8a",
+>>>>>>> Stashed changes
     "submission_time": "2026-07-04T03:37:20"
   },
   {
@@ -1036,7 +1356,12 @@
     "edad": 37,
     "observaciones": null,
     "dni": "33590965",
-    "dni_hash": "2bc904a2ed3abf85a3348c61070b0375:5fb6fa88e8668edab46e59affd2b2a08325d0b861c85c3dc9b1864c64ff97bf9",
+<<<<<<< Updated upstream
+    "dni_hash": "b175f29e25a2c89c2ac7e71cc648eac8:bfb251f0667eb2fa1d6955ccd00f59be6e6dc0180b973a578646d737bd91ca7b",
+=======
+    "dni_unificado": "33590965",
+    "dni_hash": "225d25d21cb877bc83cd3da29ff5158f:d042914ab181ccc2faefa0fb0b38bbfb3029434ed242d9d1fa2a639b508ebc3e",
+>>>>>>> Stashed changes
     "submission_time": "2026-07-04T03:37:21"
   },
   {
@@ -1052,7 +1377,12 @@
     "edad": 30,
     "observaciones": "Se entrega kit de frio rechaza parador.",
     "dni": "22328020",
-    "dni_hash": "390ddfbc7968b2983ffce5d72eff57db:bdffc65c2d1d2fbbd619f49dc32ea0d7d70425f1a3d6601c5777fe772a2d8c3a",
+<<<<<<< Updated upstream
+    "dni_hash": "9ea422829e74583934b375841b64dcec:3c84ffaadb2e47122288da6aafc4f7d8738d43afa3d062f218cba8f85246fcdb",
+=======
+    "dni_unificado": "22328020",
+    "dni_hash": "684270038e79987bdfeacf6d501ef76b:bca9431e28642fc8f0edd713aafeed4e447ea9cfe2e334031696db5bfe5d7f66",
+>>>>>>> Stashed changes
     "submission_time": "2026-07-04T05:15:57"
   },
   {
@@ -1068,7 +1398,12 @@
     "edad": 33,
     "observaciones": "Se entrega kit de frio y mate cocido rechaza parador",
     "dni": "42740457",
-    "dni_hash": "b26e3b30f8046d7147f9de66c43556bf:2faef6fccb9caee72aa686de5836e3d957044826fa3ba3d5590b4eb240147a5c",
+<<<<<<< Updated upstream
+    "dni_hash": "4a33b2e764b47f378de55ebe4930165c:52e88ab6de2ba189a7c3d55cda62522e04e6f26215f8252e30b2548616d58e22",
+=======
+    "dni_unificado": "42740457",
+    "dni_hash": "957fb250e3fa035fd2343231d4030c87:3840d17bc96e33582a6a071b8c5d533998ae18324b720aaf6c84c477205084d7",
+>>>>>>> Stashed changes
     "submission_time": "2026-07-04T05:15:58"
   },
   {
@@ -1084,7 +1419,12 @@
     "edad": 33,
     "observaciones": "Se encuentra acostado en la  verdad  con Poco abrigo",
     "dni": "37420424",
-    "dni_hash": "4673ad01538351958973c4a81ee85633:09d832fad9f36ae15efab8b939d6f52e92541cf6e6dd4f86e13875d4bfce54d1",
+<<<<<<< Updated upstream
+    "dni_hash": "30877675a7c7c55430192f1c52f2d7e0:ceeff297dab1cf6639baebf1debbb548789bed2af636b406d24b49d7fc21bdf9",
+=======
+    "dni_unificado": "37420424",
+    "dni_hash": "a317dae0c378fa378031e47dc0d63699:c7430d8065f864e2d5ef24a21e6e91718ee8828ea3b234b07e23d784ecf0daf6",
+>>>>>>> Stashed changes
     "submission_time": "2026-07-04T06:58:32"
   },
   {
@@ -1100,7 +1440,12 @@
     "edad": 58,
     "observaciones": "Se contacta con la persona que está acostado en la vereda con poco abrigo",
     "dni": "18390381",
-    "dni_hash": "6156b4ad75493ec7a555055832edece1:d2085aaad914cd5d458d405fdbb266b032468864a90d66c556963a03c79cca0c",
+<<<<<<< Updated upstream
+    "dni_hash": "3894e2c682813c0daf19e5b9b573ce3f:1d3384ca7b864947d58d57c3f03e3a62d51e9da1b16cbae717d5d781e04b8876",
+=======
+    "dni_unificado": "18390381",
+    "dni_hash": "d5f085de0f14403590a0871dd1ee7b08:ae0699ad2ca572bdb7c98c4d733e68605eecadb0d2ce64c33049dd01a5ca862a",
+>>>>>>> Stashed changes
     "submission_time": "2026-07-04T06:58:32"
   },
   {
@@ -1116,7 +1461,12 @@
     "edad": 43,
     "observaciones": "Guillermo Vergara refiere encontrarse bien de salud. No brinda mas datos. Rechaza recursos. Se le hace entrega de kit frio. Y se le informa que no puede permanecer en el lugar.",
     "dni": "30049339",
-    "dni_hash": "c9bf46531fce16c1218e55a3b01c2666:8fc3fadf2b6eeed9d9d9491749006f7920a0dad8e89853f395056c554effdb7a",
+<<<<<<< Updated upstream
+    "dni_hash": "b703f6838f671ad07f9e0ab2c848416e:9f53b69adaebce2d820c93eace9c49c101d232173224273adeb2ee55c7635e01",
+=======
+    "dni_unificado": "30049339",
+    "dni_hash": "43a7147fbe0b87ce36d4bbe5ece9ef76:6ee5e1efd730965700ccdece9b542b7d5d4f791e6582ffa499cb400d718a15eb",
+>>>>>>> Stashed changes
     "submission_time": "2026-07-04T07:03:07"
   },
   {
@@ -1132,7 +1482,12 @@
     "edad": 48,
     "observaciones": "El masculino refiere encontrarse  bien de salud. No desea ir a un Cis debido a que deberia separarse de su pareja.",
     "dni": "26543341",
-    "dni_hash": "d423009f7d9299fb70dc9e27571f95a8:698c4f561e1a284bb418edd6c1261b48aba08fb427395f91effa249765c8c348",
+<<<<<<< Updated upstream
+    "dni_hash": "bd1486151fd06b9256a29ad033f40010:f28c5767a98c211b3068c57f55cbc1d50c010c63e1eebb88ea97db5b099543ad",
+=======
+    "dni_unificado": "26543341",
+    "dni_hash": "cb90a5b9842758d4d08503c98ce507d9:f48ce78d2f6214cbd8da1336b0d35a745c0d436bc957cfadfda9749b968d23f1",
+>>>>>>> Stashed changes
     "submission_time": "2026-07-04T07:03:12"
   },
   {
@@ -1148,7 +1503,12 @@
     "edad": 45,
     "observaciones": "La femenina refiere no querer separarse de su pareja. Oscar Ramon. Y al momento refiere encontrarse bien de salud.",
     "dni": "29667013",
-    "dni_hash": "9eadd06c06c8ae20cb54b1af8a29c6e4:8b9301ba3c43544d570ee1a8d58097b1c880bae11f85e8fe06dfc55772f49096",
+<<<<<<< Updated upstream
+    "dni_hash": "cc55a8492017ae2a8546108c3bdd4190:c9c3a0765ae42522ddd2f13e04dec4d9d9a99eb68da7ba222f27b7595d237c40",
+=======
+    "dni_unificado": "29667013",
+    "dni_hash": "59be0366b015fc61906bb69c2ac87e4c:38e682018a3e79b9902fbe6e843b9bcb7dc65ba9df7bc0059d8924f83ae8cedd",
+>>>>>>> Stashed changes
     "submission_time": "2026-07-04T07:03:17"
   },
   {
@@ -1164,7 +1524,12 @@
     "edad": 78,
     "observaciones": "Se contacta con el señor Miguel quien refiere estar bien y que se retire en breve",
     "dni": "7612806",
-    "dni_hash": "760787be992c35230aa80e579e1d7416:81ba4b29380a5e2f5909a235ee98d4a0a1b6183c9d64b3dbc9cb282fc598cfce",
+<<<<<<< Updated upstream
+    "dni_hash": "9a26329c0255b22914adcf1f0b184e43:0663447c9fffc1c988b99f8c35751a2a2f712809517970be55c9a49b1fb0a00c",
+=======
+    "dni_unificado": "7612806",
+    "dni_hash": "4eb67952a35e99e7227ae99d6870f70a:9673716aa545b84aac57ee5f7e0552831b64b8bcd875a4266f4e8df802da4cec",
+>>>>>>> Stashed changes
     "submission_time": "2026-07-04T07:24:42"
   },
   {
@@ -1180,7 +1545,12 @@
     "edad": 66,
     "observaciones": "Se entrega kit rechaza parador y dipa",
     "dni": "13788943",
-    "dni_hash": "6eedeec8ff8d9eab9b29aff9f941dd0e:8a62d052136536defff12f0843e6cd31cbb48f2b8e55fea53b2cebb25629dfa9",
+<<<<<<< Updated upstream
+    "dni_hash": "d16086372d295bd4b68008fe9246e67e:d443764f19e7c315f79da2458ee780770581acf719b913787f2c3beb42ab1f67",
+=======
+    "dni_unificado": "13788943",
+    "dni_hash": "dbd83c4c2d2be7a660753598fbd1eeaa:bdb5abd5fc5c0c7dcccc4be0b762003b1cd203c51e141d0cf2e6a68f8e92fb20",
+>>>>>>> Stashed changes
     "submission_time": "2026-07-04T07:44:11"
   },
   {
@@ -1196,7 +1566,12 @@
     "edad": 35,
     "observaciones": "El señor solicita vacante y estamos a la espera de la misma.",
     "dni": "94967595",
-    "dni_hash": "36a6c71b7a535f022b3f39fccca873dc:d3845552fbcee3e50b2d6bf4c0dc143f0c8426e33a901aa4b2f5529e9e2dc4d0",
+<<<<<<< Updated upstream
+    "dni_hash": "57058976a83829e40f08e3a3f73242b8:77d4e9f903829990dabcc641299686961b89bdc02ce055a12e24d764f4b3cae5",
+=======
+    "dni_unificado": "94967595",
+    "dni_hash": "d85b0d0ba0df062da0f3f6d31cb886ec:dc83f6383732a246c9068747ffd0d5cb0bdf98e8c1ae0d90052382182e6bbcb3",
+>>>>>>> Stashed changes
     "submission_time": "2026-07-04T09:06:40"
   },
   {
@@ -1212,7 +1587,12 @@
     "edad": 34,
     "observaciones": "El señor solicita kit frio, pero rechaza otros recursos de la Red.",
     "dni": "36332312",
-    "dni_hash": "d583e3eb029d19cf52471ced3eb5fabf:5c21583aee2f7330744efb3c591635a6524a86644bbe162c64f5351273973861",
+<<<<<<< Updated upstream
+    "dni_hash": "9e7bc369a713d18621c3df2227c85540:e4f0c3c0538964336fbf4ca0e7a5a444e491e80f25874cacfe3436b618c40717",
+=======
+    "dni_unificado": "36332312",
+    "dni_hash": "e2acb281def58aa12c64d6984f2c35c2:c98c3c1392ab646758de49910b00a4b3f2dde303742341c60f94825af3b0bcd0",
+>>>>>>> Stashed changes
     "submission_time": "2026-07-04T09:06:40"
   },
   {
@@ -1228,7 +1608,12 @@
     "edad": 41,
     "observaciones": "El señor solicita vacAnte y kit frio. Quedamos a la espera de la misma.",
     "dni": "31270098",
-    "dni_hash": "fdb32110547b77efbf37beb12deb5887:c1d70bb9475f625096826c6dfa2ea8cf06ca3497d787f97e63d9d3a3fa138a86",
+<<<<<<< Updated upstream
+    "dni_hash": "f52a86c298646d71773cadff4673616f:0741627f06027bc893a72ba442aac731e55559ba32c61c29d7f5ef3abe63095e",
+=======
+    "dni_unificado": "31270098",
+    "dni_hash": "ef017486af3c93d572926a3419d24788:b3972b878e95905de826c7df5b7dcbdd0c87fa3acf706ae31d6aaa6dd5c3dc93",
+>>>>>>> Stashed changes
     "submission_time": "2026-07-04T09:06:41"
   },
   {
@@ -1244,7 +1629,12 @@
     "edad": 27,
     "observaciones": "El señor se encuentra en la puerta del Hospital Argerich y nos solicita abrigo, a lo cual procedemos a entregarle el kit.",
     "dni": "42012398",
-    "dni_hash": "d3395f41d51ddcfae9d47ab0d11dea6c:7971799b4983aa0c4ec470e4c41d53f63296a58495ee328a497e7d024ef4520f",
+<<<<<<< Updated upstream
+    "dni_hash": "d591a15ababc0698208bedc52bf2f7ae:25986d655dc567f1d4041cf878242551c4cc07413deb3b5e70134db2ad47f0d4",
+=======
+    "dni_unificado": "42012398",
+    "dni_hash": "34a53d400d32f7e157e13cc10ff8b11c:d03970b889795846344e89e1d2b5ae46ff067ceb2027a9db36c96e66ff53546a",
+>>>>>>> Stashed changes
     "submission_time": "2026-07-04T09:06:41"
   },
   {
@@ -1260,7 +1650,12 @@
     "edad": 40,
     "observaciones": "En la puerta del hospital Argerich se encuentra el señor, nos solicita un kit frio el cual procedemos a entregárselo.",
     "dni": "31785547",
-    "dni_hash": "9b2f85833ede872a276b054b7fad8384:77a5069083695f335aed50b58f802fa118af5d8502be376c443880e9ea7c8483",
+<<<<<<< Updated upstream
+    "dni_hash": "876d99f8230fc318a745f031698c080c:38068c19bb27d83fb67e0099654b34de1a7f96bc4970ba20c0c9f17025b8c62a",
+=======
+    "dni_unificado": "31785547",
+    "dni_hash": "b0764e42a9f419e29919dbf8d8f06f15:56cf68d1b2f1d6b0d0078de2b30371a4e56637fdcecee9aaebaea5a999646b9c",
+>>>>>>> Stashed changes
     "submission_time": "2026-07-04T09:06:41"
   },
   {
@@ -1276,7 +1671,12 @@
     "edad": 69,
     "observaciones": "Se encuentra el señor adulto mayor en la guardia del hospital Argerich y  solicita un kit frio.",
     "dni": "14034636",
-    "dni_hash": "fccb4e41cb8e3d2e4f0265b5f1d1c39b:1a55603087cb0fadc4a280108f920dd3f5e6a0f116948b4f31fde9e4d364a21a",
+<<<<<<< Updated upstream
+    "dni_hash": "b707f1657e10f1b832397ac93fbaf46b:6b8b1b49ce3dfa4fb4d73b844ef35f7febce7c230c677b6324312c63efcc285e",
+=======
+    "dni_unificado": "14034636",
+    "dni_hash": "8e20b7bc5073db94011d27e9f2bde160:df9db70ef89f047c2e7452c9b9bda017e9520bd00a74f70c5a504cb9e4c6be33",
+>>>>>>> Stashed changes
     "submission_time": "2026-07-04T09:06:42"
   },
   {
@@ -1292,7 +1692,12 @@
     "edad": 32,
     "observaciones": "Masculino en situacion de calle",
     "dni": "38926802",
-    "dni_hash": "4828baf7a6e98583fc619773a439f30c:c5f9adf97d945a4c2407da68fc11b1c1eb9a51aec6951d9803cb563cb95d3fc9",
+<<<<<<< Updated upstream
+    "dni_hash": "89df999521254f2abfbffdfd62dd9648:a673313a6fa829df1ef1da0f5d888b75382d59cfa1f2c9e7d0919afa56aedefd",
+=======
+    "dni_unificado": "38926802",
+    "dni_hash": "d50da217ce0ee6f3dfb9af25c9d913b5:03f624ad547ddf096e935acf5b2bf038f5b72b3cacfe4af377377a20a58fc324",
+>>>>>>> Stashed changes
     "submission_time": "2026-07-06T01:07:05"
   },
   {
@@ -1308,7 +1713,12 @@
     "edad": 43,
     "observaciones": "Masculino, en situación de calle, no acepta ir a parador \nSolo acepta kit",
     "dni": "31858883",
-    "dni_hash": "4cacac1cb3298dc01117cf61258be330:e9043e720afaa78568b4abfb033e76312ae352f917c9c155cc766162b06ad45d",
+<<<<<<< Updated upstream
+    "dni_hash": "0e032f110a9857b1bda9d84cdfd7a1d5:c3415291cf0ff260b96ca88082c065902ff5d5d78faf0f39993836b84967670f",
+=======
+    "dni_unificado": "31858883",
+    "dni_hash": "29358b364aad311064d314a6bd948b95:b0dd7c2d6fd90e5b071a7d0130d4f276ced3304ccbfaa5ad56f15965d4b546f0",
+>>>>>>> Stashed changes
     "submission_time": "2026-07-06T01:07:06"
   },
   {
@@ -1324,7 +1734,12 @@
     "edad": 54,
     "observaciones": "El señor manifiesta que no quiere asistencia y acepta el kit de frío, se retira del lugar",
     "dni": "21050286",
-    "dni_hash": "b09b942afb4f96bd6cafb941f5aa0711:b9b3daea3168c7d8d8514529d072799e9e09fd773d86a6142a7cc23e89f61092",
+<<<<<<< Updated upstream
+    "dni_hash": "e4707b8eb544a66d430f396791ab89f7:87f05e2fcf05abc3bd59c0b70527405c1ff957a39e364b40d0ddb26a809d8f08",
+=======
+    "dni_unificado": "21050286",
+    "dni_hash": "8c0497233f6e95f840dfd47619a4e6e1:665440efe6a6b823f9c58ed876188fd55b559cc854c3c9e512016224c39a257d",
+>>>>>>> Stashed changes
     "submission_time": "2026-07-06T01:07:06"
   },
   {
@@ -1340,7 +1755,12 @@
     "edad": 35,
     "observaciones": "El señor no quiere ir a parador",
     "dni": "36109355",
-    "dni_hash": "7190fd6c7f4d301c42ec0ca2547fca80:cc663f13d76c0e9807f0d8654b83b84843c83e39d0380fe8d5e3cac391b66406",
+<<<<<<< Updated upstream
+    "dni_hash": "e2a049ded679566a8a052c55b4d7740d:0aba162536ae8522aa07370a76562613d240bfcaa66080daafbeab43764705a0",
+=======
+    "dni_unificado": "36109355",
+    "dni_hash": "08367c2d1564632db6353d3c9a878b41:de6b2ddcc05585426539637ae3d5badfc016f943fa3e738786cebe964daf0a36",
+>>>>>>> Stashed changes
     "submission_time": "2026-07-06T01:07:07"
   },
   {
@@ -1356,7 +1776,12 @@
     "edad": 55,
     "observaciones": "Acepta kit frío",
     "dni": "23524884",
-    "dni_hash": "fab857c7fc7587a37da6054ac5f76e89:92fe1d7a64a1b6f5f1fb42fdde4848275fc0223d44562985f7901f0b6e8519fa",
+<<<<<<< Updated upstream
+    "dni_hash": "01c154979a76a248486617f22a0134fd:a765871788b4400b3d02504e116c5c23c9d8f92381cd730128be1f81b92c8f7b",
+=======
+    "dni_unificado": "23524884",
+    "dni_hash": "e5cca690c17597cdac6e81ad11254613:68d31cbf7d6ac8817b65a91e4062b935f9db2b33da9264cb1a041a89690c2f54",
+>>>>>>> Stashed changes
     "submission_time": "2026-07-06T02:28:57"
   },
   {
@@ -1372,7 +1797,12 @@
     "edad": 33,
     "observaciones": "Acepta kit frio",
     "dni": "95855749",
-    "dni_hash": "49a7725dc9f91455fb4f1714ed3402be:206aa77c71246b1fdd7a03151ca48e4fc413715cf74abddda41e8905ee160289",
+<<<<<<< Updated upstream
+    "dni_hash": "2ceeb8af2888d052a304e989ae9944b2:6970c99782d651314fe0068ff68c60e82e4efece21485adf0d9978733f91a131",
+=======
+    "dni_unificado": "95855749",
+    "dni_hash": "cce7b36c7de76b12b3accc86b32f0135:8213947760a15abd656afff3ce407ef3758f6e79db2004629b79484343417f27",
+>>>>>>> Stashed changes
     "submission_time": "2026-07-06T02:28:57"
   },
   {
@@ -1388,7 +1818,12 @@
     "edad": 30,
     "observaciones": "Acepta kit frío",
     "dni": "29417910",
-    "dni_hash": "0b3381d744f2ef97cda175ed06232d3c:6efaeec33925159a33a9c6bd45197b25d7e56007c817c3362cc2dfcda968316f",
+<<<<<<< Updated upstream
+    "dni_hash": "98268df711959e343714150f330e69b9:bdce7bbf177b47cd1d85533785ba8c272f98f2aaa1c4066a15fe3edeffa5c42f",
+=======
+    "dni_unificado": "29417910",
+    "dni_hash": "2d5ebec1393864b98fec5f228b367e44:2edbfa9f49ee396e93bcea4f14088e580a105e32cb563a5bbbc2208c9895e1d1",
+>>>>>>> Stashed changes
     "submission_time": "2026-07-06T02:28:57"
   },
   {
@@ -1404,7 +1839,12 @@
     "edad": 30,
     "observaciones": "Acepta kit frío",
     "dni": "39810027",
-    "dni_hash": "5194fc564cec29fbd9083f2ceb58f84b:8464123a600b8afdab43c45f8f3b6f2aca01d00a8d411dee21f7012967fbc38c",
+<<<<<<< Updated upstream
+    "dni_hash": "9309dd489bc180b539b20c70d9220580:0dbeb73ba772362073278e340a8d0385846598862f8d54bb0fd566fb21c4e3fa",
+=======
+    "dni_unificado": "39810027",
+    "dni_hash": "9703980ea2719555775c24fa28e90ee3:cbbe71c89330389ebe179cb8e82510f4c43f0ca732ca4f25c5630636a5f67e12",
+>>>>>>> Stashed changes
     "submission_time": "2026-07-06T02:28:58"
   },
   {
@@ -1420,7 +1860,12 @@
     "edad": 28,
     "observaciones": "Acepta kit frío",
     "dni": "33255055",
-    "dni_hash": "d84e364240ff1ab9ae3473dfa2e77015:26982b04e7b82f8b18bc6ca4b1610cd06cf026e69cf064a822d1886ae69300e8",
+<<<<<<< Updated upstream
+    "dni_hash": "e576feb361c6f9e11113c924ea624ce6:d9c4abe37e95812bee4885a913890ff057c1d61e545d08708eb523333c168959",
+=======
+    "dni_unificado": "33255055",
+    "dni_hash": "b59c0e42ab351a2bbb1594393e3c3585:51f463af3186216b43fdf80df5dc485da1c20fa2edc5ca7d0fea8390edbaeda5",
+>>>>>>> Stashed changes
     "submission_time": "2026-07-06T02:28:58"
   },
   {
@@ -1436,7 +1881,12 @@
     "edad": 47,
     "observaciones": null,
     "dni": "27272407",
-    "dni_hash": "f3a6422dc1d0087db7b8c6e222a4a247:7628bcbc40b9c9025c839b8f2c94c92366d58cd08a6d18a3ec14fd5e531690c1",
+<<<<<<< Updated upstream
+    "dni_hash": "32a2b69a40cb78a19829a5b1cc63ebeb:45742d6257d6121e5538236c71aee39e5c9d4a65540be8908209a0d9a5545135",
+=======
+    "dni_unificado": "27272407",
+    "dni_hash": "c16862bdc38db7216a4836cac6ace078:c5c953ac6363eca8be7acebddc825189aefb6d77b3ee587c32c55688db49bb1a",
+>>>>>>> Stashed changes
     "submission_time": "2026-07-06T03:27:45"
   },
   {
@@ -1452,7 +1902,12 @@
     "edad": 25,
     "observaciones": null,
     "dni": "96284046",
-    "dni_hash": "fba0594783c121db811f957c47b3e4f3:fa777b032de5add1866369032f41b817db2ddf9bac3565f87be30bbee02e0539",
+<<<<<<< Updated upstream
+    "dni_hash": "82c57a7afdea14ad4d61d43bcd0d3d32:6d7a612a4622ee4871a9539c37e3a127cfb2c9894dbb4120883cee4497aaef76",
+=======
+    "dni_unificado": "96284046",
+    "dni_hash": "6e71e94649a3de0bef2f172ffe9f3551:869ff391deac40a13462d79285839e525ea41176727029e5ebd215e519c6bc79",
+>>>>>>> Stashed changes
     "submission_time": "2026-07-06T04:23:22"
   },
   {
@@ -1468,7 +1923,12 @@
     "edad": 54,
     "observaciones": "Se le ofrece al señor cis micro dipa. Rechaza toda herramienta que provee el gobierno",
     "dni": "22977507",
-    "dni_hash": "e415b6ea9aa386b25e431e6655baf2b1:4427938d59d11f24a56eb598ac0031571d84421d84623968df5e272bb36c1a08",
+<<<<<<< Updated upstream
+    "dni_hash": "cf328079a9bd6ffd250dc373e9ca2164:dd15f5876ba3488072546aec4c45037aacedb1ac2a19a0f50615296fc689722c",
+=======
+    "dni_unificado": "22977507",
+    "dni_hash": "7e375d10331d975f886e2894858f83e1:438acfabe722f143fa07d779763e25d4fb46cfe126186fa9ec70020767ede069",
+>>>>>>> Stashed changes
     "submission_time": "2026-07-06T07:54:01"
   },
   {
@@ -1484,7 +1944,12 @@
     "edad": 30,
     "observaciones": "Se le ofrece al señor toda herramienta que provee el gobierno cis micro dipa,rechaza todo",
     "dni": "31146724",
-    "dni_hash": "fe6809018ed4d86a320a2ca72dec73c4:926b90a5a92f00b9e8ddbaa81fc93f0e66c15c7aecee6e856e73560a7ca965a5",
+<<<<<<< Updated upstream
+    "dni_hash": "5083b5c8c0932559c300106a0005b772:e02a62fd0eed1539003cc1426957d9b2f5a99e2de47fcb017770ea901787ea8e",
+=======
+    "dni_unificado": "31146724",
+    "dni_hash": "d28d88dc775aa7942bea2e558a3ba206:6840da79cf382f55f787043654a4b119fe0cd3ad6d44d853225741faab11f0d1",
+>>>>>>> Stashed changes
     "submission_time": "2026-07-06T07:54:01"
   },
   {
@@ -1500,7 +1965,12 @@
     "edad": 26,
     "observaciones": "Acepta kit frio",
     "dni": "42296742",
-    "dni_hash": "7d981e71e410bbd5e47705db55f159f3:95f87c79e2dafa796fad11cf1aa6d191a1f851a01c26c139ecb172522eaa17e3",
+<<<<<<< Updated upstream
+    "dni_hash": "4e6e56f080eaf2b21609950b22929d8f:b43ddfa1353e1530f6653f6c063ac0379aa982d93a3ca0e82f65f6cc815f9761",
+=======
+    "dni_unificado": "42296742",
+    "dni_hash": "651835c5494419330248d3fa9e9a0fc3:191b0585f97de8fcaf1b613fe0f2359a5642d7bf9ea36ef9adda48fd3e5efe98",
+>>>>>>> Stashed changes
     "submission_time": "2026-07-06T08:24:56"
   },
   {
@@ -1516,7 +1986,12 @@
     "edad": 26,
     "observaciones": "Acepta kit frío",
     "dni": "42224131",
-    "dni_hash": "efc43dba4aeb086c3eca654356687ee4:f7b58fec5f8772f3ff979d881c8753281c9a9986d1a651501d49a6c9c5883047",
+<<<<<<< Updated upstream
+    "dni_hash": "40e74fb6c4900732ace304d06ac84848:4ac73c0ed17e82f5c1c687cab11551ca25f9426e0583a89eb5b4e3935d93048a",
+=======
+    "dni_unificado": "42224131",
+    "dni_hash": "449c1f51d392e8bf7dd9eecce641493f:41de73ab152b93a1f06cf15c42aed500ab3b126f9beff43f40f2e93abba243ee",
+>>>>>>> Stashed changes
     "submission_time": "2026-07-06T08:24:57"
   },
   {
@@ -1532,7 +2007,12 @@
     "edad": 39,
     "observaciones": "Acepta kit frío",
     "dni": "36663574",
-    "dni_hash": "8b203ca1eebaa43dea56d0caea1aaf90:23d9e7516afb73b310dd2cd6e4e616d230c27e20f83b7c332f476ccdc37b2d64",
+<<<<<<< Updated upstream
+    "dni_hash": "f302ce026e3daad9aa9611c6c093a8c1:9992dbcd01ab5bef97fe41e7ebd2f2dbdb932f1a5c0cb1b9ffbe6d9de6570668",
+=======
+    "dni_unificado": "36663574",
+    "dni_hash": "75c4eb364d25216b967cb7494f639050:bc9c1cb4c565f57ec5c187972072e3c62573ed560b10190689550c9951394e5d",
+>>>>>>> Stashed changes
     "submission_time": "2026-07-06T08:24:57"
   },
   {
@@ -1548,7 +2028,12 @@
     "edad": 32,
     "observaciones": "Se le ofrece todos los beneficios del programa el cual rechaza.\nSe le hace entrega del kit frío",
     "dni": "38259066",
-    "dni_hash": "1a3046f4c6a0b08530b3eca1fcf16f75:46d0600ce00e1e963e63615a809e0ccda068bc312983359453a0f92c6e2bd1d6",
+<<<<<<< Updated upstream
+    "dni_hash": "cb1d1487bd5e69fb956b261fb56db8f8:f9fa6a7850ba46744d3f6273c439b491f24268d071b722c99e72bb845c9ba653",
+=======
+    "dni_unificado": "38259066",
+    "dni_hash": "c8f07e056ae60511fbe0a282cad7cb61:a9fabb401f37272de4d5d5a31ff5716395d20ec84111ea32bfb30ddfe08f829d",
+>>>>>>> Stashed changes
     "submission_time": "2026-07-06T08:36:23"
   },
   {
@@ -1564,7 +2049,12 @@
     "edad": 48,
     "observaciones": null,
     "dni": "27636277",
-    "dni_hash": "7225d18b3fd84dacfcc80a043a882429:bc34e8b0975f98e49f62e540515c320eb10798b05842708d741e8c0a6e03b8fe",
+<<<<<<< Updated upstream
+    "dni_hash": "ce3b56cb00b11f7cae5525e4906b41e4:8ece52b256b4d33cc86f1e9341ea789e3e09038b4f9fd7b2437997b99a363412",
+=======
+    "dni_unificado": "27636277",
+    "dni_hash": "05bdfd3b14ab797aa26f12d71959bb0a:08d1aabed436f7c5ef07eac4faaa11a59d8e454279126cbef7d06e31c30c7323",
+>>>>>>> Stashed changes
     "submission_time": "2026-07-06T08:41:28"
   },
   {
@@ -1580,7 +2070,12 @@
     "edad": 54,
     "observaciones": "Masculino en situación de calle 3 años  , sin trabajo  refiere estar solo sin contención familiar , muy desabrigado",
     "dni": "1234567",
-    "dni_hash": "ad4e8970781ab93e9f6d4f32b5893368:8ce483b42ca874e48142df61bc6380611777b94dbd714d34d606b469026fc90b",
+<<<<<<< Updated upstream
+    "dni_hash": "9a251d3be9cb8c6370879790e8a0f981:7446b9093c7e9db1ab340e6dc291535b498775a79523d4c17393dddbb9b86f92",
+=======
+    "dni_unificado": "1234567",
+    "dni_hash": "3d1d0d00c237565c060b02f65215523d:6f8cafd6fedd1f9c224ef64a15b840d8ac9cd9326654eea36d0b6b17f4cabc7b",
+>>>>>>> Stashed changes
     "submission_time": "2026-07-06T08:49:48"
   },
   {
@@ -1596,7 +2091,12 @@
     "edad": 34,
     "observaciones": "Persona en situación de calle muy desabrigado, nos pidió una manta la cual no teníamos y entregamos un kit frío",
     "dni": "36476079",
-    "dni_hash": "1aa132880df8d403bb8b2086c1aa17e7:feac627164e4036f492bc6526ece84781aac40215634d8f9dfdb2eb1d43c53f4",
+<<<<<<< Updated upstream
+    "dni_hash": "f863886b17e25de1b1379ef5067537d8:0de73a22cd6924d86e6dd5127c71d5ae895d9ba3ba5b36165fbe3805421177ef",
+=======
+    "dni_unificado": "36476079",
+    "dni_hash": "2a98087af6ada8be5b5ba0e868e2b4a0:8280d26292cced46e1c351c7f727f2d1a6d3da7fca7052964a77053a07850a40",
+>>>>>>> Stashed changes
     "submission_time": "2026-07-06T08:49:49"
   },
   {
@@ -1612,7 +2112,12 @@
     "edad": 24,
     "observaciones": "Persona en situación de calle se acerca a los operadores en busca de una manta, estos ofrecen un kit frío y lo reciben",
     "dni": "45303476",
-    "dni_hash": "01e1c95dacdde107baaebe55b291fd29:20dca3e29c2db00dc2ac25d953d9bb4cade309d0ffafbc3424059107c8607c8b",
+<<<<<<< Updated upstream
+    "dni_hash": "ddb555af111040cfb5eef9e8e896b8ce:0ea9b825ae69e03c505be81156723092ba1ee18e964a0a103c28d031f5b3a40b",
+=======
+    "dni_unificado": "45303476",
+    "dni_hash": "ad1e2e8fa0dca0c2ffcb67d3a380369c:7fcaea156e82a0b2cbb51a9833d030bfaadea90c5b7e5237c3286dc7cda8b427",
+>>>>>>> Stashed changes
     "submission_time": "2026-07-06T08:49:50"
   },
   {
@@ -1628,7 +2133,12 @@
     "edad": 43,
     "observaciones": null,
     "dni": "29292764",
-    "dni_hash": "943267d2c418947f42f6cb84701970f4:deb9c11b18a554dd47156ffa845eb3ee1a8bb70885a469eeabf045ee104eac9f",
+<<<<<<< Updated upstream
+    "dni_hash": "a2ae7541d5ab459d81fda2e4167c7a13:4d9e1049f2a48e88870f0886dd9bf78b3395ca759700cd1f1ba2551173220d7a",
+=======
+    "dni_unificado": "29292764",
+    "dni_hash": "4e7d19e67198d4aa84b68d98f299b6b3:b26c7213662e67ae92990abdda61ca6fca79976645791593ca5c1d541a31d94b",
+>>>>>>> Stashed changes
     "submission_time": "2026-07-07T02:57:03"
   },
   {
@@ -1644,7 +2154,12 @@
     "edad": 34,
     "observaciones": "Se le da entrega de Kit de frío",
     "dni": "28736816",
-    "dni_hash": "6b8fa3a5d02ce5e2c11f88d5dc724ec9:7252481cc007412d2a51b7e4cc0a25a817945df6e4e4f222a19b31c08f35151f",
+<<<<<<< Updated upstream
+    "dni_hash": "a8dbfcdac4d3bf591cc3e26df0ee9343:695347585d1622ec5bb0f9407613f50b64e99e99e79d30545515df45798da0a6",
+=======
+    "dni_unificado": "28736816",
+    "dni_hash": "4076b5e581ab5cb0904b5a3a044856f9:6360d6806d835bc20fd6b4f69183145a66a02f7dccba9f54d937e25f70b7b439",
+>>>>>>> Stashed changes
     "submission_time": "2026-07-07T03:33:19"
   },
   {
@@ -1660,7 +2175,12 @@
     "edad": 29,
     "observaciones": null,
     "dni": "40803414",
-    "dni_hash": "f7c72d5d64a978f90c85c70a0b1be9f8:1d3282511469e30d6801db9a51a78b78a229dbdb3412b6c2432871e49a24dbb7",
+<<<<<<< Updated upstream
+    "dni_hash": "99c33ad480a39c340c57a443ef912e0a:ef90aded89b4215deb798e08bf98127102acf1749a7f52336223968fe847016a",
+=======
+    "dni_unificado": "40803414",
+    "dni_hash": "7de23c9c8377c6b8e08c88e62a2ad98e:1322d778a489144cc52a69953cd10ba6b62910379247b42a8d2642e2be1da79b",
+>>>>>>> Stashed changes
     "submission_time": "2026-07-07T03:33:20"
   },
   {
@@ -1676,7 +2196,12 @@
     "edad": 32,
     "observaciones": "Acepta kit frío \nRechaza Cis",
     "dni": "42028615",
-    "dni_hash": "dcb025b36bbe7866db301d4e5115ef87:f464330c012ee96027ca429169c217f2fb05423b79bcf68a69be15147a56427d",
+<<<<<<< Updated upstream
+    "dni_hash": "c0bb274823c73ac654a1296b65906cfd:a93002f24cfd16641449f34a8fc2bf83e9b639edea4a6f12e4303cbb70eea9bc",
+=======
+    "dni_unificado": "42028615",
+    "dni_hash": "66559ffbdea57ab3d2d7daa7300f5bbf:b2574cbaa2845877b106e529983ea456fc4822a2e8c4b216c93e069e185cbac8",
+>>>>>>> Stashed changes
     "submission_time": "2026-07-07T05:24:16"
   },
   {
@@ -1692,7 +2217,12 @@
     "edad": 40,
     "observaciones": null,
     "dni": "23941033",
-    "dni_hash": "7c6f8857a588c31376c1f9ce070c129f:62861e9cb04c59281004de78b0c84af2e128f5af6284fe9bc6960cad280858f7",
+<<<<<<< Updated upstream
+    "dni_hash": "1c2d6a2ae7fb6e79e650d7d134f9316b:d7581f9e8102b75526d695e5e9510fd5e84602c5226df654e5e5836c29af31f9",
+=======
+    "dni_unificado": "23941033",
+    "dni_hash": "15f01fda642d38db5010632e96624d68:edd1cb489139e5635f33f41ded4ac75c89eb5a85dfdff0f6d9839dd8234ff2e7",
+>>>>>>> Stashed changes
     "submission_time": "2026-07-07T07:21:26"
   },
   {
@@ -1708,7 +2238,12 @@
     "edad": 35,
     "observaciones": null,
     "dni": "27732986",
-    "dni_hash": "0faccdab2675a0a62b883c788d02efdd:e4e9f0355f12c798b7555c294baa0ce23fa4801042a9e936f0712e382a26c304",
+<<<<<<< Updated upstream
+    "dni_hash": "abd225db7baf154fc1db013f7bf7a33c:bd1616f753b7dca2df55f9bed2084ec4cbe4b5584def3eb5d53fa32055ac7fdc",
+=======
+    "dni_unificado": "27732986",
+    "dni_hash": "42c7b3e512f9f128e078578250a63915:0254b0181f5b11a6faa24400db3d3735b5d7ede2a025f9b22c9c0317fc0dd71b",
+>>>>>>> Stashed changes
     "submission_time": "2026-07-07T07:21:27"
   },
   {
@@ -1724,7 +2259,12 @@
     "edad": 27,
     "observaciones": null,
     "dni": "29832250",
-    "dni_hash": "9a5787425d4dd1489053e83d2b65678c:e3fedc8491ba0d72131f86831c3003f3109134a77138ab2d300f76b6e0ae3ad9",
+<<<<<<< Updated upstream
+    "dni_hash": "bf82e781a724ea393bdc455447b93c19:a620f13e868a25cafec84127b057ad8d7a78ba6d541bd765b1703403ba68a07f",
+=======
+    "dni_unificado": "29832250",
+    "dni_hash": "b0d5edebccc9027b1d3a9753303a6700:8eceb9afd09f9c86c4a3237af38cc7769fcc4157a1acfdf99e616310b19730c3",
+>>>>>>> Stashed changes
     "submission_time": "2026-07-07T07:21:27"
   },
   {
@@ -1740,7 +2280,12 @@
     "edad": 40,
     "observaciones": "Se le ofrece al señor toda herramienta provista para que no esté en calle Cis micro Dipa rechaza todo. Se entrega kit frío",
     "dni": "34216454",
-    "dni_hash": "d40778d93a94779d1997afd0200f7588:304fa104affd9a873481672f2314f526e95488d14ea16eb764ffd129e8fcdac6",
+<<<<<<< Updated upstream
+    "dni_hash": "12213951d8afd5225d9e981209b36ec0:9089bc378f0768960ab7357eb0d36359787544bc5f42e159baf7934e45c925d7",
+=======
+    "dni_unificado": "34216454",
+    "dni_hash": "7790f6ef241c672da529e269a8825d44:362a3388c389401287ff0d0fc483436ec3ee933381eefb63783e290253370946",
+>>>>>>> Stashed changes
     "submission_time": "2026-07-07T08:05:52"
   },
   {
@@ -1756,7 +2301,12 @@
     "edad": 36,
     "observaciones": "Se le ofrece DIPA Cis micro rechaza todo se le entrega kit frío",
     "dni": "36333881",
-    "dni_hash": "9642ec8f97b5a16405c1eb30aa9ddb5e:d8aaef3c8f4f18a312e14021170c5e811f213c9cfcddeda20ab44958d30ed868",
+<<<<<<< Updated upstream
+    "dni_hash": "f7eedeb03e7379ff031b002c4f1ce1a2:707e644a71663b212012279629188289135ed0205e5fb2b813d0c9b96210625b",
+=======
+    "dni_unificado": "36333881",
+    "dni_hash": "cadb6ba0b27017728fc9162cac72ed20:dd36a07af9f46b038af2ea70d6297f260e7447f64a1c95cf09e39a624f58b75e",
+>>>>>>> Stashed changes
     "submission_time": "2026-07-07T08:05:53"
   },
   {
@@ -1772,7 +2322,12 @@
     "edad": 36,
     "observaciones": "Rechaza toda ayuda entrega kit frío",
     "dni": "35125981",
-    "dni_hash": "d2f9033330f6f7c1c496186e12bd08d3:76bb49dea6beb02ed15530a00f876c41cecc926b4d4824ae521f96739d7f348e",
+<<<<<<< Updated upstream
+    "dni_hash": "9c119bd72a38326bf4f7ef600e85b69c:21aff464c417e2d51ea3c718bd15620dda79d56a037c9a25a04ff22515968eed",
+=======
+    "dni_unificado": "35125981",
+    "dni_hash": "7442058c97f7474f6e58e11749f22734:ea4459ac5d6f3fd5ebb5dbb06a6dcf05f52f3ad77660353114a53e1929b03e32",
+>>>>>>> Stashed changes
     "submission_time": "2026-07-07T08:05:53"
   },
   {
@@ -1788,7 +2343,12 @@
     "edad": 26,
     "observaciones": "Rechaza ayuda del programa se le entrega kit frío",
     "dni": "42681023",
-    "dni_hash": "11eadd61c0d8302efece3a22cf150a28:7cbc85cd3b2f7ea2988ac3af11cb54763c83427ab0e0160a3c5fea77c0d23daf",
+<<<<<<< Updated upstream
+    "dni_hash": "11e84d56395e338f092e62a69247387c:e99cf6ae23e486ab646d3852bba4820306d4f9f201e4c128d0477460a7789192",
+=======
+    "dni_unificado": "42681023",
+    "dni_hash": "4a1481eda060d7d7e93af33c0f48ec96:6eb0f7fb125a61c65244a2853ba278ed65ad2b73ea5b80a1cf7c0da288c23fc3",
+>>>>>>> Stashed changes
     "submission_time": "2026-07-07T08:05:53"
   },
   {
@@ -1804,7 +2364,12 @@
     "edad": 53,
     "observaciones": "Se entrega kit frio",
     "dni": "22572353",
-    "dni_hash": "7d97787efe4709c42e930999cc9f21f9:fcf988722df2fed2ba101426701497337d63ae5d85e8d5683226759d5f316d5f",
+<<<<<<< Updated upstream
+    "dni_hash": "d78ace0c2c57a01e2e7e65f4a775fe66:c3101de5c2c41f0974f9a0d501d6da951809a7a28b490e0e99a0ca6a84afb252",
+=======
+    "dni_unificado": "22572353",
+    "dni_hash": "5917fb7855e47fb6063a86d0b254f5af:1f52b6a7257cf467f402859532eba59baa9ce032606bcaed416d3b0dd4eee44d",
+>>>>>>> Stashed changes
     "submission_time": "2026-07-07T08:41:57"
   },
   {
@@ -1820,7 +2385,12 @@
     "edad": 57,
     "observaciones": null,
     "dni": "95306457",
-    "dni_hash": "ab4d9372198bb7388f46e71b666de816:0d0790a5ed75b937c120835e6b9089b98598d362804b28b6d167f60d50b9bcf7",
+<<<<<<< Updated upstream
+    "dni_hash": "0a466fed1fdc7ab7182acacc13fac76a:b22c83885ad0003c68e2aa5265e7445e90795013946731fac3aca7c45f0c5314",
+=======
+    "dni_unificado": "95306457",
+    "dni_hash": "9b49e30451a573ecdb0c04d3ffba3cd8:4148b1c3ce91e5bbee8c4c8f137a2d6e0430b9e5f6113fbcb3f8d482e23117db",
+>>>>>>> Stashed changes
     "submission_time": "2026-07-07T08:42:30"
   },
   {
@@ -1836,7 +2406,12 @@
     "edad": 48,
     "observaciones": "Se entrega kit frio",
     "dni": "26473724",
-    "dni_hash": "e56f7d059c2814c32651dbfed971bfaa:69ce1fd28a69e881526f4d801751f1cf0886ec8bbbc58045f32db6fc48c199be",
+<<<<<<< Updated upstream
+    "dni_hash": "850de8adcc25347921be3082399bb981:892b7006b9757da93a02e96993a331856727ebd846f6ef0796970b20d98abad4",
+=======
+    "dni_unificado": "26473724",
+    "dni_hash": "c5edc755d3d05228cba81035d361260d:2203398cd4c0133fcc5d3787708d67b694587cd6ee93190deec1c5e3bd227a28",
+>>>>>>> Stashed changes
     "submission_time": "2026-07-07T08:42:31"
   },
   {
@@ -1852,7 +2427,12 @@
     "edad": 34,
     "observaciones": "Se entrega kit frio",
     "dni": "33901469",
-    "dni_hash": "3b4762680d8813ffc804b221ef389c97:cb0adaf02b11540ea4b48f71cdc6b6a8e7d7f5b3789f4a1b603e7ebcf65f27c7",
+<<<<<<< Updated upstream
+    "dni_hash": "f795e5731fdbeaa29ea1899712f0cee3:bcdeddf10690a96616aff2ab4f27e3abce9d32debdbf1d1080e693bb0c6cc211",
+=======
+    "dni_unificado": "33901469",
+    "dni_hash": "46f45f9f090fb1b704fcab3d4d2d1345:02806eaf2c868677121b649fb7a243dfe6b571688565b75ee92d47f359726355",
+>>>>>>> Stashed changes
     "submission_time": "2026-07-07T08:42:31"
   },
   {
@@ -1868,7 +2448,12 @@
     "edad": 32,
     "observaciones": "Se entrega kit frio",
     "dni": "37834179",
-    "dni_hash": "24b688eed59aead4bf0634536762ff48:7141300c95a310cafe8944fd027c95ed33d31f65a79e262034e475e63b4d2f8c",
+<<<<<<< Updated upstream
+    "dni_hash": "03ad52be0d74be3f3a79701fb02e50dc:d451d43503c98b96445893466474457f7f98f6a3c3644e0b3ff12fec685c7db2",
+=======
+    "dni_unificado": "37834179",
+    "dni_hash": "db3bf8ee97fa68f5adbb174e88b5a5b5:990fcbca69acadb27da79b56442c8cace5bf0e26809870d515add9c49c544178",
+>>>>>>> Stashed changes
     "submission_time": "2026-07-07T08:42:31"
   },
   {
@@ -1884,7 +2469,12 @@
     "edad": 25,
     "observaciones": "Se entrega kit frio",
     "dni": "1234567",
-    "dni_hash": "4447699890bdd20df67602698ac1dc01:50a649d887cff63001a5c0cbae50a718b4bbd60daa8059f239eb693192dc8eba",
+<<<<<<< Updated upstream
+    "dni_hash": "54f62d7a0a9623ad7a0f74bd31d71422:99c4eeca7ad98b8cb637c9a8fe87306921c1a837acccc0387b5b2d0fb1103773",
+=======
+    "dni_unificado": "1234567",
+    "dni_hash": "42aa7042536b6a5632f43b8342bd68ea:0f539b35fc95d8378853a6c334e6acededc8734887c8d0543debd6dd62319df3",
+>>>>>>> Stashed changes
     "submission_time": "2026-07-07T08:42:32"
   },
   {
@@ -1900,7 +2490,12 @@
     "edad": 37,
     "observaciones": "Se entrega kit frio",
     "dni": "37383705",
-    "dni_hash": "e1c1b9f19177aadfd544f4badfb506de:cac570d069dcbf5e47ff0e3a7f4dd5c8125a5f2bbe108160e49880201e073502",
+<<<<<<< Updated upstream
+    "dni_hash": "09c893b9effad4c1a587107cb40e401c:025d8a54f9455b7d41515220ab3c1a871800f2b0bd164da71720a06f9a16eb09",
+=======
+    "dni_unificado": "37383705",
+    "dni_hash": "f4f1cc0b7de919f70a86a795a104e97e:6b87c4ca468ce9cc00b575cb5ef892b7d5134a2a45cd1bd3928ef5feb7561ccc",
+>>>>>>> Stashed changes
     "submission_time": "2026-07-07T08:42:32"
   },
   {
@@ -1916,7 +2511,12 @@
     "edad": 37,
     "observaciones": "Se entrega kit frio",
     "dni": "33739044",
-    "dni_hash": "f15b60c6948adcde88fca1c65827d147:985cc59c637f31c2c448026447870c25afe8a7b335d4e67f4d2cbb68d031215d",
+<<<<<<< Updated upstream
+    "dni_hash": "73a6553af00938246b8957043ec3c8be:12722b6aee9b10e7423a100b3295c1b270f19d56630006384c89c89d96026361",
+=======
+    "dni_unificado": "33739044",
+    "dni_hash": "1ccde4cafa69739d920dd9efdfdb53be:07c8822d8def41f62bcb18252a64db50a75f85ccf1280faee1b22c211d877512",
+>>>>>>> Stashed changes
     "submission_time": "2026-07-07T08:42:32"
   },
   {
@@ -1932,7 +2532,12 @@
     "edad": 40,
     "observaciones": "Se entrega kit frio. No tiene DNI físico",
     "dni": "31785547",
-    "dni_hash": "e5dfb5dcf9410116c8e04b382b7e96a3:3395fd0cebe0f80af9c314e5021f2f0a9ca7fd40bfd6247a7d7a344cf6acc953",
+<<<<<<< Updated upstream
+    "dni_hash": "4ce0e3fce0efe98ef61dbae915e743e4:e740321cc6f6320d804439b1d0746064cfb8a8252753477a00dd0502c63bdd40",
+=======
+    "dni_unificado": "31785547",
+    "dni_hash": "91abbd51bbd8cbab8f910efd00373542:b71bea811826a79cd669760fbc695937bd65f97a328fa417a7d8ae31d1937094",
+>>>>>>> Stashed changes
     "submission_time": "2026-07-07T08:42:33"
   },
   {
@@ -1948,7 +2553,12 @@
     "edad": 20,
     "observaciones": "Se entrega kit frio",
     "dni": "46396111",
-    "dni_hash": "f69dd8ce8553d58a8e7693b3dee604ad:c9c1a3fb31ec9aea0bd91fa68cb0990e7e72ecd006343df42f1411afe590f34f",
+<<<<<<< Updated upstream
+    "dni_hash": "5a739006826df1e19d5f4010d47b6ef4:8d1e56a943b62e04c20ceb665ae1bd9df7c8f0abf114697be5119303dd7cb218",
+=======
+    "dni_unificado": "46396111",
+    "dni_hash": "dc68449ac41aad4358c8a773e0667dd3:b98685bf8a698d85c1268445aedbbcc9ccad13ddc3abb84b29a8d0ba06a2084c",
+>>>>>>> Stashed changes
     "submission_time": "2026-07-07T08:42:33"
   },
   {
@@ -1964,7 +2574,12 @@
     "edad": 27,
     "observaciones": "Se entrega kit frio no tiene DNI físico",
     "dni": "41012398",
-    "dni_hash": "5519ecbde6651dfc8346b0808264f356:2934df2faebc8c2e8cc5c6052024ada3692cda3e30a94480eb38a2af334944d8",
+<<<<<<< Updated upstream
+    "dni_hash": "63e2d564e158a53c3d38d1cccb4621cb:f1c801f117b491bd87fe8c33d2bc07e04b73a1f1c36e9f770935358d6a25697b",
+=======
+    "dni_unificado": "41012398",
+    "dni_hash": "a58a7b822afc59083fdcf05668bc4c17:3fc27acd4788d87f94c36a4e4aed8e44cf27e56dc879dd072ef893746fbbdec1",
+>>>>>>> Stashed changes
     "submission_time": "2026-07-07T08:42:34"
   },
   {
@@ -1980,7 +2595,12 @@
     "edad": 28,
     "observaciones": "Se contacta al sr stoyanoski quien solicita cis o micros al no contar con disponibilidad y encontrarse desabrigado se le otorga un kit frio y se le informa que en caso que salga una vacante se lo pasara a buscar .",
     "dni": "46029925",
-    "dni_hash": "d2588bf8ae5dbf78546708b0ec12654b:7cdd73a40d0a47fbeb8114c190e5e69a0d8d61f088a498a4a1c93e2e433a8793",
+<<<<<<< Updated upstream
+    "dni_hash": "e0be53575e05ff1307fd8974ea43e19d:8efc725ef4398eab60d593237c612e6d4f32ba6f39abc00cd0dd36a06161ce30",
+=======
+    "dni_unificado": "46029925",
+    "dni_hash": "ec8a3cebc04c80bcad3b0a30a92b4ffd:0c09ff009de7385820fa03dc7b1221878c75b2140bbb73060ba9bcbd0526b5b0",
+>>>>>>> Stashed changes
     "submission_time": "2026-07-07T08:42:34"
   }
 ]
