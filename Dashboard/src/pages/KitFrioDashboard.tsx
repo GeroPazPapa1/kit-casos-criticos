@@ -14,8 +14,17 @@ const normalizarDni = (valor: unknown) => {
   return texto.replace(/\D/g, '')
 }
 
-const getDniUnificado = (entrega: { dni?: unknown; dni_unificado?: unknown }) => {
-  return entrega.dni_unificado ?? entrega.dni ?? ''
+const getDniUnificado = (entrega: {
+  dni?: unknown
+  dni_unificado?: unknown
+}): string => {
+  const dni = entrega.dni_unificado ?? entrega.dni
+
+  if (dni == null || String(dni).trim() === '') {
+    return 'SIN DNI'
+  }
+
+  return String(dni)
 }
 
 const formatearFecha = (valor: unknown) => {
