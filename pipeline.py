@@ -5,7 +5,9 @@ pipeline.py — Operativo Frío ETL script
 import hashlib
 import os
 import sys
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 import polars as pl
 import requests
@@ -13,6 +15,13 @@ from dotenv import load_dotenv
 
 PARQUET_OUTPUT = "data/entregas.parquet"
 DNI_SENTINEL = "No brinda/no visible"
+
+TZ_BSAS = ZoneInfo("America/Argentina/Buenos_Aires")
+
+CABA_LAT = -34.6037
+CABA_LON = -58.3816
+
+OPEN_METEO_URL = "https://historical-forecast-api.open-meteo.com/v1/forecast"
 
 SCHEMA = {
     "kobo_id": pl.Int64,
@@ -30,6 +39,8 @@ SCHEMA = {
     "dni_unificado": pl.Utf8,
     "dni_hash": pl.Utf8,
     "submission_time": pl.Utf8,
+    "submission_time_local": pl.Utf8,
+    "temperatura_c": pl.Float64,
 }
 
 
@@ -85,12 +96,6 @@ def clean_dni(raw_value) -> str | None:
 def get_dni_unificado(record: dict) -> str | None:
     """
     Unifica el DNI desde los dos campos posibles del formulario.
-
-    Logica:
-    - Si viene dni_del_beneficiario / dni_beneficiario, usa ese.
-    - Si no viene, usa dni.
-    - En la carga real, cuando uno viene completo el otro suele venir vacio,
-      por eso no deberian pisarse.
     """
     return clean_dni(
         record.get("dni_del_beneficiario")
@@ -118,6 +123,73 @@ def hash_dni(raw_value) -> str:
     return f"{salt.hex()}:{digest}"
 
 
+def convertir_hora_kobo_a_argentina(raw_value) -> datetime | None:
+    if not raw_value:
+        return None
+
+    try:
+        dt = datetime.fromisoformat(str(raw_value).replace("Z", "+00:00"))
+
+        if dt.tzinfo is None:
+            dt = dt.replace(tzinfo=timezone.utc)
+        else:
+            dt = dt.astimezone(timezone.utc)
+
+        return dt.astimezone(TZ_BSAS)
+
+    except (ValueError, TypeError):
+        return None
+
+
+def redondear_hora(dt: datetime) -> datetime:
+    if dt.minute >= 30:
+        dt = dt + timedelta(hours=1)
+
+    return dt.replace(minute=0, second=0, microsecond=0)
+
+
+def obtener_temperaturas(fechas_locales: list[datetime]) -> dict[str, float]:
+    if not fechas_locales:
+        return {}
+
+    fechas_redondeadas = [redondear_hora(dt) for dt in fechas_locales]
+
+    fecha_inicio = min(fechas_redondeadas).date().isoformat()
+    fecha_fin = max(fechas_redondeadas).date().isoformat()
+
+    params = {
+        "latitude": CABA_LAT,
+        "longitude": CABA_LON,
+        "start_date": fecha_inicio,
+        "end_date": fecha_fin,
+        "hourly": "temperature_2m",
+        "timezone": "America/Argentina/Buenos_Aires",
+    }
+
+    print(
+        f"Consultando temperatura historica de CABA "
+        f"desde {fecha_inicio} hasta {fecha_fin}"
+    )
+
+    resp = requests.get(
+        OPEN_METEO_URL,
+        params=params,
+        timeout=60,
+    )
+
+    resp.raise_for_status()
+
+    data = resp.json()
+    horas = data.get("hourly", {}).get("time", [])
+    temperaturas = data.get("hourly", {}).get("temperature_2m", [])
+
+    return {
+        hora: float(temp)
+        for hora, temp in zip(horas, temperaturas)
+        if temp is not None
+    }
+
+
 def transform_record(record: dict) -> dict | None:
     geo = record.get("_geolocation")
 
@@ -130,6 +202,15 @@ def transform_record(record: dict) -> dict | None:
 
     nombre_apellido = str(record.get("nombre_apellido") or "").strip() or None
     dni_unificado = get_dni_unificado(record)
+
+    submission_time = str(record.get("_submission_time") or "").strip() or None
+    submission_time_local_dt = convertir_hora_kobo_a_argentina(submission_time)
+
+    submission_time_local = (
+        submission_time_local_dt.isoformat(timespec="seconds")
+        if submission_time_local_dt
+        else None
+    )
 
     return {
         "kobo_id": int(record["_id"]),
@@ -146,8 +227,63 @@ def transform_record(record: dict) -> dict | None:
         "dni": dni_unificado,
         "dni_unificado": dni_unificado,
         "dni_hash": hash_dni(dni_unificado),
-        "submission_time": str(record.get("_submission_time") or "").strip() or None,
+        "submission_time": submission_time,
+        "submission_time_local": submission_time_local,
+        "temperatura_c": None,
     }
+
+
+def agregar_temperaturas(records: list[dict]) -> list[dict]:
+    fechas_locales: list[datetime] = []
+
+    for record in records:
+        raw = record.get("submission_time_local")
+
+        if not raw:
+            continue
+
+        try:
+            fechas_locales.append(datetime.fromisoformat(raw))
+        except (ValueError, TypeError):
+            continue
+
+    temperaturas = obtener_temperaturas(fechas_locales)
+
+    con_temperatura = 0
+    sin_temperatura = 0
+
+    for record in records:
+        raw = record.get("submission_time_local")
+
+        if not raw:
+            record["temperatura_c"] = None
+            sin_temperatura += 1
+            continue
+
+        try:
+            dt_local = datetime.fromisoformat(raw)
+            dt_redondeado = redondear_hora(dt_local)
+            clave = dt_redondeado.strftime("%Y-%m-%dT%H:00")
+
+            temperatura = temperaturas.get(clave)
+            record["temperatura_c"] = temperatura
+
+            if temperatura is None:
+                sin_temperatura += 1
+            else:
+                con_temperatura += 1
+
+        except (ValueError, TypeError):
+            record["temperatura_c"] = None
+            sin_temperatura += 1
+
+    print(
+        f"Enriquecimiento climatico: "
+        f"{con_temperatura} con temperatura, "
+        f"{sin_temperatura} sin temperatura"
+    )
+
+    return records
 
 
 def write_parquet(records: list[dict]) -> pl.DataFrame:
@@ -209,6 +345,8 @@ def main() -> None:
         f"Transformados: {len(clean_records)} registros validos "
         f"({len(raw_records) - len(clean_records)} omitidos)"
     )
+
+    clean_records = agregar_temperaturas(clean_records)
 
     write_parquet(clean_records)
     run_linter(PARQUET_OUTPUT)
