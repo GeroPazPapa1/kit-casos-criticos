@@ -104868,5 +104868,43 @@
     "comuna_lat": -34.639,
     "comuna_lon": -58.448,
     "comuna_label": "Comuna 7"
+  },
+  {
+    "_id": 838323278,
+    "formhub/uuid": "58407a357bcd41138f5a8fa282eb48ac",
+    "Tipo_de_derivaci_n": "espontanea",
+    "fecha": "2026-08-13T00:00:00.000-03:00",
+    "apellido": "Sarmiento",
+    "nombre": "Alejandro Humberto",
+    "dni": "25231128",
+    "comuna": "3",
+    "ubicacion": "-34.6239045 -58.3925161 42.0 11.591",
+    "seguimiento_caso": "no",
+    "nombre_brigadista": "Brian Pisani",
+    "lugar_intervencion": "dipa",
+    "consumo_activo": "si",
+    "riesgo_sanitario": "verde_con_pph",
+    "necesario_seguimiento": "no",
+    "derivo_same": "no",
+    "descripcion": "Masculino refiere mucho frío, mucha tos, Personal de 108 solicita control de signos vitales para el masculino.",
+    "__version__": "v8LbbfVhJSTVhXkSfxUzcC",
+    "meta/instanceID": "uuid:baaf30e1-67fe-4f9c-b079-ed6e37428710",
+    "_xform_id_string": "aD4NLofRmqgQnSzc5MdqSB",
+    "_uuid": "baaf30e1-67fe-4f9c-b079-ed6e37428710",
+    "meta/rootUuid": "uuid:baaf30e1-67fe-4f9c-b079-ed6e37428710",
+    "_attachments": [],
+    "_status": "submitted_via_web",
+    "_geolocation": [
+      -34.6239045,
+      -58.3925161
+    ],
+    "_submission_time": "2026-08-13T03:54:39",
+    "_validation_status": {},
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.6239045,
+    "lon": -58.3925161,
+    "comuna_lat": -34.612,
+    "comuna_lon": -58.405,
+    "comuna_label": "Comuna 3"
   }
 ]
