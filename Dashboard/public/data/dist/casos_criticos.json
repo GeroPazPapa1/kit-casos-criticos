@@ -109688,5 +109688,43 @@
     "comuna_lat": -34.616,
     "comuna_lon": -58.421,
     "comuna_label": "Comuna 5"
+  },
+  {
+    "_id": 840397818,
+    "formhub/uuid": "58407a357bcd41138f5a8fa282eb48ac",
+    "Tipo_de_derivaci_n": "derivado_por_red",
+    "fecha": "2026-08-15T00:00:00.000-03:00",
+    "apellido": "Venegas",
+    "nombre": "Osvaldo",
+    "dni": "0",
+    "comuna": "3",
+    "ubicacion": "-34.6239262 -58.3924759 41.89999771118164 11.551",
+    "seguimiento_caso": "no",
+    "nombre_brigadista": "Barrientos",
+    "lugar_intervencion": "dipa",
+    "consumo_activo": "no",
+    "riesgo_sanitario": "verde_con_pph",
+    "necesario_seguimiento": "no",
+    "derivo_same": "no",
+    "descripcion": "Masculino en sdc,por pedido de 108, se realiza el control de sv los mismos en parámetros normales , aparentemente inestable y se orina encima",
+    "__version__": "v8LbbfVhJSTVhXkSfxUzcC",
+    "meta/instanceID": "uuid:1ba30003-324a-4ac1-931d-790af34fad16",
+    "_xform_id_string": "aD4NLofRmqgQnSzc5MdqSB",
+    "_uuid": "1ba30003-324a-4ac1-931d-790af34fad16",
+    "meta/rootUuid": "uuid:1ba30003-324a-4ac1-931d-790af34fad16",
+    "_attachments": [],
+    "_status": "submitted_via_web",
+    "_geolocation": [
+      -34.6239262,
+      -58.3924759
+    ],
+    "_submission_time": "2026-08-15T03:13:09",
+    "_validation_status": {},
+    "_submitted_by": "seguimiento_casos_criticos2026",
+    "lat": -34.6239262,
+    "lon": -58.3924759,
+    "comuna_lat": -34.612,
+    "comuna_lon": -58.405,
+    "comuna_label": "Comuna 3"
   }
 ]
