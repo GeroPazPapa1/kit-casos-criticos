@@ -13,7 +13,7 @@
     "observaciones": "Se entrega kit de frío rechaza parador",
     "dni": "28294133",
     "dni_unificado": "28294133",
-    "dni_hash": "a8fd2ae3517110861f286d2c89d3030b:232f8f850ba220a0081c060e85bff242ce72e654bc9225f21919521b6f47062b",
+    "dni_hash": "31f5554ebfc18e31088d149c4804c22f:adb09e259b31faeec9f3e323c80146f1284b0476bf6497a83da27dda0653f925",
     "submission_time": "2026-06-14T04:50:44",
     "submission_time_local": "2026-06-14T01:50:44-03:00",
     "temperatura_c": 7.0
@@ -32,7 +32,7 @@
     "observaciones": "El hombre rechaza parador , refiere que tiene problemas neurologicos, no presenta DNI por sus condiciones se consulta con supervisión y se entrega un kit frio",
     "dni": "94734204",
     "dni_unificado": "94734204",
-    "dni_hash": "0865e54cf9ef51babd32647793315eb0:dab8bd4e057d670923ba4897cdc8ed9ea46a882adc9a0fa50dcef2736866f549",
+    "dni_hash": "3e03030a283b301de656935f9e87e906:acfddc6224edda2edccfc8996bd75b71acbeef5a2f6dbd97a6d38df65d545f27",
     "submission_time": "2026-06-14T08:04:44",
     "submission_time_local": "2026-06-14T05:04:44-03:00",
     "temperatura_c": 4.4
@@ -51,7 +51,7 @@
     "observaciones": "Se contacta a Benítez el cual refiere que Mariela operadora de la Red del turno mañana le realiza seguimiento. \nRechaza ingresar a un CIS.",
     "dni": "29072688",
     "dni_unificado": "29072688",
-    "dni_hash": "e323f94f9036ae159f409af6c0e5ce8a:0bc577d6606b67645bca426242e4c66fb95d8e12840f95fe49516ae713888fd3",
+    "dni_hash": "6afc2e02e042e4d003a3f256f4dd2ab8:d20317fbb3c95035116ea129bc1a568fa7d9ff4ac560cf54ea66792f2cc479c7",
     "submission_time": "2026-06-15T08:35:28",
     "submission_time_local": "2026-06-15T05:35:28-03:00",
     "temperatura_c": 2.7
@@ -70,7 +70,7 @@
     "observaciones": null,
     "dni": "35097638",
     "dni_unificado": "35097638",
-    "dni_hash": "db5ce874056a71aa5aacca8276516184:536eb5cd106c507ce0e71f6c3900b94fead4d9b5bafe7b61d246a76e6d65d3aa",
+    "dni_hash": "da4f2c1afd95159ca42f3a897fe827c6:9ca686987c14222b4f9a4511217c91963bcbd2ee62349eac5fe938e8c993e875",
     "submission_time": "2026-06-15T08:35:28",
     "submission_time_local": "2026-06-15T05:35:28-03:00",
     "temperatura_c": 2.7
@@ -89,7 +89,7 @@
     "observaciones": null,
     "dni": "31741777",
     "dni_unificado": "31741777",
-    "dni_hash": "6e947e1a5f1085e143ab2ed7bf0d46d7:356f5c7cacf3258f861dabd9f9763f396fbac2ad62b645928ce98b10c2fdc158",
+    "dni_hash": "34403f18b0fbb496053c969c07090ed7:4409fee74ce92943fde4a2083dace3c4ae5cc93878e165056ea86f9560b8dff1",
     "submission_time": "2026-06-15T08:35:29",
     "submission_time_local": "2026-06-15T05:35:29-03:00",
     "temperatura_c": 2.7
@@ -108,7 +108,7 @@
     "observaciones": null,
     "dni": "92359996",
     "dni_unificado": "92359996",
-    "dni_hash": "9fe5e05f9b24ec3297a3c180dac4e92b:1bd082de1b1e67538dc31c8056ba4e5ba2816bcc5fb489dabeb6148b5eef8e3f",
+    "dni_hash": "75a9c4c4d21d4933c7572726018923f3:e9531a8b4a5070b3436d6a0393af57e2772a94e828cca3786172387756a45f46",
     "submission_time": "2026-06-15T08:35:29",
     "submission_time_local": "2026-06-15T05:35:29-03:00",
     "temperatura_c": 2.7
@@ -127,7 +127,7 @@
     "observaciones": "El señor acepta el kit y continúa durmiendo",
     "dni": "37730986",
     "dni_unificado": "37730986",
-    "dni_hash": "cb576c3dff4505cd75fa22de95c8d7a6:7216c6680120a115d27611f598cf00c4e15d498a90e7781794e9c75955a43a1d",
+    "dni_hash": "4b5a03b80948501abf8981f6e8dfee77:7423aa4f50904f39eaff6d08d9734b768df4ca7f6a0aa4801300c7477edbabfd",
     "submission_time": "2026-06-15T08:59:22",
     "submission_time_local": "2026-06-15T05:59:22-03:00",
     "temperatura_c": 2.7
@@ -146,7 +146,7 @@
     "observaciones": "El señor se encuentra en una parada de colectivo, refiere estás bien,  rechazó Micro, pero aceptó el KIT frío, el cual le hicimos la entrega.",
     "dni": "21982383",
     "dni_unificado": "21982383",
-    "dni_hash": "c763069e3c3597d02ab44b18b20b18e8:08ea8921c81e93f44d89b3ed18a1558b19b9fe2f66a6e6528744e8c3222f04b9",
+    "dni_hash": "e6e85f5a634822a6a4e5e798ae14e22e:0538ca99b9d7adac2e56d2d2616bc22ea367137ac9035926e066fe7ee8ba9c44",
     "submission_time": "2026-06-15T08:59:22",
     "submission_time_local": "2026-06-15T05:59:22-03:00",
     "temperatura_c": 2.7
@@ -165,7 +165,7 @@
     "observaciones": "Siendo las 02:50 llegamos a Av. Brasil 1100 con la intención de encontrarnos con Luis Martinez a quien deberíamos brindarle asistencia. \nEn el lugar encontramos a la persona que la carta refiere. \nÉl se encuentra vestido con un suéter azul muy finito el cual no le está cubriendo el abdomen y parece que le queda corto. Su pantalón no llega a cubrile los talones y tiene el pie izquierdo descalzo. Está temblando del frío sus dientes crujen por el mismo.\nSe le ofrece la opción de ir a un dispositivo CIS, pero él lo rechaza porque afirma tener un lugar donde quedarse pero que por problemas de convivencia habría quedado en la calle hace rato. \nNegado a querer acompañarnos, se le deja un kit de invierno para que esté abrigado.\n\nLuis Alberto Martinez Fleitas.\nDNI: 94241132.\n18/12/1956.",
     "dni": "94241132",
     "dni_unificado": "94241132",
-    "dni_hash": "f6d01e12691ac8bd4b93ee9b5542b066:fd0e3875441519d9d7f6e94bac57dd8f6118c59f599569064671da54589df327",
+    "dni_hash": "465342f4925342cd0236ce06bbc07fb8:ee1c4d655761d3e6d9511a7cf38f0703b43a9b581e241ed8963081809896a651",
     "submission_time": "2026-06-15T08:59:54",
     "submission_time_local": "2026-06-15T05:59:54-03:00",
     "temperatura_c": 2.7
@@ -184,7 +184,7 @@
     "observaciones": "La persona se encontraba durmiendo dentro de un cajero automático del banco provincia donde se le ofreció un parador o micro y lo rechazó se le ofreció el kit de frío y fue aceptado",
     "dni": "23193527",
     "dni_unificado": "23193527",
-    "dni_hash": "f54469dc0a543392a25032249196a9dc:ca4edc01738a935875da5f1010f5174fefa42022319ef4c0ce1a0592989232a6",
+    "dni_hash": "651c38938dc77d037b43715756d6ad7e:1bc79a68265017225519902ba5b7bf554a813500a9b6a2c168bb35fe8d0acbde",
     "submission_time": "2026-06-15T09:00:05",
     "submission_time_local": "2026-06-15T06:00:05-03:00",
     "temperatura_c": 2.7
@@ -203,7 +203,7 @@
     "observaciones": "- Dirección del punto: Francisco beiro 327\n- ⁠Hora: 05:00\n- ⁠N carta: 1732445\n*.Acepta entrevista?:si \n*.Se observan pertenencias?: no\n.*Ranchada?: no\n.*Nombre, apellido, identidad de la/s persona/s: Ricardo Andrés ocampo\n.DNI :32341826\n.Fecha de nacimiento: 22/05/1986\n.Nacionalidad: Argentino\n.Trabaja: changas \n.Enfermedad: no\n. devolución: nos dirigimos a la calle beiró al 327 donde nos encontramos con con Ricardo Andrés Ocampo de 40 años donde refiere que no quiere ir a ningún parador ni micro sí se le hace entrega del kit de frío con él estaba Agustín maximiliano herarol de 24 años DNI 43404790 fecha de nacimiento 10/02/2002 argentino donde él quiere ir a un parador pero no hay más vacantes donde se le ofrece el kit de frío y fue aceptado y se retiraron del lugar",
     "dni": "32341826",
     "dni_unificado": "32341826",
-    "dni_hash": "507679731549c306a8d4b5636dd3cf41:56ba907715147b9af568f81edfaea1909e6f93833bf67b850509dd305dbe88d1",
+    "dni_hash": "b75ff280895b8f623290d74f9544fcfe:da1f1bf156f310c4e83753e781a9efc88a910800b6a26fab64be214028bc7b41",
     "submission_time": "2026-06-15T09:00:05",
     "submission_time_local": "2026-06-15T06:00:05-03:00",
     "temperatura_c": 2.7
@@ -222,7 +222,7 @@
     "observaciones": "- Dirección del punto: Francisco beiro 327\n- ⁠Hora: 05:00\n- ⁠N carta: 1732445\n*.Acepta entrevista?:si \n*.Se observan pertenencias?: no\n.*Ranchada?: no\n.*Nombre, apellido, identidad de la/s persona/s: Ricardo Andrés ocampo\n.DNI :32341826\n.Fecha de nacimiento: 22/05/1986\n.Nacionalidad: Argentino\n.Trabaja: changas \n.Enfermedad: no\n. devolución: nos dirigimos a la calle beiró al 327 donde nos encontramos con con Ricardo Andrés Ocampo de 40 años donde refiere que no quiere ir a ningún parador ni micro sí se le hace entrega del kit de frío con él estaba Agustín maximiliano herarol de 24 años DNI 43404790 fecha de nacimiento 10/02/2002 argentino donde él quiere ir a un parador pero no hay más vacantes donde se le ofrece el kit de frío y fue aceptado y se retiraron del lugar",
     "dni": "43404790",
     "dni_unificado": "43404790",
-    "dni_hash": "aca86a998e7ef2f7d522f4c4a0249e3a:2b3dfaeea8126896ec386a3328c738e9f8222a415533dbf1683412f0a09c4675",
+    "dni_hash": "f9c6808943e8ee548dbf863e48664b88:ccf211a961b1ea90361e5bcc9dbfcea96e9aa4443b560d03c39ab52868112a06",
     "submission_time": "2026-06-15T09:00:05",
     "submission_time_local": "2026-06-15T06:00:05-03:00",
     "temperatura_c": 2.7
@@ -241,7 +241,7 @@
     "observaciones": "Se contacto masculino durmiendo con cartones y mantas rechaza herramientas del programa",
     "dni": "41584613",
     "dni_unificado": "41584613",
-    "dni_hash": "c18715ad254790ca8b991136f33b5f8c:a72defbb50f0781769de2e9ad56c26fe0992542d7bf443a420bfada15f74d5c0",
+    "dni_hash": "959443eec47fe7ba067e546a73ac73a8:8a0e4b228833b5a326fba6d0afe578061c0ae62483311f83ec782f1f465c2af2",
     "submission_time": "2026-06-15T09:15:33",
     "submission_time_local": "2026-06-15T06:15:33-03:00",
     "temperatura_c": 2.7
@@ -260,7 +260,7 @@
     "observaciones": "Se contacto masculino tapado con bolsas de nylon rechaza herramientas del programa",
     "dni": "23524561",
     "dni_unificado": "23524561",
-    "dni_hash": "304b59eeedf79619f2e426e9d1ef36ef:2ff8109c023d6e50e4bd27658863f368e65a012632c4d2c80a8f701e5b592e31",
+    "dni_hash": "03c097f5afb2bfcac182d606004c1715:5e90b98dd09b538f38d7b875f83aaef9e41f91d19f4aae81c3a21a2586391985",
     "submission_time": "2026-06-15T09:15:34",
     "submission_time_local": "2026-06-15T06:15:34-03:00",
     "temperatura_c": 2.7
@@ -279,7 +279,7 @@
     "observaciones": "Durmiendo con poco abrigo",
     "dni": "30884755",
     "dni_unificado": "30884755",
-    "dni_hash": "5c3a2d05cf9e4e67290f6cc028858b03:7b5a063c772a8fd21e91d1af8a6ddf77b7ab099b5f69898dfceb0d869d473750",
+    "dni_hash": "24d4f9c0628d9c4a4b79e4aca5fd9a98:fc75a79f3a2b75af4a429ea8b9d853982eeabd185ce48018fc94e21444c0612d",
     "submission_time": "2026-06-15T09:15:34",
     "submission_time_local": "2026-06-15T06:15:34-03:00",
     "temperatura_c": 2.7
@@ -298,7 +298,7 @@
     "observaciones": "Durmiendo con poco abrigo",
     "dni": "23433031",
     "dni_unificado": "23433031",
-    "dni_hash": "ffe376edcd04c7d812a91875862e18ea:39be595d8af49e49d4afe626b8a757c2140c87c11104b516b888e3e3e99a301e",
+    "dni_hash": "5f405cfd4d3aa1f784d4f7e54174a913:943f6e7cc0a8eb157a275813d91d3b06686f49dbb702dd5c988ded79dd385b9a",
     "submission_time": "2026-06-15T09:15:34",
     "submission_time_local": "2026-06-15T06:15:34-03:00",
     "temperatura_c": 2.7
@@ -317,7 +317,7 @@
     "observaciones": "Poco abrigo",
     "dni": "34303691",
     "dni_unificado": "34303691",
-    "dni_hash": "f5bfcf4aeb4b42240eb4ccca82eddccb:80ba9924af0fe20cf17126cf7fd65d8462e6cd48450173a64dcba6976dda452c",
+    "dni_hash": "ca92ef86cefbef839472586dfe9615b1:2bf280e82ac80e8944f8e0a9daba25dd483b9f601583bd946e5ff25e0bd290d6",
     "submission_time": "2026-06-15T09:15:35",
     "submission_time_local": "2026-06-15T06:15:35-03:00",
     "temperatura_c": 2.7
@@ -336,7 +336,7 @@
     "observaciones": "Poca ropa",
     "dni": "34983795",
     "dni_unificado": "34983795",
-    "dni_hash": "8aa0183fc40dc9e31843364709ccf583:311d907f994b8b75fa8926d885fdc65e16ad0e237b3152ee7a06365fb0ca8aa8",
+    "dni_hash": "f39d860a1ddd8d060cce68d59f3705d3:afca65459b19cf16d118a15356364f0678c9a7cdc4ac136a0a546519032eddd7",
     "submission_time": "2026-06-15T09:15:35",
     "submission_time_local": "2026-06-15T06:15:35-03:00",
     "temperatura_c": 2.7
@@ -355,7 +355,7 @@
     "observaciones": "Está temblando de frío solo tiene una frazada no tiene ropa de abrigo \nTiene incontinencia renal hace un día que no come bien y no tomo líquido",
     "dni": "22885149",
     "dni_unificado": "22885149",
-    "dni_hash": "cfa62045eb7acf727fc4b5998e43dd3e:51b2b437552a521adedbcdcec25adfc671ef3776715650fbe66c275ad1a48510",
+    "dni_hash": "00ffadba044067a395ea081b2d80b14b:523c3336ed5d0ac590783391c0ea33023711048104fd9979e396eb188f62cb9d",
     "submission_time": "2026-06-15T09:16:36",
     "submission_time_local": "2026-06-15T06:16:36-03:00",
     "temperatura_c": 2.7
@@ -374,7 +374,7 @@
     "observaciones": "En situación de calle",
     "dni": "24940847",
     "dni_unificado": "24940847",
-    "dni_hash": "f3ac08d55a6b38592c05ef097ba8c03f:700a2a5d186f5c93885eb3dee990bd17e39e32e26a248fe92c56d8c7e42d26f8",
+    "dni_hash": "122462f724f96d2b12b566bb13b10085:e9dfb6b06eba2718dfd0f0ff7a5b8ea7c2511b8f47a76c076f99b6e8c666d268",
     "submission_time": "2026-06-15T10:35:06",
     "submission_time_local": "2026-06-15T07:35:06-03:00",
     "temperatura_c": 2.3
@@ -393,7 +393,7 @@
     "observaciones": "Si",
     "dni": "26078695",
     "dni_unificado": "26078695",
-    "dni_hash": "2ec8b939f45bcce048c4b18ea211fb09:6832953fea85b72cab40c53e019435e603d96b4067e820ce4788639f9499b6c4",
+    "dni_hash": "50faccd503afb34c9a665965f800be48:47a9c2ffde9c3f9a0034782453c4e645ae74405e831367d2858b7dd1687ba3c9",
     "submission_time": "2026-06-15T10:35:06",
     "submission_time_local": "2026-06-15T07:35:06-03:00",
     "temperatura_c": 2.3
@@ -412,7 +412,7 @@
     "observaciones": "Si",
     "dni": "29995284",
     "dni_unificado": "29995284",
-    "dni_hash": "dd847b727329d88e47a26c82eddaf928:3bff1c8c24b08bf6c4612b9065c445f73806a811849d4cc1240d011f20676e6d",
+    "dni_hash": "0284dc70dc7d8c78f5b2f95c8455001f:fabda37a736dca174a7ef6fa1c52a8aa47c2742b782e8095870d4c08e5b1695a",
     "submission_time": "2026-06-15T10:35:06",
     "submission_time_local": "2026-06-15T07:35:06-03:00",
     "temperatura_c": 2.3
@@ -431,7 +431,7 @@
     "observaciones": "rechaza asistencia, acepta kit frio",
     "dni": "26707253",
     "dni_unificado": "26707253",
-    "dni_hash": "a4392a47d8b231ff1f67e670353a41da:10bd9a6d7120b7811b59b526e3d9d4140cc1ed215db2264585b2a4d79518e9fe",
+    "dni_hash": "9c2a02bcf45b0feb541ef29131da0560:3eb7dc2d76a1bdc03c5a1f1e2991cb3628358c5e7f241dd756f364808e461702",
     "submission_time": "2026-06-23T08:43:55",
     "submission_time_local": "2026-06-23T05:43:55-03:00",
     "temperatura_c": 4.4
@@ -450,7 +450,7 @@
     "observaciones": "rechaza asistencia, pero acepta kit frio",
     "dni": "29570262",
     "dni_unificado": "29570262",
-    "dni_hash": "28fd12db5898d95131f9c9d2a3b2698d:7972d13fa1a0b4df06b36234dba5851f371a5802c2dd381f6e07ccb3bd08ba5f",
+    "dni_hash": "7cb783ab2cef2a0d892b0acbed7f9018:2138266cbd9522088efae5e6392f4c990cacf686070756a61f3b4615e2fcdd94",
     "submission_time": "2026-06-23T08:43:55",
     "submission_time_local": "2026-06-23T05:43:55-03:00",
     "temperatura_c": 4.4
@@ -469,7 +469,7 @@
     "observaciones": "acepta entrevista, también acepta kit frio",
     "dni": "20718712",
     "dni_unificado": "20718712",
-    "dni_hash": "6f2a6075ad5e86c90bcc96e0d86718eb:5fda064768ce253a74c997e36871eb8b51a5bd6e6f619cd1174868eb16ba697a",
+    "dni_hash": "5ebfa63abaf8b6cd80a089bde48f8b45:96491632a9b0b2a87585acdac421f08ec58deccb9ded675742e9bf4576888bd5",
     "submission_time": "2026-06-23T08:43:55",
     "submission_time_local": "2026-06-23T05:43:55-03:00",
     "temperatura_c": 4.4
@@ -488,7 +488,7 @@
     "observaciones": "Carta: 1743273\nNombre y apellido: Victor Hugo Alcántara Justiniano \nDNI: 94967595\nFN: 13/10/1991\nEdad: 35\nNacionalidad: Argentino\n\n*Autovalido*:\nPuede cama arriba: si\nPuede subir escaleras: si\nMedicación: no\nTiempo en calle: 2 años\nMotivo: económicos \nCobra beneficio del Gobierno: ciudadanía Porteña \n/último cis: la boca\nTrabaja: si. Lavadero de autos en guardia vieja (Once) de lunes a lunes con franco semanal de 8 a 20hs\nBaston: no",
     "dni": "94967595",
     "dni_unificado": "94967595",
-    "dni_hash": "fe58edd3f71c784e611db8ae0a385f0d:4b514cc12c15015eef6c8d0eef4d7b0a6a2e99142002dcc3c3a547cd7e4e75f6",
+    "dni_hash": "644aa727c147dd61dc6bba4b513328c8:8cec0012b151b0b92d4525d4c14d75b91b97831bb4edd3442afc9029f4ef3729",
     "submission_time": "2026-06-24T08:23:39",
     "submission_time_local": "2026-06-24T05:23:39-03:00",
     "temperatura_c": 3.7
@@ -507,7 +507,7 @@
     "observaciones": "Carta: 1743273\nNombre y apellido: Darretche Nicolás \nDNI: 48526702\nFN: 05/03/2008\nEdad: 18\nNacionalidad: Argentino\n\n*Autovalido*:\nPuede cama arriba: si\nPuede subir escaleras: si\nMedicación: no\nTiempo en calle:  5 meses\nMotivo: económicos \nCobra beneficio del Gobierno: no\n/último cis: renacer\nTrabaja: si. Sánchez de loria y garay en lavadero de autos de lunes a lunes con franco semanal de 8 a 20hs\nBaston: no\nSe entrega kit de igual modo solicita cis",
     "dni": "48526702",
     "dni_unificado": "48526702",
-    "dni_hash": "17043c1c5f4661df69870bc56ee053fc:f6de73f4cbb66a0a3233f01b01f5812c09e541d29a9b8e7d45369ac5838e6326",
+    "dni_hash": "10756b7be7e9f1266e8e2e6e6c8d3b1f:d90acf885ee52d8afd0ad0f2265637da9aef64d4fd98333b2875b63168287a4a",
     "submission_time": "2026-06-24T08:23:40",
     "submission_time_local": "2026-06-24T05:23:40-03:00",
     "temperatura_c": 3.7
@@ -526,7 +526,7 @@
     "observaciones": "Carta: 1743273\nNombre y apellido: Carreras Rodríguez Agustín \nDNI: 5354043-1\nFN: 06/06/2003\nEdad: 23\nNacionalidad: Uruguay \n\n*Autovalido*:\nPuede cama arriba: si\nPuede subir escaleras: si\nMedicación: no\nTiempo en calle:  2 meses\nMotivo: económicos \nCobra beneficio del Gobierno: no\n/último cis: tacuari\nTrabaja: si. Pintor en Av san Juan y tacuari de lunes a viernes de 9 a 15hs (en lo posible CIS cercano al trabajo)\nBaston: no. \nSe entrega kit. A la espera de vacante cis",
     "dni": "53540431",
     "dni_unificado": "53540431",
-    "dni_hash": "1f5a8646101a5c219f20cc985097aca1:98affbbb0cde58d36f0fab1ff5ff8846fc15f0a5700c21bf5c06c0d79b7ecca2",
+    "dni_hash": "64e387067e04be34b19c4268cbcd7f1a:5a6d78e4794cf05b516fe1aa842453750631a77d29cf25939e843a085b0d350e",
     "submission_time": "2026-06-24T08:23:40",
     "submission_time_local": "2026-06-24T05:23:40-03:00",
     "temperatura_c": 3.7
@@ -545,7 +545,7 @@
     "observaciones": "Carta: 1743273\nNombre y apellido: Ramirez, enzo\nDNI: 37118201\nFN: 26/01/1993\nEdad: 33\nNacionalidad: Argentino \n\n*Autovalido*:\nPuede cama arriba: si\nPuede subir escaleras: si\nMedicación: no\nTiempo en calle:  4 años\nMotivo: económicos \nCobra beneficio del Gobierno: pensión por disminución auditiva y ciudadanía porteña\n/último cis: retiro\nTrabaja: no\nBaston: no\n\nSe entrega kit. Continúan a la espera de vacante",
     "dni": "37118201",
     "dni_unificado": "37118201",
-    "dni_hash": "47392f7111490181b77163f25c121bed:7602314cc0d7ecd1392737cf3bebea81c5a264101a85c364c9e106fd2a386c79",
+    "dni_hash": "9e99839389cc14bea6491780d79897a7:849c0c84d97ae616a6c1f341ff989014f233cc4a31ba69721bb27e360e090c03",
     "submission_time": "2026-06-24T08:23:40",
     "submission_time_local": "2026-06-24T05:23:40-03:00",
     "temperatura_c": 3.7
@@ -564,7 +564,7 @@
     "observaciones": "Rechaza asistencia, acepta kit frio",
     "dni": "35033180",
     "dni_unificado": "35033180",
-    "dni_hash": "985030b1c0c11c93a8ff90a180bee023:ac5121116d917a9b7e2e472b149fd65d740d37b5f70f8c98d08398d2fa9849bb",
+    "dni_hash": "8078d3fc6a9070dd7bded23eb7741bfd:99bad4d12761d39155d3bfde4586daa5ffb02f259884dcc7e24f8f6911a10858",
     "submission_time": "2026-06-24T08:46:16",
     "submission_time_local": "2026-06-24T05:46:16-03:00",
     "temperatura_c": 3.4
@@ -583,7 +583,7 @@
     "observaciones": "Rechaza asistencia, pero acepta kit frio",
     "dni": "32484636",
     "dni_unificado": "32484636",
-    "dni_hash": "4df5b31a7926fc91459baf4f21e320a1:ff15a5c44aa1382abe6aa0d188ff97d9240074fd5ec055830e47f4f6aa9e829f",
+    "dni_hash": "07e826adaea57eb93980b86c308c7c3e:e0b22fe699087877b8d90e17d6e03620cfcd954761133c251014f6ae772b858f",
     "submission_time": "2026-06-24T08:46:16",
     "submission_time_local": "2026-06-24T05:46:16-03:00",
     "temperatura_c": 3.4
@@ -602,7 +602,7 @@
     "observaciones": null,
     "dni": "25703279",
     "dni_unificado": "25703279",
-    "dni_hash": "f8a73be4066bc7c09a5640829995d8a7:e808bec1e5b6b32465e48ca4cbf2bdd7d253e96ba8573eb489784833cfbf4192",
+    "dni_hash": "9668fe238adaa81e9a9597bb2bf1d65e:0bf6c85a429a48a404b88806206e839d2f2a76591d206037f2da1a3e5e3f3e7e",
     "submission_time": "2026-06-24T08:54:02",
     "submission_time_local": "2026-06-24T05:54:02-03:00",
     "temperatura_c": 3.4
@@ -621,7 +621,7 @@
     "observaciones": "Dirección del punto:\nVirrey Arredondo y cabildo \nFecha : 24/06/26\nHora de intervención: 04:35 y finalización 04:53\nN de carta :1743269\n\nMujer de 58 años , en situación de calle , tapada con una frazada .\n\n\nResolución \nel equipo de Red de atención arribo al lugar mencionado en la carta y contactamos a una señora de 58 años , la cual nos comenta que va a quedarse allí hasta las 06 porque luego se retira. \nRechaza la asistencia del programa, le quisimos brindar el kit de invierno pero no nos quiere proporcionar datos. \nSe l{ brindamos de igual manera, lo acepto contenta \n\nSugerimos evaluación de salud mental, ya que habla de una presunta  usurpación de un señor llamado  Pablo y nos pide que lo saquemos del lugar .\nPareciera divagar , porque luego habla de su madre  . Rie y luego nos dice que nos vallamos que ella no es un delincuente.",
     "dni": "99999999",
     "dni_unificado": "99999999",
-    "dni_hash": "081180395e4180de4db3b59ba819e2ad:38cc2f7419f81ff35d1690da548206012ce07da2e09c59471138c35e0be7f052",
+    "dni_hash": "9484b9fecba88b7173d11348af01c035:4a014d0f13b923e6d3a72a48af9e42db86cf940bd7676545c90e44f71dfecd68",
     "submission_time": "2026-06-27T01:25:51",
     "submission_time_local": "2026-06-26T22:25:51-03:00",
     "temperatura_c": 11.3
@@ -640,7 +640,7 @@
     "observaciones": "El SEÑOR HACE 4 AÑOS QUE ESTÁ EN SITUACIÓN DE CALLE NO TIENE TRABAJO. DESEA VACANTE ESTÁ CON SU PERRITO. SE INFORMA AL SUPERVISOR A CARGO PERO NO HAY VACANTE A CIS. SE LE ENTREGA EL KIT FRIO Y SIGUE CON RUMBO DESCONOCIDO",
     "dni": "33247176",
     "dni_unificado": "33247176",
-    "dni_hash": "c398488ff8be43e4df3d2386d2057613:a810c8c264bb39d5cd86db9150dd54b4ce44bbbc0e8a4640e251bd3f0773336d",
+    "dni_hash": "6cfed1482a38937e7f10005fcebb0b7e:fd7f0f17b2bd057c53b858f12231c61cccf727ad83bd5496ef25242411b842cd",
     "submission_time": "2026-07-02T10:29:36",
     "submission_time_local": "2026-07-02T07:29:36-03:00",
     "temperatura_c": 2.3
@@ -659,7 +659,7 @@
     "observaciones": "EL EQUIPO DE RED DE ATENCIÓN ACUDE AL PUNTO ASIGNADO POR CARTA ES UN SEGUIMIENTO PARA EVALUACIÓN. EL SEÑOR RECHAZA TODA AYUDA BRINDADA TUVO MALA EXPERIENCIA EN LOS CIS ADEMÁS SE ENCUENTRA BAJO LOS EFECTOS DEL ALCOHOL,ES MUY AMABLE. ACEPTA KIT FRÍO Y EL SEÑOR QUEDA MUY CONTENTO Y SE EMOCIONA. LLAMARÁ AL 108 POR SUGERENCIA DE LA OPERADORA PARA PODER REENCAUSAR SU VIDA. EL EQUIPO PROSIGUE CON SU LABOR.",
     "dni": "30278920",
     "dni_unificado": "30278920",
-    "dni_hash": "00001cf65f60c89934e9dd3c06b24a3d:07f975b324f2f453fb0290e15aab6a76acc6905b874a20f9cd52df4a950eaa93",
+    "dni_hash": "05af0e0b72e82106ce12cefcc2c92073:eb64dc3211e8a48857ca518f06d8a9ecde8d1f5519e432c5198817433266e0ea",
     "submission_time": "2026-07-02T10:29:36",
     "submission_time_local": "2026-07-02T07:29:36-03:00",
     "temperatura_c": 2.3
@@ -678,7 +678,7 @@
     "observaciones": "El joven desea ser ingresado a Cis",
     "dni": "38913303",
     "dni_unificado": "38913303",
-    "dni_hash": "76b6987447e05344abd910eff36cd348:38d905a588d6f0353beb3b92946eee346d4db2588c83634b8e450fd502eccea4",
+    "dni_hash": "917020c662e2568d7c37fbb1657e58ac:a4dc99ff00db87551fc38d9c6be0425d06b41dcf44e43e6c9e8152832cd2ea02",
     "submission_time": "2026-07-02T10:29:37",
     "submission_time_local": "2026-07-02T07:29:37-03:00",
     "temperatura_c": 2.3
@@ -697,7 +697,7 @@
     "observaciones": "El joven desea ser ingresado a Cis",
     "dni": "40747413",
     "dni_unificado": "40747413",
-    "dni_hash": "af7beab6346dadf31ab1dc2f3df7aa21:5b308c0801691e52ecc1d41b9691bb5ee7094cde9a8c98eb281eae19f3bfa093",
+    "dni_hash": "554aa0cd6fd9d22cec3a620302edce02:dc28172a2fc47c908e0b49b1bbaf7885f74f9bdc899f0e29fd05ce4393b267dc",
     "submission_time": "2026-07-02T10:29:37",
     "submission_time_local": "2026-07-02T07:29:37-03:00",
     "temperatura_c": 2.3
@@ -716,7 +716,7 @@
     "observaciones": "El joven desea ser ingresado a Cis",
     "dni": "34691167",
     "dni_unificado": "34691167",
-    "dni_hash": "8f82a68f696d2a865c1c29d14fb4af61:054c1baa30707751f0f75daeb43088194b7986eb819d609a783719f05e3e9db0",
+    "dni_hash": "c3410ee626fc3d00ee0eecc6088c8c53:9293962b741cd4d8007185bb1f2ddde92e1dd92e1f280bcdd8a25a45099a2da9",
     "submission_time": "2026-07-02T10:29:38",
     "submission_time_local": "2026-07-02T07:29:38-03:00",
     "temperatura_c": 2.3
@@ -735,7 +735,7 @@
     "observaciones": "Espontáneo se realiza pedido de Cis. Se entrega kit ya que no tenía ropa de abrigo",
     "dni": "29572984",
     "dni_unificado": "29572984",
-    "dni_hash": "fb4fc99936cdbd8f635a14453097d4fe:2aaf2fc7beaa391986ca4e86f81408ecbc51ece61f799e21492032986f2f3077",
+    "dni_hash": "ab99b9f132a8c95027eb4c27f344b53a:79f1758cb7fc8874f749a6eb485b34f2916b5442a4bff1d778f08f4d9e087af0",
     "submission_time": "2026-07-02T16:57:14",
     "submission_time_local": "2026-07-02T13:57:14-03:00",
     "temperatura_c": 7.7
@@ -754,7 +754,7 @@
     "observaciones": "No cuenta con dni ni esquema toma Clonazepam 2 MG se entrega kit",
     "dni": "24435691",
     "dni_unificado": "24435691",
-    "dni_hash": "1813506ee41a7a2635099cfd724c0eb8:5dc318215df07e9dd6e97619ed8dc6dedd9df20ceddae6a526632ec2c552af0d",
+    "dni_hash": "3f51acb1c60ec5619b0a4e8da605e3eb:7e6518d781d212eedaf96c16d22bbda9e67ad8673ce7542d1d30e90e91b72c29",
     "submission_time": "2026-07-02T16:57:14",
     "submission_time_local": "2026-07-02T13:57:14-03:00",
     "temperatura_c": 7.7
@@ -773,7 +773,7 @@
     "observaciones": "Nombre y apellido:  Alfredo Hernan Sotelo\nDNI: 23148698\nFN: 06/06/1973\nEdad: 53\nNacionalidad: Argentina: Argentina\n\n*Autovalido*: Si \nPuede cama arriba: No, refiere que debido a que padece Epilepsia,cuando se levanta se marea y ya se ha caído \nPuede subir escaleras: si\nMedicación:   Divalproato de Sodio. Improval 500mg  Carbamazepina 200mg Clonazepam :2 mg ,no posee esquema \nTiempo en calle: Desde Abril 2026\nMotivo:  Problemas Familiares \nCobra beneficio del Gobierno: Ciudadanía Porteña \nPrimera vez en cis/último cis:Cis Brasil ,hace 15 días , por mala convivencia  \nTrabaja:  No\nBaston:No\nTras gestionar y no contar con cama baja , se le informa que apenas salga la vacante CIS Cama Baja, se lo buscará en Hospital Argerich .\nEl Sr, Sotelo , afirma que esperara en al guardia de dicho nosocomio .\nSe le hace entrega de Kit de Frío",
     "dni": "23148698",
     "dni_unificado": "23148698",
-    "dni_hash": "d675c2ff2f5ab23db791ddb21764dc75:21fd48f8109f3fabd3b61087b841945c7b8de6093673cdaa0e9224f39f74fce7",
+    "dni_hash": "7fa002dfbdfe5b58f303c39bc49ccfb8:d772d79e0e5b168c5f96bcfb520fddab57146a4a8d7db8dd3c13fbd6a765dfec",
     "submission_time": "2026-07-02T17:01:07",
     "submission_time_local": "2026-07-02T14:01:07-03:00",
     "temperatura_c": 7.7
@@ -792,7 +792,7 @@
     "observaciones": "Masculino en situación de  calle sin abrigo  , con mucho frío oficial le preparo un cafe",
     "dni": "39292208",
     "dni_unificado": "39292208",
-    "dni_hash": "d4bfe017d4dd56c19f5f2af0734710ca:1d23bf876e81740f6d0af1b4c066febd3fee81075e1878104278d4accbc21f06",
+    "dni_hash": "b145834e2c4ab16f3d8a3622401ea935:8702622aca1b27e41209104471356a3abd80b519970c90b49fb9bf0d957c6a81",
     "submission_time": "2026-07-02T17:02:11",
     "submission_time_local": "2026-07-02T14:02:11-03:00",
     "temperatura_c": 7.7
@@ -811,7 +811,7 @@
     "observaciones": null,
     "dni": "22004982",
     "dni_unificado": "22004982",
-    "dni_hash": "56be984fda14346b9b97ce42d89000c5:8b410a43c547dd7ddb265a2579c7a6ae24ef0a7fd4d451d77bf00404af8dd998",
+    "dni_hash": "d99c0ecc7bad1eb99326f7af88ae47ef:fa550bdabb383d9cf912f35e09a8cb0d4b412509499c87c5f65a7affa65a50fc",
     "submission_time": "2026-07-02T17:03:51",
     "submission_time_local": "2026-07-02T14:03:51-03:00",
     "temperatura_c": 7.7
@@ -830,7 +830,7 @@
     "observaciones": null,
     "dni": "19090757",
     "dni_unificado": "19090757",
-    "dni_hash": "b2b25fb9c5b854667af0431ad6568062:287d308e06bff45727bf2ebe538b98508324ae147d982243370557c002156db5",
+    "dni_hash": "07522f506d3e5557033a50f636d777a7:0173ca42f502b2b71d41e297c3df5889aa7d64273102170537613e75a4170742",
     "submission_time": "2026-07-02T17:03:52",
     "submission_time_local": "2026-07-02T14:03:52-03:00",
     "temperatura_c": 7.7
@@ -849,7 +849,7 @@
     "observaciones": null,
     "dni": "25848247",
     "dni_unificado": "25848247",
-    "dni_hash": "75123b69f0677d7cbf322ac4c4b710f0:893e340f44d9b37e9d8e246cf85ffa5badef38972a485d4272a18845b733ff7d",
+    "dni_hash": "67be01d020493b49924f283d3536cf26:5774243aec803c8cf968756dcb70e6435b1351200ed5ba276aa30c050dc61be2",
     "submission_time": "2026-07-02T17:07:46",
     "submission_time_local": "2026-07-02T14:07:46-03:00",
     "temperatura_c": 7.7
@@ -868,7 +868,7 @@
     "observaciones": "Vino de entre ríos para trabajar , hace cuatro meses cuida a una señora y hoy la señora no le quiere abrir la puerta",
     "dni": "27507303",
     "dni_unificado": "27507303",
-    "dni_hash": "489fa075b38efb9119ce12ad63101888:fe77dc8ead5769490d54dbcd0bcd625cd00029c92b9bea6e080b8522c4d23ee1",
+    "dni_hash": "7932a520701169602d95fbce4ee34de5:9e272d0e596406ac1980bf78cdc7fa7b780abb36aeec2c8f77777469fcca6af6",
     "submission_time": "2026-07-02T17:14:17",
     "submission_time_local": "2026-07-02T14:14:17-03:00",
     "temperatura_c": 7.7
@@ -887,7 +887,7 @@
     "observaciones": "*Dirección del punto:*\nPaseo colon & Carlos calvo\n Comuna 1 \n*Hora:* 23:36\n*N° de carta:* 1733962\n*OP*/ Amarilla Agustína \n*Chófer* Eiroa Agustín \n*Móvil* GE \n*Nombre, apellido, identidad de la/s persona/s:*\n*Lugar de procedencia de la/s persona/s:*\n*Resolución y observaciones:*\nLlegamos a la dirección referída y no se contacta a ninguna persona, tampoco se observan pertenencias en el lugar \n\nSiendo las 23:42 nos retiramos",
     "dni": "9999999",
     "dni_unificado": "9999999",
-    "dni_hash": "d8f3cb96d44fc9c21e337acac31c298c:487445726ed285765a941b0e235856be5427bdeb3f91ffecf84737dfa840bfab",
+    "dni_hash": "c71cb65884eb60900e0740445f745441:1e2883448f634f06a41695d268cf4fbe229cda71bb522f1351eb0bce3f1e0945",
     "submission_time": "2026-07-02T17:17:13",
     "submission_time_local": "2026-07-02T14:17:13-03:00",
     "temperatura_c": 7.7
@@ -906,7 +906,7 @@
     "observaciones": "El referente se observa en situación de emergencia habitacional padeciendo vulnerabilidad social recostado en vía pública junto con pertenencias (colchones y mantas). Al mismo se lo puedo observar bajo consumo de sustancias psicoactivas motivo por el cual el único recurso brindado que se le puede ofrecer en el momento del arribo es la entrega del kit frío que se realiza por las bajas temperaturas de la temporada. Se gestiona solicitud con supervisión quien permiten la entrega.",
     "dni": "32906224",
     "dni_unificado": "32906224",
-    "dni_hash": "619feea5163a96c6a6b334b9d24fb2df:d2d382770cec6500651eab08ba9904105f77cb0260fa940db8e5394b728dbf88",
+    "dni_hash": "6499ba6d2c6f4f2f3f71e6df4c9732cd:a2d83e2fd4f697a9239709b215249cd36179e1ca1ff1e71cf88ec051bfe9a717",
     "submission_time": "2026-07-02T17:17:13",
     "submission_time_local": "2026-07-02T14:17:13-03:00",
     "temperatura_c": 7.7
@@ -925,7 +925,7 @@
     "observaciones": "Se logró contactar a la beneficiaria en la dirección",
     "dni": "95411069",
     "dni_unificado": "95411069",
-    "dni_hash": "b9fa2e521c5cb1307e47c6f9f0d1849d:bcf77c532535083acf6c6af899edd8b059f03a18dd43b1e0f14d16d0e265e429",
+    "dni_hash": "3a000e948b921f929c798def40aac8c2:f23d1c2302195a6e06132af30dd7c34777312dbfbf158ce7a4f09df184fa4fc9",
     "submission_time": "2026-07-02T17:18:43",
     "submission_time_local": "2026-07-02T14:18:43-03:00",
     "temperatura_c": 7.7
@@ -944,7 +944,7 @@
     "observaciones": "Se le entrega 3 kit de frío \nYa que estaba con dos menores de edad de 3 años \nEnzo Benjamin Córdoba \nedad : 3 años \nDNI : no se acuerda \nGénesis Nerea Córdoba \nEdad : 3 años \nDNI : no recuerda",
     "dni": "43506509",
     "dni_unificado": "43506509",
-    "dni_hash": "0421348a12c2d40ffaa551bd675a4c71:12cfad12d11269c87895f9d60894b8b40e424da60c5de7ef9d762a9298d248c2",
+    "dni_hash": "5df297b26981e2137585377418a1cba7:cbccb78b22e306328a853af712b80ad97eca99026e08469693e37fa23c534b51",
     "submission_time": "2026-07-03T04:57:21",
     "submission_time_local": "2026-07-03T01:57:21-03:00",
     "temperatura_c": 2.0
@@ -963,7 +963,7 @@
     "observaciones": "El señor aborda al móvil se le ofrece toda herramienta del gobierno cis micro dipa. Pide manta se le ofrece kit",
     "dni": "38575934",
     "dni_unificado": "38575934",
-    "dni_hash": "bee597ac746e2d938c30a169573d6d3a:9d1a93c2d9c54c4957e3fd759566c98b68edcd156818eefcf6e77242339516ca",
+    "dni_hash": "418b60ea0411668d8f37f32ad4bd83f0:e2513bd3061cad41cdd4ec602dcf881abb6030cc12f5df80ba87d90e6f1583e2",
     "submission_time": "2026-07-03T05:01:05",
     "submission_time_local": "2026-07-03T02:01:05-03:00",
     "temperatura_c": 2.0
@@ -982,7 +982,7 @@
     "observaciones": "El señor aborda al móvil se le ofrece toda herramienta del gobierno cis micro dipa,rechaza todo.Pide manta se le ofrece kit frío",
     "dni": "41498534",
     "dni_unificado": "41498534",
-    "dni_hash": "a2dfb670e365172f073b9911d72f9daa:a10326bdb848ce45656a5eb7172374e6148f77290de30e53c435beaeb1df25b1",
+    "dni_hash": "30b3b9f6d7771b280fc29caf4b604ff7:7bba55ae0e353c9b896a4a3c58fb7cd62658cf5115637f372a72a38312974ff5",
     "submission_time": "2026-07-03T05:01:05",
     "submission_time_local": "2026-07-03T02:01:05-03:00",
     "temperatura_c": 2.0
@@ -1001,7 +1001,7 @@
     "observaciones": null,
     "dni": "32557584",
     "dni_unificado": "32557584",
-    "dni_hash": "a81a6a5de3e8372d7f7d156b1b226d48:a05ac94602686bf6f0e1a40c54cbe6841ef64c1d7b80560673b80c773a4867d2",
+    "dni_hash": "0b1f71316bd4e2a9e71e6ec75fa8b5c2:f72ba4199edba71dff1c979ba91693a6bdb98d57988c9f8b6e2f9f3dbed45159",
     "submission_time": "2026-07-03T05:37:50",
     "submission_time_local": "2026-07-03T02:37:50-03:00",
     "temperatura_c": 1.1
@@ -1020,7 +1020,7 @@
     "observaciones": "Se hace entrega del kit frío. \nRechaza toda asistencia, DIPA, CIS, Micro.",
     "dni": "9271316",
     "dni_unificado": "9271316",
-    "dni_hash": "f1c9879520b21ccc42d222fdfcd41373:644bc248c75cb63e934b7df49f67df0047dc738276e7006683e63c4c23473955",
+    "dni_hash": "dfd43e2071d407c17d782774af9ef53b:c31b14a2236984ef23c4075e1a40aa4670697cb84a7ab6f9d9edb031a630b07c",
     "submission_time": "2026-07-03T06:02:02",
     "submission_time_local": "2026-07-03T03:02:02-03:00",
     "temperatura_c": 1.1
@@ -1039,7 +1039,7 @@
     "observaciones": "Rechaza programa, Acepta Kit Frío",
     "dni": "41549822",
     "dni_unificado": "41549822",
-    "dni_hash": "56a6ffde536421872c7a4219d0e90efe:4d2659f0dfbb00666903722e65882ee855646d6e6770d78167fe5a73d6b94e7a",
+    "dni_hash": "4adf83f8ba8f075094f70bae133c2984:0e0ac0d610e9c52e38ad894944f2789eaada2136ba3eb466c32397f495a0f244",
     "submission_time": "2026-07-03T06:02:02",
     "submission_time_local": "2026-07-03T03:02:02-03:00",
     "temperatura_c": 1.1
@@ -1058,7 +1058,7 @@
     "observaciones": "Rechaza programa, acepta kit frio",
     "dni": "34265558",
     "dni_unificado": "34265558",
-    "dni_hash": "c86d948d3b6a3163d90c3aa4a6039ca9:9acecfd92d4839ce57d1d939e39514fbffaef3ccfb24bed1cac9cd0db204a931",
+    "dni_hash": "b566de61aaeb5d075a32fa7b7456652d:d895546810f7692e68672c3841cac15f186cbe951431d5babcbef69ffb4cbd56",
     "submission_time": "2026-07-03T06:02:03",
     "submission_time_local": "2026-07-03T03:02:03-03:00",
     "temperatura_c": 1.1
@@ -1077,7 +1077,7 @@
     "observaciones": "Rechaza programa, acepta kit frio",
     "dni": "42028615",
     "dni_unificado": "42028615",
-    "dni_hash": "d98c6d58a70dfb80ff57d4aef2eecd18:7502a6959aa2cf2ec10e92a03c401a11ef8d124a9c4116a1964062a9f2f1628c",
+    "dni_hash": "72247ddc5b601aac11b8c612d31a2393:50cce016953d36c165e493bfa3595bbb86b59b2276170556ea2fe498d60bfad0",
     "submission_time": "2026-07-03T06:02:03",
     "submission_time_local": "2026-07-03T03:02:03-03:00",
     "temperatura_c": 1.1
@@ -1096,7 +1096,7 @@
     "observaciones": "Se hace entrega de kit \nRechaza cualquier tipo de ayuda del programa.",
     "dni": "95241849",
     "dni_unificado": "95241849",
-    "dni_hash": "2a2ac159b967193f0c3f93ffdc5e3cf7:fce8b3e63bf2966b4351c9de5d639ad850a4cca6018b1af0d3d9057778f477c2",
+    "dni_hash": "f8292ca5cdc73dc53000922b5050b775:61ebbf392dfe1346514b019e151c7b1407927402f475e5a6b5767402da841a23",
     "submission_time": "2026-07-03T08:31:53",
     "submission_time_local": "2026-07-03T05:31:53-03:00",
     "temperatura_c": 0.5
@@ -1115,7 +1115,7 @@
     "observaciones": "Ninguna",
     "dni": "29601024",
     "dni_unificado": "29601024",
-    "dni_hash": "10baceaafb684efcbd1b9adee4b09e9a:afae650ea816af65fd59f1e9b3b4e7567ac16412645b5a14bfea5426cca7c724",
+    "dni_hash": "58679365a6117f456d940f14ff54f072:d8cc5eddfa095d4cf0fdeb190a4517eec9858382589035d9f637c5af6eeb1747",
     "submission_time": "2026-07-03T08:45:06",
     "submission_time_local": "2026-07-03T05:45:06-03:00",
     "temperatura_c": 0.5
@@ -1134,7 +1134,7 @@
     "observaciones": "No",
     "dni": "37424172",
     "dni_unificado": "37424172",
-    "dni_hash": "15f9aeae5ba812defba4e51cab31d40f:2452f98cbb077053aedc42c235d80be4787a0370ae70f7cf91207b1ebafa8d0c",
+    "dni_hash": "6fae753943ac0bb51fc9fc6de8859295:b2f84e9b77aa2aa02ae8aa7c8ffa569b8cdb81836085e552782336734d161400",
     "submission_time": "2026-07-03T08:45:06",
     "submission_time_local": "2026-07-03T05:45:06-03:00",
     "temperatura_c": 0.5
@@ -1153,7 +1153,7 @@
     "observaciones": "No",
     "dni": "35409889",
     "dni_unificado": "35409889",
-    "dni_hash": "632d83e1299cca2f8e1636a55d3cd858:b10881c0034fb40432d10f805e51785f9a102830c65527a3215df72f40b520fc",
+    "dni_hash": "8fa4d0319059ca6edde8ad727a2c0f6f:67c55ffa4fbb7ec408d552825371086bf5dbc287a0dc23ca61f99c865277ca63",
     "submission_time": "2026-07-03T08:45:07",
     "submission_time_local": "2026-07-03T05:45:07-03:00",
     "temperatura_c": 0.5
@@ -1172,7 +1172,7 @@
     "observaciones": "Discapacidad: retraso madurativo",
     "dni": "37261427",
     "dni_unificado": "37261427",
-    "dni_hash": "fce2aa1d0cdcfd7b2cd51428f61c689e:a14ed7a1e3bdcac68cd7101aac38f5b703968510207c72397ffb377f69b378ac",
+    "dni_hash": "c5e5d156f9a4457333e32856b204b61d:16b259b49ea5df7539d52aa46a39febb91b6990c16650e46e60df3e9ce375d78",
     "submission_time": "2026-07-03T08:45:07",
     "submission_time_local": "2026-07-03T05:45:07-03:00",
     "temperatura_c": 0.5
@@ -1191,7 +1191,7 @@
     "observaciones": "Rechaza programa. Acepta Kit Frío.",
     "dni": "34950152",
     "dni_unificado": "34950152",
-    "dni_hash": "ca86e2ba922ff88cbaa0360c27e4ab7c:58fd5fa671ef6fcedc26ba7eb26e2dfb5b6c3542868d66ba69b5c6a32b3db28b",
+    "dni_hash": "29f9f702efea377a8397af09fb02f968:0fd6251e40f8cc88f098def2a77d70e36f9aa2b90ed721576f64619b3d966629",
     "submission_time": "2026-07-03T09:10:27",
     "submission_time_local": "2026-07-03T06:10:27-03:00",
     "temperatura_c": 0.5
@@ -1210,7 +1210,7 @@
     "observaciones": "En el recorrido del equipo \nSandoval para espontáneamente al móvil solicitando abrigo o frazadas.\nLe ofrecimos kit frío y lo aceptó.",
     "dni": "21462463",
     "dni_unificado": "21462463",
-    "dni_hash": "96fcb102190bbfe083a35366dccf6cc0:f2e8cbbe78048cfcb6d049fc22bbad8f85c3cbe796461bad4b729e3a1d7ebfe4",
+    "dni_hash": "9fd650220862e4d533a1f6baa170ffcd:b3de7016b8b5b05d17389c61534ddc0f6d2b76a112dc0c1bc992ac57a5b51705",
     "submission_time": "2026-07-04T03:37:20",
     "submission_time_local": "2026-07-04T00:37:20-03:00",
     "temperatura_c": 3.3
@@ -1229,7 +1229,7 @@
     "observaciones": null,
     "dni": "33590965",
     "dni_unificado": "33590965",
-    "dni_hash": "61697ee9464539188edca25b2a956899:1ff63422369c03a77209b39b7b3b5258f51a485ecc39d2c25ee39907ed63420f",
+    "dni_hash": "1db3628e11e76e0500239a38b9f620ab:1ef9b374ff51dc5f08139f98bf355b742c210463b2351948b44cbbcaf6b2c332",
     "submission_time": "2026-07-04T03:37:21",
     "submission_time_local": "2026-07-04T00:37:21-03:00",
     "temperatura_c": 3.3
@@ -1248,7 +1248,7 @@
     "observaciones": "Se entrega kit de frio rechaza parador.",
     "dni": "22328020",
     "dni_unificado": "22328020",
-    "dni_hash": "43eccfd224db41900939fd294ed0f6f4:c3513ceaa9d509ca009a5efffd5c1bd204e79f023b5f58fd0dd2f9bcee99c43a",
+    "dni_hash": "c4f1bbec4be2291b1574d9aec970ff77:8f2bf93edebafad6fa6ad59cba35c9e4f116f0346c8f64af569ccd560bbac777",
     "submission_time": "2026-07-04T05:15:57",
     "submission_time_local": "2026-07-04T02:15:57-03:00",
     "temperatura_c": 3.1
@@ -1267,7 +1267,7 @@
     "observaciones": "Se entrega kit de frio y mate cocido rechaza parador",
     "dni": "42740457",
     "dni_unificado": "42740457",
-    "dni_hash": "b59c940b7db6c1cf760f429c9fd640c7:986ce55ffd52f242189dbbeae2248e0c0848d9075c64ac795266d7e937c2ba19",
+    "dni_hash": "b12aeba0b3bc95f0fad2aa7ea5e5bf0f:e2a5d3efeb2d82c0dc11b7ed9b4b1436cffa9fb07bbdf1e42ee9aa757e148a00",
     "submission_time": "2026-07-04T05:15:58",
     "submission_time_local": "2026-07-04T02:15:58-03:00",
     "temperatura_c": 3.1
@@ -1286,7 +1286,7 @@
     "observaciones": "Se encuentra acostado en la  verdad  con Poco abrigo",
     "dni": "37420424",
     "dni_unificado": "37420424",
-    "dni_hash": "d1119400530d3f8ba12a73ac40717d50:0395d9c0652892c2945f416626f1ef52e301dbe207f9da913a2000bbab75cdfc",
+    "dni_hash": "dc02a6e5704494e759a4c667d292066e:54aa99fd5cea5156c75c08c76c366fdedfe2448d2387bdcb14b5422386860718",
     "submission_time": "2026-07-04T06:58:32",
     "submission_time_local": "2026-07-04T03:58:32-03:00",
     "temperatura_c": 2.3
@@ -1305,7 +1305,7 @@
     "observaciones": "Se contacta con la persona que está acostado en la vereda con poco abrigo",
     "dni": "18390381",
     "dni_unificado": "18390381",
-    "dni_hash": "c762071e1c97bc5bfc07a548b36878ca:f62d83f8da709315e86484289b53b9ace2bd364889189303998dd676c72941a3",
+    "dni_hash": "9aa65c5c3fe645dc7865bb2c0fecb4ba:bbe89c61c7dd0eb9a7450dc87995f03c5851148593074e18fb0528d147f72f5b",
     "submission_time": "2026-07-04T06:58:32",
     "submission_time_local": "2026-07-04T03:58:32-03:00",
     "temperatura_c": 2.3
@@ -1324,7 +1324,7 @@
     "observaciones": "Guillermo Vergara refiere encontrarse bien de salud. No brinda mas datos. Rechaza recursos. Se le hace entrega de kit frio. Y se le informa que no puede permanecer en el lugar.",
     "dni": "30049339",
     "dni_unificado": "30049339",
-    "dni_hash": "4552fabec06496f5566700f70bd5c322:7bd2d8d9b7fcd1a62ea82f2c38dde77ecec12cf1d5e4ce6014b6bcf3a3ccc934",
+    "dni_hash": "d27a2cc3d0807a79e28861ded1ae8d06:bbf207c06fccb8edbe9a4c3fd2f9d629cd1be63bc9dc078197571a1db517906d",
     "submission_time": "2026-07-04T07:03:07",
     "submission_time_local": "2026-07-04T04:03:07-03:00",
     "temperatura_c": 2.3
@@ -1343,7 +1343,7 @@
     "observaciones": "El masculino refiere encontrarse  bien de salud. No desea ir a un Cis debido a que deberia separarse de su pareja.",
     "dni": "26543341",
     "dni_unificado": "26543341",
-    "dni_hash": "b17883f7fcd3d315d0f1761d73194b24:cef848800d10c5fb53d549e66f07c75ca54864b9fffe068e00b54bdf65295685",
+    "dni_hash": "5892b0ab732fa793ed6ae3ac44924bc7:1e0709a12bcca309cb723bc09594bbc302ccd247b6f49aa72f094536e6fcc0bf",
     "submission_time": "2026-07-04T07:03:12",
     "submission_time_local": "2026-07-04T04:03:12-03:00",
     "temperatura_c": 2.3
@@ -1362,7 +1362,7 @@
     "observaciones": "La femenina refiere no querer separarse de su pareja. Oscar Ramon. Y al momento refiere encontrarse bien de salud.",
     "dni": "29667013",
     "dni_unificado": "29667013",
-    "dni_hash": "449268a2a5a233fdf4ede53b5b952f16:4d639d37424f3b821f1241b8e9f79ee68757a650cd6faffbf7c591a6f2074ca2",
+    "dni_hash": "8e773301e600b4179bba991a75fd7900:3dafdc790b0b491a6a41f11cd5c881ca86592d6959ad9710ec2a26689fba4863",
     "submission_time": "2026-07-04T07:03:17",
     "submission_time_local": "2026-07-04T04:03:17-03:00",
     "temperatura_c": 2.3
@@ -1381,7 +1381,7 @@
     "observaciones": "Se contacta con el señor Miguel quien refiere estar bien y que se retire en breve",
     "dni": "7612806",
     "dni_unificado": "7612806",
-    "dni_hash": "1ed8ccf14860f4f4f6da71e10b8b9625:d94fa0c980faf570b64797a6f97c4788b4417fa7e9170faa42eddf7cd28f8486",
+    "dni_hash": "abb36bcd980715270705eeacec98131a:7c195d27236f67c56ab5241cacb08f034391113007de895c976e2290f6c73fb3",
     "submission_time": "2026-07-04T07:24:42",
     "submission_time_local": "2026-07-04T04:24:42-03:00",
     "temperatura_c": 2.3
@@ -1400,7 +1400,7 @@
     "observaciones": "Se entrega kit rechaza parador y dipa",
     "dni": "13788943",
     "dni_unificado": "13788943",
-    "dni_hash": "d347e230e3cba6ca2151ef86cc688eba:26f1016ec5304e57a1a37f5c457a8b81669c3e03e7caf6324c652893f9c2862f",
+    "dni_hash": "68d66006c5bdaf8ce021a501f61f972f:b28cbea43fade09953bd9c115b9040d9f7c1d21e69fbcd2d9de5dd40c9d59352",
     "submission_time": "2026-07-04T07:44:11",
     "submission_time_local": "2026-07-04T04:44:11-03:00",
     "temperatura_c": 2.3
@@ -1419,7 +1419,7 @@
     "observaciones": "El señor solicita vacante y estamos a la espera de la misma.",
     "dni": "94967595",
     "dni_unificado": "94967595",
-    "dni_hash": "03176434ac3af70fd108f3e2dc775420:9420a77673d5511efb258ad79f4db878f0528c3281f23290e31231e306fde7e3",
+    "dni_hash": "c31830bd7fbc01f4b2e87aa1998fc1fc:a3ac72b61678c081849223651309e6ce04464582394311c7199b9e3b9e28e139",
     "submission_time": "2026-07-04T09:06:40",
     "submission_time_local": "2026-07-04T06:06:40-03:00",
     "temperatura_c": 1.9
@@ -1438,7 +1438,7 @@
     "observaciones": "El señor solicita kit frio, pero rechaza otros recursos de la Red.",
     "dni": "36332312",
     "dni_unificado": "36332312",
-    "dni_hash": "be19675df3740feb40f09e8be2402afa:6b7cf26fd55c9768b6dcaa4771de682a631d657aa0dbf2f78eb9d00ecca56612",
+    "dni_hash": "23410bf46366a11a3b1a6008f62b7f21:03e5b7018000d97ae0bef736937164d299ee46657fcae9f2495d1a9785d34f79",
     "submission_time": "2026-07-04T09:06:40",
     "submission_time_local": "2026-07-04T06:06:40-03:00",
     "temperatura_c": 1.9
@@ -1457,7 +1457,7 @@
     "observaciones": "El señor solicita vacAnte y kit frio. Quedamos a la espera de la misma.",
     "dni": "31270098",
     "dni_unificado": "31270098",
-    "dni_hash": "c14489cf5e0d52143c8922178849858a:0ed2c9627f3afc3c74ea8feadb2532e3780d7cf9ae9b5f44a849234ba598bfeb",
+    "dni_hash": "fbeb7c3e37a23e160ad0ab889599be59:24d256346c98567c642640dbd432652c9c461e19ce4109ee9a98edba50c9208f",
     "submission_time": "2026-07-04T09:06:41",
     "submission_time_local": "2026-07-04T06:06:41-03:00",
     "temperatura_c": 1.9
@@ -1476,7 +1476,7 @@
     "observaciones": "El señor se encuentra en la puerta del Hospital Argerich y nos solicita abrigo, a lo cual procedemos a entregarle el kit.",
     "dni": "42012398",
     "dni_unificado": "42012398",
-    "dni_hash": "c5260fe3bfd20c9ceeb320b73d35fc29:4b0e31ee3359eb7b3f9825e34c22798b3f0bc176c8077210551bbc1800243286",
+    "dni_hash": "c93c8b0981f296074c3033076b9b1df5:729e6c2bf898c33af9ac3b898b52a7510821207b47e388db16336d01f527a0d1",
     "submission_time": "2026-07-04T09:06:41",
     "submission_time_local": "2026-07-04T06:06:41-03:00",
     "temperatura_c": 1.9
@@ -1495,7 +1495,7 @@
     "observaciones": "En la puerta del hospital Argerich se encuentra el señor, nos solicita un kit frio el cual procedemos a entregárselo.",
     "dni": "31785547",
     "dni_unificado": "31785547",
-    "dni_hash": "a87ad498fb299ec572a00802150b6b62:52346581f3349bf99f58e2191e8acf069feaa444d137fdd51ebe2720ded0abdd",
+    "dni_hash": "58a51b786ae5733f51eeb9aeb38d5dc4:e2624ef74473a05004a0b7f10cbc44b47d6dce91660e07c386fecb4274261561",
     "submission_time": "2026-07-04T09:06:41",
     "submission_time_local": "2026-07-04T06:06:41-03:00",
     "temperatura_c": 1.9
@@ -1514,7 +1514,7 @@
     "observaciones": "Se encuentra el señor adulto mayor en la guardia del hospital Argerich y  solicita un kit frio.",
     "dni": "14034636",
     "dni_unificado": "14034636",
-    "dni_hash": "9c47d48356c44e5572ae8ddf21b64827:c98f5cdd9cfae288dd3834e45c74b1a96175019c57eb75787ce681a8a56bb340",
+    "dni_hash": "7d1ee6954935f6f225e826a90d451c1e:dd9632fca40a4cfedfffcc9b6a3665f934599c8700185a81743c7f4c462f3f00",
     "submission_time": "2026-07-04T09:06:42",
     "submission_time_local": "2026-07-04T06:06:42-03:00",
     "temperatura_c": 1.9
@@ -1533,7 +1533,7 @@
     "observaciones": "Masculino en situacion de calle",
     "dni": "38926802",
     "dni_unificado": "38926802",
-    "dni_hash": "a2a4df3cb705fa5316cd58b70fa638a6:129fb29d0bd35316aa014bbbb01490bcbe863f9c1b197a33c71b9c6919489211",
+    "dni_hash": "318db30fbdde6a3a6d66d4de9f32ee7b:3f9b901bd09aaddda2e03f3af000ff6c8d6cf3f48fda6a3e84ae21310bed76f0",
     "submission_time": "2026-07-06T01:07:05",
     "submission_time_local": "2026-07-05T22:07:05-03:00",
     "temperatura_c": 6.8
@@ -1552,7 +1552,7 @@
     "observaciones": "Masculino, en situación de calle, no acepta ir a parador \nSolo acepta kit",
     "dni": "31858883",
     "dni_unificado": "31858883",
-    "dni_hash": "9068c6e368b84bf73a18d9d9ff441503:3aa14fe591235ded9e1444e968002ec48ae72c83d65eecb3573f96fb61b120b1",
+    "dni_hash": "e233568105d1486bb20df861e68bc7d2:40cd0f003f8eed4f9204d83adb1e3752f0189d578917b2b6d82b57e5e86ef246",
     "submission_time": "2026-07-06T01:07:06",
     "submission_time_local": "2026-07-05T22:07:06-03:00",
     "temperatura_c": 6.8
@@ -1571,7 +1571,7 @@
     "observaciones": "El señor manifiesta que no quiere asistencia y acepta el kit de frío, se retira del lugar",
     "dni": "21050286",
     "dni_unificado": "21050286",
-    "dni_hash": "5284b6c95edc0a5072aaae155ad9a42b:c5c49f136fc0bec09393f34e4430d4bdf16e2e8cb1829b5530a3b8d5e6740ba4",
+    "dni_hash": "f6d1fd16282b3b42dfd3dc3dc973ba5b:36d99f9eac1a4eba623a417a811cb82880a31c01323a32ed1158f38291c470fd",
     "submission_time": "2026-07-06T01:07:06",
     "submission_time_local": "2026-07-05T22:07:06-03:00",
     "temperatura_c": 6.8
@@ -1590,7 +1590,7 @@
     "observaciones": "El señor no quiere ir a parador",
     "dni": "36109355",
     "dni_unificado": "36109355",
-    "dni_hash": "524336db58f695c18eef049864c4bce0:e5fd619c3df2535a8f132e04ae829de8fc0a49b012e11b4801c4dd8c9606f80a",
+    "dni_hash": "06eeb31d5b78286f8a0c1e47ba2a820c:46ba02f895b51bcd2222b233a2a761188e00687012119cf9aa5ea9637f36b6ee",
     "submission_time": "2026-07-06T01:07:07",
     "submission_time_local": "2026-07-05T22:07:07-03:00",
     "temperatura_c": 6.8
@@ -1609,7 +1609,7 @@
     "observaciones": "Acepta kit frío",
     "dni": "23524884",
     "dni_unificado": "23524884",
-    "dni_hash": "af796f2acc291d4f5bb102748eceaaff:612e22d18deed1f22db935a60f467c6085b91b02ba84dca6c0b626f88f2bac32",
+    "dni_hash": "6d8cc06b838d9a253b41f33a34dac9c6:df8c3a567cf8a3c01f6d5db2c495749dfab31d851875af1fcd04cc603498b617",
     "submission_time": "2026-07-06T02:28:57",
     "submission_time_local": "2026-07-05T23:28:57-03:00",
     "temperatura_c": 6.6
@@ -1628,7 +1628,7 @@
     "observaciones": "Acepta kit frio",
     "dni": "95855749",
     "dni_unificado": "95855749",
-    "dni_hash": "9d2605ac41ceaa36d43f0953b732ed08:5736485bc3749ee1928d8d0abda926631fa1e4c008f1c71a4ad82cfb31488bc4",
+    "dni_hash": "4011e2d462ccbb9c74af28c6017e89cd:1af99b033b7c98af36e686cebadf91c50ffadbf4eef2c7ab2e70d551c3ffa2d1",
     "submission_time": "2026-07-06T02:28:57",
     "submission_time_local": "2026-07-05T23:28:57-03:00",
     "temperatura_c": 6.6
@@ -1647,7 +1647,7 @@
     "observaciones": "Acepta kit frío",
     "dni": "29417910",
     "dni_unificado": "29417910",
-    "dni_hash": "3dcde2905badab0f2bbcb8adcd395152:3db119c2cd2c058122bfc72d59f21f53e4f51a6dbce618cc8ead01e4d068e9b5",
+    "dni_hash": "fcaaeb1411108fd78871d42e72fc281b:457949fd5884c6d621190a353a804f3d3fc85fc1ef22b3ca0178f288bc135a91",
     "submission_time": "2026-07-06T02:28:57",
     "submission_time_local": "2026-07-05T23:28:57-03:00",
     "temperatura_c": 6.6
@@ -1666,7 +1666,7 @@
     "observaciones": "Acepta kit frío",
     "dni": "39810027",
     "dni_unificado": "39810027",
-    "dni_hash": "a840eb22fbab20bb855cff319b667a07:8a11cbc0f0772009f8a38015333a73797610d0dcdf164cd68d140c7e754eb389",
+    "dni_hash": "6b85f131c517b1baa3de3981a4f5c263:9ba03656c6326880d18183ea7568f41ce853673045facbc4f6e4524249d12f06",
     "submission_time": "2026-07-06T02:28:58",
     "submission_time_local": "2026-07-05T23:28:58-03:00",
     "temperatura_c": 6.6
@@ -1685,7 +1685,7 @@
     "observaciones": "Acepta kit frío",
     "dni": "33255055",
     "dni_unificado": "33255055",
-    "dni_hash": "a5c90cceaebae47bc879223c89548d14:f90ac8412fd2d03b972294b216f3d3fbfa044009f6706162a891afba4cacb19b",
+    "dni_hash": "b18f66aa345b35a0f2445fbc0d363cad:ecb37ac4f7a79bc0e298f9ad9b3aa0e4866bf6390e5101a0cb1faa3f195139ab",
     "submission_time": "2026-07-06T02:28:58",
     "submission_time_local": "2026-07-05T23:28:58-03:00",
     "temperatura_c": 6.6
@@ -1704,7 +1704,7 @@
     "observaciones": null,
     "dni": "27272407",
     "dni_unificado": "27272407",
-    "dni_hash": "2d1df9cfb3de0c217e4ab5d473d61c0c:5336fa194d90f9f772a592a30c051a67f447c126199cdaa425fb285c08a4365a",
+    "dni_hash": "44aa9561dc3ddcdec0f50465a1871257:4e3e947d6e93aa83a3af1a8271e8b905cdb826bfd891156e4dd91e5bf85873b2",
     "submission_time": "2026-07-06T03:27:45",
     "submission_time_local": "2026-07-06T00:27:45-03:00",
     "temperatura_c": 6.3
@@ -1723,7 +1723,7 @@
     "observaciones": null,
     "dni": "96284046",
     "dni_unificado": "96284046",
-    "dni_hash": "e59084efe9d908f292f4c2f27dd83a13:441e3cfc60a1b6186dc11fc53d156b52dd5b90d42c7b705064053ada9a8ea84b",
+    "dni_hash": "c8a55666d47ed442fdbd606f68709843:4c58fd6d3fc35f69d756376ff19b72b465702f5ec82c93d264124dec6f7030fe",
     "submission_time": "2026-07-06T04:23:22",
     "submission_time_local": "2026-07-06T01:23:22-03:00",
     "temperatura_c": 6.0
@@ -1742,7 +1742,7 @@
     "observaciones": "Se le ofrece al señor cis micro dipa. Rechaza toda herramienta que provee el gobierno",
     "dni": "22977507",
     "dni_unificado": "22977507",
-    "dni_hash": "ba78e4079810cea9638d62932d651223:4ff068136efee706df85019ce6d64cfbf4c34eeb56dfdba7b8a4f6744dde74ac",
+    "dni_hash": "a00781a96c8900faccc22505493610a4:445575252b14ff16d2bece2fcdbc5e8921f3936d1493dba7c1ed90dae1049eaa",
     "submission_time": "2026-07-06T07:54:01",
     "submission_time_local": "2026-07-06T04:54:01-03:00",
     "temperatura_c": 5.1
@@ -1761,7 +1761,7 @@
     "observaciones": "Se le ofrece al señor toda herramienta que provee el gobierno cis micro dipa,rechaza todo",
     "dni": "31146724",
     "dni_unificado": "31146724",
-    "dni_hash": "f40a3a181befe2a6952d3fab4202d75a:7fe0f9125f337ff5495fe7d1d6f18c54c68fe8ce043e535a6ea69c12be6da4f8",
+    "dni_hash": "6792696ff61fe0afe1b404c0fb3bd3bf:6b0a18e3ca76330e0aa3cae4c0149d32c67beeb43ef049552446aff188ea868d",
     "submission_time": "2026-07-06T07:54:01",
     "submission_time_local": "2026-07-06T04:54:01-03:00",
     "temperatura_c": 5.1
@@ -1780,7 +1780,7 @@
     "observaciones": "Acepta kit frio",
     "dni": "42296742",
     "dni_unificado": "42296742",
-    "dni_hash": "23c0b885d51ccaaa75c9987cad12b6e6:ea127c8bf861ff15f2792a0c5b97265e6d7073a051e0cd68f9a8f05a335386c1",
+    "dni_hash": "8f93c9ebc4012a16c8034fd3fb61e760:6a449fc2b12797fe2e149982dee68072375242ba15f7e94fb498a204fb265350",
     "submission_time": "2026-07-06T08:24:56",
     "submission_time_local": "2026-07-06T05:24:56-03:00",
     "temperatura_c": 5.1
@@ -1799,7 +1799,7 @@
     "observaciones": "Acepta kit frío",
     "dni": "42224131",
     "dni_unificado": "42224131",
-    "dni_hash": "b8e7dc274345cd44fedde273a3654463:9df19d0f4c749c6137832e0b2b0221cdbbcc30f7faebc9d1750422a8feaa552c",
+    "dni_hash": "9a573051d1eead8a36bb6982105fdf61:354cd67167dae0e995cf5e3fcf09a1d6ef97701ae6a1760e799fc654c13eb2d1",
     "submission_time": "2026-07-06T08:24:57",
     "submission_time_local": "2026-07-06T05:24:57-03:00",
     "temperatura_c": 5.1
@@ -1818,7 +1818,7 @@
     "observaciones": "Acepta kit frío",
     "dni": "36663574",
     "dni_unificado": "36663574",
-    "dni_hash": "2c5a0a2c0ce2bb37ef188abd64274f7d:594f4823ee75fcd9d6a5ea8a85c3c065329630f91de12806c7e9b1f803da5ec0",
+    "dni_hash": "a628dbb55a38378f1e789cfdc98e7d8a:45b0be0a9caaa6acc70d52935170621b5c425cd6d2b7ddfa55ac553a8ef033f8",
     "submission_time": "2026-07-06T08:24:57",
     "submission_time_local": "2026-07-06T05:24:57-03:00",
     "temperatura_c": 5.1
@@ -1837,7 +1837,7 @@
     "observaciones": "Se le ofrece todos los beneficios del programa el cual rechaza.\nSe le hace entrega del kit frío",
     "dni": "38259066",
     "dni_unificado": "38259066",
-    "dni_hash": "ab2ce594a7d6b9c373007491248289e1:e20f3692e23f2c900c31203584aaedc605125ed77753ac6183eaceeba7917dee",
+    "dni_hash": "8905bb5f180b5c3da570816841e2d519:1b1a99a8f244ae3b0291e3d471a07c86d5445a9048a241b533c3bb3d0ee12a38",
     "submission_time": "2026-07-06T08:36:23",
     "submission_time_local": "2026-07-06T05:36:23-03:00",
     "temperatura_c": 4.4
@@ -1856,7 +1856,7 @@
     "observaciones": null,
     "dni": "27636277",
     "dni_unificado": "27636277",
-    "dni_hash": "45cd31c0f625b3920f89009f5787e1c3:a2f891dc3ded668f4fe3879d8fe1b94c4f079f27785582588ec1b779b1e463fd",
+    "dni_hash": "adb1d9c991ae250fa99afe8516a5d6e2:b016da839ae0a1985fe715aa2d04b15caf68c869977023c70c2d52540ea9e1cf",
     "submission_time": "2026-07-06T08:41:28",
     "submission_time_local": "2026-07-06T05:41:28-03:00",
     "temperatura_c": 4.4
@@ -1875,7 +1875,7 @@
     "observaciones": "Masculino en situación de calle 3 años  , sin trabajo  refiere estar solo sin contención familiar , muy desabrigado",
     "dni": "1234567",
     "dni_unificado": "1234567",
-    "dni_hash": "317078726ee19f818222059907ee729d:9597776fea402d0fe32feb8d26c413ec3c9a21b5c5811dbc9ef9db0b8cd37a24",
+    "dni_hash": "439c2d6f7af14f12a7fa3d6ada9ed1d7:3e6e3f9f68dfc8db6b89e0cafe351f7c7b9831cd76cf20487b9dc809d9ecf7e7",
     "submission_time": "2026-07-06T08:49:48",
     "submission_time_local": "2026-07-06T05:49:48-03:00",
     "temperatura_c": 4.4
@@ -1894,7 +1894,7 @@
     "observaciones": "Persona en situación de calle muy desabrigado, nos pidió una manta la cual no teníamos y entregamos un kit frío",
     "dni": "36476079",
     "dni_unificado": "36476079",
-    "dni_hash": "21652dc375be43b835c3f57b1f406909:76a1c501e43273a7808ef5fbb5220c0f34e910de1b7bbfc6a5bf8f469da95beb",
+    "dni_hash": "4f9f93d977fb6665930c842900035dc1:a37ae1c733b56ae646359629c55f05f6bd8e74a128616ab940bb77adab850762",
     "submission_time": "2026-07-06T08:49:49",
     "submission_time_local": "2026-07-06T05:49:49-03:00",
     "temperatura_c": 4.4
@@ -1913,7 +1913,7 @@
     "observaciones": "Persona en situación de calle se acerca a los operadores en busca de una manta, estos ofrecen un kit frío y lo reciben",
     "dni": "45303476",
     "dni_unificado": "45303476",
-    "dni_hash": "1b9f9fea375cc9cd760233246b54fa92:3f683f32bd2e990d3b30ec080289c39bbd364470c148c4cfce4b7c8bc6f4e97d",
+    "dni_hash": "d4752746c26658b784ecd63b4d44c9d2:3be30778e70e3005bd8472cd9130eb9a2c0d67fddaa6dc29a6af602a11786302",
     "submission_time": "2026-07-06T08:49:50",
     "submission_time_local": "2026-07-06T05:49:50-03:00",
     "temperatura_c": 4.4
@@ -1932,7 +1932,7 @@
     "observaciones": null,
     "dni": "29292764",
     "dni_unificado": "29292764",
-    "dni_hash": "7b9d9a675097ed2d12b39fd06f1f5301:b90a45dac53716e12530663a87c93dd91f0bde3dff185b42aa325200a99c5fd1",
+    "dni_hash": "82c6573fab81f3b83d3adefba5be5d88:f4025c123e8ef6ebcaf3da1bbad4ac2a3c80a9025a914d9df326029fac6fae58",
     "submission_time": "2026-07-07T02:57:03",
     "submission_time_local": "2026-07-06T23:57:03-03:00",
     "temperatura_c": 5.4
@@ -1951,7 +1951,7 @@
     "observaciones": "Se le da entrega de Kit de frío",
     "dni": "28736816",
     "dni_unificado": "28736816",
-    "dni_hash": "3603d766c0cabfb06d067399b404d08b:7beb04931b981c86e058134ad4917fdc817db51c4ebff080272c0c7504a64780",
+    "dni_hash": "fdc633877e8cc4a0896230043641decc:e5314beaff388ce050562062d3dc88efb0e7236b24c6769eab274d02a949aa7f",
     "submission_time": "2026-07-07T03:33:19",
     "submission_time_local": "2026-07-07T00:33:19-03:00",
     "temperatura_c": 4.8
@@ -1970,7 +1970,7 @@
     "observaciones": null,
     "dni": "40803414",
     "dni_unificado": "40803414",
-    "dni_hash": "86657818f96dfebfa79e397bdfb47a5f:56a88360d6a14810f5f6063e6c81540d2320205e797099d4e421bb83fc79f35e",
+    "dni_hash": "e1510870d27d77c5c78530f30bdf9eb3:b1fd2c810950e2f7b228a2620f39f68edb7d7414e60d86408e678b2d21933e9c",
     "submission_time": "2026-07-07T03:33:20",
     "submission_time_local": "2026-07-07T00:33:20-03:00",
     "temperatura_c": 4.8
@@ -1989,7 +1989,7 @@
     "observaciones": "Acepta kit frío \nRechaza Cis",
     "dni": "42028615",
     "dni_unificado": "42028615",
-    "dni_hash": "7d1e718af4838f3e9580eb2348316e74:5f32e03fa50c3ae00d1f169a9c8bc702c0105dfbcc392b5fdb0a05232b5354e6",
+    "dni_hash": "7907e9ad5d59682461faeeaa0c48431a:98932593c30d618be98171f4ef5e766837dbf14d25e121205d100d133d8edb58",
     "submission_time": "2026-07-07T05:24:16",
     "submission_time_local": "2026-07-07T02:24:16-03:00",
     "temperatura_c": 4.3
@@ -2008,7 +2008,7 @@
     "observaciones": null,
     "dni": "23941033",
     "dni_unificado": "23941033",
-    "dni_hash": "6e8a35b6f09e2df60afb0acdd784fffa:07be9023b3378fdc27f60e38a70f189607c8184cb97cc612567a2c8530d966ee",
+    "dni_hash": "1c34a1c6609f4208874df4766dd93c71:99ae83d569c06e2ece4fab2a014688169dc372d76caa8b7f6f701dbc20c0fa29",
     "submission_time": "2026-07-07T07:21:26",
     "submission_time_local": "2026-07-07T04:21:26-03:00",
     "temperatura_c": 3.1
@@ -2027,7 +2027,7 @@
     "observaciones": null,
     "dni": "27732986",
     "dni_unificado": "27732986",
-    "dni_hash": "fa7b7bf4a541a9657f7579afbcf54ef3:ed650be24e84970fe9e3a0e01404883bb0ede807db351a1ccec358e0287be008",
+    "dni_hash": "960ded72bfc09d79b17a04734a57a0de:13be95c41a0c6bd7e9f38af5bc8c04e322f76b4281e0e605b8a6975420d7b969",
     "submission_time": "2026-07-07T07:21:27",
     "submission_time_local": "2026-07-07T04:21:27-03:00",
     "temperatura_c": 3.1
@@ -2046,7 +2046,7 @@
     "observaciones": null,
     "dni": "29832250",
     "dni_unificado": "29832250",
-    "dni_hash": "9188030e6716e01485fc10e8711d143a:2486794ad3f25e6227fe499c374b8bb5ad815bb3af385a223eb04a4c7d621de8",
+    "dni_hash": "b72076aefb4de9c9c2b1373599430da2:b2a39cde38bd510c7d0b08792ce200ff89b73040e2e21addbf49a83e785ae36e",
     "submission_time": "2026-07-07T07:21:27",
     "submission_time_local": "2026-07-07T04:21:27-03:00",
     "temperatura_c": 3.1
@@ -2065,7 +2065,7 @@
     "observaciones": "Se le ofrece al señor toda herramienta provista para que no esté en calle Cis micro Dipa rechaza todo. Se entrega kit frío",
     "dni": "34216454",
     "dni_unificado": "34216454",
-    "dni_hash": "c271126ad889a8727da2e516835eef1e:2a9cabfc8c43386ccf2f1541c2a3b34a2bc3dc2fc9cbd813ce5da0796179b93d",
+    "dni_hash": "c1a518ee8e4b2b2270a4a9ff6e62f2bf:e9f7d6b56059df2587e6e20df545687fe098051302c5c25fd3b657d03959fe3e",
     "submission_time": "2026-07-07T08:05:52",
     "submission_time_local": "2026-07-07T05:05:52-03:00",
     "temperatura_c": 2.7
@@ -2084,7 +2084,7 @@
     "observaciones": "Se le ofrece DIPA Cis micro rechaza todo se le entrega kit frío",
     "dni": "36333881",
     "dni_unificado": "36333881",
-    "dni_hash": "38f6c0ac1a1c31b78a369b88cc60e7ac:f522523fab81c13ed07d32640a30655e9d75f1228f04ca01f67b2733aff4c963",
+    "dni_hash": "4f322ffa49b06540ef16edb3a4fb0646:6f03f07dc39218216d89eff59b10dacc2374ba9e917f4605cff49ca16fb05758",
     "submission_time": "2026-07-07T08:05:53",
     "submission_time_local": "2026-07-07T05:05:53-03:00",
     "temperatura_c": 2.7
@@ -2103,7 +2103,7 @@
     "observaciones": "Rechaza toda ayuda entrega kit frío",
     "dni": "35125981",
     "dni_unificado": "35125981",
-    "dni_hash": "f0ba306984b92c70ff9d350fd301ae44:cd97b625800805e56ae1aaefac57bea77f73123896e5b82458528984f58e4c5c",
+    "dni_hash": "f16e53f633d6211b2859755f159b3aa0:e328d4b3c90459b7fc39feafbd0d58dd48aa7d4640f8884760c1317f3c2e820d",
     "submission_time": "2026-07-07T08:05:53",
     "submission_time_local": "2026-07-07T05:05:53-03:00",
     "temperatura_c": 2.7
@@ -2122,7 +2122,7 @@
     "observaciones": "Rechaza ayuda del programa se le entrega kit frío",
     "dni": "42681023",
     "dni_unificado": "42681023",
-    "dni_hash": "6600bd78f9c1c366faeb2b2078c6654d:3c8438f18ca9bda512ab427a5b264f0a53f9def0ae4070427b27584d2fc6d4de",
+    "dni_hash": "423fbaf01eb756edc289f352d509041d:f9073b374f96c6c70149af2be9a549247dcd3b899b8b24f27c3dc0b9cfafef8d",
     "submission_time": "2026-07-07T08:05:53",
     "submission_time_local": "2026-07-07T05:05:53-03:00",
     "temperatura_c": 2.7
@@ -2141,7 +2141,7 @@
     "observaciones": "Se entrega kit frio",
     "dni": "22572353",
     "dni_unificado": "22572353",
-    "dni_hash": "c35b7d2d5bd22b1bf3f96afd04612a44:02313f3f4d5afe166625832b3f5d8de3b01bf0c6b5358e99cf11a51776167361",
+    "dni_hash": "90d0b1dfd037acaab291d93445f8b0b6:9d76bcdb04f4806e7e4257261f7a4cf3c0ef61319df2a2d83132a569247ce9d2",
     "submission_time": "2026-07-07T08:41:57",
     "submission_time_local": "2026-07-07T05:41:57-03:00",
     "temperatura_c": 2.4
@@ -2160,7 +2160,7 @@
     "observaciones": null,
     "dni": "95306457",
     "dni_unificado": "95306457",
-    "dni_hash": "391497a4702f77b7afe803729dfd88a1:f396f97a322c21c7e86e4ef0e8dcf6c9f003716b61731a0c0f4b30b92f95aac6",
+    "dni_hash": "2ee49e6c2478f6d527839cdd980e0657:b2c1a5faf5c8f0ac1a4ff27b237f012a73513ab03893e2f6f826548c4cfb1c1f",
     "submission_time": "2026-07-07T08:42:30",
     "submission_time_local": "2026-07-07T05:42:30-03:00",
     "temperatura_c": 2.4
@@ -2179,7 +2179,7 @@
     "observaciones": "Se entrega kit frio",
     "dni": "26473724",
     "dni_unificado": "26473724",
-    "dni_hash": "a731db0db8ccccacd3610bbdac5443bf:52273700fe7ffcd1c8c081aafc76e2ae2b2a23a427dada54a041926f21fe7180",
+    "dni_hash": "d4c20ca53e0cc2f5013aa00b699d72cc:27741534097540c77458503d41f3c5eda3b9dc95ca84db0d01fd87aef734f43f",
     "submission_time": "2026-07-07T08:42:31",
     "submission_time_local": "2026-07-07T05:42:31-03:00",
     "temperatura_c": 2.4
@@ -2198,7 +2198,7 @@
     "observaciones": "Se entrega kit frio",
     "dni": "33901469",
     "dni_unificado": "33901469",
-    "dni_hash": "a5dbf200f56666fa652bb490106c575f:d06f7d651b235d348a157794d9a03820c191edf92f2d784dfa7fca9cd08a7051",
+    "dni_hash": "5a343e0b506e371b48e241d11746f04d:f3cf7b7d15497938e7ae3780ee4341a28d0f182893dba00432e771c49dd65d46",
     "submission_time": "2026-07-07T08:42:31",
     "submission_time_local": "2026-07-07T05:42:31-03:00",
     "temperatura_c": 2.4
@@ -2217,7 +2217,7 @@
     "observaciones": "Se entrega kit frio",
     "dni": "37834179",
     "dni_unificado": "37834179",
-    "dni_hash": "d9dc321e3a9b02a9ba230c40a2372aa0:b8d6d781bbc88977ea27ed1e05e8e9ad2ea121ef8ca1bf9af78a4a476d144321",
+    "dni_hash": "e5722ca94c44317d26f8dafd9be7f26a:ce9f5b531ec5d175a593875dbbebd4a2c09ffe4b5a52a0842e07b75d695e887c",
     "submission_time": "2026-07-07T08:42:31",
     "submission_time_local": "2026-07-07T05:42:31-03:00",
     "temperatura_c": 2.4
@@ -2236,7 +2236,7 @@
     "observaciones": "Se entrega kit frio",
     "dni": "1234567",
     "dni_unificado": "1234567",
-    "dni_hash": "7454ee707bc946f37d88e258140f4e45:2e5a8883f214d786b9eea68124719b873ed4304971ee5747052627569563e66b",
+    "dni_hash": "c1dc94a0a8dded904e5a0a5cdfce841e:ef1774d4fcf44111859b4220e9ef33a55255b293c5cb28a0ebdc1de0b55ccbef",
     "submission_time": "2026-07-07T08:42:32",
     "submission_time_local": "2026-07-07T05:42:32-03:00",
     "temperatura_c": 2.4
@@ -2255,7 +2255,7 @@
     "observaciones": "Se entrega kit frio",
     "dni": "37383705",
     "dni_unificado": "37383705",
-    "dni_hash": "18cfc7cbc6374f04b41d3fdb05a95033:f5eac65e1f8f4f3e9c105c8efd77a25e918121de8af4d634a6ed7d3bd846d2cf",
+    "dni_hash": "4c6e9213f64a37040082219f491f0f41:de6ae5cf45941933488f2ec35c116bca2993acd7e11fd1538a514466839dfd68",
     "submission_time": "2026-07-07T08:42:32",
     "submission_time_local": "2026-07-07T05:42:32-03:00",
     "temperatura_c": 2.4
@@ -2274,7 +2274,7 @@
     "observaciones": "Se entrega kit frio",
     "dni": "33739044",
     "dni_unificado": "33739044",
-    "dni_hash": "0647853e49b5dab6299643a871987686:e9cd998f8a2093b86aea4f5d277ce21d9e629552a1eaedab7a568c6a5e574dd5",
+    "dni_hash": "26cfde4bc3e2d287353362692fffdfa5:6e4413ea3918dd26e6a941e938013425049719c8fda20f897845b5212b6663d9",
     "submission_time": "2026-07-07T08:42:32",
     "submission_time_local": "2026-07-07T05:42:32-03:00",
     "temperatura_c": 2.4
@@ -2293,7 +2293,7 @@
     "observaciones": "Se entrega kit frio. No tiene DNI físico",
     "dni": "31785547",
     "dni_unificado": "31785547",
-    "dni_hash": "cec7fe9d153598c229fe0025fcd65d51:bc2bc087325a382927cbfb040150b9e8ecc9f2133d1cf7a0540cf44d20396819",
+    "dni_hash": "7e3905df6d58d3eae1ef941a5711f70e:efb5864d2385a17848b40d0859687a814ae68f3b0cbbe7ab07c3e15ca74e8f92",
     "submission_time": "2026-07-07T08:42:33",
     "submission_time_local": "2026-07-07T05:42:33-03:00",
     "temperatura_c": 2.4
@@ -2312,7 +2312,7 @@
     "observaciones": "Se entrega kit frio",
     "dni": "46396111",
     "dni_unificado": "46396111",
-    "dni_hash": "606eb7cdd48192b0cfc1404e26862362:7d990ab49a88299bf66ee6ffaf281afb37da17c7292089eed1b7e8859d6cd039",
+    "dni_hash": "104b58ae628c2e4a5959e5a131b5dc26:8f6a9232d147ea89f93b911d0f64b3e87dd6fd79c6a891e6d2ee056159959fae",
     "submission_time": "2026-07-07T08:42:33",
     "submission_time_local": "2026-07-07T05:42:33-03:00",
     "temperatura_c": 2.4
@@ -2331,7 +2331,7 @@
     "observaciones": "Se entrega kit frio no tiene DNI físico",
     "dni": "41012398",
     "dni_unificado": "41012398",
-    "dni_hash": "b84147c2627018423d288d57ac3db577:7740b7d2bcf48e2e4c9f9640721a4ec8302b0e39f8260d751a6363012e777fed",
+    "dni_hash": "99727cee2d36d3e97ee654c7a5006e08:bbdd60a137dfdd204a098f593d08472775e509f564a572ffe2285c7f884bfaf1",
     "submission_time": "2026-07-07T08:42:34",
     "submission_time_local": "2026-07-07T05:42:34-03:00",
     "temperatura_c": 2.4
@@ -2350,7 +2350,7 @@
     "observaciones": "Se contacta al sr stoyanoski quien solicita cis o micros al no contar con disponibilidad y encontrarse desabrigado se le otorga un kit frio y se le informa que en caso que salga una vacante se lo pasara a buscar .",
     "dni": "46029925",
     "dni_unificado": "46029925",
-    "dni_hash": "db18ceba3c99b6cb50aa66a7cf25efdb:26a4dbaa81a69521c954a9371f9b1ee2e10a3eaffb1c034e5f20509dccc5f42b",
+    "dni_hash": "02a56f77dd26398c4c85b18571323d0f:3c62cf91aefbc7ef8227441ab2c874b89d070dbc80e2acc6054a36fdcd7ff759",
     "submission_time": "2026-07-07T08:42:34",
     "submission_time_local": "2026-07-07T05:42:34-03:00",
     "temperatura_c": 2.4
@@ -2369,7 +2369,7 @@
     "observaciones": null,
     "dni": "18622875",
     "dni_unificado": "18622875",
-    "dni_hash": "35db12f15bfef76e36feba729fc0655c:a00fd7c8c78b1e5aee80bf885299ec375dc6bf0969a6c2705212deba84450551",
+    "dni_hash": "50d0369e072ea61fa0f9a5160068cef3:2802325e858b61cd43f56abca333279741733e244f6300c01432816dab069d99",
     "submission_time": "2026-07-13T01:33:08",
     "submission_time_local": "2026-07-12T22:33:08-03:00",
     "temperatura_c": 6.6
@@ -2388,7 +2388,7 @@
     "observaciones": null,
     "dni": "24619420",
     "dni_unificado": "24619420",
-    "dni_hash": "9e118e2f35ec5ea6133f61d054da94c5:6b94573b02d30cd4f7b9a7960d48a48ae46588a830f547dda246eac0025d56e9",
+    "dni_hash": "6582a99afd260a7e215d26970c617d77:3058588fd3fc31c620a8580c8cc6941d21652a08dbe9d2f72549b8d85addb7a6",
     "submission_time": "2026-07-13T01:33:09",
     "submission_time_local": "2026-07-12T22:33:09-03:00",
     "temperatura_c": 6.6
@@ -2407,7 +2407,7 @@
     "observaciones": "Se entrega kit",
     "dni": "36791536",
     "dni_unificado": "36791536",
-    "dni_hash": "a927cf09c1753f0a4652749f473d9a12:45c955a14ab8b49c81ac4c8a82d3620a214348232733322a7aab5e061e30eb4f",
+    "dni_hash": "d784a799baafeebafaeb12492f1ca05e:8fa6b2a11b73ed7b59105dd09f254a5ec6ac7bfa4e01c92ef506770dc69ff046",
     "submission_time": "2026-07-13T02:29:27",
     "submission_time_local": "2026-07-12T23:29:27-03:00",
     "temperatura_c": 6.6
@@ -2426,7 +2426,7 @@
     "observaciones": "Se entrega kit frio",
     "dni": "40351207",
     "dni_unificado": "40351207",
-    "dni_hash": "0bf77d889ac7fbc8999060ea56f742ec:864472d127001d87cb86e5746e1601019c11dab29b5f10aa52ebebc148f80e2b",
+    "dni_hash": "8863e1c0183bb9e48743615872e22afd:01a95f569b5ddef1238dc3324e73847911e5a0b4dc156dbbea5e3f17dfebb15d",
     "submission_time": "2026-07-13T02:29:27",
     "submission_time_local": "2026-07-12T23:29:27-03:00",
     "temperatura_c": 6.6
@@ -2445,7 +2445,7 @@
     "observaciones": "Se entrega kit frio",
     "dni": "12345678",
     "dni_unificado": "12345678",
-    "dni_hash": "9449f22b9e7c2db8a061c4b8c16c74f8:332f9db590e4d02eaa9ab9e4ff5dee0fa065c84917bb29f532880e3f52bca2eb",
+    "dni_hash": "6f9502e46b0d6845fa3bc063bb480b66:6d39ace7b1284647dd9d577df62aa966782d88c1b8c1a946250d99da7057c615",
     "submission_time": "2026-07-13T02:29:28",
     "submission_time_local": "2026-07-12T23:29:28-03:00",
     "temperatura_c": 6.6
@@ -2464,7 +2464,7 @@
     "observaciones": "Se entrega kit",
     "dni": "37208737",
     "dni_unificado": "37208737",
-    "dni_hash": "e1a20b952a8f484667bb852028135ab9:524249b65768782141e2a04900f269c43f2c99a2c0c908a3a678789a4f14bf72",
+    "dni_hash": "0c843033309731b7c087bce22d9315cd:966499e5361114e30c163bd25cd2f6b83937bd38cb3db8ac41b4c220cf64b71f",
     "submission_time": "2026-07-13T02:29:28",
     "submission_time_local": "2026-07-12T23:29:28-03:00",
     "temperatura_c": 6.6
@@ -2483,7 +2483,7 @@
     "observaciones": "El equipo de RDA Móvil , turno madrugada, arriba al punto asignado, en la vereda de enfrente del lugar, se visualiza un masculino , el mismo rechaza los beneficios brindado s por el programa , ya que relata haber tenido malas experiencias en CIS , tras su negativa de ingreso a Cis/Micro/dipa , se le hace entrega de Kit de frío .",
     "dni": "35837514",
     "dni_unificado": "35837514",
-    "dni_hash": "cdde0f5f50042c0260c932e7c4f9abd9:7fbf31b493bf8a718047929782a888027949605d03ef74027e1db83b26ef9e4f",
+    "dni_hash": "78d18ef70a6f165698960dbfffced539:2334533eefc86800e630743a7d51c09e52602d7b06aa7e6db6d4b70484a0ad17",
     "submission_time": "2026-07-13T03:32:52",
     "submission_time_local": "2026-07-13T00:32:52-03:00",
     "temperatura_c": 5.6
@@ -2502,7 +2502,7 @@
     "observaciones": "El equipo de RDA turno madrugada, hace entrega de Kit de frío , por pedido de Harold , ya que refiere es un seguimiento , y en este momento se encontraba descalzo .",
     "dni": "42012398",
     "dni_unificado": "42012398",
-    "dni_hash": "c526ae7d4c118a024a4a99bdb2241e41:44c747c316193a3f37d1234f99486ef9c6a868e0cc901afbaed2526275628659",
+    "dni_hash": "ede1083b22bb3ae5d42530b99788fe92:a92f37d7b958e6d767deb15e0c23c6207d18fc2d8fdf77713a56f5b50b7f1243",
     "submission_time": "2026-07-13T06:24:25",
     "submission_time_local": "2026-07-13T03:24:25-03:00",
     "temperatura_c": 4.5
@@ -2521,7 +2521,7 @@
     "observaciones": "Se contacta a masculino, quien tras gestionar vacante , rechaza los beneficios brindados por el Programa . Acepta Kit de frío",
     "dni": "26923393",
     "dni_unificado": "26923393",
-    "dni_hash": "8fabc22cf06fecafd634156b293bb6d9:b1a62765762900ceeed29a7b130ecb79adc3e57f2f9152318d32dc28e20a5f44",
+    "dni_hash": "ab33af1918d0d0cb51f86e72389ed8f4:da8414f3167c0b1aa0a431e5ad08f0cfe0e4de62078e205190601786f055511f",
     "submission_time": "2026-07-13T08:16:40",
     "submission_time_local": "2026-07-13T05:16:40-03:00",
     "temperatura_c": 3.5
@@ -2540,7 +2540,7 @@
     "observaciones": "El equipo se hace presente en el punto con la predisposición de brindar asistencia ofreciendo los recursos brindados por el programa. Se contacta a Daniel Enrique Muñoz (26.355.381) de 49 años de edad quien se encuentra en situación de vulnerabilidad social padeciendo emergencia habitacional. Al mismo se le brinda la posibilidad de gestionar vacante para ingresar a un cis y/o pernoctar utilizando las instalaciones de los micros, pero rechaza lo brindado. Acepta gestionar la entrega del kit frío el cual es otorgado por las bajas temperaturas, se consulta a supervisión y se le hace entrega del mismo una vez autorizado.",
     "dni": "26355381",
     "dni_unificado": "26355381",
-    "dni_hash": "23b5e7d2e4a002ec79a037dbb739a78b:51c745d94aae9c53f57112ae33200f59a13a1fffa3aa223483094798c223d89c",
+    "dni_hash": "5211ff76bbf69b962fea61f792b0f92e:fe70af2c92a0e240a76fedef9ea31117a7ec9ad6590c3a9f702f11bf52ca3b4a",
     "submission_time": "2026-07-13T08:44:24",
     "submission_time_local": "2026-07-13T05:44:24-03:00",
     "temperatura_c": 3.1
@@ -2559,7 +2559,7 @@
     "observaciones": "El equipo se hace presente en el punto con la predisposición de brindar asistencia ofreciendo los recursos brindados por el programa. Se contacta a Julio Blas Verón (23.521.883) de 52 años de edad quien se encuentra en situación de vulnerabilidad social padeciendo emergencia habitacional desde hace 15 años, refiere no haber transcurrido ningún parador. Al mismo se le brinda la posibilidad de gestionar vacante para ingresar a un cis y/o pernoctar utilizando las instalaciones de los micros, pero rechaza lo brindado. Acepta gestionar la entrega del kit frío el cual es otorgado por las bajas temperaturas, se consulta a supervisión y se le hace entrega del mismo una vez autorizado.",
     "dni": "23521883",
     "dni_unificado": "23521883",
-    "dni_hash": "5c903bea0e944e35298b1d5ce59b2e57:a5259238cbc0b9b7c6ef4b1eb19dbdfa63729b48fd7c72939dd1515c9ce947e8",
+    "dni_hash": "148a8e2699ff1daff200151c892d16c0:d3cf655aea65d6729bb6518aa7d0348fedf2f0edaf14c93a143d9e1a4a9f0e88",
     "submission_time": "2026-07-13T08:44:24",
     "submission_time_local": "2026-07-13T05:44:24-03:00",
     "temperatura_c": 3.1
@@ -2578,7 +2578,7 @@
     "observaciones": "El equipo se hace presente en el punto con la predisposición de brindar asistencia ofreciendo los recursos brindados por el programa. Se contacta a Juan José Cabello (25.773.340) de 37 años de edad quien se encuentra en situación de vulnerabilidad social padeciendo emergencia habitacional por problematicas de consumo. Al mismo se le brinda la posibilidad de gestionar vacante para ingresar a un cis y/o pernoctar utilizando las instalaciones de los micros, pero rechaza lo brindado. Acepta gestionar la entrega del kit frío el cual es otorgado por las bajas temperaturas, se consulta a supervisión y se le hace entrega del mismo una vez autorizado.",
     "dni": "25773340",
     "dni_unificado": "25773340",
-    "dni_hash": "57b3326cac88041ebaca340339d0e551:fc46d74d1ec72ae1ad840f455745fcc30c1169a1ecf6be2bc93f0f91d1284a3b",
+    "dni_hash": "9ea6f40ac4551bba6c22c05564522449:0e9327ea20a5d8f8b2f300a116274d072113962b002ff42402ddabc34dae5e5a",
     "submission_time": "2026-07-13T08:44:25",
     "submission_time_local": "2026-07-13T05:44:25-03:00",
     "temperatura_c": 3.1
@@ -2597,7 +2597,7 @@
     "observaciones": "El equipo se hace presente en el punto con la predisposición de brindar asistencia ofreciendo los recursos brindados por el programa. Se contacta a Julio Blas Verón (Javier Mary Adrian Ferreyra Ferreyra) de 30 años de edad quien se encuentra en situación de vulnerabilidad social padeciendo emergencia habitacional, por problemáticas familiares. Al mismo se le brinda la posibilidad de gestionar vacante para ingresar a un cis y/o pernoctar utilizando las instalaciones de los micros. Acepta gestionar la entrega del kit frío el cual es otorgado por las bajas temperaturas, se consulta a supervisión y se le hace entrega del mismo una vez autorizado.",
     "dni": "95151126",
     "dni_unificado": "95151126",
-    "dni_hash": "cd038c877473e76e5dbb7771afb06cc2:26dacf7974f7307085b37ade843a9219c885a19dbd76f4876dd98b91fa779df7",
+    "dni_hash": "2812084e1d86a254e90566e60bc35b77:63ff257a302a5ede6271231b28a5897b6d82fd36e3dc3b001568445bb04e9e99",
     "submission_time": "2026-07-13T08:44:25",
     "submission_time_local": "2026-07-13T05:44:25-03:00",
     "temperatura_c": 3.1
@@ -2616,7 +2616,7 @@
     "observaciones": "El equipo se hace presente en el punto con la predisposición de brindar asistencia ofreciendo los recursos brindados por el programa. Se contacta  a Brian emanuel godoy de 31 años de edad quien se encuentra en situación de vulnerabilidad social padeciendo emergencia habitacional, por problemáticas familiares. Al mismo se le brinda la posibilidad de gestionar vacante para ingresar a un cis y/o pernoctar utilizando las instalaciones de los micros. Acepta gestionar la entrega del kit frío el cual es otorgado por las bajas temperaturas, se consulta a supervisión y se le hace entrega del mismo una vez autorizado.",
     "dni": "38828091",
     "dni_unificado": "38828091",
-    "dni_hash": "8e6725d2a02a0b222eaf055a0615dcf9:5894ce350f6f862abd16ab2ea9e2cf21e8ac028b1b137cec0203b49d6d90d468",
+    "dni_hash": "f9c3dc0fdd060ea4bb337ccd9c93d7b6:794e773c29f252d2ea1281fbd97aadb67cb6054fcf09e2ce902b0a129a70df27",
     "submission_time": "2026-07-13T08:44:25",
     "submission_time_local": "2026-07-13T05:44:25-03:00",
     "temperatura_c": 3.1
@@ -2635,7 +2635,7 @@
     "observaciones": null,
     "dni": "34320722",
     "dni_unificado": "34320722",
-    "dni_hash": "6dae1e37f377a12f8c86cf20a005c9d8:186df0276c282351c6fb7ababd0667fdfb37cfc5aa754739563f16d4c00fbc14",
+    "dni_hash": "9280e418a541c6a90e7894d9d869d9dc:1a0b37b4f4dbbc2a340f525e5ee3a71e7e43bc919aa032bd4e62217f10dce423",
     "submission_time": "2026-07-13T08:50:51",
     "submission_time_local": "2026-07-13T05:50:51-03:00",
     "temperatura_c": 3.1
@@ -2654,7 +2654,7 @@
     "observaciones": null,
     "dni": "36214320",
     "dni_unificado": "36214320",
-    "dni_hash": "3e178607e9f9b6071f8cde2947fbb8e9:d10e39514e380741248cddac1f429fd49dfd5bd1685146113ef6907d1cf3e9dc",
+    "dni_hash": "38fe5e2fc44bd716d534fe3912293336:9ab095e4166dc9666ad2593f279a36975409ba73e7fcbcbc62994a8476dc7da7",
     "submission_time": "2026-07-13T08:50:52",
     "submission_time_local": "2026-07-13T05:50:52-03:00",
     "temperatura_c": 3.1
@@ -2673,7 +2673,7 @@
     "observaciones": null,
     "dni": "42296742",
     "dni_unificado": "42296742",
-    "dni_hash": "d59cbc4e00c89bd488dedd5368ea6178:09f4c688cefa8eb0659d72aee5be6f2b62029388a06cf9f04bcf4df8bd06fbf0",
+    "dni_hash": "dc581bfc23718ea9bd5a716fab7a1581:f78e1941174c2f176447683074001762aaafe43416c4371311e0abfc9a2e4c28",
     "submission_time": "2026-07-13T08:50:52",
     "submission_time_local": "2026-07-13T05:50:52-03:00",
     "temperatura_c": 3.1
@@ -2692,7 +2692,7 @@
     "observaciones": null,
     "dni": "32942803",
     "dni_unificado": "32942803",
-    "dni_hash": "46b1b7357855dc88254da83fbaf7707f:0f8bbbdff7b3fcf7bdde8ed25d517abb5b2d5861dc340d14a2b7a8e1569c2a0b",
+    "dni_hash": "03dbd5b766d5bee861c6253622d08886:50e1ce21a735aad5d31bd0ddecbaa9218c88d8d36a1e3969e52adfd0ace260ba",
     "submission_time": "2026-07-13T08:50:52",
     "submission_time_local": "2026-07-13T05:50:52-03:00",
     "temperatura_c": 3.1
@@ -2711,7 +2711,7 @@
     "observaciones": "Se le entrega Kit frío. Rechaza ingreso a CIS/Micro.",
     "dni": "32836204",
     "dni_unificado": "32836204",
-    "dni_hash": "69b3e48365476b671fbe10e8507cfef3:aaeafbfa527c3d0bca9c1857ccb073dd9095304f23f86c4389310613849a2fc8",
+    "dni_hash": "2fd20d1c6f9c4cff95d8b9e1e4df0e49:b0dd2e542c7d920b45dbd107ddc8ca2cf5f13409ee4a2d26a4a528ca31fad5e6",
     "submission_time": "2026-07-13T08:53:46",
     "submission_time_local": "2026-07-13T05:53:46-03:00",
     "temperatura_c": 3.1
@@ -2730,7 +2730,7 @@
     "observaciones": "Se le entrega Kit frío. Rechaza toda asistencia a parador y micro.",
     "dni": "4296742",
     "dni_unificado": "4296742",
-    "dni_hash": "ee0d8cd934603019a9902fed512b0857:bec5297f9d1ef84fade4890c2279e575cdc7834b16db7153203361df3c221893",
+    "dni_hash": "f1b262be1dd5fdbbb320ddf2e06cc08d:cb79357649027fd45cbecb4ffaa6c3d0d9ddc3f18dd2a2519aa172e91807b149",
     "submission_time": "2026-07-13T08:53:47",
     "submission_time_local": "2026-07-13T05:53:47-03:00",
     "temperatura_c": 3.1
@@ -2749,7 +2749,7 @@
     "observaciones": "Se entrega Kit frío, rechaza ingreso a CIS y traslado a DIPA/ Micro",
     "dni": "34274487",
     "dni_unificado": "34274487",
-    "dni_hash": "c86b16f86d146d0e268cd3dcdfd87697:8bd71cffb4403c623d6b2d0b8409d5214cbb6ef38ccaa78ad10578167c560cb9",
+    "dni_hash": "1831f9d0ac30120e04778e1e7e7e6a00:273cf52de7e06bbe1c3f0e6a8984ac04b0f43b8e87fbcd294ccc640b6deab8b0",
     "submission_time": "2026-07-13T08:53:48",
     "submission_time_local": "2026-07-13T05:53:48-03:00",
     "temperatura_c": 3.1
@@ -2768,7 +2768,7 @@
     "observaciones": "Se realiza entrega Kit frío, rechaza el programa.",
     "dni": "29767036",
     "dni_unificado": "29767036",
-    "dni_hash": "babe508358134471405df9abfd03967a:ae9f7b381290f7df8c3379c948e6263e765959f7b3af29481f1e79fb4dad1615",
+    "dni_hash": "621d77139ba62e0bd8c70a59736611d0:8a493b1b80ddf8187c2682d59114d20e5a482b50c994a7b5052909fbe1bdc4d7",
     "submission_time": "2026-07-13T08:53:48",
     "submission_time_local": "2026-07-13T05:53:48-03:00",
     "temperatura_c": 3.1
@@ -2787,7 +2787,7 @@
     "observaciones": "Se realiza entrega de kit frío. Rechaza el programa.",
     "dni": "32884003",
     "dni_unificado": "32884003",
-    "dni_hash": "871504425d419c50a511d76d766919d4:9e76cf839b9085da4aea158885edc83311747bdf2cab8cf47bd1ae1bf5a3894f",
+    "dni_hash": "e1506146281354ac6bb5ab5c0ed6aaf6:24c6c3cef83891d3c822a42992413f0e400457622459f647571952fd07757525",
     "submission_time": "2026-07-13T08:53:49",
     "submission_time_local": "2026-07-13T05:53:49-03:00",
     "temperatura_c": 3.1
@@ -2806,7 +2806,7 @@
     "observaciones": "Se dió el Kit de frío al Sr que estaba con muchísimo frío..",
     "dni": "43200128",
     "dni_unificado": "43200128",
-    "dni_hash": "4c4aef7f24f630a9756f4461c2c2d36c:d7d49c9483616c2d33c25849042d6e55639849a1415d1355dbf1fb930abc480b",
+    "dni_hash": "d9dfb56e05b93c8b67c3b47492bb0145:ad89534ee630128ebda75387f7639d78c703e75334a8e335346c4adb6399e821",
     "submission_time": "2026-07-21T08:55:54",
     "submission_time_local": "2026-07-21T05:55:54-03:00",
     "temperatura_c": 10.6
@@ -2825,7 +2825,7 @@
     "observaciones": "Se entrega kit de frio",
     "dni": "27255055",
     "dni_unificado": "27255055",
-    "dni_hash": "6615401db778fbc78e45f4605d9bd6cc:1d81a17429b4d9c10a59cf7789515fba263ffa51bd1d1651798cb9a41265fd8d",
+    "dni_hash": "44b2dd22add313fbb397d3d58d282203:8795569efe1bbf66d149cc7c180e6ee2ee7d567eab2de7028f8ec685c709a906",
     "submission_time": "2026-07-21T08:55:55",
     "submission_time_local": "2026-07-21T05:55:55-03:00",
     "temperatura_c": 10.6
@@ -2844,7 +2844,7 @@
     "observaciones": "Rechaza toda asistencia del dispositivo, acepta Kit frío",
     "dni": "12642490",
     "dni_unificado": "12642490",
-    "dni_hash": "3dae6b5c635245fc7d79191d62ad9d86:a57720521982c3bba446e6f2889a14980777191dbd50b84221871b500219086c",
+    "dni_hash": "72269f6815dee3258daa6311fa4148be:de47670ea5125a4247180881ec7f28eb6394e537e41edc7fa32dd848e14419f7",
     "submission_time": "2026-08-06T17:40:07",
     "submission_time_local": "2026-08-06T14:40:07-03:00",
     "temperatura_c": 13.5
@@ -2863,7 +2863,7 @@
     "observaciones": "No",
     "dni": "29265962",
     "dni_unificado": "29265962",
-    "dni_hash": "fb69fc317ef5179633d500ba02b6c628:ddebf50ff008bc12543ae91efd1043a141e772706bfd8e567e50ddad5fab2ae9",
+    "dni_hash": "584ae54ce51eea7593b5ecd5fde24f18:156d13df1f9ca879abc830d3b227614f364ebc97f1c6fead7845d37b4a92f8bc",
     "submission_time": "2026-08-06T17:40:08",
     "submission_time_local": "2026-08-06T14:40:08-03:00",
     "temperatura_c": 13.5
@@ -2882,7 +2882,7 @@
     "observaciones": null,
     "dni": "40388564",
     "dni_unificado": "40388564",
-    "dni_hash": "5e0fd86b0ad8993b9862d7c4f3fb2128:de8f07482facd5beb54d53fb757b61e2c723ad96e8525560104665ad5be9c480",
+    "dni_hash": "1d95f6fce8081028aa2b68c426b10a5b:f5549f23188967a5e297845bbd355f828956cf709a438a24fb5a9e7b430703f4",
     "submission_time": "2026-08-07T01:11:50",
     "submission_time_local": "2026-08-06T22:11:50-03:00",
     "temperatura_c": 8.7
@@ -2901,7 +2901,7 @@
     "observaciones": null,
     "dni": "36156955",
     "dni_unificado": "36156955",
-    "dni_hash": "2e1296a2b5f9e0ba9963143706ae226e:114a60fd09ebd9b50bec5ccdff7ceed1fceb63bebd80f84b8f32cc5a6d3c535c",
+    "dni_hash": "cd6a9469fea8f35350b963ddd3ae5263:ca3567c531b46e49238942556c9035178ab1efa530fc63610dd0afca7af0caca",
     "submission_time": "2026-08-07T01:11:50",
     "submission_time_local": "2026-08-06T22:11:50-03:00",
     "temperatura_c": 8.7
@@ -2920,7 +2920,7 @@
     "observaciones": "Rechaza asistencia, acepta kit",
     "dni": "30294549",
     "dni_unificado": "30294549",
-    "dni_hash": "f91bb3b088ecae2e321270e504ea73e8:ea78386b289f3ea0f5787ea056b05551bb65593c0fcd466ad76f0f1b7453ba72",
+    "dni_hash": "f0b921ffb6bf645cee9ea44659cbf853:b8c74f43f1715e2520936422c0e3bcee7ca4426e2a0faf7cd614ac0dbdf5bb5b",
     "submission_time": "2026-08-07T01:12:28",
     "submission_time_local": "2026-08-06T22:12:28-03:00",
     "temperatura_c": 8.7
@@ -2939,7 +2939,7 @@
     "observaciones": "No",
     "dni": "94421016",
     "dni_unificado": "94421016",
-    "dni_hash": "5a3c3a15d5dbb0db8926d41776d1b471:99bef9e2c92118c6c370e1e9019b54d6e54c3a822118960ce7711b5105ae34a6",
+    "dni_hash": "4ca3e18cabb7c679c395ff22a60d7a83:052495f2b766f22be69eb3699f5877efceb8f5bcad6012646ba78fc029f78540",
     "submission_time": "2026-08-07T01:13:57",
     "submission_time_local": "2026-08-06T22:13:57-03:00",
     "temperatura_c": 8.7
@@ -2958,7 +2958,7 @@
     "observaciones": "No",
     "dni": "38127257",
     "dni_unificado": "38127257",
-    "dni_hash": "af7a767d006fc474045c9b7d2719f2f2:97f01897e7ca371449bec548ed78cd90323fc2e3b22be5a975ab5cf95d61450d",
+    "dni_hash": "79574f4b3f64ace5fa0ac3f5c14048f6:30ca8ed6304940e6840cb7a63c81ab4414028c0e21f53500b38ae3d577c4fc90",
     "submission_time": "2026-08-07T01:13:57",
     "submission_time_local": "2026-08-06T22:13:57-03:00",
     "temperatura_c": 8.7
@@ -2977,7 +2977,7 @@
     "observaciones": "No",
     "dni": "34789552",
     "dni_unificado": "34789552",
-    "dni_hash": "4301a04987d5bdfcf7166b3722d503c6:5b6fa95f7bf8765ee84e058b533a86bbfb80ee376ce0e0236220d99265d6b2d2",
+    "dni_hash": "3cf7c5976714b6ca05d4fc7ab34a48c7:ab6c8681313152410d4f44e5780528896430883593af3598591e578e35be4d00",
     "submission_time": "2026-08-07T01:13:58",
     "submission_time_local": "2026-08-06T22:13:58-03:00",
     "temperatura_c": 8.7
@@ -2996,7 +2996,7 @@
     "observaciones": "No",
     "dni": "95128706",
     "dni_unificado": "95128706",
-    "dni_hash": "06e3c3fb9501540ffcd2db85f085a826:b930ef0b6562fafd6b5db1e8a99a4e6bfbececf1946d64fe3fb7ec5287af607d",
+    "dni_hash": "4451f5b609840d907865b15057f4ca30:fe7243104b4949fd944411002174d8a837b4341669fbed81572fb95e858095f9",
     "submission_time": "2026-08-07T01:13:58",
     "submission_time_local": "2026-08-06T22:13:58-03:00",
     "temperatura_c": 8.7
@@ -3015,7 +3015,7 @@
     "observaciones": "El referente solicita vacante para ingresar a dispositivo CIS, tras gestionar vacante y no contar con disponibilidad de la misma, al referente se le  hace entrega de 1 kit frío.",
     "dni": "46121550",
     "dni_unificado": "46121550",
-    "dni_hash": "fa6c991b411ce9ebf71d6524bd36f4d0:d429f1b54f48cb094834cba10b25f97bee5a2c1d5e6967a8b9886cd410f80727",
+    "dni_hash": "343a547022b371b51b6b6a591f053854:6d2ae8f47ec7cb9e68a87bdea1f905428ed8455c5443afa387e63d40c9d43e50",
     "submission_time": "2026-08-07T01:14:49",
     "submission_time_local": "2026-08-06T22:14:49-03:00",
     "temperatura_c": 8.7
@@ -3034,7 +3034,7 @@
     "observaciones": "Tras gestionar vacante para ingresar a Cis y no contar con disponibilidad de la misma, al referente se le hace entrega de 1 kit frío.",
     "dni": "3290509",
     "dni_unificado": "3290509",
-    "dni_hash": "14eff7ac6b9fd39024d489ae3c1ec9ec:b33a66115f17f2fdbee8a4e5cee1bc64452323440af6e37656a51a08b61da910",
+    "dni_hash": "0af29e9874006d5d927bd8b663f972bb:58e2a0ee925ccc966f88b6e8c50b416f55f640fef3894f3c7fcc99487bd47f12",
     "submission_time": "2026-08-07T01:14:49",
     "submission_time_local": "2026-08-06T22:14:49-03:00",
     "temperatura_c": 8.7
@@ -3053,7 +3053,7 @@
     "observaciones": "Se le hace entrega de Kit de Frío al  Sr Flores,  ya que se encuentra con la ropa ,calzado y mantas mojadas .",
     "dni": "55511538",
     "dni_unificado": "55511538",
-    "dni_hash": "5630b3e94354ad34c5959def51d930d7:206ca2cc0e818e550f460b2db118c3818a8092434ab524971a8c6d9c448d542a",
+    "dni_hash": "e2985860204cb8f6507db70ebdea1e88:614e3d59cace7ce63bf3cf5d87c7bf7978cf5bc91e0b777f5b05e2afa1976db9",
     "submission_time": "2026-08-07T02:14:40",
     "submission_time_local": "2026-08-06T23:14:40-03:00",
     "temperatura_c": 8.5
@@ -3072,7 +3072,7 @@
     "observaciones": "Ninguna",
     "dni": "19012282",
     "dni_unificado": "19012282",
-    "dni_hash": "93a7d67078fc69a43709631444848ab5:3a2e2e5de01a33ab4c41a104bcbb02e31432980cf4e6b50de1a932216e5f0dc0",
+    "dni_hash": "103ba99bd24e3f3c775ba046dd3d070a:729b50489db1746a59316e8a713a7ddef8ba77b10123414b3e52684f99329e1e",
     "submission_time": "2026-08-07T06:01:01",
     "submission_time_local": "2026-08-07T03:01:01-03:00",
     "temperatura_c": 6.7
@@ -3091,7 +3091,7 @@
     "observaciones": "Ninguna",
     "dni": "42841390",
     "dni_unificado": "42841390",
-    "dni_hash": "7bbbb721150eac7e8a5f64a2ad305410:8c04b1b393b8ad7175fb14d33db4ff1ce93cb425ba0c75114e4202fcbb98182c",
+    "dni_hash": "b51442c168b9a486c2bae26739b597e2:d79dafccc5031e309a26982b7b5696d0f78df7e06a02d0c9b53f9f9ef2de023e",
     "submission_time": "2026-08-07T06:01:02",
     "submission_time_local": "2026-08-07T03:01:02-03:00",
     "temperatura_c": 6.7
@@ -3110,7 +3110,7 @@
     "observaciones": "Se encuentra trabajando en Varela realizando  changas",
     "dni": "23907310",
     "dni_unificado": "23907310",
-    "dni_hash": "c0ffaaeccf94780334ef3c1303866044:fc3a5383c3df6f8acaa0007a5820a39ba670a72725a1052cc4249069ccc31a4e",
+    "dni_hash": "26b294c96f51a3d7ad24af3f584f048c:7f50d076d95648d93192b25c6d2bb71ce6aceab2cefc078bb2a16360302d858e",
     "submission_time": "2026-08-07T08:07:48",
     "submission_time_local": "2026-08-07T05:07:48-03:00",
     "temperatura_c": 6.0
@@ -3129,7 +3129,7 @@
     "observaciones": "- Operador: Beñatena\n\n- Chófer: García quiñones \n\n- Movil: GB\n\n- Hora: 02:20\n\n- Dirección: montes de Oca 650\n\n- ⁠N carta: 1796381\n\n\n- Nombre Completo: Strickler Hugo ruben\n\n- FN: 13/06/1979\n\n- DNI: 32890646\n\n- Edad: -\n\n- Nacionalidad: argentino\n\n\n- Nombre Completo: galvan ramon\n\n- FN: --\n\n- DNI: 29270424\n\n- Edad: --\n\n- Nacionalidad: argentino\n\n\n- Nombre Completo: Flores Gladys cristina\n\n- FN: 13/11/1971\n\n- DNI: 22472218\n\n- Edad: --\n\n- Nacionalidad: argentina\n\n\n- Nombre Completo: Ríos Nicolas martin\n\n- FN: -\n\n- DNI: 35367092\n\n- Edad: --\n\n- Nacionalidad:argentino\n\n\n\n\n*Resolución*:\n\nEl equipo de RDA móvil, turno madrugada se hace presente en la dirección referida.\n\nAl llegar se hace contacto con 5  personas en situación de calle pernoctando en el cajero automático del banco Galicia.\n\nEn una entrevista rapida se le hace ofrecimiento de los beneficios del programa incluyendo el kit frío, la cual todos ellos *Rechazan intervención* a ingreso a micro pero aceptan el kit 4 de ellos.\n\nSon 3 masculinos y 2 femeninas( una de ellas no quiere brindar datos y rechaza el kit)\n\n\nEl equipo RDA Móvil madruga continúa con su recorrido.",
     "dni": "32890646",
     "dni_unificado": "32890646",
-    "dni_hash": "cbe10b33b5a6710ffd5a84fc07878077:d7189829e5faa7f2fe75aee8a4cc01659c331169c3a1bb7d4144a86c74da1c37",
+    "dni_hash": "100b2547e307ca137e0f827cee4d582f:0b9b09af821d382a6ddf97ba110e83a827584caa4512c5ad7a62669ff6881134",
     "submission_time": "2026-08-07T08:22:54",
     "submission_time_local": "2026-08-07T05:22:54-03:00",
     "temperatura_c": 6.0
@@ -3148,7 +3148,7 @@
     "observaciones": "- Operador: Beñatena\n\n- Chófer: García quiñones \n\n- Movil: GB\n\n- Hora: 02:20\n\n- Dirección: montes de Oca 650\n\n- ⁠N carta: 1796381\n\n\n- Nombre Completo: Strickler Hugo ruben\n\n- FN: 13/06/1979\n\n- DNI: 32890646\n\n- Edad: -\n\n- Nacionalidad: argentino\n\n\n- Nombre Completo: galvan ramon\n\n- FN: --\n\n- DNI: 29270424\n\n- Edad: --\n\n- Nacionalidad: argentino\n\n\n- Nombre Completo: Flores Gladys cristina\n\n- FN: 13/11/1971\n\n- DNI: 22472218\n\n- Edad: --\n\n- Nacionalidad: argentina\n\n\n- Nombre Completo: Ríos Nicolas martin\n\n- FN: -\n\n- DNI: 35367092\n\n- Edad: --\n\n- Nacionalidad:argentino\n\n\n\n\n*Resolución*:\n\nEl equipo de RDA móvil, turno madrugada se hace presente en la dirección referida.\n\nAl llegar se hace contacto con 5  personas en situación de calle pernoctando en el cajero automático del banco Galicia.\n\nEn una entrevista rapida se le hace ofrecimiento de los beneficios del programa incluyendo el kit frío, la cual todos ellos *Rechazan intervención* a ingreso a micro pero aceptan el kit 4 de ellos.\n\nSon 3 masculinos y 2 femeninas( una de ellas no quiere brindar datos y rechaza el kit)\n\n\nEl equipo RDA Móvil continúa su recorrido",
     "dni": "29270424",
     "dni_unificado": "29270424",
-    "dni_hash": "3b6c56f717f709145d1b6e43cfe64a65:d075f64e21ee45377b038bca95649f8af4a17fa3bb677692a1532b3785e9c31e",
+    "dni_hash": "f3da544a5fb4d129a20d9b90876f8783:6424e763675ff1ea93c8be987a62ddf4b12ee0df682da842785ebeb13e98a2b8",
     "submission_time": "2026-08-07T08:22:55",
     "submission_time_local": "2026-08-07T05:22:55-03:00",
     "temperatura_c": 6.0
@@ -3167,7 +3167,7 @@
     "observaciones": "- Operador: Beñatena\n\n- Chófer: García quiñones \n\n- Movil: GB\n\n- Hora: 02:20\n\n- Dirección: montes de Oca 650\n\n- ⁠N carta: 1796381\n\n\n- Nombre Completo: Strickler Hugo ruben\n\n- FN: 13/06/1979\n\n- DNI: 32890646\n\n- Edad: -\n\n- Nacionalidad: argentino\n\n\n- Nombre Completo: galvan ramon\n\n- FN: --\n\n- DNI: 29270424\n\n- Edad: --\n\n- Nacionalidad: argentino\n\n\n- Nombre Completo: Flores Gladys cristina\n\n- FN: 13/11/1971\n\n- DNI: 22472218\n\n- Edad: --\n\n- Nacionalidad: argentina\n\n\n- Nombre Completo: Ríos Nicolas martin\n\n- FN: -\n\n- DNI: 35367092\n\n- Edad: --\n\n- Nacionalidad:argentino\n\n\n\n\n*Resolución*:\n\nEl equipo de RDA móvil, turno madrugada se hace presente en la dirección referida.\n\nAl llegar se hace contacto con 5  personas en situación de calle pernoctando en el cajero automático del banco Galicia.\n\nEn una entrevista rapida se le hace ofrecimiento de los beneficios del programa incluyendo el kit frío, la cual todos ellos *Rechazan intervención* a ingreso a micro pero aceptan el kit 4 de ellos.\n\nSon 3 masculinos y 2 femeninas( una de ellas no quiere brindar datos y rechaza el kit)\n\n\nEl equipo RDA Móvil madruga continúa con su recorrido.",
     "dni": "22472218",
     "dni_unificado": "22472218",
-    "dni_hash": "e57c02330c711d7592cc07a00df50076:ba5fbdb78892928abbc956a53b7c80d18e01a7e6e76764b8e28d6f546f00a90e",
+    "dni_hash": "493dd3117a19a206f350d987dc8467c5:2921ae5b579f3484f9c055864558084798c210936613f2733d63df34c5427991",
     "submission_time": "2026-08-07T08:22:55",
     "submission_time_local": "2026-08-07T05:22:55-03:00",
     "temperatura_c": 6.0
@@ -3186,7 +3186,7 @@
     "observaciones": "- Operador: Beñatena\n\n- Chófer: García quiñones \n\n- Movil: GB\n\n- Hora: 02:20\n\n- Dirección: montes de Oca 650\n\n- ⁠N carta: 1796381\n\n\n- Nombre Completo: Strickler Hugo ruben\n\n- FN: 13/06/1979\n\n- DNI: 32890646\n\n- Edad: -\n\n- Nacionalidad: argentino\n\n\n- Nombre Completo: galvan ramon\n\n- FN: --\n\n- DNI: 29270424\n\n- Edad: --\n\n- Nacionalidad: argentino\n\n\n- Nombre Completo: Flores Gladys cristina\n\n- FN: 13/11/1971\n\n- DNI: 22472218\n\n- Edad: --\n\n- Nacionalidad: argentina\n\n\n- Nombre Completo: Ríos Nicolas martin\n\n- FN: -\n\n- DNI: 35367092\n\n- Edad: --\n\n- Nacionalidad:argentino\n\n\n\n\n*Resolución*:\n\nEl equipo de RDA móvil, turno madrugada se hace presente en la dirección referida.\n\nAl llegar se hace contacto con 5  personas en situación de calle pernoctando en el cajero automático del banco Galicia.\n\nEn una entrevista rapida se le hace ofrecimiento de los beneficios del programa incluyendo el kit frío, la cual todos ellos *Rechazan intervención* a ingreso a micro pero aceptan el kit 4 de ellos.\n\nSon 3 masculinos y 2 femeninas( una de ellas no quiere brindar datos y rechaza el kit)\n\n\nEl equipo RDA Móvil madruga continúa con su recorrido.",
     "dni": "35367092",
     "dni_unificado": "35367092",
-    "dni_hash": "ed75ed95c0e2709e1f5411292e251d46:fc60effbdffbb446125303910613ec7305d0b537183e0bcc53a2709acabc48c7",
+    "dni_hash": "6479f1cd61013edf3b91db20311f094f:3034387b5a005b170033da85a766677563d952117fd645edea3170859c9cee70",
     "submission_time": "2026-08-07T08:22:55",
     "submission_time_local": "2026-08-07T05:22:55-03:00",
     "temperatura_c": 6.0
@@ -3205,7 +3205,7 @@
     "observaciones": "Se entrega kit frío\n Se encuentran sin frazadas. \nAv Sáenz 976",
     "dni": "22813042",
     "dni_unificado": "22813042",
-    "dni_hash": "753a3a4d0804807e6917744e9b190104:d71d52686930f774e93115e1a64fe2ac4a35d726e8155f4525249f175208cfec",
+    "dni_hash": "71c7213d37ccc9b817c3c222e2e9980f:afeeb5ce75ed67cf0385fa7c981a2ea910c75fe4d1e076899c7937d01328c7be",
     "submission_time": "2026-08-07T08:22:56",
     "submission_time_local": "2026-08-07T05:22:56-03:00",
     "temperatura_c": 6.0
@@ -3224,7 +3224,7 @@
     "observaciones": "- Operador: Beñatena y Barraza Franco\n- Chófer: García quiñones \n- Movil: GB\n- Hora: 04:30\n- Dirección: Centenera 2197\n- ⁠N carta: 1796370\n\n- Nombre Completo: berón Brian jeremías \n- FN: --\n- DNI: 39812172\n- Edad: --\n- Nacionalidad: -\n\n- Nombre Completo: Fernández Ruben antonio\n- FN: --\n- DNI: 38822464\n- Edad: \n- Nacionalidad: -\n\n- Nombre Completo: torres gabriela\n- FN: --\n- DNI: NN\n- Edad: \n- Nacionalidad: -\n\n\n*Resolución*:\nEl equipo de RDA móvil, turno madrugada se hace presente en la dirección referida.\nAl llegar se hace contacto con 3 persona en situación de calle pernoctando en la calle. (2 masculino y una femenina) Brindando datos y confirmando con supervisión se entrega kit frío. Rechaza otro tipo de intervención. Estaban en estado de consumo.\n\nEn una entrevista rapida se le hace ofrecimiento de los beneficios del programa incluyendo el kit frío, la cual todos ellos *Rechazan intervención* a ingreso a micro \n\nEl equipo RDA Móvil madruga continúa con su recorrido.",
     "dni": "39812172",
     "dni_unificado": "39812172",
-    "dni_hash": "7226dae53099afe3056810f7ad7ef032:fdc6d9cccf093e65af2519924a061b76432fc94bf1a6e519870df8881bf64902",
+    "dni_hash": "21927107ba25316664b5a9d1103a1b46:ea38e6b8761a0031ef0462a2e710b70f5c37eb7d8605dc68e77acc06a2e96459",
     "submission_time": "2026-08-07T08:22:57",
     "submission_time_local": "2026-08-07T05:22:57-03:00",
     "temperatura_c": 6.0
@@ -3243,7 +3243,7 @@
     "observaciones": "- Operador: Beñatena y Barraza Franco\n- Chófer: García quiñones \n- Movil: GB\n- Hora: 04:30\n- Dirección: Centenera 2197\n- ⁠N carta: 1796370\n\n- Nombre Completo: berón Brian jeremías \n- FN: --\n- DNI: 39812172\n- Edad: --\n- Nacionalidad: -\n\n- Nombre Completo: Fernández Ruben antonio\n- FN: --\n- DNI: 38822464\n- Edad: \n- Nacionalidad: -\n\n- Nombre Completo: torres gabriela\n- FN: --\n- DNI: NN\n- Edad: \n- Nacionalidad: -\n\n\n*Resolución*:\nEl equipo de RDA móvil, turno madrugada se hace presente en la dirección referida.\nAl llegar se hace contacto con 3 persona en situación de calle pernoctando en la calle. (2 masculino y una femenina) Brindando datos y confirmando con supervisión se entrega kit frío. Rechaza otro tipo de intervención. Estaban en estado de consumo.\n\nEn una entrevista rapida se le hace ofrecimiento de los beneficios del programa incluyendo el kit frío, la cual todos ellos *Rechazan intervención* a ingreso a micro \n\nEl equipo RDA Móvil madruga continúa con su recorrido.",
     "dni": "38822464",
     "dni_unificado": "38822464",
-    "dni_hash": "d5f605e4572cee632bd79764cf28f384:0442c00428c56f89fdb3bbac286ff5d36c5cd30553cc8e63ab41cc962d4b4250",
+    "dni_hash": "e585f8b1ebb40906ae654979699931d7:ecf400eb7318a5d144ed1d658058861c7355d374c0233f46c65da0b2594b1b60",
     "submission_time": "2026-08-07T08:22:58",
     "submission_time_local": "2026-08-07T05:22:58-03:00",
     "temperatura_c": 6.0
@@ -3262,7 +3262,7 @@
     "observaciones": "- Operador: Beñatena y Barraza Franco\n- Chófer: García quiñones \n- Movil: GB\n- Hora: 04:30\n- Dirección: Centenera 2197\n- ⁠N carta: 1796370\n\n- Nombre Completo: berón Brian jeremías \n- FN: --\n- DNI: 39812172\n- Edad: --\n- Nacionalidad: -\n\n- Nombre Completo: Fernández Ruben antonio\n- FN: --\n- DNI: 38822464\n- Edad: \n- Nacionalidad: -\n\n- Nombre Completo: torres gabriela\n- FN: --\n- DNI: NN\n- Edad: \n- Nacionalidad: -\n\n\n*Resolución*:\nEl equipo de RDA móvil, turno madrugada se hace presente en la dirección referida.\nAl llegar se hace contacto con 3 persona en situación de calle pernoctando en la calle. (2 masculino y una femenina) Brindando datos y confirmando con supervisión se entrega kit frío. Rechaza otro tipo de intervención. Estaban en estado de consumo.\n\nEn una entrevista rapida se le hace ofrecimiento de los beneficios del programa incluyendo el kit frío, la cual todos ellos *Rechazan intervención* a ingreso a micro \n\nEl equipo RDA Móvil madruga continúa con su recorrido.",
     "dni": "9999999",
     "dni_unificado": "9999999",
-    "dni_hash": "52cd33e2d47c5aedf2e9ca165d94811c:f22baac79ae913d7179d96b7de3c12f1e04967ce4700014f13446bc0ea416b44",
+    "dni_hash": "1069447aff74b0ded2274697243afae3:21790025c352ec6586d0c428dc4d057aa0d7041de66869448c9029ca413bbf2a",
     "submission_time": "2026-08-07T08:22:58",
     "submission_time_local": "2026-08-07T05:22:58-03:00",
     "temperatura_c": 6.0
@@ -3281,7 +3281,7 @@
     "observaciones": "Solicita ingreso a CIS/Micro\n\nCarta:\nNombre y apellido:  Rebeca Romero \nDNI: 42679615\nFN: 19/01/96\nEdad: 30\nNacionalidad:  Argentina\n\nAutovalido: Si\nPuede cama arriba: Si\nPuede subir escaleras: Si\nMedicación: Quetiapina \nTiempo en calle: *10 días*\nMotivo: problemas familiares \nCobra beneficio del Gobierno: No\nPrimera vez en cis: No recuerda cual\nTrabaja: No\nBaston: No\n\nSe entrega kit frío va a dipa",
     "dni": "42679615",
     "dni_unificado": "42679615",
-    "dni_hash": "e8eb16665536a411589b8553d04957fb:214404ef3df4ab309d8fd353cfd7e8b543fe8de44afc677650c92510897fbac4",
+    "dni_hash": "09e71c923f38524343956c1caaeb61e8:2fd9a883306aed66ce9e2594f91870eeb82cd6bcd8fe72ac03cc957cb8d090d8",
     "submission_time": "2026-08-07T08:22:58",
     "submission_time_local": "2026-08-07T05:22:58-03:00",
     "temperatura_c": 6.0
@@ -3300,7 +3300,7 @@
     "observaciones": "N de carta : \nNombre : velis Sonia Elizabeth \nEdad : 33\nDni : 37301027\nFn : 09/01/1993\nTiem. en calle : 6 años \nProblemas de salud : esquizofrenia \nMedicacion : lorazepan\nCama arriba : si\nEscaleras : si\nTrabajo : no\nConsumo : no\nÚltimo cis: Liliana\n\nA la espera de vacante aguarda en Moyano esperando esquema",
     "dni": "37301027",
     "dni_unificado": "37301027",
-    "dni_hash": "55e192b11c0bae72a26e3854d4d62241:3c4759f1af806d23fc3ce9dc58dbf54a732a817618fae4405ce1599b52fc511b",
+    "dni_hash": "8a073ffe2281168db736733414f2c408:6db815687fd9f0df2fd577248b0a8cf64daded0a7e51525f84df1adc657cbfb6",
     "submission_time": "2026-08-07T08:22:59",
     "submission_time_local": "2026-08-07T05:22:59-03:00",
     "temperatura_c": 6.0
@@ -3319,7 +3319,7 @@
     "observaciones": "La persona se acercó hacia el equipo a solicitar el kit frío, pero rechazo la propuesta de ir a paradores/micros, de igual manera el kit se le fue entregado",
     "dni": "39069569",
     "dni_unificado": "39069569",
-    "dni_hash": "1c74dc0e6570a5091c1ef8a70d6a359d:25b4d14b4511bb1eab571a73ebca6cd5e1fe5ef00a6b7b5e0654d44d26150ea5",
+    "dni_hash": "353fec7740ee5529b142641fb60f1cf9:695f05c938cc3f3ba25f018f77f6b8ed118dc3fb03bcc003babef12a02d72d52",
     "submission_time": "2026-08-07T08:31:19",
     "submission_time_local": "2026-08-07T05:31:19-03:00",
     "temperatura_c": 5.6
@@ -3338,7 +3338,7 @@
     "observaciones": "Siendo las 05:20  el equipo contacto de forma espontánea al Sr Silva , el mismo rechazo la propuesta de ir a paradores/micros , pero acepto el kit frío el cual se le fue entregado y se retiró del lugar",
     "dni": "42595907",
     "dni_unificado": "42595907",
-    "dni_hash": "3454b37ecb1d39985507a124aad0ca66:16051a2d08ccc1ae43afa0673523981ed4fd0d6fba16dc14ba0946ae48f9d1c0",
+    "dni_hash": "cb1073c91120b6628ba0058b8af17089:5a294aba486ff3b44773a61294ed3bc3b6d4cd560ecc6d4ac06ed2f6c9932000",
     "submission_time": "2026-08-07T08:31:20",
     "submission_time_local": "2026-08-07T05:31:20-03:00",
     "temperatura_c": 5.6
@@ -3357,7 +3357,7 @@
     "observaciones": "- *Dirección del punto:* charcas 2536\n- ⁠Equipo interviniente: Filomena\n- chófer: Matías riquelme\n- móvil: jr\n- ⁠fecha: 7/8\n- ⁠Hora: 1:15am\n- ⁠Carta:1796437\nNombre y apellido:  \nDNI:\nFN: \nEdad: \nNacionalidad: argentino \n\n*Resolución:*\n\nEl equipo de RDA turno madrugada arriba a punto indicado en busca de referentes. Al llegar nos encontramos con la persona durmiendo en la vereda, dió datos falsos y tuvo un relato incoherente y delirante, ya que decía que era perseguida por el FBI y al no tener documentación física no pudimos corroborar su identidad, igualmente se le entrega kit frio, y se deriva a salud mental. Sin más nada que agregar el equipo se retira del punto a las 1:27am para continuar con su recorrido.",
     "dni": "45758595",
     "dni_unificado": "45758595",
-    "dni_hash": "3d2ed081f89b631b0d5fc2069e52c0d8:6494ea3a3696ec8596acb702c0488e768c4bf06a0717ea256a7e013664f4e024",
+    "dni_hash": "92a6afb8c298db269b32c10679968c64:9e515b9ad58e420c0032cde56645065afb28e0818c3d5f7602453f5ee71c3148",
     "submission_time": "2026-08-07T08:33:49",
     "submission_time_local": "2026-08-07T05:33:49-03:00",
     "temperatura_c": 5.6
@@ -3376,7 +3376,7 @@
     "observaciones": "Se encuentra en la vereda, sentada  abrigada con mantas, equipo le ofrece asistencia del programa y rechaza ingreso del dispositivo, es asistido por el equipo brigada cer. \nSe le entrega el kit frío.",
     "dni": "6036107",
     "dni_unificado": "6036107",
-    "dni_hash": "5d890a0172444311be1fdaa2b272a576:e5033f5771b8725ddbe3347d5368ca5b2c685f285f5647c27c104aac39437433",
+    "dni_hash": "dead23207764fa0f9c8d925e329e1ea6:d9cee48c6b34ac919534b63370520d53161be1908a0dace0002f57f84a99d8a4",
     "submission_time": "2026-08-07T08:49:11",
     "submission_time_local": "2026-08-07T05:49:11-03:00",
     "temperatura_c": 5.6
@@ -3395,7 +3395,7 @@
     "observaciones": "Rechaza asistencia de los recursos del dispositivo, acepta Kit frío. \nEs la segunda vez que lo encontramos en el mismo lugar.",
     "dni": "35367516",
     "dni_unificado": "35367516",
-    "dni_hash": "734ab6a0dce71eb39224168931b1f945:c255920f2a3865937b2ddae3df75dea1a07161e9407c2682f611bf0df0b9da5b",
+    "dni_hash": "ff7d8997d1668daa73644f9d085f6c3c:bd1865ce0a76eaf09a172713994e6bbee6ecc7984bcf4ac715f5c148bc17b633",
     "submission_time": "2026-08-07T08:49:11",
     "submission_time_local": "2026-08-07T05:49:11-03:00",
     "temperatura_c": 5.6
@@ -3414,7 +3414,7 @@
     "observaciones": "Se contacta al señor y se hace entrega de kit frío, por el motivo que se encuentra mojado por la lluvia y con mucho frío. Acepta los recursos del dispositivo, es trasladado a CIS.",
     "dni": "29657883",
     "dni_unificado": "29657883",
-    "dni_hash": "85ef30c8c2c6ddb0315f2008f268332e:6a1a819f2c3d90c21ecad3cd16f12f7597d62f944821426eb7979d5a20da2113",
+    "dni_hash": "54ee719dd6da884d333e38f5f1e06b1a:9d6962b1cf4659d40045b9ea055eb44187dfe862f29c03350e5a14ed9296748e",
     "submission_time": "2026-08-07T08:49:11",
     "submission_time_local": "2026-08-07T05:49:11-03:00",
     "temperatura_c": 5.6
@@ -3433,7 +3433,7 @@
     "observaciones": "Rechaza asistencia del programa, recibe kit frío.",
     "dni": "36297124",
     "dni_unificado": "36297124",
-    "dni_hash": "d587a98d9eb28b537d92e9a5b73424f0:47ed896d67a04ae8120fe07b848bcefad64025a057bb25a7637920e747b9b727",
+    "dni_hash": "69d538165f3ed9f7db04e008d1413fc1:5d224935201be963d9b227248aa1ad1e2b2b2ac4d99c6fc94bb27050c796f1e5",
     "submission_time": "2026-08-07T08:49:12",
     "submission_time_local": "2026-08-07T05:49:12-03:00",
     "temperatura_c": 5.6
@@ -3452,7 +3452,7 @@
     "observaciones": "Rechaza asistencia del programa, acepta kit frío.",
     "dni": "27702172",
     "dni_unificado": "27702172",
-    "dni_hash": "d6b19fbc08f8fb397c02089e7ac2822d:e39f12069cf8857159c4bff2d4791a7c97730c7cae792b30a8a0dd72773e0054",
+    "dni_hash": "62841b77706b289a658b5776b21904c2:6d4e425cdc409334523c322aa1b029cce98bd4b2aec874678a5d7ea9bafe0edd",
     "submission_time": "2026-08-07T08:49:12",
     "submission_time_local": "2026-08-07T05:49:12-03:00",
     "temperatura_c": 5.6
@@ -3471,7 +3471,7 @@
     "observaciones": "Recibe kit frío, rechaza asistencia del dispositivo.",
     "dni": "39936866",
     "dni_unificado": "39936866",
-    "dni_hash": "9b317bd5fc9c60befa0593862d6469e1:5007052b15390a41af02293307679d8031ca853ac813ac61b39fecc9b082631b",
+    "dni_hash": "7ba4cc0cb8d5c399a10744ddccc74b0f:3a5795304e50774d7a0fca6642898fbc1aa56b1dfbf5af99cd30dea78c2d2194",
     "submission_time": "2026-08-07T08:49:12",
     "submission_time_local": "2026-08-07T05:49:12-03:00",
     "temperatura_c": 5.6
@@ -3490,7 +3490,7 @@
     "observaciones": "Se contacta a referente en situación de vulnerabilidad social padeciendo emergencia habitacional. El mismo niega Cis y micro de pernocte.\nSe consulta con supervisión si al mismo se le puede realizar entrega de kit frío, una vez corroborado y autorizado se le hace entrega del mismo.",
     "dni": "45889905",
     "dni_unificado": "45889905",
-    "dni_hash": "9583d8312ef089598571b18dc66d6ea1:7cf3908f0a3081e495fb08a893ecbc3a7693717810c5164c640687c039658311",
+    "dni_hash": "42427a01061680cb40e33609bb2fa251:08931fe30b2719ee21f5b901b4904f8c41aeaedcf5ea2f1e555100f36ae035c7",
     "submission_time": "2026-08-07T08:52:07",
     "submission_time_local": "2026-08-07T05:52:07-03:00",
     "temperatura_c": 5.6
@@ -3509,7 +3509,7 @@
     "observaciones": "Se contacta masculino el cual se encuentra en situación de emergencia habitacional. El referente rechaza cis y/o micro de pernocte. Se consulta con supervisión si se puede realizar entrega de kit frío, una vez autorizado se hace entrega del mismo.",
     "dni": "23780243",
     "dni_unificado": "23780243",
-    "dni_hash": "ef3a7ceda7e5d9b0b074137c5d3e94f0:7a132f6ff66f0a64c8c64fb360093140cfab76a8be6624bb429106d7881a3fa6",
+    "dni_hash": "19da08a7502960b4b456c9718954bdb9:b08ef474debe0dceabccc912a035a390fb7d98fa9693bf9236e7b8d0382435ff",
     "submission_time": "2026-08-07T08:52:07",
     "submission_time_local": "2026-08-07T05:52:07-03:00",
     "temperatura_c": 5.6
@@ -3528,7 +3528,7 @@
     "observaciones": "El equipo se hace presente en el punto con la predisposición de brindar asistencia ofreciendo los recursos brindados por el programa. Se contacta referente quien se encuentra en situación de vulnerabilidad social padeciendo emergencia habitacional. Se le brinda la posibilidad de gestionar vacante para ingresar a un cis y/o pernoctar utilizando las instalaciones de los micros, pero rechaza lo brindado.\nAcepta gestionar la entrega del kit frío el cual es otorgado por las bajas temperaturas, se consulta a supervisión y se le hace entrega del mismo una vez autorizado.",
     "dni": "28630508",
     "dni_unificado": "28630508",
-    "dni_hash": "1f9772c793aa5087af2ec01be6c46d82:18fd47c1a7f6094c5cada0c701a4f2a4a3a364bf22efcc48b42371ad01fcd24b",
+    "dni_hash": "11897b5903216d43393c1a64d15c23d9:c331c77c0d264388a8bd4d2492bc79176b8add34f3c699b4675a9e51a720f883",
     "submission_time": "2026-08-07T08:52:08",
     "submission_time_local": "2026-08-07T05:52:08-03:00",
     "temperatura_c": 5.6
@@ -3547,7 +3547,7 @@
     "observaciones": "El equipo RDA contacta al señor Silva en la entrada de un banco ciudad, y no acepta programa, pero se le entrega el quit frío para que pueda abrigarse un poco, sin nada más que informar el equipo continúa con su recorrido..",
     "dni": "20718836",
     "dni_unificado": "20718836",
-    "dni_hash": "6f96c6c681e986726b8a9ddb827eedf1:62e9021ab65bbfed1e919ccfcf2b5a2077087e5210c715da326d33b5c693076e",
+    "dni_hash": "fe9f72d6b230e786c564cb44989fce55:50e12971f5ff7d01abd5ce1e32c1a5bdf21f1b690d0f9733510d75bf5be1ba32",
     "submission_time": "2026-08-07T17:02:01",
     "submission_time_local": "2026-08-07T14:02:01-03:00",
     "temperatura_c": 12.1
@@ -3566,7 +3566,7 @@
     "observaciones": "Rechaza asistencia, acepta kit frio",
     "dni": "24523665",
     "dni_unificado": "24523665",
-    "dni_hash": "3deea3c26b451de703d73a6a679cf929:bb1ff3b86b368ade653b5399fe75c84ff15fee103f35ff9d4981ad6c4e58369b",
+    "dni_hash": "9b5aa375e31ec75724b724ac09200cba:bc62c58323f71d3e44726a343060c1fa9373cfb86ad7c09553085848f18bfba9",
     "submission_time": "2026-08-08T04:23:56",
     "submission_time_local": "2026-08-08T01:23:56-03:00",
     "temperatura_c": 8.2
@@ -3585,7 +3585,7 @@
     "observaciones": "Tiene los últimos 3 dedos del pie lastimados porque un colectivo lo habría pisado hace mucho",
     "dni": "30921602",
     "dni_unificado": "30921602",
-    "dni_hash": "f27a97f71d1cc8c67de54b99248ae527:7af301c3106e06dc28c12fddb41584153a6ddc4031cf84e7b0502a3bf74a16b8",
+    "dni_hash": "748dd15983db4439cc7b242c43f53d7e:aababc108c6167f560af16ec67401dc720fdce283f4b3fb656b763923b0635b0",
     "submission_time": "2026-08-08T04:23:56",
     "submission_time_local": "2026-08-08T01:23:56-03:00",
     "temperatura_c": 8.2
@@ -3604,7 +3604,7 @@
     "observaciones": "Se entrega kit frío en Av.9 de Julio y Arroyo.",
     "dni": "29397178",
     "dni_unificado": "29397178",
-    "dni_hash": "8a79cd24ba4cf1253af7057720e038f6:ebe49062f8368c0c77323f5b51646af1676ed26f9e5f889ff37e61602019add1",
+    "dni_hash": "e7f3f9e86550b43435d8440532308b85:4a7ac36b2854b723f81f5c6614c6d549c930d8bbd04fa2d9954b885ff708d08d",
     "submission_time": "2026-08-09T02:00:36",
     "submission_time_local": "2026-08-08T23:00:36-03:00",
     "temperatura_c": 7.4
@@ -3623,7 +3623,7 @@
     "observaciones": "El señor rabago se encuentra en situación de vulnerablilidad, y se le ofrece dipa y CIS y rechaza ambas cosas, se le ofrece el kit frío y acepta,",
     "dni": "37131976",
     "dni_unificado": "37131976",
-    "dni_hash": "66d70cbf53d68b31773244ca2788f5d3:cdc0c89af725e96a28409dc6e6df28686a53660b98964a349374e4082b65e4f7",
+    "dni_hash": "f26b59faa5a2a6c125300969881244a2:96097e551535c7357be994bf8b212d09f90d9cb268e50934dd78758f43c4a509",
     "submission_time": "2026-08-09T03:15:56",
     "submission_time_local": "2026-08-09T00:15:56-03:00",
     "temperatura_c": 7.0
@@ -3642,7 +3642,7 @@
     "observaciones": "La Persona duerme sobre cartones y tapado con frazadas. No quiere ingresar a Cis, refiere retirarse en un rato y no poder hablar mucho por temblar de frío.",
     "dni": "31606708",
     "dni_unificado": "31606708",
-    "dni_hash": "515db1a001d5d7b20bfa78900b75904d:e5ac210cfa122e3cdd17b69a1974d585740d2af9489dfb35c5c90cbecc1dde23",
+    "dni_hash": "a81ea2ebf90d9e27998abddebfcd7c19:a83ac52a1419221109e69617f52906bc18729f42c4af95d94b40463ecd1dc0c2",
     "submission_time": "2026-08-09T03:17:58",
     "submission_time_local": "2026-08-09T00:17:58-03:00",
     "temperatura_c": 7.0
@@ -3661,7 +3661,7 @@
     "observaciones": "Persona a la espera de vacante",
     "dni": "29975462",
     "dni_unificado": "29975462",
-    "dni_hash": "abf3beabf35166a4c0324616493d8f4a:9fb15ea181f8462175e9e20a90a9506b73d6f7629a787363a28a58b46097d03a",
+    "dni_hash": "e2db8acbfc1e8676fe216a8e6e3bc45c:ee0f13a3363d7359b7b72cda8a3d2d61fb5939d25afa68b8ea4b6184b65a150d",
     "submission_time": "2026-08-09T03:17:58",
     "submission_time_local": "2026-08-09T00:17:58-03:00",
     "temperatura_c": 7.0
@@ -3680,7 +3680,7 @@
     "observaciones": "Se entregó Kits frio",
     "dni": "34974376",
     "dni_unificado": "34974376",
-    "dni_hash": "7db5c1f2acdee3a9761083c3ba1be365:94e56e9a6f43e39ea76794649aec3173cb057722d56534cffc338c235d872fa3",
+    "dni_hash": "c806527df09dc96d0c7f6b1f02dd3eb7:33bd9ef8f0a2d8e4e4e1d0d3ab7a75608268d8086cf00ae4163d50c083060a47",
     "submission_time": "2026-08-09T03:25:04",
     "submission_time_local": "2026-08-09T00:25:04-03:00",
     "temperatura_c": 7.0
@@ -3699,7 +3699,7 @@
     "observaciones": "Acepta micro.Persona sin abrigo",
     "dni": "29793057",
     "dni_unificado": "29793057",
-    "dni_hash": "1733059acfc88b0fb8c5a1277d2d4125:6991519a190063f283544b6dc9a04c82dcc3cfc26dbbacdd5d3b3d39217c1d83",
+    "dni_hash": "b588865b5517718de307560b857b929b:35f6062b233644cd04efbc96e9dce6c87027a51f2fc92a1a598a21e11fde7f4a",
     "submission_time": "2026-08-09T03:25:05",
     "submission_time_local": "2026-08-09T00:25:05-03:00",
     "temperatura_c": 7.0
@@ -3718,7 +3718,7 @@
     "observaciones": "Acepta micro- persona sin abrigo",
     "dni": "30403950",
     "dni_unificado": "30403950",
-    "dni_hash": "22b334ee9c5859b5dc7b0f7fc3e97ccc:e9acef80e0ecb7145a8cc175d926fa661aa2aa5ebbf3e87991a042319774b2a3",
+    "dni_hash": "607fbf07f77661686d0855a28e01d089:093b1080649f2f0a93d6171773b02d461cd78f6ae207e14bb8064a60c3144d9f",
     "submission_time": "2026-08-09T03:25:05",
     "submission_time_local": "2026-08-09T00:25:05-03:00",
     "temperatura_c": 7.0
@@ -3737,7 +3737,7 @@
     "observaciones": "08/08/2026\n\n*Chofer:* López Angel \n*Operador:* Latorre Juan \n*Movil:* NK\n\n*Dirección del punto:*  Apolinario Figueroa y Andrés Lamas \n*Hora:* 01:30\n*Nro de carta:*1798381\n* *Nombre:* Rodríguez Facundo \n* *DNI:* 43667390\n* *FN:* 20/08/01\n\n*Resolución:*El equipo se presenta en el punto de referencia se encuentra con personas en situación de calle acostado en la vereda sobre mantas y cartones, refiere estar bien de salud general, ubicado en tiempo y espacio, le falta abrigo , se entrega Kit de Frío .\nHace 3 años está en situación de vulnerabilidad social y emergencia habitacional por problemas económicos y consumo problematico de sustancias y alcohol.\nRefiere trabajar en carga y descarga en la zona textil del Barrio de Flores.\nRechaza Cis y Dipa \n\nPermanece en el lugar",
     "dni": "43667390",
     "dni_unificado": "43667390",
-    "dni_hash": "1a8dd75792cf61d60706b03cb5569c08:8262121bcc0301d8fab6bb286df376fe9a19ea01f1a78e3be957e66a377b2b7a",
+    "dni_hash": "7349ccdbde14584b1f93591db6acd7c9:d852e69d25a1a7bb1310f71aa9765f670bc9e896b233816bdcdfef217a2c9737",
     "submission_time": "2026-08-09T04:45:34",
     "submission_time_local": "2026-08-09T01:45:34-03:00",
     "temperatura_c": 6.2
@@ -3756,7 +3756,7 @@
     "observaciones": "El equipo le ofrece los recursos del programa y los rechaza agradeciendo. \nSe le entrega el kit y vuelve a agradecer.",
     "dni": "25703279",
     "dni_unificado": "25703279",
-    "dni_hash": "c56684b3909ecf8423c5473afba9e252:ff8b1ce838eb5f089642a9904280c4aa2cd54f12fb9c2a5d47293fc3f12dd35e",
+    "dni_hash": "3ebd788df5425c9398e9d9b42c216693:2a2ed29d90fadd4063481a0e5c38488b98173b7ef3b2fc32359a8a276e9190ed",
     "submission_time": "2026-08-09T06:57:33",
     "submission_time_local": "2026-08-09T03:57:33-03:00",
     "temperatura_c": 5.5
@@ -3775,7 +3775,7 @@
     "observaciones": "Se ofrece políticas públicas , rechaza .",
     "dni": "36827384",
     "dni_unificado": "36827384",
-    "dni_hash": "bead7d2c3b0394fc54042467cff56e11:c74cdc71ba6d7372de7c210b7fdb3f1875ff70773bb65d0b9f689a86c72a4b37",
+    "dni_hash": "b8ef127c7af3e579b9ffd49b4645a452:1df10cb8e7193a5d0e72384738fdc2887d84cf931e8926dcf5fc6f887f13c940",
     "submission_time": "2026-08-09T08:30:27",
     "submission_time_local": "2026-08-09T05:30:27-03:00",
     "temperatura_c": 5.2
@@ -3794,7 +3794,7 @@
     "observaciones": "Se ofrece políticas públicas rechaza",
     "dni": "43183457",
     "dni_unificado": "43183457",
-    "dni_hash": "b4b6ee7bc0e1ba80adbbb18688a02406:0f7e5539b6ea7531cc5a78a87c47938cb1b05ebbfb1834ffa0749be3de7cd0d4",
+    "dni_hash": "91ca95d8c75c076de78924768e73aa72:e4f594a08daa9ddab198e9e66888cc5e1eb3c7ef57796d3f620e53e824c75c39",
     "submission_time": "2026-08-09T08:30:28",
     "submission_time_local": "2026-08-09T05:30:28-03:00",
     "temperatura_c": 5.2
@@ -3813,7 +3813,7 @@
     "observaciones": "Se ofrece políticas públicas , rechaza",
     "dni": "47400359",
     "dni_unificado": "47400359",
-    "dni_hash": "88ac5e86820d994f944a145e38c6da4a:1bb26c89b6e4b117e239c63414a5b91b93c40bc247c3e0559279f508b1921d1b",
+    "dni_hash": "392e65b41a694b3b684d7c3a0ff9e72f:debec913ae449b6f2e86e1844b2e137a8b85646904d2270b67752a1ad01949a2",
     "submission_time": "2026-08-09T08:30:28",
     "submission_time_local": "2026-08-09T05:30:28-03:00",
     "temperatura_c": 5.2
@@ -3832,7 +3832,7 @@
     "observaciones": "El masculino se encuentra en situación de vulnerabilidad",
     "dni": "30466089",
     "dni_unificado": "30466089",
-    "dni_hash": "1657de7438cbb206722de9494f27aaae:c929fcfc480ef3a01b68fefea109ef47075a221a7cbe8cdf2f334e05d523e78d",
+    "dni_hash": "a2e10abd6fc6141b94b0c372bcc9a23b:b568aa6a0d36605b62243314ea4e1e68e3baf05b2c52b54b9a6b82114c4bb3ab",
     "submission_time": "2026-08-09T08:31:01",
     "submission_time_local": "2026-08-09T05:31:01-03:00",
     "temperatura_c": 5.2
@@ -3851,7 +3851,7 @@
     "observaciones": "Se contacta en el punto junto con dos hombres más.",
     "dni": "36296695",
     "dni_unificado": "36296695",
-    "dni_hash": "b823c3f3ba9e9f7a953fdc1c2bafd341:af6d7b342210774fcc4cd34fe95f6b7252999fd3eaee9bda35f785ef88ccd00d",
+    "dni_hash": "40a41538ca8d8b37e1d316f1482cb772:673492b1532fb0ac277d2ebf7b60900bd1dca1b919a9ed639759c903814dbacb",
     "submission_time": "2026-08-09T08:31:01",
     "submission_time_local": "2026-08-09T05:31:01-03:00",
     "temperatura_c": 5.2
@@ -3870,7 +3870,7 @@
     "observaciones": "Se contacta al señor junto a dos hombres.",
     "dni": "36566534",
     "dni_unificado": "36566534",
-    "dni_hash": "11a734a46060c6763f5eba33688e9b65:38f14c1139e5f50578762dc302d91ceb7215172d398fa0e837505c9f1b2a9acc",
+    "dni_hash": "4fc2ab692133e33506502194ffcd6c86:03dc03aaf89d1ae03ec99f313a43bd0145cda1f1626c5355248da2bc1bf9036e",
     "submission_time": "2026-08-09T08:31:02",
     "submission_time_local": "2026-08-09T05:31:02-03:00",
     "temperatura_c": 5.2
@@ -3889,7 +3889,7 @@
     "observaciones": "Se contacta en el punto junto con su hijo y otro hombre.",
     "dni": "1111111",
     "dni_unificado": "1111111",
-    "dni_hash": "6d3c265872df767190496eea05c78be6:b2c8ed641680b249cd4767fb1a67eab12b7d6ba48332971c18c2c465835ab0b2",
+    "dni_hash": "5ea917e7a302282d0145cc5095ae4744:46a118fa2572454268ffcb65dc1eb113f54f905691ab6b3fc5d383a1aa4d1ad2",
     "submission_time": "2026-08-09T08:31:02",
     "submission_time_local": "2026-08-09T05:31:02-03:00",
     "temperatura_c": 5.2
@@ -3908,7 +3908,7 @@
     "observaciones": "Se contacta espontáneamente al señor que solicita kit frio y se efectiviza la entrega.",
     "dni": "95314644",
     "dni_unificado": "95314644",
-    "dni_hash": "edcab61bd93869862ba24ffccf57eb7c:f59c622341b303e4bb5261fc030eb87af3251d4f499d154a1c4faed01baccb25",
+    "dni_hash": "b4c538409227767e0c095c2902cd46dc:ca1d0a82a441cf6406a866029f8b0e2bfdbca47216efab1f26c023a6af9fa99a",
     "submission_time": "2026-08-09T08:31:03",
     "submission_time_local": "2026-08-09T05:31:03-03:00",
     "temperatura_c": 5.2
@@ -3927,7 +3927,7 @@
     "observaciones": "Se observa a sra Trans se auto pers Marcela elizabeth",
     "dni": "13522369",
     "dni_unificado": "13522369",
-    "dni_hash": "526ea945a7e453f9ac746d6e1b53245b:a1305d1b7d4c13f39c12f5437bb661937b6b4c4ac9525a190fa3b801dc18c5e2",
+    "dni_hash": "3ac55612fcfbaef489eae10bf15653a1:a82465d743f66abc2f5058ba3fb0afbd2bce6a894453147f96be730f69ad3620",
     "submission_time": "2026-08-09T08:47:13",
     "submission_time_local": "2026-08-09T05:47:13-03:00",
     "temperatura_c": 5.2
@@ -3946,7 +3946,7 @@
     "observaciones": null,
     "dni": "22472218",
     "dni_unificado": "22472218",
-    "dni_hash": "10d7d005de2f66fdc98e839985f02f77:d877417786d90451719b197e3633faf9884f7f32bbe203e722e282b8f1255207",
+    "dni_hash": "aee73364f74c7e3a5eeb34af0ceeb7d9:3346eb79f651e5e5dda42f865e6ae948e2c5a00f005b2039862f670727d86336",
     "submission_time": "2026-08-09T08:47:13",
     "submission_time_local": "2026-08-09T05:47:13-03:00",
     "temperatura_c": 5.2
@@ -3965,7 +3965,7 @@
     "observaciones": "rechaza parador y micro",
     "dni": "34149843",
     "dni_unificado": "34149843",
-    "dni_hash": "3ff9c68f5f32f748ad37c840be042225:07de284437c10882eb02174db6176824ffcf9e13a8d6daa291a0b99f585cc646",
+    "dni_hash": "cdb6d8764a1db157a838cbeec69fd03d:a26191196491c8f5c7ced088437697683b740702678d585d223e70081b8d7b2f",
     "submission_time": "2026-08-10T01:07:36",
     "submission_time_local": "2026-08-09T22:07:36-03:00",
     "temperatura_c": 7.6
@@ -3984,7 +3984,7 @@
     "observaciones": "Tiene discapacidad en uno de sus brazos",
     "dni": "32559272",
     "dni_unificado": "32559272",
-    "dni_hash": "4f198d66a8b693143212d03cd680b27b:f0323217f619cab7d48f09acfb1890de82a04d66fdfa795381d9df634e9287dd",
+    "dni_hash": "283339882b6d86dcb980352be14e51a5:114fbd71807833556176dca568491c96cc280e4c2d848ed5a0eb5d5ea3a1a03d",
     "submission_time": "2026-08-10T01:08:36",
     "submission_time_local": "2026-08-09T22:08:36-03:00",
     "temperatura_c": 7.6
@@ -4003,7 +4003,7 @@
     "observaciones": "Se encuentra en situación de calle socio habitaciónal y no posee abrigos y se le brindo un kit.",
     "dni": "38549002",
     "dni_unificado": "38549002",
-    "dni_hash": "bc90d459416a7ebebc60d5d2acd75792:158e716ffd525503875e86d40318c7045536c01f92ec8789f1f07466cdefc3a0",
+    "dni_hash": "e405a550b59a256c929649a75fdce1f9:d1565c100cefbdb589e9a0cb7fb08a800acbcfc258698a9fa162c878193d6ed2",
     "submission_time": "2026-08-10T01:08:52",
     "submission_time_local": "2026-08-09T22:08:52-03:00",
     "temperatura_c": 7.6
@@ -4022,7 +4022,7 @@
     "observaciones": null,
     "dni": "25474692",
     "dni_unificado": "25474692",
-    "dni_hash": "8d3e6e04c75cb0a67e2ab44eaa34f580:259f3a0b871924be1adaf15b59800ab042c31a40a2b521a44e264002befebdd3",
+    "dni_hash": "51ca859506dad77974283d84f1e4c07b:289422ed5b20726d5a67c8abdbdfc65ad650f526cf85d715719128640b431677",
     "submission_time": "2026-08-10T01:08:53",
     "submission_time_local": "2026-08-09T22:08:53-03:00",
     "temperatura_c": 7.6
@@ -4041,7 +4041,7 @@
     "observaciones": "Se le entrega kit",
     "dni": "40479508",
     "dni_unificado": "40479508",
-    "dni_hash": "d0f24d6d68322ecad46f8420c5f82bd3:3e1fc47f33b476bff3c51ba4b2f5366d30e1313272f12fbebaaceb573c311c2d",
+    "dni_hash": "13fe7b65b64814f183df82f1f936a1f4:2bf496506539abc6f93d82021112350ffb47c77c33686a013acf3f584bde179e",
     "submission_time": "2026-08-10T01:08:53",
     "submission_time_local": "2026-08-09T22:08:53-03:00",
     "temperatura_c": 7.6
@@ -4060,7 +4060,7 @@
     "observaciones": "Se le entrega kit",
     "dni": "36566534",
     "dni_unificado": "36566534",
-    "dni_hash": "49ed27cea48215200d480ccf87e00774:08318a133402efa662686234e5e992920783b7b6e4df3051fdd593a3a9f14b3f",
+    "dni_hash": "e39ffec1c222c76f0338427525bc7eda:9d730a6ccb33c2b4467c278fdaf9c21498a3543a9cbae2ecb208e287574bb095",
     "submission_time": "2026-08-10T01:08:53",
     "submission_time_local": "2026-08-09T22:08:53-03:00",
     "temperatura_c": 7.6
@@ -4079,7 +4079,7 @@
     "observaciones": "Se le entrega kit",
     "dni": "48769587",
     "dni_unificado": "48769587",
-    "dni_hash": "e5e31038aa578667390f3381c0c3501f:608e3f1b5f650094049357a339f47782d06ee1accb3381527c22007a06af45c8",
+    "dni_hash": "a51bc8e1472405f75ab46ec919131416:9c0e14d55446863ac3cabe8afb4c227ced67fa0e1f3772a5e9cebc66da4e66b1",
     "submission_time": "2026-08-10T01:08:54",
     "submission_time_local": "2026-08-09T22:08:54-03:00",
     "temperatura_c": 7.6
@@ -4098,7 +4098,7 @@
     "observaciones": "Se le entrega kit",
     "dni": "34264907",
     "dni_unificado": "34264907",
-    "dni_hash": "9380c77cf27fcb6dcbc2ca4ebeaba3f3:6e562b090d554b9c1f4480520b8a70705451280f96a7d5cf428ebc44b93f49ec",
+    "dni_hash": "5d836066b4deaa4dafca1a4414e3db75:1dc251fbaa225b61a67e0588f61daf8ba3b1f5a648bfcb9994deb10d95d1665a",
     "submission_time": "2026-08-10T01:08:54",
     "submission_time_local": "2026-08-09T22:08:54-03:00",
     "temperatura_c": 7.6
@@ -4117,7 +4117,7 @@
     "observaciones": "Se le entrega ki",
     "dni": "40076032",
     "dni_unificado": "40076032",
-    "dni_hash": "5aaffad245bf6cad25e3c2ecf504b80d:28645e3ed43972e2a030130f042bf4c7d6114be6b1d4c2ce274103de6853d487",
+    "dni_hash": "206e1a75bb7ae1820de37da16b0eede4:bc7ee17b63585391924f309d9467b9b9e253f2e7af15da0f9e435991752eb4ba",
     "submission_time": "2026-08-10T01:08:55",
     "submission_time_local": "2026-08-09T22:08:55-03:00",
     "temperatura_c": 7.6
@@ -4136,7 +4136,7 @@
     "observaciones": "De le entrega kit frio",
     "dni": "50330677",
     "dni_unificado": "50330677",
-    "dni_hash": "ef23ee596db9c289e1bd96b92799b606:d80d443728f34bbc2017b5846e2c4c6c1ee7ec39d73094a00f8377dfbc6afb26",
+    "dni_hash": "35f5a44cf6bc88f7585c74034de9b34b:23d3e606bf12f4950752e4121ac810ceef71b3e32b14d912dcaed9cd5e1185cc",
     "submission_time": "2026-08-10T01:08:55",
     "submission_time_local": "2026-08-09T22:08:55-03:00",
     "temperatura_c": 7.6
@@ -4155,7 +4155,7 @@
     "observaciones": "Se le entrega kit frio",
     "dni": "33741260",
     "dni_unificado": "33741260",
-    "dni_hash": "0c1efc321711445aa946bccc7461553b:4c9f1407e4edd4554450bdac4e3a1c5fd5906c0d0c5e3740b992525f24c1ce3a",
+    "dni_hash": "08b0a59d5c8d7bdcb10fb7ce0d02528c:b31a089cdf5e865e91361a4046df4124c5422f7e2f7ede4359f09e0fd60c41e6",
     "submission_time": "2026-08-10T01:08:55",
     "submission_time_local": "2026-08-09T22:08:55-03:00",
     "temperatura_c": 7.6
@@ -4174,7 +4174,7 @@
     "observaciones": "Se le entrega kit fri",
     "dni": "92781584",
     "dni_unificado": "92781584",
-    "dni_hash": "d9eaec8163c266eec9bbe7afbb97b3c0:bea8366e232a85d976c604937bb7ad8117ba60ef676478370ace1d025789a51c",
+    "dni_hash": "271a86aa9b53476c993876d9818db9f3:6bd66686deb9e0b1deac5a3f78c92982b011212c6760050cb5d788f61bd14e80",
     "submission_time": "2026-08-10T01:08:56",
     "submission_time_local": "2026-08-09T22:08:56-03:00",
     "temperatura_c": 7.6
@@ -4193,7 +4193,7 @@
     "observaciones": "El equipo se hace presente en el punto con la predisposición de brindar asistencia ofreciendo los recursos brindados por el programa. Se contacta referente quien se encuentra en situación de vulnerabilidad social padeciendo emergencia habitacional. Se le brinda la posibilidad de gestionar vacante para ingresar a un cis y/o pernoctar utilizando las instalaciones de los micros, pero rechaza lo brindado.\nAcepta gestionar la entrega del kit frío el cual es otorgado por las bajas temperaturas, se consulta a supervisión y se le hace entrega del mismo una vez autorizado.",
     "dni": "33868111",
     "dni_unificado": "33868111",
-    "dni_hash": "511ecf1b4102abf904786a8b79de84c4:0e222d1a429bb74521868aa14e9527224ce4ceb9f8d162d568ccfce3f3fc83d7",
+    "dni_hash": "097d46d4cc7bd3daa4fa1e4e56b84f8a:ca23ce023ab697229a89100aa9a1bb74404707a3bd1a3f4a296587b25ffe23d5",
     "submission_time": "2026-08-10T02:45:47",
     "submission_time_local": "2026-08-09T23:45:47-03:00",
     "temperatura_c": 6.3
@@ -4212,7 +4212,7 @@
     "observaciones": "El equipo se hace presente en el punto con la predisposición de brindar asistencia ofreciendo los recursos brindados por el programa. Se contacta referente quien se encuentra en situación de vulnerabilidad social padeciendo emergencia habitacional. Se le brinda la posibilidad de gestionar vacante para ingresar a un cis y/o pernoctar utilizando las instalaciones de los micros, pero rechaza lo brindado.\nAcepta gestionar la entrega del kit frío el cual es otorgado por las bajas temperaturas, se consulta a supervisión y se le hace entrega del mismo una vez autorizado.",
     "dni": "23524884",
     "dni_unificado": "23524884",
-    "dni_hash": "14874d11e3ec4b6684939351c03af15b:87da87f8305768bdd3e702af77b23ac515cf68e4d665c676b3423bb91491f4c9",
+    "dni_hash": "cca78060d641b87e0072592c873fb04d:d22774bdbf037adbf073a5055cf34d68bb243042d10ae042b624c9026ef16d74",
     "submission_time": "2026-08-10T02:45:48",
     "submission_time_local": "2026-08-09T23:45:48-03:00",
     "temperatura_c": 6.3
@@ -4231,7 +4231,7 @@
     "observaciones": "El equipo se hace presente en el punto con la predisposición de brindar asistencia ofreciendo los recursos brindados por el programa. Se contacta referente quien se encuentra en situación de vulnerabilidad social padeciendo emergencia habitacional. Se le brinda la posibilidad de gestionar vacante para ingresar a un cis y/o pernoctar utilizando las instalaciones de los micros, pero rechaza lo brindado.\nAcepta gestionar la entrega del kit frío el cual es otorgado por las bajas temperaturas, se consulta a supervisión y se le hace entrega del mismo una vez autorizado.",
     "dni": "27274277",
     "dni_unificado": "27274277",
-    "dni_hash": "b172b675792fe518b75d710835889ddd:fc6a2f7aeaaa2e26a36b75c7802afc9dca6f81523c6a03c6187b5b55d10946bf",
+    "dni_hash": "71e9ea71cbf6924f8f6c81a6a4b093cd:16984fa9a880d1ec7c5edb3189d0a52c4f2ac684b2b3bcac3a33859ded2714f2",
     "submission_time": "2026-08-10T02:45:48",
     "submission_time_local": "2026-08-09T23:45:48-03:00",
     "temperatura_c": 6.3
@@ -4250,7 +4250,7 @@
     "observaciones": "El equipo se hace presente en el punto con la predisposición de brindar asistencia ofreciendo los recursos brindados por el programa. Se contacta referente quien se encuentra en situación de vulnerabilidad social padeciendo emergencia habitacional. Se le brinda la posibilidad de gestionar vacante para ingresar a un cis y/o pernoctar utilizando las instalaciones de los micros, pero rechaza lo brindado.\nAcepta gestionar la entrega del kit frío el cual es otorgado por las bajas temperaturas, se consulta a supervisión y se le hace entrega del mismo una vez autorizado.",
     "dni": "38960568",
     "dni_unificado": "38960568",
-    "dni_hash": "1e544278d20991c10b5345a67d080194:09555141e7faf58c7e94afb562621ac7c7acfb197b4612dfc1de27a28f76c606",
+    "dni_hash": "0b78bdaf5889d0764a463bb542576b0a:fb73205c718c7d5010ccff26f340bd72e9244b8d995ef9de9843ad6e68be22c3",
     "submission_time": "2026-08-10T02:45:49",
     "submission_time_local": "2026-08-09T23:45:49-03:00",
     "temperatura_c": 6.3
@@ -4269,7 +4269,7 @@
     "observaciones": "Entrega de kit",
     "dni": "33666964",
     "dni_unificado": "33666964",
-    "dni_hash": "176ccedc6432b65b5f9fe9b4f4c8f953:3eaa2199d0a1840b88f015f9dc28c357560c614b221299aaa0630b6e3d99cf6f",
+    "dni_hash": "0bce4d679bec4c74301bcc86de48db3f:30bb6bfa5d87e39a58f013867052274d0704193f9d4c1970c62c6e1ee236733a",
     "submission_time": "2026-08-10T02:45:49",
     "submission_time_local": "2026-08-09T23:45:49-03:00",
     "temperatura_c": 6.3
@@ -4288,7 +4288,7 @@
     "observaciones": "Entrega de  frío",
     "dni": "39777468",
     "dni_unificado": "39777468",
-    "dni_hash": "349f4043808919776d704e6ccd597c9e:e385882087595af9652537a580c90dd42887d907d18b50a526c8e847fd4d5f4b",
+    "dni_hash": "f6428237642281f93c9c305680b497bd:2f3781e3c2736fa72d34b925d0b43e56b0c2f212a1656d3b912dcee4ef7b5678",
     "submission_time": "2026-08-10T02:45:49",
     "submission_time_local": "2026-08-09T23:45:49-03:00",
     "temperatura_c": 6.3
@@ -4307,7 +4307,7 @@
     "observaciones": "Entrega de kit  frío",
     "dni": "32237591",
     "dni_unificado": "32237591",
-    "dni_hash": "6c02c23a472cb4da9d5242bf80456d79:f969a41812015feeacb286a09c9d500941395a5686eaca374dedfcdc6162b386",
+    "dni_hash": "f3f99126cbf7b15e8045ec88bb12a960:ced439848616d8c7a871aa4d9340f5f798eeed1b28939995c144fe57c7e72ebf",
     "submission_time": "2026-08-10T02:45:50",
     "submission_time_local": "2026-08-09T23:45:50-03:00",
     "temperatura_c": 6.3
@@ -4326,7 +4326,7 @@
     "observaciones": "Entrega de kit frío",
     "dni": "30994219",
     "dni_unificado": "30994219",
-    "dni_hash": "291e9087c36ea055f68b2804a8dc7aa0:b7262f0fc2e8de57bf9a3cddba5b5e4383c5a7b7856f025da9bd6d2f6b95e35a",
+    "dni_hash": "f8972c9cf7a4d5f3c7cead8ba86e84ae:714bf8306d1208eaf578e20fef7a6a248b95332dc552d6dbd0cb06793ce001e8",
     "submission_time": "2026-08-10T02:45:50",
     "submission_time_local": "2026-08-09T23:45:50-03:00",
     "temperatura_c": 6.3
@@ -4345,7 +4345,7 @@
     "observaciones": "• Dirección del punto: Av Callao y Av santa fe\n\n• N de Carta:1799482\n\n• ⁠Equipo interviniente: Beñatena\n\n• Movil: NJ\n\n• Chofer: GARCIA QUIÑONES\n\n• ⁠fecha:10/08/2026\n\n• Hora inicio:00:53\n\n\nNombre, apellido, identidad de la/s persona/s: Navarro maximiliano \n\nDNI :36989043\n\nFN: 24/11/1992\n\nEDAD : 32\n\n\nRESOLUCION:\n\nEl equipo RDA turno madrugada se hace presente en el punto indicado. \n\nEn el lugar  se contacta a un masculino SE ENTREGA KIT FRÍO \n\nHora de finalización:01:15\n\n\nSin mas que agregar el equipo RDA TURNO MADRUGADA continua con su recorrido.",
     "dni": "34928208",
     "dni_unificado": "34928208",
-    "dni_hash": "a34a84ab40966ca9f32f0cd248332562:5614074fb8a61c39afd2a10c59c741217bbd98cdf6f1208b1a28e75963c7998f",
+    "dni_hash": "969fc3f44a6075abc3b1212d2e12b1e8:eb4991a0801caa0b3ea65ac7141476022882a16e31716e7ec3f454c54292e31b",
     "submission_time": "2026-08-10T04:37:01",
     "submission_time_local": "2026-08-10T01:37:01-03:00",
     "temperatura_c": 5.2
@@ -4364,7 +4364,7 @@
     "observaciones": "• Dirección del punto: Av Callao y Av santa fe\n• N de Carta:1799482\n• ⁠Equipo interviniente: Beñatena\n• Movil: NJ\n• Chofer: GARCIA QUIÑONES\n• ⁠fecha:10/08/2026\n• Hora inicio:00:53\n\nNombre, apellido, identidad de la/s persona/s: Cipriano lembo Paola\nDNI :25345210\nFN: 24/11/1976\nEDAD : 50\n\nRESOLUCION:\nEl equipo RDA turno madrugada se hace presente en el punto indicado. \nEn el lugar  se contacta a una femenina SE ENTREGA KIT FRÍO \nHora de finalización:01:15\n\nSin mas que agregar el equipo RDA TURNO MADRUGADA continua con su recorrido.",
     "dni": "25345210",
     "dni_unificado": "25345210",
-    "dni_hash": "2b9c46bfdbd9da5c6ebbae021580c24e:95c1589e7261cd07935b30afbc927cce71668afa1c63b91c1bb3a5501c1a9fcf",
+    "dni_hash": "2d59b89a17b15e9f47f3e2ba193423ea:b4a2ba6ec92036cc0777860d2f69bab231745fe9fae7aa22c11a2254d22bc0ea",
     "submission_time": "2026-08-10T04:37:01",
     "submission_time_local": "2026-08-10T01:37:01-03:00",
     "temperatura_c": 5.2
@@ -4383,7 +4383,7 @@
     "observaciones": "• Dirección del punto: Av Callao y Av santa fe\n• N de Carta:1799482\n• ⁠Equipo interviniente: Beñatena\n• Movil: NJ\n• Chofer: GARCIA QUIÑONES\n• ⁠fecha:10/08/2026\n• Hora inicio:00:53\n\nNombre, apellido, identidad de la/s persona/s: Maldonado Britez. Roberto \nDNI :41971653\nFN: 25/07/1995\nEDAD : 31\n\nRESOLUCION:\nEl equipo RDA turno madrugada se hace presente en el punto indicado. \nEn el lugar  se contacta a un masculino SE ENTREGA KIT FRÍO \nHora de finalización:01:15\n\nSin mas que agregar el equipo RDA TURNO MADRUGADA continua con su recorrido.",
     "dni": "41971653",
     "dni_unificado": "41971653",
-    "dni_hash": "80ab86d0af66bf4150fc3eef6b010c9a:fd968b7e897f8d4a3f7d7c1d0afdc20e1a6d78be4896f28078d165182b9a473e",
+    "dni_hash": "31b718ce8d0a8a74bd16d3e0cbb34ad9:a9b2c594dd2de6a3e8361238fa36bd4b6e4b7dbc884093f91cef36437f8b57da",
     "submission_time": "2026-08-10T04:37:01",
     "submission_time_local": "2026-08-10T01:37:01-03:00",
     "temperatura_c": 5.2
@@ -4402,7 +4402,7 @@
     "observaciones": null,
     "dni": "38178014",
     "dni_unificado": "38178014",
-    "dni_hash": "6d06cf4c5880ddd77d1740ca7e1ae56f:a9a0b8f3f8633bb95f3f65fcacbfbf7992aa81611381b2146d6e30f29f9a15a1",
+    "dni_hash": "c0847942b0ed255fbda0842d1eb78ec5:e4be407b9a9b5862697959774383166c8d8fc68a72e6eb1936ccd3b479bdc44c",
     "submission_time": "2026-08-10T05:22:58",
     "submission_time_local": "2026-08-10T02:22:58-03:00",
     "temperatura_c": 5.2
@@ -4421,7 +4421,7 @@
     "observaciones": null,
     "dni": "12134873",
     "dni_unificado": "12134873",
-    "dni_hash": "c482fe7ddfb04a7caf12c085ea681273:8c028a39141e30aa7e2fc403685b5f23a3513b090aadef94593c6d69f44c7eb2",
+    "dni_hash": "ae9d08d39c6b830627e6e16c7e6044fc:ea3c8298f7cf916e3013483b0b5479040c830efe430915af76a4e48f03d84a16",
     "submission_time": "2026-08-10T05:51:20",
     "submission_time_local": "2026-08-10T02:51:20-03:00",
     "temperatura_c": 4.6
@@ -4440,7 +4440,7 @@
     "observaciones": "- *Dirección del punto:* arenales 1844\n- ⁠Equipo interviniente: Vilte Filomena\n- chófer: Riquelme Matias \n- móvil: JD\n- ⁠fecha: 9/8\n- ⁠Hora:23hs\n- ⁠N carta: 1799353\n- Nombre y apellido:Karina molinas\nDNI: 95128688\nFN: 19/10/81\nEdad: 48\nNacionalidad: paraguay\n\n*Resolución:*\nEl equipo de RDA turno madrugada arriba a punto indicado donde se encuentra con la femenina durmiendo en la puerta de arenales 1844, tapada con una campera y acostada entre cartones, con dos bolsos. Rechazo asistencia y dijo que el encargado del edificio le da comida hace 6 años. Se le ofreció kit frío y se le hizo entrega. Se le pidió que se retira y sin presentar objeción junto sus cosas y se retiró. Sin más nada que agregar el equipo se retira para continuar con su recorrido.",
     "dni": "95128688",
     "dni_unificado": "95128688",
-    "dni_hash": "5154711954b0f7edb612dfbc1b6cfacb:e59864e2a1ac120791a64ce37c8d10be16e1eab284e2db9d4c048ab02cdf6333",
+    "dni_hash": "1fea5f3484a5abbec36181b49dac0d6a:0197c2d29de691097e6a3e29ee8483e22c4ef276dca011c5b18408d81fd89d5d",
     "submission_time": "2026-08-10T07:09:16",
     "submission_time_local": "2026-08-10T04:09:16-03:00",
     "temperatura_c": 4.3
@@ -4459,7 +4459,7 @@
     "observaciones": "Solicito el kit mientras resolvíamos una carta y esperábamos la vacante.",
     "dni": "42284732",
     "dni_unificado": "42284732",
-    "dni_hash": "9ec86491dfeedc3f2ba358f4e3f5947e:76f69483caad38a1c0249d91ac09837bfecf35920f8ccf7fe5d905fa9f56d011",
+    "dni_hash": "2fd55e6d5946ef7542021e33e4a5ac9a:0a5eb51ffb569519de40cd858f915e4f7abc8ff7f03a8e4db371a576c40d89e4",
     "submission_time": "2026-08-10T07:09:17",
     "submission_time_local": "2026-08-10T04:09:17-03:00",
     "temperatura_c": 4.3
@@ -4478,7 +4478,7 @@
     "observaciones": "Se acercó mientras aguardamos una vacante para otro chico.",
     "dni": "42819771",
     "dni_unificado": "42819771",
-    "dni_hash": "97e1680256b2a6fe7cdb2dc60ec63d33:74b7c348c820f36f95daa42a39daad2078399f14158c133919c6cacd78471fe3",
+    "dni_hash": "46dc400bfb1a9b4544723d189e32636a:0dce46e2c6ec6feeccf5db3589374f589e53eeeca4d54e61f959ba9d32d53869",
     "submission_time": "2026-08-10T07:09:17",
     "submission_time_local": "2026-08-10T04:09:17-03:00",
     "temperatura_c": 4.3
@@ -4497,7 +4497,7 @@
     "observaciones": "Solicito kit mientras aguardamos vacante para una carta 1799052",
     "dni": "45136239",
     "dni_unificado": "45136239",
-    "dni_hash": "fd1dd28371758dc256641b3930e76fa9:3179b65bf1a21f1094fbb524d1a663874edbf4bdabb6b99cf5766faa8fa46cf9",
+    "dni_hash": "5a33f8281af08ddee8cfbea73d90c618:cd030f31930a9e2b4b67d9251482b3b63c01a91cab15c618b2fa965e8f48562c",
     "submission_time": "2026-08-10T07:09:18",
     "submission_time_local": "2026-08-10T04:09:18-03:00",
     "temperatura_c": 4.3
@@ -4516,7 +4516,7 @@
     "observaciones": "Se le ofrece las herramientas que provee el gobierno rechaza todo, se le entrega un kit de frío",
     "dni": "28178014",
     "dni_unificado": "28178014",
-    "dni_hash": "e983a79373f241da2615b70086228296:5d51ea49850b67f5c32490f2d19d948e67441bacfdd32aac1afd88f2e9a72972",
+    "dni_hash": "412d913e4d62f4a41eb6b0144b7cea10:9a2b31d3d744abce183a6e9a72463d7419edfe54f7a3f3b90efe0a87d9042d49",
     "submission_time": "2026-08-10T08:16:15",
     "submission_time_local": "2026-08-10T05:16:15-03:00",
     "temperatura_c": 4.0
@@ -4535,7 +4535,7 @@
     "observaciones": "Ya en otro momento le entregaron kit pero en el momento de la entrevista se encuentra desabrigado.se le hace entrega nuevamente.",
     "dni": "37118201",
     "dni_unificado": "37118201",
-    "dni_hash": "7989fe61aaff8dee2cdbbd5fb44110f3:e649ab77edbcb83827a20127599883a0dec7290cac6f60ee990f6d835098114a",
+    "dni_hash": "ca4eaf9cfe407c3d3f363c0b00d1bf67:57f28b47c8f9aacf3f16bd8a9b29cccf1d0edced37488f76a3c538a358f595d5",
     "submission_time": "2026-08-10T08:22:39",
     "submission_time_local": "2026-08-10T05:22:39-03:00",
     "temperatura_c": 4.0
@@ -4554,7 +4554,7 @@
     "observaciones": "Rechazo asistencia, se entregó kit",
     "dni": "34340360",
     "dni_unificado": "34340360",
-    "dni_hash": "3f31e4c09fe5f866eb2b1b4b4480b719:a14c257422a3d36baff942026c13852cc26068009e7a8c813509e4e20fcd5aa7",
+    "dni_hash": "573894dc4719257cb9a70e25124f6c54:1eca37413b72bf217f566ee3aaa8f30c244181d44ebebd27790bb4dea484a13b",
     "submission_time": "2026-08-10T08:35:30",
     "submission_time_local": "2026-08-10T05:35:30-03:00",
     "temperatura_c": 3.7
@@ -4573,7 +4573,7 @@
     "observaciones": "• Dirección del punto: Laprida y Pueyrredón \n• N de Carta: espontáneo \n• ⁠Equipo interviniente: Beñatena\n• Movil: NJ\n• Chofer: GARCIA QUIÑONES\n• ⁠fecha:10/08/2026\n• Hora inicio:02:24\n\nNombre, apellido, identidad de la/s persona/s: Romina edith bentos\nDNI : 38178014\nFN:--\nEDAD : 32\n\nRESOLUCION:\nEl equipo RDA turno madrugada se hace contacto con femenina a quien se le ENTREGA KIT FRÍO \n\nHora de finalización:02:25\n\nSin mas que agregar el equipo RDA TURNO MADRUGADA continua con su recorrido.",
     "dni": "38178014",
     "dni_unificado": "38178014",
-    "dni_hash": "03a80c048b841152de60831907288f7d:ee020e179324ff8dda58dc2fbb345f1e63fb0ad96c6f2974dda922b8e7854e7a",
+    "dni_hash": "9ed308ffd2d0ba720a80e77b5861d7f9:045c64bd65a8fbecbea50c7d587ef4352aa082536e4bdc7135f682cd85369041",
     "submission_time": "2026-08-10T08:40:33",
     "submission_time_local": "2026-08-10T05:40:33-03:00",
     "temperatura_c": 3.7
@@ -4592,7 +4592,7 @@
     "observaciones": "• Dirección del punto: Laprida y Pueyrredón \n\n• N de Carta: espontáneo \n\n• ⁠Equipo interviniente: Beñatena\n\n• Movil: NJ\n\n• Chofer: GARCIA QUIÑONES\n\n• ⁠fecha:10/08/2026\n\n• Hora inicio:02:35\n\n\nNombre, apellido, identidad de la/s persona/s: Romano nelson\n\nDNI : 30994201\n\nFN: 18/08/1984\n\nEDAD : 35\n\n\nRESOLUCION:\n\nEl equipo RDA turno madrugada se hace contacto con femenina a quien se le ENTREGA KIT FRÍO \n\n\nMóvil 8255 oficial mayor flores José lp46189 para retirarlo del lugar. Previamente se había pedido asistencia del same siendo atendida por la operadora 30.\n\nAl tener el PUNTO VACIO se cancela same con operadora 12.\n\n\nEl motivo por el cual se realiza dich solicitud fue por qué estaba durmiendo en la calle sin frazada ni ningún tipo de abrigo o cartones.bslbuzeaba al hablar y aparentaba consumo. Porlo que se hacía sugerencia intervención psiquiatrica.\n\n\nHora de finalización:02:50\n\n\n\n\n \n\n\n\nSin mas que agregar el equipo RDA TURNO MADRUGADA continua con su recorrido.",
     "dni": "30994201",
     "dni_unificado": "30994201",
-    "dni_hash": "6ea0c267d76ab744e4ff7d9419e96aca:3eee312855aa05ba1dc5121b191a9ac6b9c362092dc716159e3b0e8af294068e",
+    "dni_hash": "55657c837f749059a626db9c323d820f:b2a6018da94630d6260aa9beccf774ff9a2390d6d0c63251caaa5bf3b8501e0a",
     "submission_time": "2026-08-10T08:40:34",
     "submission_time_local": "2026-08-10T05:40:34-03:00",
     "temperatura_c": 3.7
@@ -4611,7 +4611,7 @@
     "observaciones": "• Dirección del punto: Austria y Pacheco de Melo hospital Rivadavia \n• N de Carta: 1799489\n• ⁠Equipo interviniente: Beñatena\n• Movil: NJ\n• Chofer: GARCIA QUIÑONES\n• ⁠fecha:10/08/2026\n• Hora inicio:03:00\n\nNombre, apellido, identidad de la/s persona/s: Vega Luis Alberto \nDNI : 25462715\nFN: 28/06/1976\nEDAD : 50\nPuede cama arriba.\n No toma medicación.\nsin enfermedad de base \n\nRESOLUCION:\nEl equipo RDA turno madrugada se hace contacto con masculino a quien se le ENTREGA KIT FRÍO y se traslada a micro belgrano \nHora de finalización:04:05\nSin mas que agregar el equipo RDA TURNO MADRUGADA continua con su recorrido.",
     "dni": "34928208",
     "dni_unificado": "34928208",
-    "dni_hash": "62a164a94a27a77f7eab8a010573709c:fbc94b822ca09a9b5e21bbcf1b98a9ddaf98fc508b4a85ca69d44c3b1e94c1fb",
+    "dni_hash": "34de7fe7e367e6c2a0a5dcda364d1e9b:540086d05debabb90861f7bacf0b5e409ba9402e2f914ee713cf046936cef771",
     "submission_time": "2026-08-10T08:40:34",
     "submission_time_local": "2026-08-10T05:40:34-03:00",
     "temperatura_c": 3.7
@@ -4630,7 +4630,7 @@
     "observaciones": "Rechaza asistencia, acepta kit frío",
     "dni": "37342184",
     "dni_unificado": "37342184",
-    "dni_hash": "a0edd0007aca9974a68cb5653b515a39:7803d419a8aae07a06cc5492d93da003a875c1d6475a09af10cde7095402ca39",
+    "dni_hash": "a4314af20a9944192c588b1b819c4517:ad36b25bc765bf2bac32d4081a9c6c9bc22ceeb989a4e6d0bda7df50259cbb0a",
     "submission_time": "2026-08-10T08:44:26",
     "submission_time_local": "2026-08-10T05:44:26-03:00",
     "temperatura_c": 3.7
@@ -4649,7 +4649,7 @@
     "observaciones": "Rechaza asistencia, acepta kit de frío",
     "dni": "25555244",
     "dni_unificado": "25555244",
-    "dni_hash": "05cc429e73b3c37e5b2e388614138d99:f3f0337bf2979fc44bea19aa3dbc19c1dcb537e1dbf0a75a1e0fa26f9a2f439f",
+    "dni_hash": "80368fd74dc4d5c46ea37f073badde88:178db2289953d6c61036fa21b0ac36ce295dc2c95b401109a0fd3440afc01cad",
     "submission_time": "2026-08-10T08:44:27",
     "submission_time_local": "2026-08-10T05:44:27-03:00",
     "temperatura_c": 3.7
@@ -4668,7 +4668,7 @@
     "observaciones": "Rechaza asistencia del programa, recibe kit frío.",
     "dni": "34743014",
     "dni_unificado": "34743014",
-    "dni_hash": "47abcd0fbb6422baab4cc40d9c3a9ac2:7fda3400fc4631de71190ea3f1b8af087315dd3fcd58512c9733a70bac2e3e6a",
+    "dni_hash": "47017ee15e0c3bc5e5e98e00c8164eb3:b0bd5a63e57e474bd0522222ac529ae24e7d47e021c14417b6e2c2c8d44c9dbc",
     "submission_time": "2026-08-10T08:54:44",
     "submission_time_local": "2026-08-10T05:54:44-03:00",
     "temperatura_c": 3.7
@@ -4687,7 +4687,7 @@
     "observaciones": "Rechaza asistencia del programa, recibe kit frío.",
     "dni": "47860911",
     "dni_unificado": "47860911",
-    "dni_hash": "5f2436344934a1bb72068f9ee52c2942:5d0765b62e3623c0748e3a4f234db44157f7b18bea1cabf31e621e2cf2ee2f11",
+    "dni_hash": "d964b46bcb817630f768eafeea7829d6:7224ed1e9c296ed6af6397bfe53789cfba7fab0d7a8bd64321f38a0bf12bf35b",
     "submission_time": "2026-08-10T08:54:44",
     "submission_time_local": "2026-08-10T05:54:44-03:00",
     "temperatura_c": 3.7
@@ -4706,7 +4706,7 @@
     "observaciones": "Rechaza asistencia del programa, acepta kit frío.",
     "dni": "41725538",
     "dni_unificado": "41725538",
-    "dni_hash": "69224dd976369afdcff72b60c79cb6b1:75050be2245f27b14e16d31e2e5f7b5bc74f0a3761f0bed917772e2fd528090a",
+    "dni_hash": "24ea07c68b9afe5b134174bf625bfed5:93cd7cca0c280a847c123fed5f1fed17e2cbc23384576ad9d9a5517dd1bc4c03",
     "submission_time": "2026-08-10T08:54:44",
     "submission_time_local": "2026-08-10T05:54:44-03:00",
     "temperatura_c": 3.7
@@ -4725,7 +4725,7 @@
     "observaciones": "Se le hace entrega de Kits frío.",
     "dni": "33522228",
     "dni_unificado": "33522228",
-    "dni_hash": "dccd7226f11cd54e8af3f119e4dfdc28:c66b7a8cfbe40b76ec4514b446270e49255c1eea017320a9c6a4cc56a6aad28b",
+    "dni_hash": "323be56a927534e4223b676bc6fabc61:6e5592f7ca407d7018a6fa39fcab9b7643bbbe7eb79f3f65ea66f69598068536",
     "submission_time": "2026-08-10T08:54:45",
     "submission_time_local": "2026-08-10T05:54:45-03:00",
     "temperatura_c": 3.7
@@ -4744,7 +4744,7 @@
     "observaciones": "Rechaza asistencia del programa, recibe kit frío",
     "dni": "17373469",
     "dni_unificado": "17373469",
-    "dni_hash": "5675cea138c94676078578f2b777479d:8b7d43a038b659b802f5abf86f44577dd42f739dafc8c0b95f6edf4a78568a96",
+    "dni_hash": "25fc7f5f116778f2d04978094d4a3262:a2b4d8f702bcfd8df6fe1e14d43959c8f2ae68cd357d02415a36d77d4ba832c2",
     "submission_time": "2026-08-10T08:54:45",
     "submission_time_local": "2026-08-10T05:54:45-03:00",
     "temperatura_c": 3.7
@@ -4763,7 +4763,7 @@
     "observaciones": "Rechaza asistencia del programa recibe. kit frío",
     "dni": "26258336",
     "dni_unificado": "26258336",
-    "dni_hash": "eb6286216b3179dcfd18250490199030:3f7d8261c4559236ff66ad94afbb4e0f1f495b0fcaae81aa66619785496073bb",
+    "dni_hash": "a77d4fc5d695bf5dce376745e529f924:6829c89933b6ad8b159f102971c9dcfe3ba049fafc7f043d24bea4f729b89016",
     "submission_time": "2026-08-10T08:54:46",
     "submission_time_local": "2026-08-10T05:54:46-03:00",
     "temperatura_c": 3.7
@@ -4782,7 +4782,7 @@
     "observaciones": "Rechaza asistencia del programa, recibe kit frío.",
     "dni": "46195008",
     "dni_unificado": "46195008",
-    "dni_hash": "a249dbbaebcd1ff5a1327c5fa4a59bdc:96be022dbe3a535fd60c459e183c7a9c3745ccefb9af7ea16dbbedea56652ffb",
+    "dni_hash": "6b6544f1258a9cf389a8ee6a18d40b9c:6f7e5563cd86de2a347d146589074aa4a262513a989c99a8ce5815a13747a2a1",
     "submission_time": "2026-08-10T08:54:46",
     "submission_time_local": "2026-08-10T05:54:46-03:00",
     "temperatura_c": 3.7
@@ -4801,7 +4801,7 @@
     "observaciones": "Rechaza asistencia del programa, recibe kit frío.",
     "dni": "36740908",
     "dni_unificado": "36740908",
-    "dni_hash": "d4aac5b79b1a1bbaa1f689edeae1df31:e8ffddc2203be4b38bb074e9e57a14b49fc6ebe605e13654112f228aae9102d4",
+    "dni_hash": "1da8b952fb17cea2d83f75685e59bfdd:cf2b7dcd50bcd7483c1709843faa244245ef9c19abdc24d3639c09cea718e766",
     "submission_time": "2026-08-10T08:54:46",
     "submission_time_local": "2026-08-10T05:54:46-03:00",
     "temperatura_c": 3.7
@@ -4820,7 +4820,7 @@
     "observaciones": "Prueba",
     "dni": "1111111",
     "dni_unificado": "1111111",
-    "dni_hash": "0ff65fd7ee656293ee88861e8a3f7971:e743c85fd652b38f6cc0a27f6c398a3fe881f2296e83904cd28ddf6ba41addb2",
+    "dni_hash": "9e958a34eaf5273c79c725e676c12dd7:390a5af26d7c961fc3bcd227221bfcfec5b4bb0d97ecc2ded1f097d6d4967adb",
     "submission_time": "2026-08-10T16:32:20",
     "submission_time_local": "2026-08-10T13:32:20-03:00",
     "temperatura_c": 10.7
@@ -4839,7 +4839,7 @@
     "observaciones": "4 días en calle \nNo quiere Cis \nCuánta con documentación física\n\nAcepta kit frío",
     "dni": "28894479",
     "dni_unificado": "28894479",
-    "dni_hash": "2138e09f9a7cc26728e619c98659eada:06e748e426b3f6c7df5fd50d0f90627117e6be1d3d4a40f81b20d3fcb2470859",
+    "dni_hash": "f6dfa5056394515817e642229747fd1c:e757f442af8c6e91ed06c038ba834b295b72060180f564fab8b67d0b923268a9",
     "submission_time": "2026-08-10T16:49:09",
     "submission_time_local": "2026-08-10T13:49:09-03:00",
     "temperatura_c": 10.7
@@ -4858,7 +4858,7 @@
     "observaciones": "3 años en calle \nNo quiere Cis\nACEPTA KiT",
     "dni": "37066640",
     "dni_unificado": "37066640",
-    "dni_hash": "cfa24b77fa59584a5ff91e406ee238ab:04c484c54e2fc3a04fc309fa5555857cc6aa99cb2d391a7ff95640f5ddc0b9f6",
+    "dni_hash": "cca738174e8a17d29b3511cbdeb98140:9c3ec2ac073553c15b3293e890e6b2179d934b308281020a5a0c18268079e260",
     "submission_time": "2026-08-10T16:49:09",
     "submission_time_local": "2026-08-10T13:49:09-03:00",
     "temperatura_c": 10.7
@@ -4877,7 +4877,7 @@
     "observaciones": "15 años en calle \nNo quiere Cis \nAcepta kit",
     "dni": "29854618",
     "dni_unificado": "29854618",
-    "dni_hash": "e2b5eb41114bfc7a087c83b8572f47c7:8179a5a4a5c7bde85f20cd6eff3db1d2035f0fd7fa3480e79d9c6faa0a9400d5",
+    "dni_hash": "7e0002a912f576cff06353a64b718514:70a6a07ace1884312628ffcfec478a5715bf3301ba4f071b8d9fd1b79981f4a3",
     "submission_time": "2026-08-10T16:49:10",
     "submission_time_local": "2026-08-10T13:49:10-03:00",
     "temperatura_c": 10.7
@@ -4896,7 +4896,7 @@
     "observaciones": "Más de 10 años en calle \nNo quiere Cis \nACEPTA KIT",
     "dni": "32329262",
     "dni_unificado": "32329262",
-    "dni_hash": "2e5143016c67426421d47d745579ad9f:384ac5c86f4acf44cc5e0683bb4fead1c7e096c6aaa4eef9583e758b3170c850",
+    "dni_hash": "2efa9d0ee84887727cc6dcf4913e732b:e6394ffd12e99d71303ce9fb2fcae9dd7cf04f88f6dc86ebb1e621ec29eff954",
     "submission_time": "2026-08-10T16:49:10",
     "submission_time_local": "2026-08-10T13:49:10-03:00",
     "temperatura_c": 10.7
@@ -4915,7 +4915,7 @@
     "observaciones": "3 años en calle \nNo quiere Cis \nAcepta KiT",
     "dni": "35397903",
     "dni_unificado": "35397903",
-    "dni_hash": "f082482e4ea4cf9d12e3838b24ccc259:c88d9e751ef2a6fb7f92f321f853662d8811af676efe61895d570c0c53e0e0fb",
+    "dni_hash": "62af47250289aa00f6db6946ac585244:116a2a5e4625b64141494d38657b9d18e9d2344bceb2cb5815dfb293c9f02b60",
     "submission_time": "2026-08-10T16:49:10",
     "submission_time_local": "2026-08-10T13:49:10-03:00",
     "temperatura_c": 10.7
@@ -4934,7 +4934,7 @@
     "observaciones": "El equipo se hace presente en el punto con la predisposición de brindar asistencia ofreciendo los recursos brindados por el programa. Se contacta al referente Cristian Federico Beloso (34.413.642) de 36 años de edad al cual se le brinda la posibilidad de gestionar vacante para ingresar a un cis y/o pernoctar utilizando las instalaciones de los micros, pero el mismo rechaza lo brindado. Acepta gestionar la entrega del kit frío el cual es otorgado por las bajas temperaturas, se consulta con supervisión y se le hace entrega del mismo una vez autorizado.",
     "dni": "34413642",
     "dni_unificado": "34413642",
-    "dni_hash": "ef8fde26ca178d2c4f6aec4c4d0af427:70e9c0c7d386cccb0c52eaa2353e1837eae25b2efe1e6eb9e6d621bf6c0773dd",
+    "dni_hash": "93452b24178b9eba0feb58d4296738e1:9e3667eaffd232c6f1dedb520a60179211cd676e8cc3db29c6e32a901e2a3fc6",
     "submission_time": "2026-08-10T16:49:11",
     "submission_time_local": "2026-08-10T13:49:11-03:00",
     "temperatura_c": 10.7
@@ -4953,7 +4953,7 @@
     "observaciones": "El equipo se hace presente en el punto con la predisposición de brindar asistencia ofreciendo los recursos brindados por el programa. Se contacta a Marian Riveros  (94.620.359) de 41 años de edad quien se encuentra en situación de vulnerabilidad social padeciendo emergencia habitacional. A la misma se le brinda la posibilidad de gestionar vacante para ingresar a un cis y/o pernoctar utilizando las instalaciones de los micros, pero rechaza lo brindado. Acepta gestionar la entrega del kit frío el cual es otorgado por las bajas temperaturas, se consulta a supervisión y se le hace entrega del mismo una vez autorizado.",
     "dni": "94620359",
     "dni_unificado": "94620359",
-    "dni_hash": "9d8ce90998bcfaa1ce70ac2cc93a3ae6:0c49d86a18a27529314bfd249c6a48ae6d73d065ca83f112cc14f468ba1957ac",
+    "dni_hash": "7f1e4df9a2fd0dfa53551d00a96d9a28:7c7f84c2feef5d613962b2d43a3cdd93d668d3f0d70c3f3cf16e7dd22feef917",
     "submission_time": "2026-08-10T16:49:11",
     "submission_time_local": "2026-08-10T13:49:11-03:00",
     "temperatura_c": 10.7
@@ -4972,7 +4972,7 @@
     "observaciones": "El equipo se hace presente en el punto con la predisposición de brindar asistencia ofreciendo los recursos brindados por el programa. Se contacta a Walter Marcelo Sanz (18.411.029) de 59 años de edad quien se encuentra en situación de vulnerabilidad social padeciendo emergencia habitacional. A l mismo se le brinda la posibilidad de gestionar vacante para ingresar a un cis y/o pernoctar utilizando las instalaciones de los micros, pero rechaza lo brindado. Acepta gestionar la entrega del kit frío el cual es otorgado por las bajas temperaturas, se consulta a supervisión y se le hace entrega del mismo una vez autorizado.",
     "dni": "18411029",
     "dni_unificado": "18411029",
-    "dni_hash": "19a240e634c520d811e9e3a007838869:18bfa942922ac9c1e0570d9e17c28309a638cd3774ef2353113beef2fe6bc3fe",
+    "dni_hash": "f89fcafa527b12472218433af6ec2d0d:bccdf2fed6d1584aec53bfc53840ddecd8a5a1c98030bf7233377acceb7366c2",
     "submission_time": "2026-08-10T16:49:12",
     "submission_time_local": "2026-08-10T13:49:12-03:00",
     "temperatura_c": 10.7
@@ -4991,7 +4991,7 @@
     "observaciones": "El equipo se hace presente en el punto con la predisposición de brindar asistencia ofreciendo los recursos brindados por el programa. Se contacta a Guillermo Alejandro Caniza (33.363.400) de 38 años de edad quien se encuentra en situación de vulnerabilidad social padeciendo emergencia habitacional. A l mismo se le brinda la posibilidad de gestionar vacante para ingresar a un cis y/o pernoctar utilizando las instalaciones de los micros, pero rechaza lo brindado. Acepta gestionar la entrega del kit frío el cual es otorgado por las bajas temperaturas, se consulta a supervisión y se le hace entrega del mismo una vez autorizado.",
     "dni": "33363400",
     "dni_unificado": "33363400",
-    "dni_hash": "0a98fb0f6edf995c5513646abd50d798:fb7b590dfea47c12dfe8ba949c577449673311f1bf166bc4350bc3839603f026",
+    "dni_hash": "0c607e992019f9d98781486f4df6cd34:6139c92dcbe9703ccece2c47cb142956a053b8a70f084363a8c97b4650117b77",
     "submission_time": "2026-08-10T16:49:12",
     "submission_time_local": "2026-08-10T13:49:12-03:00",
     "temperatura_c": 10.7
@@ -5010,7 +5010,7 @@
     "observaciones": "El equipo se hace presente en el punto con la predisposición de brindar asistencia ofreciendo los recursos brindados por el programa. Se contacta a Carlos Enrique Díaz Silva (37.776.947) de 49 años de edad quien se encuentra en situación de vulnerabilidad social padeciendo emergencia habitacional. A l mismo se le brinda la posibilidad de gestionar vacante para ingresar a un cis y/o pernoctar utilizando las instalaciones de los micros, pero rechaza lo brindado. Acepta gestionar la entrega del kit frío el cual es otorgado por las bajas temperaturas, se consulta a supervisión y se le hace entrega del mismo una vez autorizado.",
     "dni": "37776947",
     "dni_unificado": "37776947",
-    "dni_hash": "86a2f8a6667fdedf19fb908a94310bc5:3119d7874305f4af9bdc26eb75a08562c034d82f2b872a953b3e56c18ed70448",
+    "dni_hash": "2873459b82f8aa32653125b8ede213f1:d8c4963d0c3ba491253fab873ad4670f8d08f318bf9a483f14ff04fc4121f19f",
     "submission_time": "2026-08-10T16:49:13",
     "submission_time_local": "2026-08-10T13:49:13-03:00",
     "temperatura_c": 10.7
@@ -5029,7 +5029,7 @@
     "observaciones": null,
     "dni": "38648159",
     "dni_unificado": "38648159",
-    "dni_hash": "63c9b9efc09871758fe1d620cd57cea8:381a13134e354a0683c1ed78a54f9dd6fdb9e2433fcead715b1b2c46a3d65dd7",
+    "dni_hash": "f5f15967396716006df3672dcc291468:f6e15f3cf2a21e210e8ca6b5527eaf3b917408fb1e1c3f4d7016814c2fbf5b6f",
     "submission_time": "2026-08-10T16:49:13",
     "submission_time_local": "2026-08-10T13:49:13-03:00",
     "temperatura_c": 10.7
@@ -5048,7 +5048,7 @@
     "observaciones": null,
     "dni": "40224663",
     "dni_unificado": "40224663",
-    "dni_hash": "adbbd3ca908ae59621afc75e3451eef3:849c1e0eb1abdf9eeede10f8866ef94884bf1928fc4bd0601883664d53d54def",
+    "dni_hash": "0c9856cf2c35c75e902610e65acf3824:f308eb16be482e4cee82f5b82d8302b3ccc8b10bc60895053fd7f523062cad6c",
     "submission_time": "2026-08-10T16:49:13",
     "submission_time_local": "2026-08-10T13:49:13-03:00",
     "temperatura_c": 10.7
@@ -5067,7 +5067,7 @@
     "observaciones": "Prueba",
     "dni": "1111111",
     "dni_unificado": "1111111",
-    "dni_hash": "460c640e5a178049a6fbafb0f3f0639e:ec157831c7f09aec13780fc8052f6b8bbadd5eb38384fe621e0dd06b5be3c688",
+    "dni_hash": "d4534b8685d58cb61feee2b3685a44f0:908bcfb350fa8a6f5d8d524d9209fba30ab80857b45eaf289b9c557a9db14cee",
     "submission_time": "2026-08-10T16:49:14",
     "submission_time_local": "2026-08-10T13:49:14-03:00",
     "temperatura_c": 10.7
@@ -5086,7 +5086,7 @@
     "observaciones": "Rechaza CIS DIPA micro no tenía DNI y se entregó Kit Frio",
     "dni": "1234567",
     "dni_unificado": "1234567",
-    "dni_hash": "5139f0b3d1dd52267f0c24b045e3b4b6:56a3edb88943161c7827403456ca8448ed46350a09e502f2994d346707ad1385",
+    "dni_hash": "30841e19b47d7de44adca1af8925346a:cb2116fde7e62775346458d66dc0ec88cd4eef31b252e4d25c8c621c937eb498",
     "submission_time": "2026-08-10T16:51:58",
     "submission_time_local": "2026-08-10T13:51:58-03:00",
     "temperatura_c": 10.7
@@ -5105,7 +5105,7 @@
     "observaciones": "Chico en situación de calle, no le salió parador se le hace la entrega de un kit frío",
     "dni": "48235203",
     "dni_unificado": "48235203",
-    "dni_hash": "269c57c14fca6341ee2684757731e2cf:89488090086f645582552a65c8dfe28e9fedcb662464ff9a0106a59931248496",
+    "dni_hash": "ab5c27b502c611c7c5d0c923f15b486d:0aad113cdbbe3dfdd7d9462918bb608a17ca89eee2f1f7381e036e8655fd5c69",
     "submission_time": "2026-08-10T16:51:59",
     "submission_time_local": "2026-08-10T13:51:59-03:00",
     "temperatura_c": 10.7
@@ -5124,7 +5124,7 @@
     "observaciones": "- *Dirección del punto:* peña 3152\n- ⁠Equipo interviniente: Vilte Filomena\n- chófer: Riquelme Matias \n- móvil: AI095JG\n- ⁠fecha: 12/8\n- ⁠Hora: 01:20AM\n- ⁠N carta: 1802164\n- Nombre y apellido: Florencia acosta\nDNI: 35138376\nFN:\nEdad: \nNacionalidad: argentina\n\n*Resolución:*\nEl equipo de RDA turno madrugada arriba a punto indicado, peña 3152, puerta de edificio. Nos encontramos con la femenina acostada en la entrada, al ofrecerle asistencias la rechaza, comentando que ya pasó por paradores y que tuvo malas experiencias. Comento estar en calle hace un año y medio. Le ofrecimos kit frio y acepto, brindando los datos obtenidos. Al decirle que se tenía que retirar el espacio empezó a decir que ese no era nuestro trabajo ya que no éramos espacio público, y que a ella solo podían sacarla la policía o espacio público. Se deriva a seguridad, dónde atiende operador n21. Sin más nada para agregar el equipo se retira para continuar con su recorrido",
     "dni": "35138376",
     "dni_unificado": "35138376",
-    "dni_hash": "f0c8abcc67508af0bbb25853a232a1f6:ef791a2c3d70b5c1008893ec87f056f40c62a2ba31e804da9c3a8afdc2ab57e5",
+    "dni_hash": "084dc776a6069b811eb5e375771bd3b3:2f11c5c9595b4488541e92286998ba92ab0b06f88534323b05603ce4f50df013",
     "submission_time": "2026-08-12T08:07:43",
     "submission_time_local": "2026-08-12T05:07:43-03:00",
     "temperatura_c": 8.6
@@ -5143,7 +5143,7 @@
     "observaciones": "Se acerca masculino a solicitar kit en un semaforo",
     "dni": "50325016",
     "dni_unificado": "50325016",
-    "dni_hash": "5d66a2dcf828e1a1da0999949c3d34c1:45790e18911d06827a0ec69691a9e87be914f13f2970a54276d9f2ca77c7af07",
+    "dni_hash": "46733f6a1e769ddc9ac7fea5921f3f7e:ef222323616afeb3bdf3eebb9a295f377bf3dd4c3d0007e14230f36fe4a78823",
     "submission_time": "2026-08-12T08:07:44",
     "submission_time_local": "2026-08-12T05:07:44-03:00",
     "temperatura_c": 8.6
@@ -5162,7 +5162,7 @@
     "observaciones": null,
     "dni": "10336572",
     "dni_unificado": "10336572",
-    "dni_hash": "3f7f02eedda788469b5e662aa501dfee:985ab994947d0eb4c02272d872e5a2618d47c1967696fb49f3d9a2a0674ef82e",
+    "dni_hash": "a5e245024298e1d0da8e412ec470cc89:84a97a52e12b3849793a063a92b80d98b046ab23008df388f2ba67981064819a",
     "submission_time": "2026-08-12T08:26:26",
     "submission_time_local": "2026-08-12T05:26:26-03:00",
     "temperatura_c": 8.6
@@ -5181,7 +5181,7 @@
     "observaciones": null,
     "dni": "95509677",
     "dni_unificado": "95509677",
-    "dni_hash": "73ecbe91bc8e01d3bfc8b3aa8b614af3:a9cc889153d047f64ecf98a4202d590c4d8f0faf81afd6e9cdaf064f0d5e9065",
+    "dni_hash": "f8054617bad9eb5ee856a09be0845f62:9abc4495b12ef615885825813907333d3723ff531706b7b0cf55def66c9faffc",
     "submission_time": "2026-08-12T08:26:26",
     "submission_time_local": "2026-08-12T05:26:26-03:00",
     "temperatura_c": 8.6
@@ -5200,7 +5200,7 @@
     "observaciones": null,
     "dni": "27244171",
     "dni_unificado": "27244171",
-    "dni_hash": "deb0e3e7c8310568652023c71e58490e:f01f02874f8fb2ad3a4f7ee7c9a8f575c713726a889ad3c6ed12b7760c9a5396",
+    "dni_hash": "5c45f86567231447c169432878560776:78bd6459e543eda7a0179af5f4785e4e47d4480477cd4e6cd8cf5089fc229942",
     "submission_time": "2026-08-12T08:26:26",
     "submission_time_local": "2026-08-12T05:26:26-03:00",
     "temperatura_c": 8.6
@@ -5219,7 +5219,7 @@
     "observaciones": "*Dirección del punto:* Av. Santa fe \nEquipo: operador: Beñatena, Pérez Hipolito\nChofer: García quiñones \n- ⁠Hora inicio: 01:00\n- Hora fin: 01:30\n- Móvil: NC\n- fecha: 12/08/2026\n* ⁠N carta*:  1802109\n\n*Datos personales*: \nNombre y apellido: Pudda Matias\nDNI: 38696135\nFN: -\nEdad: 32\n\n\nNombre y apellido: Diaz Franco\nDNI: 31839491  \nFN: 02/09/1985\nEdad: 41\n\n\n*Resolución*\n\nEl equipo de RDA arriba al punto indicado y se contacta con 2  personas, se observan Pertenencias.\nSe entrega KIT FRIO y se retiran del lugar. \n\nEl equipo continúa el recorrido. PUNTO VACIO.",
     "dni": "38696135",
     "dni_unificado": "38696135",
-    "dni_hash": "751bafce14cacebaf078069dc5f76718:e0d5b30dec495d1645a87ee44ff466d0586b52616b506ad747aed8219accbb97",
+    "dni_hash": "1757ae2e64db08b64dde3bace7aec319:daafb3e3a291e559a2f2d8123510e1ecca223fc1ebc127678deef75c042128e1",
     "submission_time": "2026-08-12T08:30:54",
     "submission_time_local": "2026-08-12T05:30:54-03:00",
     "temperatura_c": 8.7
@@ -5238,7 +5238,7 @@
     "observaciones": "*Dirección del punto:* Av. Santa fe \nEquipo: operador: Beñatena, Pérez Hipolito\nChofer: García quiñones \n- ⁠Hora inicio: 01:00\n- Hora fin: 01:30\n- Móvil: NC\n- fecha: 12/08/2026\n* ⁠N carta*:  1802109\n\n*Datos personales*: \nNombre y apellido: Pudda Matias\nDNI: 38696135\nFN: -\nEdad: 32\n\n\nNombre y apellido: Diaz Franco\nDNI: 31839491  \nFN: 02/09/1985\nEdad: 41\n\n\n*Resolución*\n\nEl equipo de RDA arriba al punto indicado y se contacta con 2  personas, se observan Pertenencias.\nSe entrega KIT FRIO y se retiran del lugar. \n\nEl equipo continúa el recorrido. PUNTO VACIO.",
     "dni": "31839491",
     "dni_unificado": "31839491",
-    "dni_hash": "b517f7fbec1c15c3170114825511e29e:25fe75b3e512c126cd844f805f86f512ff5d6ffa047e4de962000b64e8222cb8",
+    "dni_hash": "dc9cf782bfcce29733b628f1cfc93d3d:55c6f4d8621dceb6dc9cc647612ed77c83e9c7e09f746a8c47e96ef039236895",
     "submission_time": "2026-08-12T08:30:54",
     "submission_time_local": "2026-08-12T05:30:54-03:00",
     "temperatura_c": 8.7
@@ -5257,7 +5257,7 @@
     "observaciones": "Se entrega kit frio en Av santa fe y Pueyrredón, rechaza otro tipo de asistencia social",
     "dni": "28267830",
     "dni_unificado": "28267830",
-    "dni_hash": "2da2d27a032a6434905435c05c917df1:2f38c09d304f20da0c2a463450222bdb1961ffa3826dcccf3a25babc354ee561",
+    "dni_hash": "9d8a152861399e5b76d3c52938b09c75:a0ef42a3bcca13a6c9b937cfb7d37b56e353b0a5bbfb5b9933127e46932696a8",
     "submission_time": "2026-08-12T08:30:55",
     "submission_time_local": "2026-08-12T05:30:55-03:00",
     "temperatura_c": 8.7
@@ -5276,7 +5276,7 @@
     "observaciones": "Dirrección:  Av santa fe y Borges\nNombre: Peloso Héctor Daniel \nDNi 25912986\nEdad: 51\nFN: 27/10/1965\nSituación de calle desde: 3 meses\nEstuvo en Cis: No, primera vez \nEs Autovalido no toma medicación puede subir escalera, puede cama arriba y no usa bastón \nSolicita: CIS o micro.\nEs trasladado al micro de Perón y Agüero",
     "dni": "25912986",
     "dni_unificado": "25912986",
-    "dni_hash": "30fa4cfa30dda46ecaccffd6853d6505:3e2c7e248295e97a208cae8fab488807af304483a8965e6990fbfb38b471935a",
+    "dni_hash": "839b6ded95b78af26feb6fbea8dc7749:fddbe03fb40c5f1364fe0e50eee3c2a77b410ab62b4adfb3f88dfbc38f30dc77",
     "submission_time": "2026-08-12T08:30:55",
     "submission_time_local": "2026-08-12T05:30:55-03:00",
     "temperatura_c": 8.7
@@ -5295,7 +5295,7 @@
     "observaciones": "• Dirección del punto: Monteagudo y Av caseros\n.N de carta: 1802278\n• ⁠Equipo interviniente: Beñatena Y Pérez Hipólito \n• Movil: NC \n. Chofer: García quiñones \n• ⁠fecha:12/08/2026\n• Hora de inicio:02:40\n.Hora de cierre:03:00\n\nNombre, apellido, identidad de la/s persona/s: Ciccioli Facundo\nDNI : 37895986\nFN : 01/08/1993\nEDAD : 33\n\nRESOLUCION:\nEl equipo RDA turno madrugada  se hace presente en el punto indicado donde se contacta a la persona recostada en el banco de una plaza al lado del monumento tal cual lo informo. \n\nSE ENTREGA KIT FRIO \n\nArriba micro Perón y Agüero \n\n\nSin mas que agregar el equipo RDA turno madrugada continua con su recorrido.",
     "dni": "37895986",
     "dni_unificado": "37895986",
-    "dni_hash": "d1d4ba311e37081973be2eb1b3f56920:de06dc32d4e5d5f3d8701afbacb3e733a45f86e69c79ad6fe330d7b840c5dc89",
+    "dni_hash": "9826282faf25c7a3db9d25d16c92d99b:e2997bc1d45b65d94b191b1e58ddab8dd93fd2998243ea42fb62b73fda48228a",
     "submission_time": "2026-08-12T08:30:55",
     "submission_time_local": "2026-08-12T05:30:55-03:00",
     "temperatura_c": 8.7
@@ -5314,7 +5314,7 @@
     "observaciones": "Se entrega kit frio en comuna 4",
     "dni": "36332881",
     "dni_unificado": "36332881",
-    "dni_hash": "fc7cded070c4e54a941ee44e460d2b90:9e9d919ead8ed5a324df5826782fde0ae807f7e736aff4ef7d85fa7b5cb10fe4",
+    "dni_hash": "b8e1422bcb8e89ec3b3bea7d64d33241:059cec8ae2c06341bbc877f1be7ad81908073527b13184cbb4e6420c8eccbe78",
     "submission_time": "2026-08-12T08:30:56",
     "submission_time_local": "2026-08-12T05:30:56-03:00",
     "temperatura_c": 8.7
@@ -5333,7 +5333,7 @@
     "observaciones": "Se entrega kit frio comuna 4 la boca",
     "dni": "34216454",
     "dni_unificado": "34216454",
-    "dni_hash": "c451c723c30785ea3554a5cebf5fff27:d7fabe68f9358ae59e048ffaa4b72f437a603b17fc140d2b46729a6c6b091a74",
+    "dni_hash": "7936a9476f1d7390866cded23849ac82:bf7495400ff63b8b3bdbb00acda859e8a737373d21e36099d874f8fafce38f52",
     "submission_time": "2026-08-12T08:30:56",
     "submission_time_local": "2026-08-12T05:30:56-03:00",
     "temperatura_c": 8.7
@@ -5352,7 +5352,7 @@
     "observaciones": "• Dirección del punto: Brandsen 2500\n.N de carta: 1802417\n• ⁠Equipo interviniente: Beñatena Y Pérez Hipólito \n• Movil: NC \n. Chofer: García quiñones \n• ⁠fecha:12/08/2026\n• Hora de inicio:05:10\n.Hora de cierre:05:15\n\nNombre, apellido, identidad de la/s persona/s: Ibañez Jonathan abram\nDNI : 36353771\nFN : 14/11/1991\nEDAD : 35\n\nRESOLUCION:\nEl equipo RDA turno madrugada  se hace presente en el punto indicado donde  se contacta a la persona en situación de calle.\n\nSE ENTREGA KIT FRIO \n\n\nSin mas que agregar el equipo RDA turno madrugada continua con su recorrido.",
     "dni": "36353771",
     "dni_unificado": "36353771",
-    "dni_hash": "ad94b6aa9bc858cbcd2bfc03be453bce:7594098b6ba3d11c2693b2e9872006d53289a0d28f01350e3c55e4ed1adfb552",
+    "dni_hash": "f65bded0d26c6290ca34bc0ce2bc5cbf:5c6440a350f979d781958f044a55f075e0fd3f29a294045af17c92ca20463bf8",
     "submission_time": "2026-08-12T08:30:56",
     "submission_time_local": "2026-08-12T05:30:56-03:00",
     "temperatura_c": 8.7
@@ -5371,7 +5371,7 @@
     "observaciones": "Se hace entrega kit frío.",
     "dni": "43286340",
     "dni_unificado": "43286340",
-    "dni_hash": "a1760cfa78b11c13e70f3d97bc3858c8:dc26402a4888893d9d49732ff765ecd70404002b184efc2226b2677884259caa",
+    "dni_hash": "6feb5c5fe00af2930818864f9fd4158b:cf86e6f0b50871ddb699a853521c8227cf1291182a1c7330e6ca49978a0be68c",
     "submission_time": "2026-08-12T08:31:41",
     "submission_time_local": "2026-08-12T05:31:41-03:00",
     "temperatura_c": 8.7
@@ -5390,7 +5390,7 @@
     "observaciones": "Se le hace entrega de un kit frío.",
     "dni": "94278548",
     "dni_unificado": "94278548",
-    "dni_hash": "4dadcd8b880b6fb50c46ca200609bf8b:3a111cf579e23959ad4a5c379685ec3fd17aa2326a1cf15e7a37205a4e99cf36",
+    "dni_hash": "dcccb3cceacfbd207bc31a18f2a9d9ab:522409949eb9a2ccb473f648cc0dfa6170f7165b8ed4f9a88db2c0d9a3e429d5",
     "submission_time": "2026-08-12T08:31:42",
     "submission_time_local": "2026-08-12T05:31:42-03:00",
     "temperatura_c": 8.7
@@ -5409,7 +5409,7 @@
     "observaciones": "Se realiza entrega kit frío.",
     "dni": "47674148",
     "dni_unificado": "47674148",
-    "dni_hash": "9385114a1022bd7982ff6971d0071ebd:dd8fd531de5a6da3f9d040e6f94261540bae289394a94fb8acb38f4144f96c58",
+    "dni_hash": "0f6e00d25ad56da9ca7d96f67231cba8:dc0dd82c2c6b820af5ef12cd62793407c1953b33848a0d680cdb78ba60e184a3",
     "submission_time": "2026-08-12T08:31:42",
     "submission_time_local": "2026-08-12T05:31:42-03:00",
     "temperatura_c": 8.7
@@ -5428,7 +5428,7 @@
     "observaciones": "Rechaza asistencia, acepta Kit de frío.",
     "dni": "44301123",
     "dni_unificado": "44301123",
-    "dni_hash": "8fba51d9613ed0981522f3b37b2923c1:decfd142c20681b385ec2c4ecb8e6e40ec1aafd64ff1174a017d09096538d6d7",
+    "dni_hash": "c62201cdae11120de27cd53d8c9b1431:4f779fd966e559cf25f18865bbd9ce71652c6ee53be0b2fb22aa8036afd8bbc9",
     "submission_time": "2026-08-12T08:55:15",
     "submission_time_local": "2026-08-12T05:55:15-03:00",
     "temperatura_c": 8.7
@@ -5447,7 +5447,7 @@
     "observaciones": "Rechaza asistencia, acepta Kit de frío.",
     "dni": "34303314",
     "dni_unificado": "34303314",
-    "dni_hash": "c70f57bde90b3e17141bdeede53b0674:1eb1b86409aac4945f905cc116c20a6f7be6f47c79c2c11ad358c616bb0ffbe1",
+    "dni_hash": "dfadb854c8b43408f3907f3a04716a2c:b3064fd267bbd67ebb7a6f1bbce3b1de9efa8ee0c56730ee1698138680df4b4f",
     "submission_time": "2026-08-12T08:55:16",
     "submission_time_local": "2026-08-12T05:55:16-03:00",
     "temperatura_c": 8.7
@@ -5466,7 +5466,7 @@
     "observaciones": "Rechaza asistencia, acepta Kit de frío.",
     "dni": "7334261",
     "dni_unificado": "7334261",
-    "dni_hash": "1290caeb794a39c32104352a96586aaf:6f257bc88a2e601081b11915128ffae81bb18d150601273a515119509da05292",
+    "dni_hash": "ae31d45f0362db54b1381aaeff91f07e:1408e904c8fec8258a0aff710342c6588c55f3f2a6a04ff7a7666aaf7d8a420b",
     "submission_time": "2026-08-12T08:55:17",
     "submission_time_local": "2026-08-12T05:55:17-03:00",
     "temperatura_c": 8.7
@@ -5485,7 +5485,7 @@
     "observaciones": "Seguimiento Lacroze, rechaza asistencia, acepta Kit de calle y evaluación por Brigada CER.",
     "dni": "92030577",
     "dni_unificado": "92030577",
-    "dni_hash": "9023e4f29a46cd2728ce717069ebe065:ce717496f73cbe057b0c680d28d93529e831a39169dd79a96188a0af070c6da0",
+    "dni_hash": "4e6329f481e8c3937e35ff36e7f497e0:9dbb05067ab5aa65698eea0716575fe52350ce09bb58956b3b25e2b1dd031175",
     "submission_time": "2026-08-12T08:55:18",
     "submission_time_local": "2026-08-12T05:55:18-03:00",
     "temperatura_c": 8.7
@@ -5504,7 +5504,7 @@
     "observaciones": null,
     "dni": "29229836",
     "dni_unificado": "29229836",
-    "dni_hash": "39ec4676ee6b6f026bd88e40b41f77b0:577856bd61197cc710090545626b5f0d76759ae9ec40e5a4e7ca98d071f09ffc",
+    "dni_hash": "203bc703be76b9a2045642c5af89c104:27943dd3cae1b5541c07af756510e9b92e345db5ae64107f4c967e17d12a0106",
     "submission_time": "2026-08-13T04:37:44",
     "submission_time_local": "2026-08-13T01:37:44-03:00",
     "temperatura_c": 7.8
@@ -5523,7 +5523,7 @@
     "observaciones": null,
     "dni": "16849936",
     "dni_unificado": "16849936",
-    "dni_hash": "9aafbc6771e7f4967e92a051f8274195:186466a82d749155264d6ca0af5e9083fadbd013f069e68583a9a6e43c426dba",
+    "dni_hash": "cd4a734bc541ff205318ea9dc78689c4:ac0df9ba17cdb972093013ed195299b8498ca9d2ad5e369f39ea8edba942ac36",
     "submission_time": "2026-08-13T06:30:48",
     "submission_time_local": "2026-08-13T03:30:48-03:00",
     "temperatura_c": 7.6
@@ -5542,7 +5542,7 @@
     "observaciones": null,
     "dni": "22331770",
     "dni_unificado": "22331770",
-    "dni_hash": "da5e24d77bf2647fd2e46429425ba29a:620ac76ed06d94208f663bb4c055515cc0ec7e825d852b384473e114b100a935",
+    "dni_hash": "0d0af890a4f2b84344be9a73309472a4:bd2c3c7b8dcd182c24e618c793db3d70525ab46f901aed64f109f2b2f0306780",
     "submission_time": "2026-08-13T07:29:51",
     "submission_time_local": "2026-08-13T04:29:51-03:00",
     "temperatura_c": 7.6
@@ -5561,7 +5561,7 @@
     "observaciones": "El equipo de red de atención le ofrece el kit frio a José que no acepta ningún tipo de intervención aludiendo que ya fue a un Cis y no se sintió cómodo",
     "dni": "17318222",
     "dni_unificado": "17318222",
-    "dni_hash": "f1b0fe68a3c77c3b9631cd6c7802b97c:895e4c0280afb8e3f737ebbed8bd063e879c2ba56a3d0f2698c38c874fe380ab",
+    "dni_hash": "a86e65debb71b617ad501c7ced219446:07ed69d72bbb6f061b036afd95c7b49a40fadbdef4f5b9fbb4318115b763e571",
     "submission_time": "2026-08-13T07:43:21",
     "submission_time_local": "2026-08-13T04:43:21-03:00",
     "temperatura_c": 7.6
@@ -5580,7 +5580,7 @@
     "observaciones": "El equipo de red de atención le provee un kit frio al masculino el cual comenta que nunca estuvo en un Cis pero trabaja en una verdulería y busca poder pagarse un alquiler",
     "dni": "40095642",
     "dni_unificado": "40095642",
-    "dni_hash": "cb4d23cfea0ec23abd4aac36af5ebf35:3b7a66f2b2f24040197a1774d297050272795e9999b2ce9e2939c3c33ade1c19",
+    "dni_hash": "36c7264fe2a52128b0176c0f7a6b7e29:09715ddcdacfe3e3660a2189e47fb065b111b1ed39900a3f1bd5865f8ab0cdd5",
     "submission_time": "2026-08-13T07:43:21",
     "submission_time_local": "2026-08-13T04:43:21-03:00",
     "temperatura_c": 7.6
@@ -5599,7 +5599,7 @@
     "observaciones": "Joven venezolano que busca trabajo y salir de la calle",
     "dni": "96217002",
     "dni_unificado": "96217002",
-    "dni_hash": "bd1d27fd901d9ade2e5df6be70ced398:1c51255e1283573c8a29e722b5098864420c34082061260d5781ef6e3490dad6",
+    "dni_hash": "682b6f71be03cbbe059d201a38dfb6ee:b2e99417260490b784bf73d32df3365513b3b8b23e8b8d5fe2651593eb016aaf",
     "submission_time": "2026-08-13T07:43:22",
     "submission_time_local": "2026-08-13T04:43:22-03:00",
     "temperatura_c": 7.6
@@ -5618,7 +5618,7 @@
     "observaciones": "Siendo las 04:30  el equipo se contacto con el Sr martinez el mismo rechazó la propuesta de ir a un CIS/micro ya que refiere que tuvo malas experiencias pero aceptó el kit frío que el equipo le ofreció. El Sr refiere que ya se retira del lugar",
     "dni": "11202647",
     "dni_unificado": "11202647",
-    "dni_hash": "ad33a4c2b4760eabc869367bcb764371:66aa28c1fc918fa211619eb77fb12ed533c1f035b4404a129936c331f6f4246b",
+    "dni_hash": "1294c3bbaf9894b7059b5b0fccb0688f:526a14e33612f39de981db543745e595260b21010c263aa15e980b8a96831e86",
     "submission_time": "2026-08-13T08:48:31",
     "submission_time_local": "2026-08-13T05:48:31-03:00",
     "temperatura_c": 7.7
@@ -5637,7 +5637,7 @@
     "observaciones": "Rechaza intervención a Cis, recibe kit frío.",
     "dni": "23728086",
     "dni_unificado": "23728086",
-    "dni_hash": "a7ec6c4aabf8a187c0b0e5bc105bac7c:f1c544343224fb29f3ccfeb1cb0f9411ae25c1579a2801940bb5073849481376",
+    "dni_hash": "333bc02dfa3af09216033329d4475824:99aba59e555ed43ac419fc040befa0486acd4c622dfd17528d542cb8f5100fce",
     "submission_time": "2026-08-13T08:48:31",
     "submission_time_local": "2026-08-13T05:48:31-03:00",
     "temperatura_c": 7.7
@@ -5656,7 +5656,7 @@
     "observaciones": "Se realiza entrega de kit frío.",
     "dni": "37377296",
     "dni_unificado": "37377296",
-    "dni_hash": "48faf5daf1e32a63882976f61b87ab85:524353ace6e089763a45deab553272a8cbba3f20fc3016274dcd42cd63b11423",
+    "dni_hash": "6e36b45fbacb2203697c978a669c0444:fba62884fb9f604f20e50cf77f3e2ee7d687c5999d864ff31cb3c4920a96e4ab",
     "submission_time": "2026-08-13T08:48:31",
     "submission_time_local": "2026-08-13T05:48:31-03:00",
     "temperatura_c": 7.7
@@ -5675,7 +5675,7 @@
     "observaciones": "No sé quiso retirar",
     "dni": "25488513",
     "dni_unificado": "25488513",
-    "dni_hash": "7a2dbc04695ed3084ea6760cb585e9a8:f693795b90571b94504ed41150c7c7920df6a8f4e19839271078ba4943c27e18",
+    "dni_hash": "7a57e9fa1b0bd163a32999e889952a95:fbe83c11e2b726e846119f97da3592f3fbf13459aa7a9a4abccb09401ce32105",
     "submission_time": "2026-08-13T08:50:20",
     "submission_time_local": "2026-08-13T05:50:20-03:00",
     "temperatura_c": 7.7
@@ -5694,7 +5694,7 @@
     "observaciones": "No quiso asistencia",
     "dni": "19140081",
     "dni_unificado": "19140081",
-    "dni_hash": "7582549185119c90d5e03eb68c19f79e:d5f9a476a7621d7513b90180970f6f41014aa5a2d40c1d58bdedd96e86665e6c",
+    "dni_hash": "669a79a239bb8c215564a4b9a8995ba4:d6a92aade4895b057326a68017b0898fd1e59f3c450436499235194806ea4c50",
     "submission_time": "2026-08-13T08:50:20",
     "submission_time_local": "2026-08-13T05:50:20-03:00",
     "temperatura_c": 7.7
@@ -5713,7 +5713,7 @@
     "observaciones": "Se encuentra con su mascota",
     "dni": "17819912",
     "dni_unificado": "17819912",
-    "dni_hash": "4d592f0dbb4d1728b698fdc3e90233ad:459b3b58f2b0d9a2737afaf45038a051f0371d986b1685633cb6a227b0a8a4cd",
+    "dni_hash": "a567024f6e55ab0c40dda73d7daf68ff:5826f34027780b854a11f9bb7f217f95634f5e620dad33ffce0103320f13b255",
     "submission_time": "2026-08-22T01:03:32",
     "submission_time_local": "2026-08-21T22:03:32-03:00",
     "temperatura_c": 7.1
@@ -5732,7 +5732,7 @@
     "observaciones": null,
     "dni": "37984792",
     "dni_unificado": "37984792",
-    "dni_hash": "aa575786883b9fa66ce7e4c6a8ee98d9:2e571fd8b011f0e1a714106d099c0e6dbfd1e10439f23a6b27000d69c079118c",
+    "dni_hash": "6d4a6dfc3f02c11dbbd4d9aee7ba1eb3:b2bdd5afc551a7ffec66949dc049b817bc4b367c1deb5d4becfd137ea56a4992",
     "submission_time": "2026-08-22T01:03:33",
     "submission_time_local": "2026-08-21T22:03:33-03:00",
     "temperatura_c": 7.1
@@ -5751,7 +5751,7 @@
     "observaciones": null,
     "dni": "32012213",
     "dni_unificado": "32012213",
-    "dni_hash": "6da2824d69982ae1f242ca1241e4db14:693f7ad851b6ab1822193a884cc479f332ef3b1ebd5f06720289c408158301b2",
+    "dni_hash": "f49e2352ffb71e212cd2352a80ca0ad4:87c65d63c444485305c96e6a653663f9c72062e2c121f372f03a256115eaa0d3",
     "submission_time": "2026-08-22T01:56:12",
     "submission_time_local": "2026-08-21T22:56:12-03:00",
     "temperatura_c": 6.5
@@ -5770,7 +5770,7 @@
     "observaciones": null,
     "dni": "28594697",
     "dni_unificado": "28594697",
-    "dni_hash": "935ff9d790183985ca4b2ccd4414dbfe:b237d962044adfd356f3763a71ab5ea7f393972fe56689ec2e208edb63611db8",
+    "dni_hash": "cebf26274b6c35c61571b90a58f3c18f:13cc5ab37b4f7d4c36c7ffb21fbd3a4bf5aa40af76d1e5931f0f480bba5aaf26",
     "submission_time": "2026-08-22T01:56:12",
     "submission_time_local": "2026-08-21T22:56:12-03:00",
     "temperatura_c": 6.5
@@ -5789,7 +5789,7 @@
     "observaciones": null,
     "dni": "28045478",
     "dni_unificado": "28045478",
-    "dni_hash": "8727fe72992490e19581461e3ff8ba2e:f41e01e54676c10556da0c8dc412fb6003da0a50a2bfb0eeb87c40dc5d28f0f8",
+    "dni_hash": "608efe3b244f6b83260baff98391ba99:d93d8fb35ca8a190fbaf90c36b881af8bb1156736ea9aa899de512f7f54902c6",
     "submission_time": "2026-08-22T01:56:12",
     "submission_time_local": "2026-08-21T22:56:12-03:00",
     "temperatura_c": 6.5
@@ -5808,7 +5808,7 @@
     "observaciones": null,
     "dni": "22668637",
     "dni_unificado": "22668637",
-    "dni_hash": "cc11ac616bd35052ec25429ca8e5de14:87459258a98f4dc0e5e6f16ee15164bed6d297934acf35ea27a627fc34b02f8a",
+    "dni_hash": "b41830f449e8bbdd7f0091dd32fe4812:874788690ff85064173d708b14977af51170949eec7ae176d336199526c36e4a",
     "submission_time": "2026-08-22T01:56:13",
     "submission_time_local": "2026-08-21T22:56:13-03:00",
     "temperatura_c": 6.5
@@ -5827,7 +5827,7 @@
     "observaciones": null,
     "dni": "28752009",
     "dni_unificado": "28752009",
-    "dni_hash": "74f52199fe4764ec2f06b9c53c98e526:dc994f7d323e6b558f890de9b0335bc84bddb58b60932b044c1d16da31867adf",
+    "dni_hash": "6c2fe2e5d7a3fc68faefb4a9e39d9daa:9522820133b49873a00a8ada14ffd5abd8cfa27442319b41d23ae79716f7d33b",
     "submission_time": "2026-08-22T01:56:13",
     "submission_time_local": "2026-08-21T22:56:13-03:00",
     "temperatura_c": 6.5
@@ -5846,7 +5846,7 @@
     "observaciones": null,
     "dni": "92145096",
     "dni_unificado": "92145096",
-    "dni_hash": "ccd21263347cc789da4ac405f31e1974:4f4c93e92cb5ea18a1665f4282fc0c007a82c5ece638e3d00c521e3c3fb33458",
+    "dni_hash": "99afc3e8bc2cb583da696ed95b4e4186:3295ae05ae3b4792e7a634c1f86f837bd7f121a0f0e68b43c0ee678ae450edf7",
     "submission_time": "2026-08-22T01:56:14",
     "submission_time_local": "2026-08-21T22:56:14-03:00",
     "temperatura_c": 6.5
@@ -5865,7 +5865,7 @@
     "observaciones": null,
     "dni": "27244171",
     "dni_unificado": "27244171",
-    "dni_hash": "14a945fd23be147f2c6644abc2c8e116:19b0ab5c75af87dbee7d75683901c55f87917f2bfc319b0332bf6a565e1eeb02",
+    "dni_hash": "93b530a867f50e222fdbd106ff995868:05ca6a2b7ae782628cde683d8d803a97193e504e411fe31ef524864b3af124bc",
     "submission_time": "2026-08-22T01:56:14",
     "submission_time_local": "2026-08-21T22:56:14-03:00",
     "temperatura_c": 6.5
@@ -5884,7 +5884,7 @@
     "observaciones": null,
     "dni": "14026630",
     "dni_unificado": "14026630",
-    "dni_hash": "19025855065ca06fd01c7c1cb5d39d7e:3b52b8f39d15f13378a720951370ea4bbe2d7e6252901625bfeb731703211b20",
+    "dni_hash": "5808c86a1abe2239fae39e251a981dfa:c1b67587b2fd9ee0d17fa3e5221b62fb3ccaef462dcb058e2dd171cb8202cedf",
     "submission_time": "2026-08-22T01:56:14",
     "submission_time_local": "2026-08-21T22:56:14-03:00",
     "temperatura_c": 6.5
@@ -5903,7 +5903,7 @@
     "observaciones": null,
     "dni": "47343966",
     "dni_unificado": "47343966",
-    "dni_hash": "067e39f93d6e6bca8404fc7fbbeb5ef4:839c1369a5af1ad92f9a0313564f65326212ba9595c352c0a8e927cbdad4ab47",
+    "dni_hash": "a94ed7738466cda8350ffa7878d9342e:507cff983415846572b2497bb0ee919d643c650c49d53803156e4c0587c18127",
     "submission_time": "2026-08-22T01:56:15",
     "submission_time_local": "2026-08-21T22:56:15-03:00",
     "temperatura_c": 6.5
@@ -5922,7 +5922,7 @@
     "observaciones": null,
     "dni": "42087234",
     "dni_unificado": "42087234",
-    "dni_hash": "413237fa6951f1d1fab36949fd52d9c0:428f0b3a668403e561ca8e3c9ee646500dbc3bc5bcb30eec45ff56b299d7a2c6",
+    "dni_hash": "0ccacc651b826f98ae25862bcaea0365:19eeb028fb9b132e444cec6de35c5921f5b500aa04307d2d62ed4ccf7bdd0169",
     "submission_time": "2026-08-22T01:56:15",
     "submission_time_local": "2026-08-21T22:56:15-03:00",
     "temperatura_c": 6.5
@@ -5941,7 +5941,7 @@
     "observaciones": null,
     "dni": "56051199",
     "dni_unificado": "56051199",
-    "dni_hash": "0545bd31cd0c9fd953e4c84cdf038695:491f0d07c0d0c7136a91aaba0fe063aec4cf552f3368032b1d3a24347fd11fc7",
+    "dni_hash": "711e48fa1f7053e7a2d45ec266e6736c:4eeb59579bea4b8298e24e44d1aeb74702dc62f3f0c98a441fd554926c1de86d",
     "submission_time": "2026-08-22T01:56:15",
     "submission_time_local": "2026-08-21T22:56:15-03:00",
     "temperatura_c": 6.5
@@ -5960,7 +5960,7 @@
     "observaciones": null,
     "dni": "30678480",
     "dni_unificado": "30678480",
-    "dni_hash": "7ac8d932169eb965a75699c26c4d66c1:47041c6d6f2dc9bcd20c3b122cc60ae001bcaeb63a14e4170792f656c8b6fd17",
+    "dni_hash": "b40d5b5e82ebe74cfa2452a65aa2c5fa:41f85864db637891d931e3efba7fb3ee386eff2ef1bf88151c10508338155b53",
     "submission_time": "2026-08-22T01:56:16",
     "submission_time_local": "2026-08-21T22:56:16-03:00",
     "temperatura_c": 6.5
@@ -5979,7 +5979,7 @@
     "observaciones": null,
     "dni": "34093219",
     "dni_unificado": "34093219",
-    "dni_hash": "347306b16e5f2552b25f9f8b707c6017:2a269b231cb675108d530677866ddb6f91ef69379c8dffbc4f2ca958e8ff519c",
+    "dni_hash": "b55f9f40d800f2772ddd4072abe0a266:c7b4a7d416ed0852cebd25a46ad3194f16a65531150a6b84989a6058f5ae0363",
     "submission_time": "2026-08-22T01:56:16",
     "submission_time_local": "2026-08-21T22:56:16-03:00",
     "temperatura_c": 6.5
@@ -5998,7 +5998,7 @@
     "observaciones": null,
     "dni": "30033632",
     "dni_unificado": "30033632",
-    "dni_hash": "1d5d138303c7095ea93d88313b87df1e:1e8d7e08625218376b4a215e7a21a4e6011fff5b6ded2a20b0bd167c9148b80d",
+    "dni_hash": "a10cfa33689e1fb3b5fa2b8fdfe8ebce:9d0d6696d17249cf73264a3b47e5155b945f6ac6229b822a44dc883c3eaff15d",
     "submission_time": "2026-08-22T01:56:17",
     "submission_time_local": "2026-08-21T22:56:17-03:00",
     "temperatura_c": 6.5
@@ -6017,7 +6017,7 @@
     "observaciones": "El señor se encontraba durmiendo, al responder el llamado solicito una manta y realizamos la entrega de un kit frío.",
     "dni": "30560151",
     "dni_unificado": "30560151",
-    "dni_hash": "f910c10a2f2141121284a01034913363:ec429c3e5e1834604feec33a372b5bd69d9bda6f1066134259b537d2401b101b",
+    "dni_hash": "de1e71fe3ba267d50b0ea9b1d8773e5b:3b9f57843d293310241246494566f9a77ccdb6e45351f3bdc29a6703b539fab0",
     "submission_time": "2026-08-22T08:34:54",
     "submission_time_local": "2026-08-22T05:34:54-03:00",
     "temperatura_c": 3.5
@@ -6036,7 +6036,7 @@
     "observaciones": "Se contacta a la Señora Tatiana Vélez quien se encuentra en la entrada de un domicilio tapada con una frazada temblando de frío",
     "dni": "24418551",
     "dni_unificado": "24418551",
-    "dni_hash": "540c3e05e3961c373900c234617c33d6:e73f59efa2440a48005120195693c0cfcde3a7c955cae3ff13c40dbdf5c815f8",
+    "dni_hash": "0ee9200569bb4296c8bd8701a03f30b7:74c7e54cd7214bae8964bf936a63c0bff3d5190a64bc6b86d5e4bf6cc4037ba4",
     "submission_time": "2026-08-22T10:53:12",
     "submission_time_local": "2026-08-22T07:53:12-03:00",
     "temperatura_c": 2.9
